@@ -1,0 +1,8 @@
+input : ../../ExtractedData/
+resampling : under_sampling
+classifier : RF
+samplingType : leastConfidence
+testsize : 0.2
+manualAnnotationsCount : 12
+maxIterations : 12
+comments : -RF_LC-12-12
