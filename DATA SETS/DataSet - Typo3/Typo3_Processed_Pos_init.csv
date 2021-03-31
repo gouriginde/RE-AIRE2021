@@ -1,0 +1,1821 @@
+,id1,Description1,id2,Description2,Type of dependency
+0,87457,patch introduces requirement symfo,93197,right property var annotation ca,relates
+1,75043,please use gz instead gzip statically,93182,make compressed file extension configurabl,relates
+2,93170,would suggest deprecate following pag,93171,introduce fallback site configuration,relates
+3,93170,would suggest deprecate following pag,93171,introduce fallback site configuration,relates
+4,75266,possibility least,92903,would great able arrange flexfo,relates
+5,89509,fluid provide way access flexfor,92875,tca allows field flex want use,relates
+6,92297,one several possible solution ig,92822,already mentioned problem false po,relates
+7,36075,original concept new pagetree,92576,use case rnrnit possible filter,relates
+8,89177,linkvalidators default pagetsconfig curre,92542,repeatedly error log due,relates
+9,92432,prernimported,66343,get feedback hotke,duplicates
+10,80212,here longer term idea proposal move,92431,able version configuration,relates
+11,89509,fluid provide way access flexfor,92402,flexformservice convert value,relates
+12,82212,current flexform storage method aw,92402,flexformservice convert value,relates
+13,88147,heyrnrncan maybe set configurable pat,92364,sitemap sysext seo stylesheets c,relates
+14,15760,possible support lllmarkers,92337,please reopen,copied_to
+15,92297,one several possible solution ig,92822,already mentioned problem false po,relates
+16,78931,actually ajax used hideunhide delet,92295,itwould nice possibleto sort,relates
+17,83461,currently really hard get actu,92283,backend form fieldnames displ,relates
+18,92088,hirnrnit would great think u,88537,heyrnrni think support webp imag,duplicates
+19,92009,ease using backend newcomer typo,92008,livesearch search topbar coul,relates
+20,92009,ease using backend newcomer typo,92008,livesearch search topbar coul,relates
+21,24019,current implementation always add new irr,91788,long irre list useful,relates
+22,88818,use case arernrnkriss toff,91619,one tree installation two langua,relates
+23,91081,followup site settin,91080,older version possible defi,relates
+24,91080,older version possible defi,89102,site wide setting available th,relates
+25,91081,followup site settin,91080,older version possible defi,relates
+26,90826,since comparing user record,90478,hirnrni would like make suggestion f,relates
+27,90825,kind followup ticket,22113,sometimes necessary link explici,relates
+28,84656,might useful set target language,90825,kind followup ticket,relates
+29,90478,hirnrni would like make suggestion f,90298,user information beuser module c,relates
+30,90826,since comparing user record,90478,hirnrni would like make suggestion f,relates
+31,90181,tagbuilderaddattribute currently cannot ad,90386,rather reproducing bunch xhtml api,relates
+32,90374,creating new file reference frontend cont,88833,related,relates
+33,87856,lts require swiftmailer v,90370,use eguliasemailvalidator email valida,relates
+34,78036,rename folder filelist hav,90325,likely,relates
+35,90298,user information beuser module c,52141,rewrite module beuseradminis,relates
+36,90478,hirnrni would like make suggestion f,90298,user information beuser module c,relates
+37,64047,current way go implementing mail,90266,sends various email would,relates
+38,90243,would nice message field th,84849,user want able add link,relates
+39,88470,lot customer migrating f,90243,would nice message field th,relates
+40,90181,tagbuilderaddattribute currently cannot ad,90386,rather reproducing bunch xhtml api,relates
+41,83834,order allow debugging yaml config,90052,ease debugging form yaml configurati,relates
+42,89979,afaik method existrnrnr,22985,sometimes need locate page page tree u,relates
+43,89894,backgroundrnrnthe extension manager,83463,since core extension sysexts stable,relates
+44,89894,backgroundrnrnthe extension manager,70157,looking em installed extens,relates
+45,88322,allow overwriting slug field via pa,89875,would recommend make slug fie,relates
+46,89760,storage list left,89762,pagination form list,blocks
+47,89760,storage list left,89762,pagination form list,blocks
+48,89709,im using month int,64764,hirnrnthe current system browse record,relates
+49,89709,im using month int,66608,current element browser need support,relates
+50,89582,motivationrncurrently,89524,currently possible search loca,relates
+51,89582,motivationrncurrently,73665,hey guysrnrni want suggest new featu,relates
+52,89582,motivationrncurrently,46017,multi language site really conv,relates
+53,89574,message congrats page look li,89573,field type slug used custom record,relates
+54,89574,message congrats page look li,89573,field type slug used custom record,relates
+55,89556,integration done stable backp,89526,let people experience new translation,relates
+56,89556,integration done stable backp,89526,let people experience new translation,relates
+57,89524,currently possible search loca,46017,multi language site really conv,relates
+58,89524,currently possible search loca,73665,hey guysrnrni want suggest new featu,relates
+59,89582,motivationrncurrently,89524,currently possible search loca,relates
+60,89509,fluid provide way access flexfor,92402,flexformservice convert value,relates
+61,89509,fluid provide way access flexfor,92875,tca allows field flex want use,relates
+62,89502,possible set title,85592,make possible define site title,duplicates
+63,88947,idea feature request,89458,possible add different url manu,relates
+64,89457,several use case necess,85127,sometimes may problem external,relates
+65,89389,making use function xmlr,40503,general problem xhtml suppor,relates
+66,89381,vimeo allows omit cooky adding get p,84843,ask user consent loading youtube,relates
+67,89322,currently possible use,87072,currently choice lock strategy fixe,relates
+68,89292,new feature correlation id,89143,record history need correlation id,relates
+69,89209,lower entry level workspace module,65249,would great user experience wa,duplicates
+70,89177,linkvalidators default pagetsconfig curre,92542,repeatedly error log due,relates
+71,89292,new feature correlation id,89143,record history need correlation id,relates
+72,91080,older version possible defi,89102,site wide setting available th,relates
+73,88954,would like able tell fimage f,59067,rendering image place,relates
+74,88947,idea feature request,89458,possible add different url manu,relates
+75,88908,rnwhen modify ctype content ele,76925,create new tt content entry using,relates
+76,88844,observed cm loc,88845,observed cm loc,relates
+77,88844,observed cm loc,88845,observed cm loc,relates
+78,90374,creating new file reference frontend cont,88833,related,relates
+79,88818,use case arernrnkriss toff,91619,one tree installation two langua,relates
+80,92088,hirnrnit would great think u,88537,heyrnrni think support webp imag,duplicates
+81,88470,lot customer migrating f,90243,would nice message field th,relates
+82,85134,user want change email template,88470,lot customer migrating f,duplicates
+83,88322,allow overwriting slug field via pa,89875,would recommend make slug fie,relates
+84,87844,add option exclude page speaking ur,88198,order allow custom specific website,relates
+85,88147,heyrnrncan maybe set configurable pat,92364,sitemap sysext seo stylesheets c,relates
+86,87856,lts require swiftmailer v,90370,use eguliasemailvalidator email valida,relates
+87,87844,add option exclude page speaking ur,88198,order allow custom specific website,relates
+88,87836,possible link language,22113,sometimes necessary link explici,relates
+89,87693,currently alternative domain config,86400,variant site variant added,duplicates
+90,87457,patch introduces requirement symfo,93197,right property var annotation ca,relates
+91,85939,since standard allows integrityattrib,87420,order ensure stylesheets javasc,duplicates
+92,87341,would really nice possibility,86937,situationrnrn fresh install,relates
+93,87341,would really nice possibility,86495,slug change example one,duplicates
+94,80793,admins able define password pol,87299,enhance functionality concerning passwor,relates
+95,87199,would great email content could b,84849,user want able add link,duplicates
+96,87152,finisher summary wich,87151,rte message confirmation fin,relates
+97,87152,finisher summary wich,87151,rte message confirmation fin,relates
+98,87151,rte message confirmation fin,84849,user want able add link,duplicates
+99,87092,currently many message feedback error,17274,moved one standard langua,relates
+100,87091,currently installtool english,87092,currently many message feedback error,relates
+101,87091,currently installtool english,87092,currently many message feedback error,relates
+102,87091,currently installtool english,17274,moved one standard langua,relates
+103,89322,currently possible use,87072,currently choice lock strategy fixe,relates
+104,86949,hellornrnwhere overwrite annoy,84849,user want able add link,duplicates
+105,86937,situationrnrn fresh install,86496,updating urlsegment parentpag,relates
+106,87341,would really nice possibility,86937,situationrnrn fresh install,relates
+107,86495,slug change example one,86937,situationrnrn fresh install,relates
+108,86908,hello rnit seems option fo,71831,new text medium element possibil,relates
+109,86681,exporting database record backe,84517,would nice could change delimit,duplicates
+110,86548,regarding tweet,86549,feature request related,relates
+111,86548,regarding tweet,65124,quite often editor request possibility,relates
+112,86548,regarding tweet,86549,feature request related,relates
+113,86496,updating urlsegment parentpag,86495,slug change example one,relates
+114,86937,situationrnrn fresh install,86496,updating urlsegment parentpag,relates
+115,86496,updating urlsegment parentpag,86495,slug change example one,relates
+116,86495,slug change example one,86937,situationrnrn fresh install,relates
+117,87341,would really nice possibility,86495,slug change example one,duplicates
+118,86400,variant site variant added,86303,base variant different dif,relates
+119,87693,currently alternative domain config,86400,variant site variant added,duplicates
+120,86400,variant site variant added,86303,base variant different dif,relates
+121,23899,sometimes wish give control instruction,86220,debug function,relates
+122,85986,default behaviour inline tca input,24019,current implementation always add new irr,relates
+123,85939,since standard allows integrityattrib,87420,order ensure stylesheets javasc,duplicates
+124,85843,installation notify backend user,73713,idea add warning system,duplicates
+125,89502,possible set title,85592,make possible define site title,duplicates
+126,85590,use casernwe would like customize csv f,71321,create task sql query make,relates
+127,85134,user want change email template,88470,lot customer migrating f,duplicates
+128,89457,several use case necess,85127,sometimes may problem external,relates
+129,85054,replace various viewhelpers throughout,84983,core feature two dedicated editrecordlink,relates
+130,84704,problemrnrncurrently link di,84990,problemrnrncurrently rtehtmlparserm,relates
+131,85054,replace various viewhelpers throughout,84983,core feature two dedicated editrecordlink,relates
+132,90243,would nice message field th,84849,user want able add link,relates
+133,84532,hello therernrnit made possible,84849,user want able add link,duplicates
+134,86949,hellornrnwhere overwrite annoy,84849,user want able add link,duplicates
+135,87199,would great email content could b,84849,user want able add link,duplicates
+136,87151,rte message confirmation fin,84849,user want able add link,duplicates
+137,89381,vimeo allows omit cooky adding get p,84843,ask user consent loading youtube,relates
+138,84775,hmenu extended support au,84650,introduce new language menu processor,relates
+139,84704,problemrnrncurrently link di,84990,problemrnrncurrently rtehtmlparserm,relates
+140,84656,might useful set target language,90825,kind followup ticket,relates
+141,84775,hmenu extended support au,84650,introduce new language menu processor,relates
+142,84584,setting influencing page rendering b,84585,info module provide informatio,relates
+143,84584,setting influencing page rendering b,22564,previewing grouplimited content work,relates
+144,84584,setting influencing page rendering b,84585,info module provide informatio,relates
+145,84532,hello therernrnit made possible,84849,user want able add link,duplicates
+146,84517,would nice could change delimit,54075,would nice could change delimit,relates
+147,86681,exporting database record backe,84517,would nice could change delimit,duplicates
+148,84493,noticed page language tab,84244,tried use new way handle restric,relates
+149,84493,noticed page language tab,84244,tried use new way handle restric,relates
+150,84183,possible make backend panel resizabl,78760,cm version colum,relates
+151,83673,known good multilanguage supp,84133,variant allow change property f,relates
+152,81593,plan already possible,84133,variant allow change property f,relates
+153,82211,currently possible override form defin,84133,variant allow change property f,relates
+154,83965,editor want read important instructio,61170,page may contain lot record dis,duplicates
+155,83858,hirnrnonly one thoughtrnrna customer,24019,current implementation always add new irr,relates
+156,83834,order allow debugging yaml config,90052,ease debugging form yaml configurati,relates
+157,83824,would nice irre record,70200,inline foreign selector support sug,relates
+158,83677,hello coreteamrnrni would prefer globa,83655,add possibility export redirects w,relates
+159,83673,known good multilanguage supp,84133,variant allow change property f,relates
+160,83672,able use extform j,31094,currently submitted data form,relates
+161,83668,lot file directory,64764,hirnrnthe current system browse record,relates
+162,83677,hello coreteamrnrni would prefer globa,83655,add possibility export redirects w,relates
+163,83463,since core extension sysexts stable,70157,looking em installed extens,relates
+164,89894,backgroundrnrnthe extension manager,83463,since core extension sysexts stable,relates
+165,83461,currently really hard get actu,92283,backend form fieldnames displ,relates
+166,34541,infomodule pagetree overview,83449,info module currently hardcoded sele,relates
+167,83338,serializing clean potent,4387,itd useful way automatically,relates
+168,83285,problemdescriptionrnrnit would nic,81991,hi therernrni missing dopdown field,relates
+169,82356,check possible upload multiple fil,80129,allow editor set multiple attribu,relates
+170,82212,current flexform storage method aw,92402,flexformservice convert value,relates
+171,82211,currently possible override form defin,84133,variant allow change property f,relates
+172,82108,add support reference file wirh ext syntax,82091,currently svg content object render svg f,relates
+173,82108,add support reference file wirh ext syntax,82091,currently svg content object render svg f,relates
+174,62718,result indexed search search show u,82070,search result path pagetree,relates
+175,82055,noopener link type prevents opened ur,78488,hey therernrnis solution,duplicates
+176,83285,problemdescriptionrnrnit would nic,81991,hi therernrni missing dopdown field,relates
+177,81623,new core linkhandler functionality,79626,integrate linkhandler core,relates
+178,81593,plan already possible,84133,variant allow change property f,relates
+179,81379,hirnrnit would nice possibil,17406,initial situationrni menu point f,relates
+180,81327,similar save view page feature wh,77581,configuration preview ur,duplicates
+181,81252,different methodsplaces genus,77581,configuration preview ur,duplicates
+182,80945,speaking url must core feature,79618,configuring url pain as,relates
+183,80793,admins able define password pol,59073,flag user password neeeds,relates
+184,80793,admins able define password pol,21659,currently way configure minim,relates
+185,80793,admins able define password pol,59074,flag user password neeeds,relates
+186,80793,admins able define password pol,69190,hirnrna great feature add ne,relates
+187,80793,admins able define password pol,78928,hello everyonernrnis possible integ,relates
+188,80793,admins able define password pol,51479,show somehow user password treatend,relates
+189,37800,would like see hook added checking,80793,admins able define password pol,relates
+190,80793,admins able define password pol,87299,enhance functionality concerning passwor,relates
+191,80792,provide strength meter password field,80793,admins able define password pol,blocks
+192,80791,entry password data password fi,80792,provide strength meter password field,blocks
+193,80792,provide strength meter password field,80793,admins able define password pol,blocks
+194,19256,use javascript event handler onkeypress c,80791,entry password data password fi,relates
+195,80791,entry password data password fi,80792,provide strength meter password field,blocks
+196,80697,think usefull feature define def,68895,adding optionsdefaultuploadfolder paget,relates
+197,80659,need set charset database u,80398,able store byte unicode character,relates
+198,80559,input output able handle,64372,website user side,relates
+199,80559,input output able handle,61110,johannes feustelrn editor,duplicates
+200,67750,suggestion dont know som,80477,based work,relates
+201,80659,need set charset database u,80398,able store byte unicode character,relates
+202,80398,able store byte unicode character,71454,possibility set conne,relates
+203,80378,hi rnin filelist module upload,20558,many user want upload lot file,relates
+204,80212,here longer term idea proposal move,92431,able version configuration,relates
+205,82356,check possible upload multiple fil,80129,allow editor set multiple attribu,relates
+206,80128,editor set minimum field length,80126,editor set maximum field length,relates
+207,80125,currently validator email exist,80127,field validator range set attri,relates
+208,80128,editor set minimum field length,80126,editor set maximum field length,relates
+209,80125,currently validator email exist,80127,field validator range set attri,relates
+210,79928,function,77540,currently possible use string fr,relates
+211,79900,patch add unicode detection oracle da,79899,thish patch begin adding oracle suppor,relates
+212,79900,patch add unicode detection oracle da,79899,thish patch begin adding oracle suppor,relates
+213,79889,see number,79795,hi folk core teamrnrnim worki,relates
+214,79888,replace knownpwassword givenpassword,79795,hi folk core teamrnrnim worki,relates
+215,79888,replace knownpwassword givenpassword,79795,hi folk core teamrnrnim worki,relates
+216,79889,see number,79795,hi folk core teamrnrnim worki,relates
+217,64764,hirnrnthe current system browse record,79679,show file creation date,relates
+218,66620,wrote viewhelper fe edit would,79633,add new frontend editing extension add,relates
+219,79626,integrate linkhandler core,76859,following give u functionality,relates
+220,81623,new core linkhandler functionality,79626,integrate linkhandler core,relates
+221,80945,speaking url must core feature,79618,configuring url pain as,relates
+222,79403,rather extensive library general purpose,79430,problemrni using dataprocessor,relates
+223,79403,rather extensive library general purpose,79430,problemrni using dataprocessor,relates
+224,79387,nonrelationtables nonrelationfields,65460,patch,relates
+225,79387,nonrelationtables nonrelationfields,65461,patch,relates
+226,78036,rename folder filelist hav,79366,observed editor r,relates
+227,79225,since possible use fluid,69459,new option via tsconfig allows render tt,relates
+228,71343,brings nice functionality,79225,since possible use fluid,duplicates
+229,32051,hi therernrnit would nice able,79054,hellornrnin repository sort,relates
+230,78931,actually ajax used hideunhide delet,72908,whenever one going activate buttone e,relates
+231,78931,actually ajax used hideunhide delet,75462,usability suggestion would correc,relates
+232,78931,actually ajax used hideunhide delet,92295,itwould nice possibleto sort,relates
+233,80793,admins able define password pol,78928,hello everyonernrnis possible integ,relates
+234,84183,possible make backend panel resizabl,78760,cm version colum,relates
+235,78532,image relation field defined,24019,current implementation always add new irr,relates
+236,78488,hey therernrnis solution,34288,set attribute relnofollow,relates
+237,78488,hey therernrnis solution,5341,user simple redactor dont know,relates
+238,82055,noopener link type prevents opened ur,78488,hey therernrnis solution,duplicates
+239,78373,hey worldrnrnwhile working re,52225,sometimes content restricted ac,duplicates
+240,78036,rename folder filelist hav,79366,observed editor r,relates
+241,78036,rename folder filelist hav,90325,likely,relates
+242,70461,since field editable back,77848,soft hyphen,relates
+243,77842,sure im right category ther,7459,creating new content element result,relates
+244,77842,sure im right category ther,67750,suggestion dont know som,relates
+245,81252,different methodsplaces genus,77581,configuration preview ur,duplicates
+246,81327,similar save view page feature wh,77581,configuration preview ur,duplicates
+247,77572,similar search extrecordlist se,71469,similar record search list modul,relates
+248,77572,similar search extrecordlist se,53666,defined w,relates
+249,79928,function,77540,currently possible use string fr,relates
+250,77532,current implementation cropping,61796,image cropping intelligent autom,blocks
+251,77224,issue suggested svg file e,77048,cm introduces usage svg icon,relates
+252,77224,issue suggested svg file e,77048,cm introduces usage svg icon,relates
+253,77025,validation error extbase forward,70384,validation error happens form su,relates
+254,88908,rnwhen modify ctype content ele,76925,create new tt content entry using,relates
+255,79626,integrate linkhandler core,76859,following give u functionality,relates
+256,76796,like medium category etc,76433,hirnrnhaving enabled category tab ba,relates
+257,67884,gather ce assigned val,76564,imagine following crea,relates
+258,76433,hirnrnhaving enabled category tab ba,60553,please add category palette,relates
+259,76796,like medium category etc,76433,hirnrnhaving enabled category tab ba,relates
+260,76015,would great option sch,52286,hirnrnthis might valuable,duplicates
+261,21661,add option blacklist ip configura,75987,current brute force protection non exis,relates
+262,19987,possible attack server try,75987,current brute force protection non exis,relates
+263,75858,hellornrni would suggest option en,28382,instead evaluating google analytics code ri,relates
+264,75723,hirnrni use sr feuser register,46438,setfix process user confirm,duplicates
+265,67750,suggestion dont know som,75676,editor want choose positon fir,relates
+266,72908,whenever one going activate buttone e,75462,usability suggestion would correc,relates
+267,78931,actually ajax used hideunhide delet,75462,usability suggestion would correc,relates
+268,66589,allow class flexform sheet tab backend,75266,possibility least,relates
+269,75266,possibility least,92903,would great able arrange flexfo,relates
+270,34288,set attribute relnofollow,75165,hi allrnrnwhen setting link via rte li,relates
+271,75043,please use gz instead gzip statically,93182,make compressed file extension configurabl,relates
+272,74500,keep backend preview template feature,73597,want display entry section,relates
+273,73728,integrate bootstrapstyle colorpickerrnh,28950,constanttxtrnrnprernconfigtx phamlp,relates
+274,85843,installation notify backend user,73713,idea add warning system,duplicates
+275,73697,problemrnremoving many extension cou,71525,please add possibility deactivate exte,relates
+276,46017,multi language site really conv,73665,hey guysrnrni want suggest new featu,relates
+277,89524,currently possible search loca,73665,hey guysrnrni want suggest new featu,relates
+278,89582,motivationrncurrently,73665,hey guysrnrni want suggest new featu,relates
+279,73621,use sectionsanchors lot page,19832,sectionmarker page anchor prefix hardcode,relates
+280,74500,keep backend preview template feature,73597,want display entry section,relates
+281,73495,scenariornhaving installed theme gridel,71525,please add possibility deactivate exte,duplicates
+282,73474,extbase signalslot dispatcher al,65774,possible remove slot sig,relates
+283,73456,original reportrnrnrnrnrecently,73050,id like bring cryptorelated code int,relates
+284,73456,original reportrnrnrnrnrecently,73164,second task equipping wit,duplicates
+285,64439,rnrnfor client beautiful,73357,currently thumbnail size set,duplicates
+286,73164,second task equipping wit,73050,id like bring cryptorelated code int,relates
+287,73456,original reportrnrnrnrnrecently,73164,second task equipping wit,duplicates
+288,69330,know topic long histor,73139,bugfix,duplicates
+289,73164,second task equipping wit,73050,id like bring cryptorelated code int,relates
+290,73456,original reportrnrnrnrnrecently,73050,id like bring cryptorelated code int,relates
+291,72908,whenever one going activate buttone e,75462,usability suggestion would correc,relates
+292,78931,actually ajax used hideunhide delet,72908,whenever one going activate buttone e,relates
+293,11291,problemrnsince php filter v,72869,validators touched since age,relates
+294,11292,problemrnsince php filter v,72869,validators touched since age,relates
+295,62210,install process cm website,72744,image shown full size upg,relates
+296,72619,add hook signal configuration option th,72620,would like provide different image crop p,relates
+297,72619,add hook signal configuration option th,72620,would like provide different image crop p,relates
+298,6394,attached patch allows display different,72529,fal allows file folder restricted,relates
+299,5967,htaccess work file would bet,72529,fal allows file folder restricted,relates
+300,72211,problemrnafter switching,65325,ticket similar previous,relates
+301,72049,suggestion,71697,repeatedly referred enterpric,relates
+302,72049,suggestion,71694,website made deliver best p,relates
+303,71874,unfortunately currently chromespecifi,20558,many user want upload lot file,relates
+304,71868,faced problem lately updated,64513,currently installtool nice check,relates
+305,86908,hello rnit seems option fo,71831,new text medium element possibil,relates
+306,72049,suggestion,71697,repeatedly referred enterpric,relates
+307,17638,perhaps start example,71694,website made deliver best p,relates
+308,72049,suggestion,71694,website made deliver best p,relates
+309,73697,problemrnremoving many extension cou,71525,please add possibility deactivate exte,relates
+310,73495,scenariornhaving installed theme gridel,71525,please add possibility deactivate exte,duplicates
+311,77572,similar search extrecordlist se,71469,similar record search list modul,relates
+312,80398,able store byte unicode character,71454,possibility set conne,relates
+313,50360,using modweb listallowedtables ad,71365,ive got container element grid colum,relates
+314,71343,brings nice functionality,79225,since possible use fluid,duplicates
+315,85590,use casernwe would like customize csv f,71321,create task sql query make,relates
+316,71306,decided protocol sele,5369,general inconsistency issue througho,relates
+317,71112,adding placeholder attribute formengi,61308,extension tx form allow using p,relates
+318,71112,adding placeholder attribute formengi,53406,need compact formular one possible wa,duplicates
+319,71102,possible add csh text within,71081,structuring sort content element,relates
+320,71102,possible add csh text within,71081,structuring sort content element,relates
+321,57417,introduced new responsive image whe,70965,seems fluid styled content support,relates
+322,27391,would need allow uploading one,70965,seems fluid styled content support,relates
+323,70964,mysql function rand used som,14026,currently allowed sort mode asce,relates
+324,70682,want select image textimage c,66608,current element browser need support,duplicates
+325,70461,since field editable back,77848,soft hyphen,relates
+326,77025,validation error extbase forward,70384,validation error happens form su,relates
+327,83824,would nice irre record,70200,inline foreign selector support sug,relates
+328,83463,since core extension sysexts stable,70157,looking em installed extens,relates
+329,89894,backgroundrnrnthe extension manager,70157,looking em installed extens,relates
+330,70056,add guzzle depencency deprecate httpreq,28626,introducing,relates
+331,69863,complicated easy say hollow ou,70036,extbase scenario,relates
+332,69973,form wizard support input,50539,please add input type,relates
+333,69863,complicated easy say hollow ou,49903,information around error templating ta,relates
+334,69863,complicated easy say hollow ou,55660,hellornits possible use array f,relates
+335,69863,complicated easy say hollow ou,57446,tried add rendering partial othe,relates
+336,69863,complicated easy say hollow ou,70036,extbase scenario,relates
+337,69789,use include typoscript sourcefileext,16525,preinclude typoscript sourcefile filead,relates
+338,79225,since possible use fluid,69459,new option via tsconfig allows render tt,relates
+339,69409,described right po,31097,possible somehow add default value,relates
+340,69351,configuring link target elementb,5341,user simple redactor dont know,relates
+341,69351,configuring link target elementb,24247,offer possibility open menu link,relates
+342,69330,know topic long histor,73139,bugfix,duplicates
+343,80793,admins able define password pol,69190,hirnrna great feature add ne,relates
+344,54654,confirmation page button button label,69176,currently possible anymore change,relates
+345,80697,think usefull feature define def,68895,adding optionsdefaultuploadfolder paget,relates
+346,53892,editing chapter recompiling take lot,68840,benchmarksrnrnfull round trip cl,relates
+347,54030,typoscript option subjectfieldwrap would,68771,would nice make something like,relates
+348,68420,dataprocessor could used fetch,64723,maybe contentobjects write fla,relates
+349,68402,video tag possibility add,68403,video tag possibility add,precedes
+350,68402,video tag possibility add,68403,video tag possibility add,precedes
+351,68313,order able load pagetsconfig fil,68315,like inclusion typoscript static,relates
+352,68313,order able load pagetsconfig fil,68315,like inclusion typoscript static,relates
+353,68300,frontend page repository capable,38732,hirnrnlets start modernize content e,relates
+354,68166,time protect tca password field w,25204,rsaauth encrypts password entered,relates
+355,67890,currently method process fluidtemplated,66907,sometimes needed helpful,relates
+356,67884,gather ce assigned val,76564,imagine following crea,relates
+357,7459,creating new content element result,67750,suggestion dont know som,relates
+358,77842,sure im right category ther,67750,suggestion dont know som,relates
+359,67750,suggestion dont know som,75676,editor want choose positon fir,relates
+360,67750,suggestion dont know som,80477,based work,relates
+361,67732,new feature request replace f,56133,actually use dam,duplicates
+362,67727,possible output list file,45725,fal file folder contain option b,duplicates
+363,67690,related think worth,67679,fal image caption use link pa,relates
+364,40503,general problem xhtml suppor,67686,cm allowing user set custom,relates
+365,67690,related think worth,67679,fal image caption use link pa,relates
+366,67658,order allow powerful processing flui,66907,sometimes needed helpful,relates
+367,67578,add descriptionfield beusers like,59570,descriptionfield would possible,relates
+368,59570,descriptionfield would possible,67550,bring central definition output descri,precedes
+369,63395,hallo rni created patch medium con,67455,video tag possibility add,relates
+370,67455,video tag possibility add,37073,hirnrni playing around new f,relates
+371,67339,checkbox admin panel gone th,54805,sometimes useful look p,relates
+372,67333,would nice placeholder could ena,53406,need compact formular one possible wa,relates
+373,67333,would nice placeholder could ena,64531,fluid viewhelper passwordviewhelper,duplicates
+374,67658,order allow powerful processing flui,66907,sometimes needed helpful,relates
+375,67890,currently method process fluidtemplated,66907,sometimes needed helpful,relates
+376,46017,multi language site really conv,66869,editor selects one language would,relates
+377,66840,moment way duplicate,66862,copyreferencefieldsrnrnkeydatatyp,relates
+378,66840,moment way duplicate,66862,copyreferencefieldsrnrnkeydatatyp,relates
+379,66620,wrote viewhelper fe edit would,79633,add new frontend editing extension add,relates
+380,66608,current element browser need support,64764,hirnrnthe current system browse record,relates
+381,89709,im using month int,66608,current element browser need support,relates
+382,70682,want select image textimage c,66608,current element browser need support,duplicates
+383,66589,allow class flexform sheet tab backend,75266,possibility least,relates
+384,66532,staternit already possible schedule,44297,something like would nicernrnhtt,relates
+385,66514,currently fal possibility,56133,actually use dam,relates
+386,66514,currently fal possibility,48644,iam talking,relates
+387,66514,currently fal possibility,46437,hirnrnit would great like p,relates
+388,62830,method moving copying,66514,currently fal possibility,relates
+389,66495,would nice hook opcod,57258,opcode cache web process cannot b,relates
+390,60221,usually file layer like linux file system,66466,filelist show file,relates
+391,66464,listing file file selection popup,23631,hi teamrnrnno pagination available htt,relates
+392,64764,hirnrnthe current system browse record,66464,listing file file selection popup,relates
+393,66343,get feedback hotke,5390,would really nice keyboard co,relates
+394,57065,easier usage behaviour norm,66343,get feedback hotke,relates
+395,92432,prernimported,66343,get feedback hotke,duplicates
+396,17406,initial situationrni menu point f,66218,add linkhandler functionality page type sho,relates
+397,64157,configure robotstxt page type realurl,66151,type configuration could automatically ad,relates
+398,66111,fluidtemplate support layoutrootpaths,38732,hirnrnlets start modernize content e,relates
+399,73474,extbase signalslot dispatcher al,65774,possible remove slot sig,relates
+400,65720,workspace configuration extended,15459,filter workspace change r,relates
+401,18424,would nice could,65550,idea add configuration option like,duplicates
+402,65505,exist case many childrecords,17247,editing record based irre curren,relates
+403,65505,exist case many childrecords,56490,case tca related inline different,relates
+404,65460,patch,65461,patch,relates
+405,79387,nonrelationtables nonrelationfields,65461,patch,relates
+406,65460,patch,65461,patch,relates
+407,79387,nonrelationtables nonrelationfields,65460,patch,relates
+408,65403,missing sort direction field fileli,56213,creating file link ce adding f,duplicates
+409,65325,ticket similar previous,63607,premise like new interface,relates
+410,72211,problemrnafter switching,65325,ticket similar previous,relates
+411,65279,problemrnafter updating extension ba,65066,update extension via extension,duplicates
+412,65265,think much boiler plate registe,48538,registering plugins based tt conent became,relates
+413,89209,lower entry level workspace module,65249,would great user experience wa,duplicates
+414,86548,regarding tweet,65124,quite often editor request possibility,relates
+415,65099,got problemrnsessionhandling,14986,installtool check session sup,relates
+416,26139,using clipboard normal,65069,list view easily select multipl,relates
+417,65279,problemrnafter updating extension ba,65066,update extension via extension,duplicates
+418,64764,hirnrnthe current system browse record,64401,folder image th,relates
+419,66608,current element browser need support,64764,hirnrnthe current system browse record,relates
+420,64764,hirnrnthe current system browse record,66464,listing file file selection popup,relates
+421,64764,hirnrnthe current system browse record,23631,hi teamrnrnno pagination available htt,relates
+422,83668,lot file directory,64764,hirnrnthe current system browse record,relates
+423,89709,im using month int,64764,hirnrnthe current system browse record,relates
+424,64764,hirnrnthe current system browse record,79679,show file creation date,relates
+425,68420,dataprocessor could used fetch,64723,maybe contentobjects write fla,relates
+426,64555,hirnrnwhen add section,60034,would nice could section,relates
+427,64531,fluid viewhelper passwordviewhelper,53406,need compact formular one possible wa,relates
+428,67333,would nice placeholder could ena,64531,fluid viewhelper passwordviewhelper,duplicates
+429,71868,faced problem lately updated,64513,currently installtool nice check,relates
+430,64439,rnrnfor client beautiful,73357,currently thumbnail size set,duplicates
+431,64406,usability featurernrnproblemrnactual,39051,user select sysfolder page,duplicates
+432,64764,hirnrnthe current system browse record,64401,folder image th,relates
+433,64372,website user side,61110,johannes feustelrn editor,relates
+434,80559,input output able handle,64372,website user side,relates
+435,64353,aside small configuration data sta,61224,lot information individual configurat,relates
+436,37800,would like see hook added checking,64298,hook always useful rni miss one,relates
+437,64157,configure robotstxt page type realurl,66151,type configuration could automatically ad,relates
+438,64093,would nice data provider sche,4387,itd useful way automatically,relates
+439,64047,current way go implementing mail,90266,sends various email would,relates
+440,63805,hirnrnit would great add opti,63496,similar modweb listenableclipboard,duplicates
+441,63703,scheduler task marked running th,31073,would nice feature would allow,relates
+442,63699,scheduler cli task help,31073,would nice feature would allow,relates
+443,65325,ticket similar previous,63607,premise like new interface,relates
+444,63805,hirnrnit would great add opti,63496,similar modweb listenableclipboard,duplicates
+445,63395,hallo rni created patch medium con,67455,video tag possibility add,relates
+446,63395,hallo rni created patch medium con,37073,hirnrni playing around new f,relates
+447,63391,would usefull form object,53407,please render attribute like requir,relates
+448,63391,would usefull form object,53406,need compact formular one possible wa,relates
+449,63391,would usefull form object,61308,extension tx form allow using p,relates
+450,46437,hirnrnit would great like p,63315,nice use drag drop,relates
+451,43134,dragndrop content element p,63315,nice use drag drop,relates
+452,63011,text response,60045,currently action tstemplate modul,relates
+453,63011,text response,14700,added support clear cache subtrees,relates
+454,20305,currently clearcachecmd clear ca,63011,text response,duplicates
+455,62931,based existing typolink view helper th,59396,many request viewhelper,relates
+456,62830,method moving copying,66514,currently fal possibility,relates
+457,62718,result indexed search search show u,82070,search result path pagetree,relates
+458,62210,install process cm website,72744,image shown full size upg,relates
+459,62101,system status update test cli environ,52283,please add feature skip test,relates
+460,62023,primarily intended used,28382,instead evaluating google analytics code ri,relates
+461,61799,currently cm easyworking way fo,53421,youtube video url medium element,relates
+462,61799,currently cm easyworking way fo,25718,currently swf supported,relates
+463,61799,currently cm easyworking way fo,49547,think default output,relates
+464,77532,current implementation cropping,61796,image cropping intelligent autom,blocks
+465,61594,page foundrnrnreason request paramete,61663,page foundrnrnreason request paramete,relates
+466,61594,page foundrnrnreason request paramete,61663,page foundrnrnreason request paramete,relates
+467,20450,typoscripts userfunc condition userfunc,61489,order streamline condition makern,relates
+468,61351,backport change already merged flowflu,35748,element number,relates
+469,61171,change,61351,backport change already merged flowflu,duplicates
+470,61308,extension tx form allow using p,32594,specifies new attribute called placeh,relates
+471,63391,would usefull form object,61308,extension tx form allow using p,relates
+472,71112,adding placeholder attribute formengi,61308,extension tx form allow using p,relates
+473,45725,fal file folder contain option b,61238,anybody give hint show also su,duplicates
+474,64353,aside small configuration data sta,61224,lot information individual configurat,relates
+475,61171,change,35748,element number,relates
+476,61171,change,61351,backport change already merged flowflu,duplicates
+477,83965,editor want read important instructio,61170,page may contain lot record dis,duplicates
+478,61110,johannes feustelrn editor,32081,typeinput j eval func,relates
+479,64372,website user side,61110,johannes feustelrn editor,relates
+480,80559,input output able handle,61110,johannes feustelrn editor,duplicates
+481,60907,list module great massedit function,58628,image drag drop many file fileli,relates
+482,60835,dealing lot image quite pai,59341,applies falcapable medium field,relates
+483,60835,dealing lot image quite pai,52150,miss possibility delete multiple file,relates
+484,60723,possible configure pageren,11287,great able declare head,relates
+485,76433,hirnrnhaving enabled category tab ba,60553,please add category palette,relates
+486,52640,sometimes ifviewhelper syntax quite ver,60430,allows simply turn condition oppo,relates
+487,60223,similar already existing task remo,32651,didnt find recycler project,duplicates
+488,60221,usually file layer like linux file system,66466,filelist show file,relates
+489,60181,would nice way tell fl,3291,need concept cacheable viewhelpers,relates
+490,60045,currently action tstemplate modul,14700,added support clear cache subtrees,relates
+491,63011,text response,60045,currently action tstemplate modul,relates
+492,64555,hirnrnwhen add section,60034,would nice could section,relates
+493,67578,add descriptionfield beusers like,59570,descriptionfield would possible,relates
+494,59570,descriptionfield would possible,67550,bring central definition output descri,precedes
+495,59502,hellornrnwe still sitting,29342,system thousand page make,relates
+496,62931,based existing typolink view helper th,59396,many request viewhelper,relates
+497,60835,dealing lot image quite pai,59341,applies falcapable medium field,relates
+498,28258,curl allowsrncurlopt proxytype teither cur,59326,hello therernrnid like address matt,relates
+499,59074,flag user password neeeds,59073,flag user password neeeds,relates
+500,80793,admins able define password pol,59074,flag user password neeeds,relates
+501,59074,flag user password neeeds,59073,flag user password neeeds,relates
+502,21659,currently way configure minim,59073,flag user password neeeds,relates
+503,80793,admins able define password pol,59073,flag user password neeeds,relates
+504,88954,would like able tell fimage f,59067,rendering image place,relates
+505,58557,would nice one could define name,58829,currently using viewhelpers part,relates
+506,58829,currently using viewhelpers part,53059,one major source error working f,relates
+507,60907,list module great massedit function,58628,image drag drop many file fileli,relates
+508,58621,would great case viewhelper,44572,fformatcase viewhelper op,relates
+509,58557,would nice one could define name,53059,one major source error working f,relates
+510,58557,would nice one could define name,58829,currently using viewhelpers part,relates
+511,58557,would nice one could define name,35766,repeated declaration namespace,duplicates
+512,58122,proposed improve dependency,51905,today cs framework bo,blocks
+513,57928,would nice index search would autode,19134,hunspell o spell checker used opeono,relates
+514,49282,news gnu aspell project,57928,would nice index search would autode,relates
+515,57927,related somehow nontechnical user,57926,given tool used nontechnical u,relates
+516,57927,related somehow nontechnical user,57926,given tool used nontechnical u,relates
+517,57691,documentation editor allow file,57697,gitbased documentation project allow,precedes
+518,57692,able move rename file cre,57697,gitbased documentation project allow,precedes
+519,57692,able move rename file cre,57691,documentation editor allow file,relates
+520,57692,able move rename file cre,55193,would useful add drag drop,relates
+521,57692,able move rename file cre,57697,gitbased documentation project allow,precedes
+522,57691,documentation editor allow file,55193,would useful add drag drop,relates
+523,57692,able move rename file cre,57691,documentation editor allow file,relates
+524,57691,documentation editor allow file,57697,gitbased documentation project allow,precedes
+525,57642,let project kickstarted git reposi,57571,list official manual,precedes
+526,57642,let project kickstarted git reposi,57571,list official manual,precedes
+527,69863,complicated easy say hollow ou,57446,tried add rendering partial othe,relates
+528,48090,would nice would possible,57417,introduced new responsive image whe,relates
+529,57417,introduced new responsive image whe,70965,seems fluid styled content support,relates
+530,57417,introduced new responsive image whe,27391,would need allow uploading one,relates
+531,66495,would nice hook opcod,57258,opcode cache web process cannot b,relates
+532,57066,would nice allow copynpaste upload,47814,may think access client cl,duplicates
+533,57065,easier usage behaviour norm,5390,would really nice keyboard co,relates
+534,57065,easier usage behaviour norm,66343,get feedback hotke,relates
+535,56916,,54600,building rest service us pat,relates
+536,19856,problem want show link access r,56760,would nice able alter link,relates
+537,55831,id really love something like,56744,currently flow developer set sess,relates
+538,46063,extend persistedusernamepasswordprovider wit,56744,currently flow developer set sess,relates
+539,56744,currently flow developer set sess,30378,would nice proof cookie authent,relates
+540,56647,hello coreteamrnrnsince year,51137,problemrnrnat moment possibl,relates
+541,56628,attached patch allows multiple value,52664,would great able map many,relates
+542,56556,way currently check existence,56529,way currently check existence,relates
+543,56556,way currently check existence,56529,way currently check existence,relates
+544,56517,related rncitern would,45709,wondering new form content eleme,duplicates
+545,56517,related rncitern would,38163,would great valuessetting,duplicates
+546,65505,exist case many childrecords,56490,case tca related inline different,relates
+547,56343,hello teamrnrndbal allows map ta,56258,hello teamrnrnoracle db ch,relates
+548,56269,within cm possible th,28299,hook enables modify hash base,relates
+549,56343,hello teamrnrndbal allows map ta,56258,hello teamrnrnoracle db ch,relates
+550,56236,sometimes need set multiple header,23494,patch add stdwrap configadditionalhe,precedes
+551,65403,missing sort direction field fileli,56213,creating file link ce adding f,duplicates
+552,48644,iam talking,56133,actually use dam,relates
+553,66514,currently fal possibility,56133,actually use dam,relates
+554,67732,new feature request replace f,56133,actually use dam,duplicates
+555,14669,possible make field edit pag,55976,tca config overridden w,relates
+556,55831,id really love something like,56744,currently flow developer set sess,relates
+557,46063,extend persistedusernamepasswordprovider wit,55831,id really love something like,relates
+558,69863,complicated easy say hollow ou,55660,hellornits possible use array f,relates
+559,57691,documentation editor allow file,55193,would useful add drag drop,relates
+560,57692,able move rename file cre,55193,would useful add drag drop,relates
+561,67339,checkbox admin panel gone th,54805,sometimes useful look p,relates
+562,54654,confirmation page button button label,69176,currently possible anymore change,relates
+563,54651,currently backend provide get,54652,backends would queried order exampl,relates
+564,54651,currently backend provide get,54652,backends would queried order exampl,relates
+565,56916,,54600,building rest service us pat,relates
+566,54600,building rest service us pat,45293,parsing body argument eg xml json cur,relates
+567,54429,hirnrni think would nice sor,45535,would great able sort sched,relates
+568,54155,hi guysrnrnespecially developing app,50826,usefull use multiple package f,relates
+569,54155,hi guysrnrnespecially developing app,33487,could considered discussion,duplicates
+570,30418,would nice package bootstrapped,54151,hirnrnfor reimplemented,relates
+571,15112,idea improving relation partr,54075,would nice could change delimit,relates
+572,84517,would nice could change delimit,54075,would nice could change delimit,relates
+573,54031,case want,51842,allow remove height width information f,duplicates
+574,54030,typoscript option subjectfieldwrap would,68771,would nice make something like,relates
+575,9063,currently multiple record shown one,53941,tceforms called multirecordedit,relates
+576,53892,editing chapter recompiling take lot,68840,benchmarksrnrnfull round trip cl,relates
+577,53837,pbsurvey issue new question type h,53835,new question type need added called,relates
+578,53837,pbsurvey issue new question type h,53835,new question type need added called,relates
+579,77572,similar search extrecordlist se,53666,defined w,relates
+580,25718,currently swf supported,53421,youtube video url medium element,relates
+581,61799,currently cm easyworking way fo,53421,youtube video url medium element,relates
+582,63391,would usefull form object,53407,please render attribute like requir,relates
+583,63391,would usefull form object,53406,need compact formular one possible wa,relates
+584,67333,would nice placeholder could ena,53406,need compact formular one possible wa,relates
+585,64531,fluid viewhelper passwordviewhelper,53406,need compact formular one possible wa,relates
+586,71112,adding placeholder attribute formengi,53406,need compact formular one possible wa,duplicates
+587,53369,would really helpful able defin,37208,would cool pagetsconfig backe,relates
+588,44891,possible set protoc,53080,currently flow support multidoma,relates
+589,58557,would nice one could define name,53059,one major source error working f,relates
+590,58829,currently using viewhelpers part,53059,one major source error working f,relates
+591,52987,information seern,52986,summary request new field type currenc,relates
+592,52987,information seern,52986,summary request new field type currenc,relates
+593,45537,currently manually executed task run dire,52686,sometimes want let certain scheduler,relates
+594,56628,attached patch allows multiple value,52664,would great able map many,relates
+595,45877,afaik currently something like,52640,sometimes ifviewhelper syntax quite ver,relates
+596,52640,sometimes ifviewhelper syntax quite ver,60430,allows simply turn condition oppo,relates
+597,52632,file object always iterates everythin,44113,reference property need opti,duplicates
+598,28484,huge performance killer cache,52574,launched new website,relates
+599,52471,note issue came issue,22992,atm meta tag added complete html tag,relates
+600,52347,reference browser already let editor,51874,since compilation extsphinx manual,relates
+601,76015,would great option sch,52286,hirnrnthis might valuable,duplicates
+602,62101,system status update test cli environ,52283,please add feature skip test,relates
+603,78373,hey worldrnrnwhile working re,52225,sometimes content restricted ac,duplicates
+604,60835,dealing lot image quite pai,52150,miss possibility delete multiple file,relates
+605,48895,upgrading function comp,52141,rewrite module beuseradminis,relates
+606,90298,user information beuser module c,52141,rewrite module beuseradminis,relates
+607,47982,include typoscripttag include extern,52018,allows pas relative path include typo,duplicates
+608,51933,usability viewpage module imp,51148,bring responsive adaption viewpage preview,relates
+609,51933,usability viewpage module imp,51865,since viewpage module show sele,relates
+610,51915,often want store different kind,36705,beuser open page doctype sysfold,relates
+611,58122,proposed improve dependency,51905,today cs framework bo,blocks
+612,48829,would really cool override crosslink,51875,usecase followsrnrn document,relates
+613,48764,using extsphinx,51875,usecase followsrnrn document,duplicates
+614,52347,reference browser already let editor,51874,since compilation extsphinx manual,relates
+615,51850,sphinxcontrib,51874,since compilation extsphinx manual,precedes
+616,51865,since viewpage module show sele,51148,bring responsive adaption viewpage preview,relates
+617,51933,usability viewpage module imp,51865,since viewpage module show sele,relates
+618,51850,sphinxcontrib,51874,since compilation extsphinx manual,precedes
+619,51842,allow remove height width information f,50075,result workshop implementing reponsiv,relates
+620,54031,case want,51842,allow remove height width information f,duplicates
+621,51756,utility method added dynamicall,51280,browser reference stored documen,relates
+622,51756,utility method added dynamicall,48936,intersphinx mapping could easily achieved b,precedes
+623,51570,recent change trigger persista,47951,flow framework follows rfcstand,relates
+624,80793,admins able define password pol,51479,show somehow user password treatend,relates
+625,45633,subject say,51432,hellornrni think sor,relates
+626,48936,intersphinx mapping could easily achieved b,51280,browser reference stored documen,relates
+627,51756,utility method added dynamicall,51280,browser reference stored documen,relates
+628,51245,hi therernrni stumbled upon problem wit,51250,problem,precedes
+629,51245,hi therernrni stumbled upon problem wit,51250,problem,precedes
+630,51865,since viewpage module show sele,51148,bring responsive adaption viewpage preview,relates
+631,51933,usability viewpage module imp,51148,bring responsive adaption viewpage preview,relates
+632,56647,hello coreteamrnrnsince year,51137,problemrnrnat moment possibl,relates
+633,49301,sometimes newly installed extension break,50940,add button uninstall incompatible extensi,duplicates
+634,54155,hi guysrnrnespecially developing app,50826,usefull use multiple package f,relates
+635,50811,since implementation po,49129,would useful let people register thei,relates
+636,50759,sphinx builder may specified language,50757,currently documentation template,precedes
+637,50759,sphinx builder may specified language,50757,currently documentation template,precedes
+638,50739,paved way welcome,50733,online service,relates
+639,50739,paved way welcome,50733,online service,relates
+640,49362,heyrnrnid love pipe stdout,50658,make use symfonyprocess component,relates
+641,22245,rsaauth library servic,50613,enhanced security change install tool p,relates
+642,21423,log install tool passwo,50613,enhanced security change install tool p,relates
+643,69973,form wizard support input,50539,please add input type,relates
+644,50486,since rewrite extension manager access,50003,new documentation module provides signal,precedes
+645,50360,using modweb listallowedtables ad,71365,ive got container element grid colum,relates
+646,34342,quite work add like alternativ,50319,domain handling could improved simplifi,relates
+647,50138,sometimes plugins felogin pa,34597,two login form page usecas,relates
+648,39441,opinion introducing,50132,extracted issue conte,relates
+649,39441,opinion introducing,50131,extracted issue,relates
+650,50075,result workshop implementing reponsiv,49723,task could improved w,relates
+651,51842,allow remove height width information f,50075,result workshop implementing reponsiv,relates
+652,49090,old extension manager possible,50003,new documentation module provides signal,duplicates
+653,50486,since rewrite extension manager access,50003,new documentation module provides signal,precedes
+654,49988,flow notion applicationcontext whic,39441,opinion introducing,relates
+655,49972,hey guysrnrni check many issue,23085,save view button backend onl,relates
+656,69863,complicated easy say hollow ou,49903,information around error templating ta,relates
+657,49301,sometimes newly installed extension break,49760,install tool could check whether,relates
+658,50075,result workshop implementing reponsiv,49723,task could improved w,relates
+659,61799,currently cm easyworking way fo,49547,think default output,relates
+660,46985,add code snippet flexform add fal dc,49452,see,duplicates
+661,19618,integrate possibility enforce usage,49399,possible show openid provider,relates
+662,49362,heyrnrnid love pipe stdout,50658,make use symfonyprocess component,relates
+663,49309,hi teamrnrnin one current pr,39016,modify evaluate returned value,duplicates
+664,49305,adding data attribute tagbased viewhelper,35748,element number,duplicates
+665,49301,sometimes newly installed extension break,49760,install tool could check whether,relates
+666,49301,sometimes newly installed extension break,50940,add button uninstall incompatible extensi,duplicates
+667,49282,news gnu aspell project,19134,hunspell o spell checker used opeono,relates
+668,49282,news gnu aspell project,57928,would nice index search would autode,relates
+669,50811,since implementation po,49129,would useful let people register thei,relates
+670,6969,patch attached us extension,49108,add flag language supported,relates
+671,49090,old extension manager possible,50003,new documentation module provides signal,duplicates
+672,48960,flow lazy dependency,43819,precodernphprnnamespace testrnr,relates
+673,48936,intersphinx mapping could easily achieved b,51280,browser reference stored documen,relates
+674,51756,utility method added dynamicall,48936,intersphinx mapping could easily achieved b,precedes
+675,15112,idea improving relation partr,48933,version since agesrnrnhirn,relates
+676,48895,upgrading function comp,52141,rewrite module beuseradminis,relates
+677,48829,would really cool override crosslink,51875,usecase followsrnrn document,relates
+678,48764,using extsphinx,51875,usecase followsrnrn document,duplicates
+679,48644,iam talking,56133,actually use dam,relates
+680,66514,currently fal possibility,48644,iam talking,relates
+681,65265,think much boiler plate registe,48538,registering plugins based tt conent became,relates
+682,37919,videojs included since contr,48223,core currently ship compati,relates
+683,37921,currently ship requires n,48223,core currently ship compati,relates
+684,48090,would nice would possible,57417,introduced new responsive image whe,relates
+685,47982,include typoscripttag include extern,52018,allows pas relative path include typo,duplicates
+686,51570,recent change trigger persista,47951,flow framework follows rfcstand,relates
+687,47857,hirnrnbecause add javascript file,38176,hirnrnit great adding condition,relates
+688,57066,would nice allow copynpaste upload,47814,may think access client cl,duplicates
+689,47551,new change prevent unsafe metho,47137,due limited support browser restrict,relates
+690,38177,doctrine offer socalled lifecycle even,47228,gedmo doctrine behavioral extension depen,relates
+691,39788,basic requirement registration,47191,rfc proposed notexistsvalidat,relates
+692,47137,due limited support browser restrict,37604,rest controller provided b,relates
+693,47551,new change prevent unsafe metho,47137,due limited support browser restrict,relates
+694,46985,add code snippet flexform add fal dc,49452,see,duplicates
+695,46816,xcache memory keyvalue cache similar,46142,,relates
+696,46735,difficult eliminate unwanted brtag,46733,would much easier style map,relates
+697,46734,would safe class name get,46735,difficult eliminate unwanted brtag,relates
+698,46734,would safe class name get,46735,difficult eliminate unwanted brtag,relates
+699,46735,difficult eliminate unwanted brtag,46733,would much easier style map,relates
+700,75723,hirnrni use sr feuser register,46438,setfix process user confirm,duplicates
+701,46437,hirnrnit would great like p,63315,nice use drag drop,relates
+702,66514,currently fal possibility,46437,hirnrnit would great like p,relates
+703,43134,dragndrop content element p,46437,hirnrnit would great like p,relates
+704,46216,wincache memory keyvalue cache similar,35818,add wincache option cache backend,relates
+705,46142,,35818,add wincache option cache backend,relates
+706,46816,xcache memory keyvalue cache similar,46142,,relates
+707,46138,currently page type shortcut l,17037,issue already well known already,relates
+708,17406,initial situationrni menu point f,46138,currently page type shortcut l,relates
+709,41649,want page menu,46138,currently page type shortcut l,relates
+710,46081,feature already commited,44235,continous demand prepending,duplicates
+711,46064,default page configured ur,32343,problemrnwe want use pa,duplicates
+712,46063,extend persistedusernamepasswordprovider wit,30378,would nice proof cookie authent,relates
+713,46063,extend persistedusernamepasswordprovider wit,56744,currently flow developer set sess,relates
+714,46063,extend persistedusernamepasswordprovider wit,55831,id really love something like,relates
+715,46061,setting allowed property configurati,46048,using propertymapper useful,relates
+716,46061,setting allowed property configurati,46048,using propertymapper useful,relates
+717,46017,multi language site really conv,66869,editor selects one language would,relates
+718,46017,multi language site really conv,28441,use page languageoverlays pa,relates
+719,46017,multi language site really conv,73665,hey guysrnrni want suggest new featu,relates
+720,89524,currently possible search loca,46017,multi language site really conv,relates
+721,89582,motivationrncurrently,46017,multi language site really conv,relates
+722,45976,extbase fluid got boolean viewhelper,45553,added validator validates boolean tr,duplicates
+723,45877,afaik currently something like,52640,sometimes ifviewhelper syntax quite ver,relates
+724,45867,currentlyrnglobalvar gpl,39700,currently compare multipl,duplicates
+725,45851,actual use case amazon aws stuff lik,26783,sensitive data purpose would,relates
+726,45637,extension dd googlesitemap,45827,documentation get bigger could,precedes
+727,45725,fal file folder contain option b,61238,anybody give hint show also su,duplicates
+728,67727,possible output list file,45725,fal file folder contain option b,duplicates
+729,56517,related rncitern would,45709,wondering new form content eleme,duplicates
+730,45709,wondering new form content eleme,38163,would great valuessetting,duplicates
+731,45637,extension dd googlesitemap,45827,documentation get bigger could,precedes
+732,45633,subject say,51432,hellornrni think sor,relates
+733,45976,extbase fluid got boolean viewhelper,45553,added validator validates boolean tr,duplicates
+734,45537,currently manually executed task run dire,52686,sometimes want let certain scheduler,relates
+735,54429,hirnrni think would nice sor,45535,would great able sort sched,relates
+736,45293,parsing body argument eg xml json cur,37604,rest controller provided b,relates
+737,54600,building rest service us pat,45293,parsing body argument eg xml json cur,relates
+738,45282,currently flow relies session activ,45100,ajax rest request default,relates
+739,45156,allow click whole row deselect,32752,heyrnrnif hover mouse,duplicates
+740,45282,currently flow relies session activ,45100,ajax rest request default,relates
+741,20305,currently clearcachecmd clear ca,45090,currently exists direct way using typ,relates
+742,45090,currently exists direct way using typ,34403,release note,duplicates
+743,44896,flip used tt contentrnit,44858,current row part cobjdatarn,relates
+744,44891,possible set protoc,53080,currently flow support multidoma,relates
+745,44896,flip used tt contentrnit,44858,current row part cobjdatarn,relates
+746,58621,would great case viewhelper,44572,fformatcase viewhelper op,relates
+747,44572,fformatcase viewhelper op,27091,would like see viewhelpers strtolow,duplicates
+748,33914,currently postprocessor sen,44482,currently postprocessor,relates
+749,44482,currently postprocessor,38094,option set subject,duplicates
+750,44463,documentation lack flow chart,35770,registrating user get email,relates
+751,44297,something like would nicernrnhtt,25637,would nice gui setup,relates
+752,66532,staternit already possible schedule,44297,something like would nicernrnhtt,relates
+753,44256,might great able create content,43832,would great session could tagged,relates
+754,46081,feature already commited,44235,continous demand prepending,duplicates
+755,44218,backport flow described,42135,since implementation custom error rende,relates
+756,44123,first impression flowneos unst,37438,corebootstrap contains following linesr,relates
+757,52632,file object always iterates everythin,44113,reference property need opti,duplicates
+758,44039,image describes thousand wordsr,44038,image describes thousand wordsr,duplicates
+759,44039,image describes thousand wordsr,44038,image describes thousand wordsr,duplicates
+760,31377,currently possible copy single,44002,possible paste contentelements,relates
+761,43841,right possible display transla,28399,custom application bundled validators,relates
+762,44256,might great able create content,43832,would great session could tagged,relates
+763,48960,flow lazy dependency,43819,precodernphprnnamespace testrnr,relates
+764,43658,configuring titletag really flex,33491,pagerenderer us htmlspecialchars,relates
+765,40001,various function croppingtrimm,43604,property strpadlength strpad,precedes
+766,43247,hi folksrnright point thinking,43569,debugexceptionhandler productionexcept,relates
+767,43477,unpack dummy package blank vho,11771,think checking writepermis,relates
+768,3291,need concept cacheable viewhelpers,43457,idea add new argument render viewh,relates
+769,43356,allow fluid array viewhelper argument,7608,see mailinglist thread limitation f,relates
+770,43247,hi folksrnright point thinking,43569,debugexceptionhandler productionexcept,relates
+771,30508,would nice filter see onl,43177,local extensionrn activeinactiveupd,relates
+772,43165,clear first available cache administr,42966,would amazing keyboard shortcut,relates
+773,43143,specifying model name starting l,43144,specifying model name starting l,duplicates
+774,43143,specifying model name starting l,43144,specifying model name starting l,duplicates
+775,43134,dragndrop content element p,46437,hirnrnit would great like p,relates
+776,43134,dragndrop content element p,63315,nice use drag drop,relates
+777,43133,currently there possibility handle nul,41773,current implementation backen,relates
+778,43165,clear first available cache administr,42966,would amazing keyboard shortcut,relates
+779,42457,hellornrni dont know big alre,25113,working record listing li,relates
+780,42403,id like new session implementation whichr,42366,today there possibility get flow worki,relates
+781,42403,id like new session implementation whichr,42366,today there possibility get flow worki,relates
+782,33487,could considered discussion,42176,currently resolution view class,relates
+783,39870,would great configure alterna,42176,currently resolution view class,relates
+784,40857,currently fluid throw nice exception,42176,currently resolution view class,relates
+785,44218,backport flow described,42135,since implementation custom error rende,relates
+786,43133,currently there possibility handle nul,41773,current implementation backen,relates
+787,41649,want page menu,46138,currently page type shortcut l,relates
+788,41297,currently possible extend typ,37372,class extended inheritance,relates
+789,40957,possible make instance dce u,40889,hirnrni needed one ce loaded via ty,relates
+790,40957,possible make instance dce u,40889,hirnrni needed one ce loaded via ty,relates
+791,40857,currently fluid throw nice exception,39423,possible render certain except,relates
+792,40857,currently fluid throw nice exception,42176,currently resolution view class,relates
+793,40689,listview select see,40690,situationrnlistview one specific rec,relates
+794,26139,using clipboard normal,40690,situationrnlistview one specific rec,relates
+795,40689,listview select see,40690,situationrnlistview one specific rec,relates
+796,40503,general problem xhtml suppor,67686,cm allowing user set custom,relates
+797,89389,making use function xmlr,40503,general problem xhtml suppor,relates
+798,40365,thank much possibility sor,40074,sometimes useful sorting c,relates
+799,40338,hellornrnit would really nice,33394,boolean viewhelper attribute like fi,duplicates
+800,40110,precode classxmlconfigrn typeinp,40111,handle parameter string gene,relates
+801,40110,precode classxmlconfigrn typeinp,40111,handle parameter string gene,relates
+802,40081,asked couple time mailing list,33215,sometimes necessary include dynamic,relates
+803,40365,thank much possibility sor,40074,sometimes useful sorting c,relates
+804,40001,various function croppingtrimm,43604,property strpadlength strpad,precedes
+805,39947,since backend come hardcoded,37868,backend always typo,relates
+806,39939,alternative regularly executing sche,34227,alternative executing scheduler via,relates
+807,39938,currently insert external link,34863,following,duplicates
+808,39870,would great configure alterna,42176,currently resolution view class,relates
+809,39870,would great configure alterna,33487,could considered discussion,relates
+810,39792,feature localized already documented,32339,default behavior resourceviewhelpe,duplicates
+811,39788,basic requirement registration,47191,rfc proposed notexistsvalidat,relates
+812,39729,basically related extbase f,39730,case backend module rely,relates
+813,39729,basically related extbase f,39730,case backend module rely,relates
+814,38941,logging api part ongoing process,39712,face problem logging core,duplicates
+815,45867,currentlyrnglobalvar gpl,39700,currently compare multipl,duplicates
+816,20555,say parsefunc im sure thi,39676,editor create lot empty paragraph li,relates
+817,39564,currently eel parser regex doesnt recogn,33394,boolean viewhelper attribute like fi,relates
+818,49988,flow notion applicationcontext whic,39441,opinion introducing,relates
+819,39441,opinion introducing,50131,extracted issue,relates
+820,39441,opinion introducing,50132,extracted issue conte,relates
+821,39430,update caching framework version,36563,tagging feature file backend p,relates
+822,39430,update caching framework version,32398,certain cache static theyve fi,relates
+823,39430,update caching framework version,36564,tagging feature file backend p,relates
+824,40857,currently fluid throw nice exception,39423,possible render certain except,relates
+825,28299,hook enables modify hash base,39178,possible force typolinks use chash,duplicates
+826,36705,beuser open page doctype sysfold,39051,user select sysfolder page,relates
+827,64406,usability featurernrnproblemrnactual,39051,user select sysfolder page,duplicates
+828,37208,would cool pagetsconfig backe,39027,default layout page module leftno,precedes
+829,35723,proy environment environm,39016,modify evaluate returned value,relates
+830,49309,hi teamrnrnin one current pr,39016,modify evaluate returned value,duplicates
+831,38965,store date datetime value un,38974,since committed core dbal,precedes
+832,38965,store date datetime value un,38974,since committed core dbal,precedes
+833,38941,logging api part ongoing process,39712,face problem logging core,duplicates
+834,29565,felogin decides display according,38844,request codelist felogin,relates
+835,38178,different system performance issue,38742,different system performance issue,duplicates
+836,66111,fluidtemplate support layoutrootpaths,38732,hirnrnlets start modernize content e,relates
+837,68300,frontend page repository capable,38732,hirnrnlets start modernize content e,relates
+838,29737,install new youll get page,38731,currently successful install,relates
+839,38379,make eel available fluidtemplates eel,33394,boolean viewhelper attribute like fi,relates
+840,38255,possible extend postprocessor,32701,may feature request manual ext,duplicates
+841,15810,would great there possiblity c,38185,feature suggestion use,relates
+842,17406,initial situationrni menu point f,38185,feature suggestion use,relates
+843,38178,different system performance issue,38742,different system performance issue,duplicates
+844,38177,doctrine offer socalled lifecycle even,47228,gedmo doctrine behavioral extension depen,relates
+845,47857,hirnrnbecause add javascript file,38176,hirnrnit great adding condition,relates
+846,56517,related rncitern would,38163,would great valuessetting,duplicates
+847,45709,wondering new form content eleme,38163,would great valuessetting,duplicates
+848,44482,currently postprocessor,38094,option set subject,duplicates
+849,37939,case would good lea,18211,think option displaycond b,duplicates
+850,37919,videojs included since contr,37921,currently ship requires n,relates
+851,37921,currently ship requires n,48223,core currently ship compati,relates
+852,37919,videojs included since contr,37921,currently ship requires n,relates
+853,37919,videojs included since contr,48223,core currently ship compati,relates
+854,39947,since backend come hardcoded,37868,backend always typo,relates
+855,37816,would nice additional input fiel,10767,would nice possibility set,duplicates
+856,37800,would like see hook added checking,64298,hook always useful rni miss one,relates
+857,21659,currently way configure minim,37800,would like see hook added checking,relates
+858,37800,would like see hook added checking,80793,admins able define password pol,relates
+859,37765,trying build link fluid,30777,developer hard time figuring wha,relates
+860,37765,trying build link fluid,4704,fluid parsing exception contain pa,relates
+861,37604,rest controller provided b,37402,currently quite work required order,relates
+862,37604,rest controller provided b,27117,route need option limited certain,relates
+863,45293,parsing body argument eg xml json cur,37604,rest controller provided b,relates
+864,47137,due limited support browser restrict,37604,rest controller provided b,relates
+865,37561,older implementation fairly limited,10680,use case content negotiatio,relates
+866,30555,developer viewhelpers would like,37460,tagbuilder allow access attr,relates
+867,44123,first impression flowneos unst,37438,corebootstrap contains following linesr,relates
+868,37405,updating model property wich used,29972,need new entity redirect mvcwebro,relates
+869,37402,currently quite work required order,35243,order cleanly separate domai,relates
+870,37604,rest controller provided b,37402,currently quite work required order,relates
+871,37372,class extended inheritance,37373,objectsyaml allow adding ove,relates
+872,37373,objectsyaml allow adding ove,35354,currently afaik option set va,relates
+873,37372,class extended inheritance,37373,objectsyaml allow adding ove,relates
+874,41297,currently possible extend typ,37372,class extended inheritance,relates
+875,35243,order cleanly separate domai,37212,framework support esi would giv,relates
+876,33371,implement proper http supportrnrnthis,37212,framework support esi would giv,relates
+877,53369,would really helpful able defin,37208,would cool pagetsconfig backe,relates
+878,37208,would cool pagetsconfig backe,39027,default layout page module leftno,precedes
+879,24060,first prototype,37208,would cool pagetsconfig backe,precedes
+880,63395,hallo rni created patch medium con,37073,hirnrni playing around new f,relates
+881,67455,video tag possibility add,37073,hirnrni playing around new f,relates
+882,36955,idea add filter option,33493,due var dump drawback sometimes th,relates
+883,36924,first must say dce extension,36272,bodytext property could used save,duplicates
+884,36705,beuser open page doctype sysfold,39051,user select sysfolder page,relates
+885,51915,often want store different kind,36705,beuser open page doctype sysfold,relates
+886,36705,beuser open page doctype sysfold,29790,dear people communityrnrnthere oft,relates
+887,36695,developer want able validate,32832,sometimes validation executed,relates
+888,36689,currently field enter domainna,34342,quite work add like alternativ,relates
+889,36565,various application part need prominent pla,35243,order cleanly separate domai,relates
+890,36564,tagging feature file backend p,36563,tagging feature file backend p,relates
+891,39430,update caching framework version,36564,tagging feature file backend p,relates
+892,36564,tagging feature file backend p,36563,tagging feature file backend p,relates
+893,39430,update caching framework version,36563,tagging feature file backend p,relates
+894,36924,first must say dce extension,36272,bodytext property could used save,duplicates
+895,35348,widget show content going offline,36248,new idea widget show,relates
+896,35348,widget show content going offline,36247,widget show content going offline,relates
+897,36071,pagetree filter could improved addin,36075,original concept new pagetree,relates
+898,36075,original concept new pagetree,22985,sometimes need locate page page tree u,relates
+899,36075,original concept new pagetree,92576,use case rnrnit possible filter,relates
+900,36071,pagetree filter could improved addin,36075,original concept new pagetree,relates
+901,36015,see,36006,extension tt address configuration varia,relates
+902,36014,add option prepend currency sign e,33143,formatcurrency viewhelper currently,duplicates
+903,36015,see,36006,extension tt address configuration varia,relates
+904,46142,,35818,add wincache option cache backend,relates
+905,46216,wincache memory keyvalue cache similar,35818,add wincache option cache backend,relates
+906,35807,following security best practice user shou,35627,following security best practice user shou,relates
+907,44463,documentation lack flow chart,35770,registrating user get email,relates
+908,35766,repeated declaration namespace,4472,currently custom view helper namespaces,duplicates
+909,58557,would nice one could define name,35766,repeated declaration namespace,duplicates
+910,61171,change,35748,element number,relates
+911,61351,backport change already merged flowflu,35748,element number,relates
+912,49305,adding data attribute tagbased viewhelper,35748,element number,duplicates
+913,35723,proy environment environm,39016,modify evaluate returned value,relates
+914,35807,following security best practice user shou,35627,following security best practice user shou,relates
+915,37373,objectsyaml allow adding ove,35354,currently afaik option set va,relates
+916,35348,widget show content going offline,36247,widget show content going offline,relates
+917,35348,widget show content going offline,36248,new idea widget show,relates
+918,35245,different notification stagesrnrnc,35246,workspace module us extbase dispatch,relates
+919,35245,different notification stagesrnrnc,35246,workspace module us extbase dispatch,relates
+920,35243,order cleanly separate domai,33371,implement proper http supportrnrnthis,relates
+921,36565,various application part need prominent pla,35243,order cleanly separate domai,relates
+922,35243,order cleanly separate domai,37212,framework support esi would giv,relates
+923,37402,currently quite work required order,35243,order cleanly separate domai,relates
+924,11740,hellornrnsometimes necessary use,34944,threat associated ticketrnr,relates
+925,39938,currently insert external link,34863,following,duplicates
+926,34673,would great blacklist passwordc,34051,blacklisted password check list passw,duplicates
+927,50138,sometimes plugins felogin pa,34597,two login form page usecas,relates
+928,34541,infomodule pagetree overview,83449,info module currently hardcoded sele,relates
+929,45090,currently exists direct way using typ,34403,release note,duplicates
+930,36689,currently field enter domainna,34342,quite work add like alternativ,relates
+931,34342,quite work add like alternativ,50319,domain handling could improved simplifi,relates
+932,34288,set attribute relnofollow,75165,hi allrnrnwhen setting link via rte li,relates
+933,78488,hey therernrnis solution,34288,set attribute relnofollow,relates
+934,39939,alternative regularly executing sche,34227,alternative executing scheduler via,relates
+935,34130,possible shorten link,19329,forgot password template cha,relates
+936,34673,would great blacklist passwordc,34051,blacklisted password check list passw,duplicates
+937,34031,alloweditems currently modified th,34027,apply defaultordering based order,relates
+938,34031,alloweditems currently modified th,34028,already functionality place fet,relates
+939,34028,already functionality place fet,34027,apply defaultordering based order,relates
+940,34031,alloweditems currently modified th,34028,already functionality place fet,relates
+941,34028,already functionality place fet,34027,apply defaultordering based order,relates
+942,34031,alloweditems currently modified th,34027,apply defaultordering based order,relates
+943,33914,currently postprocessor sen,44482,currently postprocessor,relates
+944,33808,list filelist currently see,23623,filelist clicking ref co,duplicates
+945,33717,hello dear docu teamrnplease add documentat,29698,noticed loginerror hook,relates
+946,33696,remove extension name function menurns,33695,remove extension name function menurns,duplicates
+947,33696,remove extension name function menurns,33695,remove extension name function menurns,duplicates
+948,33693,make move element mask userfriendly,33692,make move element mask userfriendly,duplicates
+949,33693,make move element mask userfriendly,33692,make move element mask userfriendly,duplicates
+950,33670,since block mode gonern,25225,termplate analyzer blockmode,duplicates
+951,33587,currently delete unused resource,33469,currently resource need database becau,relates
+952,33556,indexed searchpiclasstx indexedsearchph,23156,displaying search result slash hard,relates
+953,36955,idea add filter option,33493,due var dump drawback sometimes th,relates
+954,43658,configuring titletag really flex,33491,pagerenderer us htmlspecialchars,relates
+955,25717,field outputted head lack std,33491,pagerenderer us htmlspecialchars,relates
+956,33487,could considered discussion,42176,currently resolution view class,relates
+957,39870,would great configure alterna,33487,could considered discussion,relates
+958,54155,hi guysrnrnespecially developing app,33487,could considered discussion,duplicates
+959,33587,currently delete unused resource,33469,currently resource need database becau,relates
+960,38379,make eel available fluidtemplates eel,33394,boolean viewhelper attribute like fi,relates
+961,39564,currently eel parser regex doesnt recogn,33394,boolean viewhelper attribute like fi,relates
+962,33394,boolean viewhelper attribute like fi,33215,sometimes necessary include dynamic,relates
+963,40338,hellornrnit would really nice,33394,boolean viewhelper attribute like fi,duplicates
+964,35243,order cleanly separate domai,33371,implement proper http supportrnrnthis,relates
+965,33371,implement proper http supportrnrnthis,37212,framework support esi would giv,relates
+966,40081,asked couple time mailing list,33215,sometimes necessary include dynamic,relates
+967,33394,boolean viewhelper attribute like fi,33215,sometimes necessary include dynamic,relates
+968,9313,currency probably handled spe,33143,formatcurrency viewhelper currently,relates
+969,36014,add option prepend currency sign e,33143,formatcurrency viewhelper currently,duplicates
+970,33136,hello guysrnrnduring work extpiwi,14338,everyone several database account ava,relates
+971,16034,maybe dbal could provide tableprefixing eg,33136,hello guysrnrnduring work extpiwi,relates
+972,33077,moment path hardcoded sepa,23156,displaying search result slash hard,duplicates
+973,32855,move add user icon beusers backend module,32753,case run view big installati,relates
+974,36695,developer want able validate,32832,sometimes validation executed,relates
+975,32855,move add user icon beusers backend module,32753,case run view big installati,relates
+976,45156,allow click whole row deselect,32752,heyrnrnif hover mouse,duplicates
+977,38255,possible extend postprocessor,32701,may feature request manual ext,duplicates
+978,60223,similar already existing task remo,32651,didnt find recycler project,duplicates
+979,61308,extension tx form allow using p,32594,specifies new attribute called placeh,relates
+980,39430,update caching framework version,32398,certain cache static theyve fi,relates
+981,46064,default page configured ur,32343,problemrnwe want use pa,duplicates
+982,39792,feature localized already documented,32339,default behavior resourceviewhelpe,duplicates
+983,32309,based cardlayout intro,28384,xtype allows u ge,relates
+984,31377,currently possible copy single,32152,currently action clipboard rou,relates
+985,61110,johannes feustelrn editor,32081,typeinput j eval func,relates
+986,32076,core currently common interface f,32077,clipboard currently clean api,precedes
+987,32076,core currently common interface f,32077,clipboard currently clean api,precedes
+988,32051,hi therernrnit would nice able,79054,hellornrnin repository sort,relates
+989,30713,currently define frontend plugin th,31960,option custom field renamed,precedes
+990,28258,curl allowsrncurlopt proxytype teither cur,31818,network proxy server al,relates
+991,27669,almost every software allows connection,31818,network proxy server al,duplicates
+992,31636,use popupwindow typolink,21302,user cannot resize popup scroll,relates
+993,31377,currently possible copy single,44002,possible paste contentelements,relates
+994,31377,currently possible copy single,32152,currently action clipboard rou,relates
+995,31319,currently using standard pagetitle th,17030,using configpagetitlefirst title se,duplicates
+996,5068,currently setting typically define,31277,discussed last code sprint sch,duplicates
+997,69409,described right po,31097,possible somehow add default value,relates
+998,83672,able use extform j,31094,currently submitted data form,relates
+999,63699,scheduler cli task help,31073,would nice feature would allow,relates
+1000,63703,scheduler task marked running th,31073,would nice feature would allow,relates
+1001,29547,property indentify annotation c,30933,define uniqueconstraints model,relates
+1002,26986,think debug toolbar,30890,create toolbar enabled provid,relates
+1003,37765,trying build link fluid,30777,developer hard time figuring wha,relates
+1004,30713,currently define frontend plugin th,31960,option custom field renamed,precedes
+1005,30555,developer viewhelpers would like,37460,tagbuilder allow access attr,relates
+1006,30508,would nice filter see onl,43177,local extensionrn activeinactiveupd,relates
+1007,30418,would nice package bootstrapped,54151,hirnrnfor reimplemented,relates
+1008,46063,extend persistedusernamepasswordprovider wit,30378,would nice proof cookie authent,relates
+1009,56744,currently flow developer set sess,30378,would nice proof cookie authent,relates
+1010,30271,problemrncurrently password transmission,20382,problem currently backend frontend login,relates
+1011,8736,provide generic routepart handler,29972,need new entity redirect mvcwebro,relates
+1012,37405,updating model property wich used,29972,need new entity redirect mvcwebro,relates
+1013,29910,like using web profile toolbar,26986,think debug toolbar,duplicates
+1014,36705,beuser open page doctype sysfold,29790,dear people communityrnrnthere oft,relates
+1015,29737,install new youll get page,38731,currently successful install,relates
+1016,33717,hello dear docu teamrnplease add documentat,29698,noticed loginerror hook,relates
+1017,29565,felogin decides display according,38844,request codelist felogin,relates
+1018,29564,able set one datetime propert,27417,possible submit date,duplicates
+1019,29547,property indentify annotation c,30933,define uniqueconstraints model,relates
+1020,27115,actually even around cant change,29514,done adding simple setter,duplicates
+1021,29476,would nice could calculate,26986,think debug toolbar,relates
+1022,29474,would nice check tca,25061,case might need want select,relates
+1023,59502,hellornrnwe still sitting,29342,system thousand page make,relates
+1024,29105,pagetree icon inserti,25183,feature request result,relates
+1025,29037,aggregateroot annotation normativern r,29038,use ddd semantics add cascade attribute al,blocks
+1026,29037,aggregateroot annotation normativern r,29038,use ddd semantics add cascade attribute al,blocks
+1027,73728,integrate bootstrapstyle colorpickerrnh,28950,constanttxtrnrnprernconfigtx phamlp,relates
+1028,28839,case may necessary,28344,divgeturl know hudge,relates
+1029,28258,curl allowsrncurlopt proxytype teither cur,28839,case may necessary,relates
+1030,28627,everyday need put description,28388,integrate trunk form project trunk,relates
+1031,70056,add guzzle depencency deprecate httpreq,28626,introducing,relates
+1032,28344,divgeturl know hudge,28626,introducing,blocks
+1033,28344,divgeturl know hudge,28615,support observer,blocks
+1034,28484,huge performance killer cache,52574,launched new website,relates
+1035,46017,multi language site really conv,28441,use page languageoverlays pa,relates
+1036,28405,gifbuilder cobject abili,22455,featurerequest support alpha transparenc,duplicates
+1037,28399,custom application bundled validators,6456,add possibility customize validatio,relates
+1038,43841,right possible display transla,28399,custom application bundled validators,relates
+1039,28627,everyday need put description,28388,integrate trunk form project trunk,relates
+1040,32309,based cardlayout intro,28384,xtype allows u ge,relates
+1041,12664,hello guysrnrnusing since trunk,28384,xtype allows u ge,precedes
+1042,62023,primarily intended used,28382,instead evaluating google analytics code ri,relates
+1043,75858,hellornrni would suggest option en,28382,instead evaluating google analytics code ri,relates
+1044,28302,frame ble project,28363,frame ble project de,relates
+1045,27988,override curl option eg forg,28344,divgeturl know hudge,relates
+1046,28839,case may necessary,28344,divgeturl know hudge,relates
+1047,28344,divgeturl know hudge,28615,support observer,blocks
+1048,28344,divgeturl know hudge,28626,introducing,blocks
+1049,16484,configuration rte numerous prop,28325,problem configuring rte page t config,relates
+1050,28302,frame ble project,28363,frame ble project de,relates
+1051,56269,within cm possible th,28299,hook enables modify hash base,relates
+1052,28299,hook enables modify hash base,39178,possible force typolinks use chash,duplicates
+1053,28258,curl allowsrncurlopt proxytype teither cur,27988,override curl option eg forg,relates
+1054,28258,curl allowsrncurlopt proxytype teither cur,21775,please add following option curl,relates
+1055,28258,curl allowsrncurlopt proxytype teither cur,28839,case may necessary,relates
+1056,28258,curl allowsrncurlopt proxytype teither cur,31818,network proxy server al,relates
+1057,28258,curl allowsrncurlopt proxytype teither cur,59326,hello therernrnid like address matt,relates
+1058,28230,implementation already pending,26786,current accountfactory us generates,relates
+1059,28230,implementation already pending,28095,currently possible get,relates
+1060,28226,hirnrni suggest cross apparence,27345,use setting appearance tab ar,duplicates
+1061,28136,currently repository flushed,28137,currently clone used inside persistento,precedes
+1062,28136,currently repository flushed,27117,route need option limited certain,relates
+1063,28136,currently repository flushed,28137,currently clone used inside persistento,precedes
+1064,28230,implementation already pending,28095,currently possible get,relates
+1065,28045,would allow using ucfirstucwords similar,28018,stdwrap function make fir,relates
+1066,28018,stdwrap function make fir,17896,hirnrnits possible uppercase opt,relates
+1067,28045,would allow using ucfirstucwords similar,28018,stdwrap function make fir,relates
+1068,28258,curl allowsrncurlopt proxytype teither cur,27988,override curl option eg forg,relates
+1069,27988,override curl option eg forg,28344,divgeturl know hudge,relates
+1070,27744,multiple server multiple inst,7365,possible assign testgroups,duplicates
+1071,27669,almost every software allows connection,31818,network proxy server al,duplicates
+1072,27577,please ordered t result url,27469,would nice get list link grou,relates
+1073,25337,target php core shoul,27490,support concept vendor nam,relates
+1074,27577,please ordered t result url,27469,would nice get list link grou,relates
+1075,27442,row detail view workspace module,12868,currently possible customize,blocks
+1076,27417,possible submit date,5660,finally property mapper need suppo,relates
+1077,29564,able set one datetime propert,27417,possible submit date,duplicates
+1078,27391,would need allow uploading one,27390,flash ipad,relates
+1079,57417,introduced new responsive image whe,27391,would need allow uploading one,relates
+1080,27391,would need allow uploading one,70965,seems fluid styled content support,relates
+1081,27391,would need allow uploading one,27390,flash ipad,relates
+1082,27372,currently db execute prepare,23374,prepared query would help take better advant,relates
+1083,28226,hirnrni suggest cross apparence,27345,use setting appearance tab ar,duplicates
+1084,27194,hide option create new mysql database,27241,every mysql user access databas,relates
+1085,27194,hide option create new mysql database,27241,every mysql user access databas,relates
+1086,27116,variable declared get signatu,27117,route need option limited certain,relates
+1087,28136,currently repository flushed,27117,route need option limited certain,relates
+1088,37604,rest controller provided b,27117,route need option limited certain,relates
+1089,27116,variable declared get signatu,27117,route need option limited certain,relates
+1090,27115,actually even around cant change,29514,done adding simple setter,duplicates
+1091,44572,fformatcase viewhelper op,27091,would like see viewhelpers strtolow,duplicates
+1092,29476,would nice could calculate,26986,think debug toolbar,relates
+1093,26986,think debug toolbar,30890,create toolbar enabled provid,relates
+1094,29910,like using web profile toolbar,26986,think debug toolbar,duplicates
+1095,28230,implementation already pending,26786,current accountfactory us generates,relates
+1096,45851,actual use case amazon aws stuff lik,26783,sensitive data purpose would,relates
+1097,25282,since every content element consider,26776,could nice useful separate c,relates
+1098,11869,hellornrni think filter field th,26722,think select condition filter item,relates
+1099,26688,im dreaming intuitive way,8736,provide generic routepart handler,duplicates
+1100,26372,typoscript option,17586,would nice string stdwrap,duplicates
+1101,26139,using clipboard normal,65069,list view easily select multipl,relates
+1102,26139,using clipboard normal,40690,situationrnlistview one specific rec,relates
+1103,25925,would nice could extract class,25668,created additional date field,blocks
+1104,25718,currently swf supported,53421,youtube video url medium element,relates
+1105,61799,currently cm easyworking way fo,25718,currently swf supported,relates
+1106,25717,field outputted head lack std,33491,pagerenderer us htmlspecialchars,relates
+1107,25925,would nice could extract class,25668,created additional date field,blocks
+1108,44297,something like would nicernrnhtt,25637,would nice gui setup,relates
+1109,25336,function deal ip addres,25404,feature add anonymizing capability,relates
+1110,25338,bug entry serf umbrella sched,25343,often customer database filled lo,relates
+1111,25338,bug entry serf umbrella sched,25342,easy trash within fileadminr,relates
+1112,25338,bug entry serf umbrella sched,25341,according recent discussion dmitry su,relates
+1113,25338,bug entry serf umbrella sched,25339,admin tool db check provides task mana,relates
+1114,25338,bug entry serf umbrella sched,25339,admin tool db check provides task mana,relates
+1115,25338,bug entry serf umbrella sched,25341,according recent discussion dmitry su,relates
+1116,25338,bug entry serf umbrella sched,25342,easy trash within fileadminr,relates
+1117,25338,bug entry serf umbrella sched,25343,often customer database filled lo,relates
+1118,21144,use ext autoloadphp file sup,25337,target php core shoul,relates
+1119,25337,target php core shoul,27490,support concept vendor nam,relates
+1120,25336,function deal ip addres,25404,feature add anonymizing capability,relates
+1121,25282,since every content element consider,26776,could nice useful separate c,relates
+1122,33670,since block mode gonern,25225,termplate analyzer blockmode,duplicates
+1123,68166,time protect tca password field w,25204,rsaauth encrypts password entered,relates
+1124,29105,pagetree icon inserti,25183,feature request result,relates
+1125,42457,hellornrni dont know big alre,25113,working record listing li,relates
+1126,29474,would nice check tca,25061,case might need want select,relates
+1127,25049,use wizardadd feature tc,14669,possible make field edit pag,relates
+1128,24901,hello guysrnrnusing since trunk,12664,hello guysrnrnusing since trunk,duplicates
+1129,23519,title say saynnnnthe,24813,selicons missing flag selector box,relates
+1130,24009,attempt bring selfmonitoring typo,24572,task introduced execute syst,relates
+1131,24010,part selfmonitoring core need,24572,task introduced execute syst,relates
+1132,69351,configuring link target elementb,24247,offer possibility open menu link,relates
+1133,5341,user simple redactor dont know,24247,offer possibility open menu link,relates
+1134,24147,internet explorer last supported,20953,hopefully drop support,relates
+1135,22482,currently breakwidth property gifbuilde,24090,lot parameter gifbuilder tha,relates
+1136,20508,typoscript select property groupby,24089,lot parameter still left tsl,duplicates
+1137,24060,first prototype,23905,would nice able layout colu,duplicates
+1138,24060,first prototype,37208,would cool pagetsconfig backe,precedes
+1139,24059,first important step towards vision,20862,came across video tim berners lee,relates
+1140,24037,problemrninstall script edit point token,23911,currently install lack way store,relates
+1141,24023,workspace got sysext stuff,24022,last year newly formed workspace,relates
+1142,24023,workspace got sysext stuff,24022,last year newly formed workspace,relates
+1143,23954,configured newrecordlinkposition,24019,current implementation always add new irr,relates
+1144,78532,image relation field defined,24019,current implementation always add new irr,relates
+1145,83858,hirnrnonly one thoughtrnrna customer,24019,current implementation always add new irr,relates
+1146,85986,default behaviour inline tca input,24019,current implementation always add new irr,relates
+1147,24019,current implementation always add new irr,91788,long irre list useful,relates
+1148,24014,user may want set width height,23268,would good resizing new ex,duplicates
+1149,24009,attempt bring selfmonitoring typo,24011,part selfmonitoring core need,relates
+1150,24009,attempt bring selfmonitoring typo,24010,part selfmonitoring core need,relates
+1151,24010,part selfmonitoring core need,24572,task introduced execute syst,relates
+1152,24009,attempt bring selfmonitoring typo,24010,part selfmonitoring core need,relates
+1153,24009,attempt bring selfmonitoring typo,24011,part selfmonitoring core need,relates
+1154,24009,attempt bring selfmonitoring typo,24572,task introduced execute syst,relates
+1155,23954,configured newrecordlinkposition,24019,current implementation always add new irr,relates
+1156,18454,get dropdownbox cssstyles,23948,stylesheets parsing code wellstructure,relates
+1157,23938,integrate new workspace module based extjs,23942,new workspace module functionali,relates
+1158,23938,integrate new workspace module based extjs,23942,new workspace module functionali,relates
+1159,24037,problemrninstall script edit point token,23911,currently install lack way store,relates
+1160,24060,first prototype,23905,would nice able layout colu,duplicates
+1161,23899,sometimes wish give control instruction,86220,debug function,relates
+1162,23878,extension manger shall give always,23396,em always show developer relevant code wa,relates
+1163,18758,paste function used rte give editor,23797,attached patch add optional paste p,relates
+1164,23797,attached patch add optional paste p,23403,smaller project would cre,duplicates
+1165,23615,login screen offer way display,23740,give user possibility format th,relates
+1166,23724,part query determine wheth,23726,tca definition table page loc,relates
+1167,23724,part query determine wheth,23726,tca definition table page loc,relates
+1168,10173,discussed herernrn,23669,new filetypes arent indexedrnrnive got,duplicates
+1169,66464,listing file file selection popup,23631,hi teamrnrnno pagination available htt,relates
+1170,64764,hirnrnthe current system browse record,23631,hi teamrnrnno pagination available htt,relates
+1171,23565,problemrncurrently need use another,23626,problemrncurrently use extdirect de,relates
+1172,33808,list filelist currently see,23623,filelist clicking ref co,duplicates
+1173,23615,login screen offer way display,23740,give user possibility format th,relates
+1174,23565,problemrncurrently need use another,23626,problemrncurrently use extdirect de,relates
+1175,23534,listnum method able return ra,18851,stdwrap lack support generatiung random,duplicates
+1176,23519,title say saynnnnthe,24813,selicons missing flag selector box,relates
+1177,18879,introduces several page tsconfig setting,23506,different module still f,relates
+1178,21417,field ipageconfigadditionalheadersi,23494,patch add stdwrap configadditionalhe,duplicates
+1179,56236,sometimes need set multiple header,23494,patch add stdwrap configadditionalhe,precedes
+1180,20167,backend locked maintenance,23464,error screen like current username,relates
+1181,23797,attached patch add optional paste p,23403,smaller project would cre,duplicates
+1182,23878,extension manger shall give always,23396,em always show developer relevant code wa,relates
+1183,23374,prepared query would help take better advant,21614,adodb support memcache query,relates
+1184,27372,currently db execute prepare,23374,prepared query would help take better advant,relates
+1185,23315,sometimes necessary know user,23302,clearing whole page cache large website,relates
+1186,23315,sometimes necessary know user,23302,clearing whole page cache large website,relates
+1187,24014,user may want set width height,23268,would good resizing new ex,duplicates
+1188,23260,hook missing allow postprocessing u,23244,hook missing allow postprocessing f,relates
+1189,23260,hook missing allow postprocessing u,23244,hook missing allow postprocessing f,relates
+1190,33556,indexed searchpiclasstx indexedsearchph,23156,displaying search result slash hard,relates
+1191,33077,moment path hardcoded sepa,23156,displaying search result slash hard,duplicates
+1192,23151,generate sprite,23150,spritegenerator shipped typo,relates
+1193,23151,generate sprite,23150,spritegenerator shipped typo,relates
+1194,23094,added two new field fe user table,20530,well know easily add column,relates
+1195,49972,hey guysrnrni check many issue,23085,save view button backend onl,relates
+1196,19656,request two hook would,23044,feature request two hook w,duplicates
+1197,52471,note issue came issue,22992,atm meta tag added complete html tag,relates
+1198,36075,original concept new pagetree,22985,sometimes need locate page page tree u,relates
+1199,89979,afaik method existrnrnr,22985,sometimes need locate page page tree u,relates
+1200,22968,moment exclusion kind di,17378,browsing filesystem mount mean f,duplicates
+1201,22858,little usability improvement would,22859,reported issue typical,relates
+1202,22858,little usability improvement would,22859,reported issue typical,relates
+1203,22845,current situation rn,20991,best hope good si,relates
+1204,15736,rte htmlarea link popup,22837,since possible use quer,relates
+1205,22627,according documentation possible,17886,better solution bug,relates
+1206,84584,setting influencing page rendering b,22564,previewing grouplimited content work,relates
+1207,16749,would nice navigation title,22550,switch page type standard,relates
+1208,22482,currently breakwidth property gifbuilde,24090,lot parameter gifbuilder tha,relates
+1209,28405,gifbuilder cobject abili,22455,featurerequest support alpha transparenc,duplicates
+1210,17154,nice quite easy set mailforms,22447,often useful set default email,relates
+1211,22447,often useful set default email,22212,currently there way avoid insta,relates
+1212,20936,creating internal external link u,22444,attached patch optionally add field,duplicates
+1213,22439,nested getparams already allowed typo,17238,lately introduced possibily te,relates
+1214,22387,relation feature currentl,22376,included cs j file cached bro,relates
+1215,22387,relation feature currentl,22376,included cs j file cached bro,relates
+1216,22365,taskcenter done new impexp exte,22363,taskcenter redone completly make,relates
+1217,22364,taskcenter also sys action extensi,22363,taskcenter redone completly make,relates
+1218,22364,taskcenter also sys action extensi,22363,taskcenter redone completly make,relates
+1219,22365,taskcenter done new impexp exte,22363,taskcenter redone completly make,relates
+1220,16237,issue task center av,22363,taskcenter redone completly make,relates
+1221,17881,stdwrap possible selectwhererne,22338,using marker properly quoting esca,relates
+1222,21169,afaik moment need userfunc,22338,using marker properly quoting esca,duplicates
+1223,15138,edit eg template press cancelc,22326,feedback openexpo bernswitz,duplicates
+1224,17322,would fine editor set rtehtml,22286,url get mangled rte possibly part,relates
+1225,17912,lot extension need number formating nea,22279,handling price special formated,duplicates
+1226,22249,creating custom workspace defin,16554,currently option add speci,duplicates
+1227,21423,log install tool passwo,22245,rsaauth library servic,relates
+1228,22245,rsaauth library servic,50613,enhanced security change install tool p,relates
+1229,22447,often useful set default email,22212,currently there way avoid insta,relates
+1230,87836,possible link language,22113,sometimes necessary link explici,relates
+1231,90825,kind followup ticket,22113,sometimes necessary link explici,relates
+1232,22107,currently sub category constant e,19958,extensionmangers configuration page pl,duplicates
+1233,22004,add new possibility upload mu,20736,would nice implementation,relates
+1234,21753,would nice db provides api,21944,mysql dump typically contain extended insert,relates
+1235,21928,record databse list module,16061,like give user possibility,relates
+1236,21902,locate function isnt supported dbalr,21903,order support new feature templavoilà,relates
+1237,21902,locate function isnt supported dbalr,21903,order support new feature templavoilà,relates
+1238,28258,curl allowsrncurlopt proxytype teither cur,21775,please add following option curl,relates
+1239,21765,flag icon serbia romania,19093,flag turkey,relates
+1240,21765,flag icon serbia romania,19627,hirnrnthe faroese flag missing th,relates
+1241,21765,flag icon serbia romania,20709,hirnrnplease add serbian flag,duplicates
+1242,21753,would nice db provides api,21754,make core patch,relates
+1243,21753,would nice db provides api,21754,make core patch,relates
+1244,21753,would nice db provides api,21944,mysql dump typically contain extended insert,relates
+1245,21662,currently way controll concuren,18783,would great two person differ,relates
+1246,21661,add option blacklist ip configura,75987,current brute force protection non exis,relates
+1247,21659,currently way configure minim,37800,would like see hook added checking,relates
+1248,21659,currently way configure minim,59073,flag user password neeeds,relates
+1249,80793,admins able define password pol,21659,currently way configure minim,relates
+1250,14711,annoy user warning change,21659,currently way configure minim,duplicates
+1251,23374,prepared query would help take better advant,21614,adodb support memcache query,relates
+1252,21509,set rtedefaultusecss firefox,18521,using class styleattribute instead,duplicates
+1253,21423,log install tool passwo,22245,rsaauth library servic,relates
+1254,21423,log install tool passwo,50613,enhanced security change install tool p,relates
+1255,21417,field ipageconfigadditionalheadersi,23494,patch add stdwrap configadditionalhe,duplicates
+1256,21392,wie wäre e im installtool unter punkt dat,20733,problemrncurrently im testing lot pat,duplicates
+1257,31636,use popupwindow typolink,21302,user cannot resize popup scroll,relates
+1258,21169,afaik moment need userfunc,22338,using marker properly quoting esca,duplicates
+1259,14863,would nice one could setup via typo,21152,problemrnpasswords backend user sto,relates
+1260,21144,use ext autoloadphp file sup,25337,target php core shoul,relates
+1261,22845,current situation rn,20991,best hope good si,relates
+1262,24147,internet explorer last supported,20953,hopefully drop support,relates
+1263,20936,creating internal external link u,22444,attached patch optionally add field,duplicates
+1264,20929,related torn,19724,size element browser popup window,relates
+1265,24059,first important step towards vision,20862,came across video tim berners lee,relates
+1266,22004,add new possibility upload mu,20736,would nice implementation,relates
+1267,15066,compare db database analyse,20733,problemrncurrently im testing lot pat,duplicates
+1268,21392,wie wäre e im installtool unter punkt dat,20733,problemrncurrently im testing lot pat,duplicates
+1269,20709,hirnrnplease add serbian flag,18860,bug simple feature request wi,relates
+1270,20709,hirnrnplease add serbian flag,17307,please add sk flag,relates
+1271,20709,hirnrnplease add serbian flag,19093,flag turkey,relates
+1272,20709,hirnrnplease add serbian flag,19627,hirnrnthe faroese flag missing th,relates
+1273,21765,flag icon serbia romania,20709,hirnrnplease add serbian flag,duplicates
+1274,20702,,17032,isrnrte text mode arial bad,duplicates
+1275,20676,german translation read redi,20675,german translation read redi,duplicates
+1276,20676,german translation read redi,20675,german translation read redi,duplicates
+1277,20590,view syslog call backend log mo,20591,view syslog call backend log mo,duplicates
+1278,20590,view syslog call backend log mo,20591,view syslog call backend log mo,duplicates
+1279,71874,unfortunately currently chromespecifi,20558,many user want upload lot file,relates
+1280,80378,hi rnin filelist module upload,20558,many user want upload lot file,relates
+1281,16340,rte configuraion issue,20555,say parsefunc im sure thi,relates
+1282,20555,say parsefunc im sure thi,39676,editor create lot empty paragraph li,relates
+1283,20534,currently possible override,20533,currently possible override,duplicates
+1284,20534,currently possible override,20533,currently possible override,duplicates
+1285,23094,added two new field fe user table,20530,well know easily add column,relates
+1286,20508,typoscript select property groupby,24089,lot parameter still left tsl,duplicates
+1287,20450,typoscripts userfunc condition userfunc,61489,order streamline condition makern,relates
+1288,20445,expall menu property going throu,19685,problem currently expall lack stdwrap proper,relates
+1289,20441,fluid extbase ready included,20436,propose method register new e,relates
+1290,20441,fluid extbase ready included,20242,upcoming extbase object relational map,relates
+1291,20441,fluid extbase ready included,20436,propose method register new e,relates
+1292,20416,atm list show extension key title,17114,would great extensionmanager woul,duplicates
+1293,30271,problemrncurrently password transmission,20382,problem currently backend frontend login,relates
+1294,20305,currently clearcachecmd clear ca,45090,currently exists direct way using typ,relates
+1295,20305,currently clearcachecmd clear ca,63011,text response,duplicates
+1296,17150,pagetree html structure look like thi,20304,problemrnrncurrently impossible,duplicates
+1297,17854,currently place real image int,20284,multimediace bit outdated,relates
+1298,20441,fluid extbase ready included,20242,upcoming extbase object relational map,relates
+1299,20207,imagine youve two different dynamically c,20199,refactor tslib gifbuildercalcoffset,relates
+1300,20164,gifbuilder lack possibility define,20207,imagine youve two different dynamically c,relates
+1301,20164,gifbuilder lack possibility define,20199,refactor tslib gifbuildercalcoffset,relates
+1302,20207,imagine youve two different dynamically c,20199,refactor tslib gifbuildercalcoffset,relates
+1303,20196,reason function setheaders,14389,would nice see web mai,relates
+1304,20188,insert image rte miss option,16918,feature requestrnrnthe ability add,duplicates
+1305,20183,hirnrnthis old trick weblog,17914,adding browse link wizard ext,duplicates
+1306,20167,backend locked maintenance,23464,error screen like current username,relates
+1307,20164,gifbuilder lack possibility define,20199,refactor tslib gifbuildercalcoffset,relates
+1308,20164,gifbuilder lack possibility define,20207,imagine youve two different dynamically c,relates
+1309,14781,possible resize image using gd,20107,please make use available resiz,duplicates
+1310,20041,sometimes useful able specify,14777,sometimes nice put smaller image,duplicates
+1311,19987,possible attack server try,75987,current brute force protection non exis,relates
+1312,22107,currently sub category constant e,19958,extensionmangers configuration page pl,duplicates
+1313,19856,problem want show link access r,56760,would nice able alter link,relates
+1314,73621,use sectionsanchors lot page,19832,sectionmarker page anchor prefix hardcode,relates
+1315,16864,function produce divtags around htmlou,19809,backgroundrnplugins often use pi wrapinbase,duplicates
+1316,19808,list view collapse expand fu,15818,ever consider add rnexpandcolla,duplicates
+1317,19793,typo core counting row iswas implemen,19786,typo core counting row iswas implemen,relates
+1318,19793,typo core counting row iswas implemen,19786,typo core counting row iswas implemen,relates
+1319,20929,related torn,19724,size element browser popup window,relates
+1320,20445,expall menu property going throu,19685,problem currently expall lack stdwrap proper,relates
+1321,19656,request two hook would,23044,feature request two hook w,duplicates
+1322,19629,starting expanding idea,17747,suggesting typoscript parameter hmenu sp,relates
+1323,19474,workspace selector currently using lo,19628,problemrnthe current workspace selector,duplicates
+1324,21765,flag icon serbia romania,19627,hirnrnthe faroese flag missing th,relates
+1325,20709,hirnrnplease add serbian flag,19627,hirnrnthe faroese flag missing th,relates
+1326,19619,improve single sign service backport,19409,backport openid sysext developed hackontest,relates
+1327,19619,improve single sign service backport,19497,extmgm api provides method add n,relates
+1328,19618,integrate possibility enforce usage,49399,possible show openid provider,relates
+1329,19586,using latest firefox auto logout th,19152,part implemented idea rnpa,relates
+1330,16835,using condition typoscript po,19515,normally use compar,relates
+1331,19497,extmgm api provides method add n,19512,divtrimexplode possible,relates
+1332,19503,attached patch implement autoloading,19192,requirement idea autoloading typo,duplicates
+1333,19503,attached patch implement autoloading,18548,every class instance done throug,duplicates
+1334,16385,would nice could check wheth,19503,attached patch implement autoloading,duplicates
+1335,19497,extmgm api provides method add n,19512,divtrimexplode possible,relates
+1336,19619,improve single sign service backport,19497,extmgm api provides method add n,relates
+1337,19473,functionality needed system,19474,workspace selector currently using lo,relates
+1338,19474,workspace selector currently using lo,19628,problemrnthe current workspace selector,duplicates
+1339,19473,functionality needed system,19474,workspace selector currently using lo,relates
+1340,19171,two defaulttemplates limited,19465,client project needed advanc,duplicates
+1341,19619,improve single sign service backport,19409,backport openid sysext developed hackontest,relates
+1342,19383,backgroundrnworst case term x,18172,set cookie secure channel wit,duplicates
+1343,19375,add doctype document including rte,19349,file used template rte conten,relates
+1344,19358,cant set title len li,18999,doesnt respect user preference title,duplicates
+1345,19375,add doctype document including rte,19349,file used template rte conten,relates
+1346,19320,would nice able replace,19347,stdwrap possible yet orde,relates
+1347,34130,possible shorten link,19329,forgot password template cha,relates
+1348,19329,forgot password template cha,17055,extsr feuser register others add new fiel,relates
+1349,19320,would nice able replace,19347,stdwrap possible yet orde,relates
+1350,18849,added new hook function cimage,19290,imagine youd like postprocess image f,duplicates
+1351,19256,use javascript event handler onkeypress c,80791,entry password data password fi,relates
+1352,19244,possible use stdwrap baseurl,18498,configbaseurl setting processed,relates
+1353,19192,requirement idea autoloading typo,19180,problemrncaching way speed rende,relates
+1354,18548,every class instance done throug,19192,requirement idea autoloading typo,relates
+1355,19503,attached patch implement autoloading,19192,requirement idea autoloading typo,duplicates
+1356,19185,current marker templating system collected,19190,add api methodrnrntemplateaddtcareco,relates
+1357,19188,add api methodrnrntemplateaddrecords,19190,add api methodrnrntemplateaddtcareco,relates
+1358,19185,current marker templating system collected,19189,write tutorial use new temp,relates
+1359,19185,current marker templating system collected,19188,add api methodrnrntemplateaddrecords,relates
+1360,19188,add api methodrnrntemplateaddrecords,19190,add api methodrnrntemplateaddtcareco,relates
+1361,19185,current marker templating system collected,19187,add view helper marker form,relates
+1362,19185,current marker templating system collected,19186,add view helper marker form,relates
+1363,19185,current marker templating system collected,19186,add view helper marker form,relates
+1364,19185,current marker templating system collected,19187,add view helper marker form,relates
+1365,19185,current marker templating system collected,19188,add api methodrnrntemplateaddrecords,relates
+1366,19185,current marker templating system collected,19189,write tutorial use new temp,relates
+1367,19185,current marker templating system collected,19190,add api methodrnrntemplateaddtcareco,relates
+1368,19192,requirement idea autoloading typo,19180,problemrncaching way speed rende,relates
+1369,19171,two defaulttemplates limited,19465,client project needed advanc,duplicates
+1370,19586,using latest firefox auto logout th,19152,part implemented idea rnpa,relates
+1371,15422,loginerror session timedout page,19152,part implemented idea rnpa,relates
+1372,15631,lost session could change,19152,part implemented idea rnpa,relates
+1373,49282,news gnu aspell project,19134,hunspell o spell checker used opeono,relates
+1374,57928,would nice index search would autode,19134,hunspell o spell checker used opeono,relates
+1375,20709,hirnrnplease add serbian flag,19093,flag turkey,relates
+1376,21765,flag icon serbia romania,19093,flag turkey,relates
+1377,19058,would great html function,15524,would great move html code,duplicates
+1378,19032,new plugin selecting color,18457,fonttag depreciatedrnrncannt rte,relates
+1379,19358,cant set title len li,18999,doesnt respect user preference title,duplicates
+1380,17386,title record displayed list mod,18999,doesnt respect user preference title,duplicates
+1381,15482,titlelen cannot set anywherernrnit,18999,doesnt respect user preference title,duplicates
+1382,16400,dont see possibility add existing reco,18968,currently possible create compl,relates
+1383,16605,would really nice override headi,18931,currently possible change labe,duplicates
+1384,18225,label dropdownmenu configure parag,18931,currently possible change labe,duplicates
+1385,18879,introduces several page tsconfig setting,23506,different module still f,relates
+1386,17754,patch allows hide checkboxes th,18879,introduces several page tsconfig setting,duplicates
+1387,20709,hirnrnplease add serbian flag,18860,bug simple feature request wi,relates
+1388,23534,listnum method able return ra,18851,stdwrap lack support generatiung random,duplicates
+1389,18849,added new hook function cimage,19290,imagine youd like postprocess image f,duplicates
+1390,16981,styled,18826,hello teamrnrnthe label upload f,duplicates
+1391,18822,make possible use stdwrap property uid,17881,stdwrap possible selectwhererne,relates
+1392,21662,currently way controll concuren,18783,would great two person differ,relates
+1393,18758,paste function used rte give editor,23797,attached patch add optional paste p,relates
+1394,18749,tsconfig per content tt content needed,17299,doc core tsconfig tell u syntax u,relates
+1395,15059,stdwrap select function used conte,18617,useful stdwrap max,duplicates
+1396,18595,feature see attached patch depends,17568,webpage column view tt content,relates
+1397,16942,extend tcatypes possibilty select,18595,feature see attached patch depends,blocks
+1398,18548,every class instance done throug,19192,requirement idea autoloading typo,relates
+1399,19503,attached patch implement autoloading,18548,every class instance done throug,duplicates
+1400,18525,following condition metrnr,18521,using class styleattribute instead,relates
+1401,18525,following condition metrnr,18521,using class styleattribute instead,relates
+1402,21509,set rtedefaultusecss firefox,18521,using class styleattribute instead,duplicates
+1403,18501,need enabled defaultnnnn,17503,talking db server charset setting,relates
+1404,19244,possible use stdwrap baseurl,18498,configbaseurl setting processed,relates
+1405,19032,new plugin selecting color,18457,fonttag depreciatedrnrncannt rte,relates
+1406,18454,get dropdownbox cssstyles,23948,stylesheets parsing code wellstructure,relates
+1407,18424,would nice could,65550,idea add configuration option like,duplicates
+1408,17125,id like possibility store inli,18366,addition bugreport would,relates
+1409,15536,option column property added,18308,following would make life easier autho,relates
+1410,15537,select row cell would seem h,18308,following would make life easier autho,relates
+1411,18239,patchrequest contains function,16786,plugins enabled let,relates
+1412,18239,patchrequest contains function,18238,plugins enabled let,relates
+1413,16786,plugins enabled let,18238,plugins enabled let,relates
+1414,18239,patchrequest contains function,18238,plugins enabled let,relates
+1415,18225,label dropdownmenu configure parag,16605,would really nice override headi,duplicates
+1416,18225,label dropdownmenu configure parag,18931,currently possible change labe,duplicates
+1417,37939,case would good lea,18211,think option displaycond b,duplicates
+1418,19383,backgroundrnworst case term x,18172,set cookie secure channel wit,duplicates
+1419,18072,since palette open inline,17680,currently menu left frame us pa,relates
+1420,18054,possible choose want,17678,move ui element around ui,relates
+1421,18044,think would nice icon n,17868,need menu call store edit shortcu,relates
+1422,18039,throughout discussion core list integrate,17825,new extension rewrite impro,relates
+1423,16617,would nice build custom error page,17992,already several place,duplicates
+1424,17979,implement rfc also inline relationa,17970,hey allrnrnthis first step con,relates
+1425,17979,implement rfc also inline relationa,17970,hey allrnrnthis first step con,relates
+1426,17950,modify page,17039,tsconfig modweb listallowednewtables allows,duplicates
+1427,20183,hirnrnthis old trick weblog,17914,adding browse link wizard ext,duplicates
+1428,17912,lot extension need number formating nea,22279,handling price special formated,duplicates
+1429,17900,might great individual field,17436,offer possibility define field,relates
+1430,28018,stdwrap function make fir,17896,hirnrnits possible uppercase opt,relates
+1431,17886,better solution bug,17628,certain configuration would like di,relates
+1432,22627,according documentation possible,17886,better solution bug,relates
+1433,17881,stdwrap possible selectwhererne,22338,using marker properly quoting esca,relates
+1434,18822,make possible use stdwrap property uid,17881,stdwrap possible selectwhererne,relates
+1435,17678,move ui element around ui,17868,need menu call store edit shortcu,relates
+1436,18044,think would nice icon n,17868,need menu call store edit shortcu,relates
+1437,17678,move ui element around ui,17867,need menu clear cache cache pa,relates
+1438,17678,move ui element around ui,17866,backend search shortcut frame nee,relates
+1439,17854,currently place real image int,20284,multimediace bit outdated,relates
+1440,17771,launched discussion dev ml,17831,following discussion dev mailing list,duplicates
+1441,18039,throughout discussion core list integrate,17825,new extension rewrite impro,relates
+1442,17818,attached patch line break possible,17817,steffen kamperrnrnproblemrnthere,duplicates
+1443,17818,attached patch line break possible,17817,steffen kamperrnrnproblemrnthere,duplicates
+1444,17801,since quite long time requireme,17346,nice add recordcontrolb,duplicates
+1445,17801,since quite long time requireme,17766,using tt news extension w,duplicates
+1446,17801,since quite long time requireme,17762,possibility add new action button using,duplicates
+1447,17678,move ui element around ui,17795,need add workspace selector clea,relates
+1448,17771,launched discussion dev ml,17831,following discussion dev mailing list,duplicates
+1449,17801,since quite long time requireme,17766,using tt news extension w,duplicates
+1450,17763,htmlarea rte using handling,17714,possible add plugin htmla,relates
+1451,17801,since quite long time requireme,17762,possibility add new action button using,duplicates
+1452,17754,patch allows hide checkboxes th,18879,introduces several page tsconfig setting,duplicates
+1453,19629,starting expanding idea,17747,suggesting typoscript parameter hmenu sp,relates
+1454,17763,htmlarea rte using handling,17714,possible add plugin htmla,relates
+1455,17694,similiar page type selector hard,17676,jens made nice screen grouped,relates
+1456,17678,move ui element around ui,17680,currently menu left frame us pa,relates
+1457,18072,since palette open inline,17680,currently menu left frame us pa,relates
+1458,17678,move ui element around ui,17680,currently menu left frame us pa,relates
+1459,17678,move ui element around ui,17795,need add workspace selector clea,relates
+1460,17678,move ui element around ui,17866,backend search shortcut frame nee,relates
+1461,17678,move ui element around ui,17867,need menu clear cache cache pa,relates
+1462,17678,move ui element around ui,17868,need menu call store edit shortcu,relates
+1463,18054,possible choose want,17678,move ui element around ui,relates
+1464,17694,similiar page type selector hard,17676,jens made nice screen grouped,relates
+1465,17638,perhaps start example,17630,us gr list indicates g,relates
+1466,17638,perhaps start example,71694,website made deliver best p,relates
+1467,16474,t config option remove defa,17634,similiar removedefaultjs removedefaultcss j,duplicates
+1468,17638,perhaps start example,17630,us gr list indicates g,relates
+1469,17630,us gr list indicates g,17253,logged user dont get result query,relates
+1470,17886,better solution bug,17628,certain configuration would like di,relates
+1471,26372,typoscript option,17586,would nice string stdwrap,duplicates
+1472,18595,feature see attached patch depends,17568,webpage column view tt content,relates
+1473,17175,cache parameter used disabli,17509,page preview work sending paramete,relates
+1474,18501,need enabled defaultnnnn,17503,talking db server charset setting,relates
+1475,17473,order fe group select title tt conte,17290,select box simulate frontend user grou,relates
+1476,17463,using select type instead inlin,17268,default behaviour inline record creat,relates
+1477,17900,might great individual field,17436,offer possibility define field,relates
+1478,17406,initial situationrni menu point f,38185,feature suggestion use,relates
+1479,17406,initial situationrni menu point f,46138,currently page type shortcut l,relates
+1480,17406,initial situationrni menu point f,66218,add linkhandler functionality page type sho,relates
+1481,81379,hirnrnit would nice possibil,17406,initial situationrni menu point f,relates
+1482,17398,using date time field timestamp,17234,user table membership history,duplicates
+1483,17386,title record displayed list mod,18999,doesnt respect user preference title,duplicates
+1484,22968,moment exclusion kind di,17378,browsing filesystem mount mean f,duplicates
+1485,17801,since quite long time requireme,17346,nice add recordcontrolb,duplicates
+1486,17322,would fine editor set rtehtml,22286,url get mangled rte possibly part,relates
+1487,20709,hirnrnplease add serbian flag,17307,please add sk flag,relates
+1488,18749,tsconfig per content tt content needed,17299,doc core tsconfig tell u syntax u,relates
+1489,17473,order fe group select title tt conte,17290,select box simulate frontend user grou,relates
+1490,87092,currently many message feedback error,17274,moved one standard langua,relates
+1491,87091,currently installtool english,17274,moved one standard langua,relates
+1492,17463,using select type instead inlin,17268,default behaviour inline record creat,relates
+1493,17268,default behaviour inline record creat,17125,id like possibility store inli,duplicates
+1494,17256,would like propose new irre feature whi,17156,would like propose new irre feature whi,duplicates
+1495,17630,us gr list indicates g,17253,logged user dont get result query,relates
+1496,65505,exist case many childrecords,17247,editing record based irre curren,relates
+1497,22439,nested getparams already allowed typo,17238,lately introduced possibily te,relates
+1498,17398,using date time field timestamp,17234,user table membership history,duplicates
+1499,17225,diff creates functionali,15818,ever consider add rnexpandcolla,relates
+1500,17175,cache parameter used disabli,17509,page preview work sending paramete,relates
+1501,17256,would like propose new irre feature whi,17156,would like propose new irre feature whi,duplicates
+1502,17154,nice quite easy set mailforms,22447,often useful set default email,relates
+1503,17150,pagetree html structure look like thi,20304,problemrnrncurrently impossible,duplicates
+1504,17125,id like possibility store inli,18366,addition bugreport would,relates
+1505,17268,default behaviour inline record creat,17125,id like possibility store inli,duplicates
+1506,20416,atm list show extension key title,17114,would great extensionmanager woul,duplicates
+1507,19329,forgot password template cha,17055,extsr feuser register others add new fiel,relates
+1508,17950,modify page,17039,tsconfig modweb listallowednewtables allows,duplicates
+1509,46138,currently page type shortcut l,17037,issue already well known already,relates
+1510,15889,using layermenus confronted,17035,installation extensive gmenus rollov,relates
+1511,20702,,17032,isrnrte text mode arial bad,duplicates
+1512,31319,currently using standard pagetitle th,17030,using configpagetitlefirst title se,duplicates
+1513,17003,onclickpopup image extension nee,15889,using layermenus confronted,relates
+1514,16477,able display navigation,16984,treeviewphp returned title,relates
+1515,16981,styled,18826,hello teamrnrnthe label upload f,duplicates
+1516,16942,extend tcatypes possibilty select,18595,feature see attached patch depends,blocks
+1517,16920,extension contains backend menu h,15084,new backend module installed,duplicates
+1518,20188,insert image rte miss option,16918,feature requestrnrnthe ability add,duplicates
+1519,16914,database structure optimized,15897,tsdebugger adminpanel fe opti,relates
+1520,16571,installed extension loaded extensio,16884,attached diff file integrates ter update c,duplicates
+1521,16864,function produce divtags around htmlou,19809,backgroundrnplugins often use pi wrapinbase,duplicates
+1522,15459,filter workspace change r,16858,like filtering based language user page,relates
+1523,16835,using condition typoscript po,19515,normally use compar,relates
+1524,16786,plugins enabled let,18238,plugins enabled let,relates
+1525,18239,patchrequest contains function,16786,plugins enabled let,relates
+1526,16218,following patch introduces new page t,16771,hellornrnit would nice size,relates
+1527,16749,would nice navigation title,22550,switch page type standard,relates
+1528,16666,would great add stdwrapfunctionality,16665,would like writernrnalwaysactivepidl,relates
+1529,16666,would great add stdwrapfunctionality,16665,would like writernrnalwaysactivepidl,relates
+1530,16365,versioning part core ui,16626,would nice hide workspace menue,relates
+1531,16617,would nice build custom error page,17992,already several place,duplicates
+1532,18225,label dropdownmenu configure parag,16605,would really nice override headi,duplicates
+1533,16605,would really nice override headi,18931,currently possible change labe,duplicates
+1534,16571,installed extension loaded extensio,16884,attached diff file integrates ter update c,duplicates
+1535,22249,creating custom workspace defin,16554,currently option add speci,duplicates
+1536,69789,use include typoscript sourcefileext,16525,preinclude typoscript sourcefile filead,relates
+1537,16484,configuration rte numerous prop,28325,problem configuring rte page t config,relates
+1538,16477,able display navigation,16984,treeviewphp returned title,relates
+1539,16474,t config option remove defa,17634,similiar removedefaultjs removedefaultcss j,duplicates
+1540,15619,want edit number nested level,16446,complicated permission owner,relates
+1541,16444,add two field crdate cruser id th,16445,workspaceview default,relates
+1542,15459,filter workspace change r,16445,workspaceview default,duplicates
+1543,16444,add two field crdate cruser id th,16445,workspaceview default,relates
+1544,16400,dont see possibility add existing reco,18968,currently possible create compl,relates
+1545,16385,would nice could check wheth,19503,attached patch implement autoloading,duplicates
+1546,16365,versioning part core ui,16626,would nice hide workspace menue,relates
+1547,15256,first new workspacesmodule seems,16359,possible get stuck autoversionin,relates
+1548,16340,rte configuraion issue,20555,say parsefunc im sure thi,relates
+1549,16329,sys action type new record lack,15505,possible create new backend user ba,duplicates
+1550,16314,add checkboxes user make new co,16313,enhance tool user admin user group,relates
+1551,16314,add checkboxes user make new co,16313,enhance tool user admin user group,relates
+1552,16237,issue task center av,22363,taskcenter redone completly make,relates
+1553,16218,following patch introduces new page t,16771,hellornrnit would nice size,relates
+1554,16075,moment function render uploads u,15524,would great move html code,duplicates
+1555,21928,record databse list module,16061,like give user possibility,relates
+1556,16056,rte supported tca rnrne,14941,would nice textareas could made,duplicates
+1557,16034,maybe dbal could provide tableprefixing eg,33136,hello guysrnrnduring work extpiwi,relates
+1558,16034,maybe dbal could provide tableprefixing eg,14338,everyone several database account ava,duplicates
+1559,16031,list look extension field look f,15640,whole db local could reall,duplicates
+1560,15943,current way implementing content elemen,15524,would great move html code,relates
+1561,16914,database structure optimized,15897,tsdebugger adminpanel fe opti,relates
+1562,15801,looking way change label,15893,release would like propose,relates
+1563,15889,using layermenus confronted,17035,installation extensive gmenus rollov,relates
+1564,17003,onclickpopup image extension nee,15889,using layermenus confronted,relates
+1565,17225,diff creates functionali,15818,ever consider add rnexpandcolla,relates
+1566,19808,list view collapse expand fu,15818,ever consider add rnexpandcolla,duplicates
+1567,15810,would great there possiblity c,15561,manipluate general property like lang xm,relates
+1568,15810,would great there possiblity c,38185,feature suggestion use,relates
+1569,15801,looking way change label,15893,release would like propose,relates
+1570,15760,possible support lllmarkers,92337,please reopen,copied_to
+1571,15736,rte htmlarea link popup,15269,additionalparams behaviour al,relates
+1572,15736,rte htmlarea link popup,22837,since possible use quer,relates
+1573,15403,cropscale image scaled size,15705,patch file,relates
+1574,15698,confphp file tstemplatets fol,14700,added support clear cache subtrees,relates
+1575,16031,list look extension field look f,15640,whole db local could reall,duplicates
+1576,15631,lost session could change,19152,part implemented idea rnpa,relates
+1577,15619,want edit number nested level,16446,complicated permission owner,relates
+1578,15562,simon tuck made extension condition,14427,condition always combined wha,duplicates
+1579,15810,would great there possiblity c,15561,manipluate general property like lang xm,relates
+1580,15537,select row cell would seem h,18308,following would make life easier autho,relates
+1581,15536,option column property added,18308,following would make life easier autho,relates
+1582,15943,current way implementing content elemen,15524,would great move html code,relates
+1583,16075,moment function render uploads u,15524,would great move html code,duplicates
+1584,19058,would great html function,15524,would great move html code,duplicates
+1585,16329,sys action type new record lack,15505,possible create new backend user ba,duplicates
+1586,15482,titlelen cannot set anywherernrnit,18999,doesnt respect user preference title,duplicates
+1587,15459,filter workspace change r,16858,like filtering based language user page,relates
+1588,65720,workspace configuration extended,15459,filter workspace change r,relates
+1589,15459,filter workspace change r,16445,workspaceview default,duplicates
+1590,15175,possible configure language,15426,patch attached add parameter preserveq,duplicates
+1591,15422,loginerror session timedout page,19152,part implemented idea rnpa,relates
+1592,15403,cropscale image scaled size,15705,patch file,relates
+1593,15360,update wizard install,15118,would great install tool wi,relates
+1594,15736,rte htmlarea link popup,15269,additionalparams behaviour al,relates
+1595,15256,first new workspacesmodule seems,16359,possible get stuck autoversionin,relates
+1596,15175,possible configure language,15426,patch attached add parameter preserveq,duplicates
+1597,15166,currently atagparams take string v,14886,currently atagparams tmenuitem jus,duplicates
+1598,15140,change page alias find,15043,right page deleted inside sit,relates
+1599,15138,edit eg template press cancelc,22326,feedback openexpo bernswitz,duplicates
+1600,15360,update wizard install,15118,would great install tool wi,relates
+1601,15112,idea improving relation partr,48933,version since agesrnrnhirn,relates
+1602,15112,idea improving relation partr,54075,would nice could change delimit,relates
+1603,15110,would nice possibility,15038,stated rené rte mailling list,relates
+1604,15101,id like see function db check,15043,right page deleted inside sit,duplicates
+1605,15092,list module extended view lo,15074,would great one could also change,relates
+1606,15091,page tree opt,14442,lacking feature probably,relates
+1607,16920,extension contains backend menu h,15084,new backend module installed,duplicates
+1608,15082,hirnit would useful one defi,14967,sometimes need file mount eg al,relates
+1609,14850,double value evaluated,15081,hirnrnit would nice would,duplicates
+1610,15092,list module extended view lo,15074,would great one could also change,relates
+1611,15066,compare db database analyse,20733,problemrncurrently im testing lot pat,duplicates
+1612,15059,stdwrap select function used conte,18617,useful stdwrap max,duplicates
+1613,15140,change page alias find,15043,right page deleted inside sit,relates
+1614,15101,id like see function db check,15043,right page deleted inside sit,duplicates
+1615,15110,would nice possibility,15038,stated rené rte mailling list,relates
+1616,15017,current datedatetime field core,14390,date entered like,relates
+1617,65099,got problemrnsessionhandling,14986,installtool check session sup,relates
+1618,15082,hirnit would useful one defi,14967,sometimes need file mount eg al,relates
+1619,16056,rte supported tca rnrne,14941,would nice textareas could made,duplicates
+1620,14344,donotcheckreferer disabled form mail,14924,sending formmail check,relates
+1621,10667,order comply accessibility guidelin,14902,link prev page page next use onclick,duplicates
+1622,15166,currently atagparams take string v,14886,currently atagparams tmenuitem jus,duplicates
+1623,14863,would nice one could setup via typo,21152,problemrnpasswords backend user sto,relates
+1624,14850,double value evaluated,15081,hirnrnit would nice would,duplicates
+1625,14781,possible resize image using gd,20107,please make use available resiz,duplicates
+1626,20041,sometimes useful able specify,14777,sometimes nice put smaller image,duplicates
+1627,14768,tested cur shotcuts put front pag,14769,tested cur shotcuts put front pag,duplicates
+1628,14768,tested cur shotcuts put front pag,14769,tested cur shotcuts put front pag,duplicates
+1629,14682,would great add checkwarning,14711,annoy user warning change,relates
+1630,14711,annoy user warning change,21659,currently way configure minim,duplicates
+1631,15698,confphp file tstemplatets fol,14700,added support clear cache subtrees,relates
+1632,60045,currently action tstemplate modul,14700,added support clear cache subtrees,relates
+1633,63011,text response,14700,added support clear cache subtrees,relates
+1634,14682,would great add checkwarning,14711,annoy user warning change,relates
+1635,25049,use wizardadd feature tc,14669,possible make field edit pag,relates
+1636,14669,possible make field edit pag,55976,tca config overridden w,relates
+1637,14590,searching example return,14591,searching example return,duplicates
+1638,14590,searching example return,14591,searching example return,duplicates
+1639,14404,appears feediting updown bu,14581,use set forcedisplay,duplicates
+1640,15091,page tree opt,14442,lacking feature probably,relates
+1641,15562,simon tuck made extension condition,14427,condition always combined wha,duplicates
+1642,14411,menu work without problem mac,14384,contextmenu pagetree left,duplicates
+1643,14404,appears feediting updown bu,14581,use set forcedisplay,duplicates
+1644,15017,current datedatetime field core,14390,date entered like,relates
+1645,20196,reason function setheaders,14389,would nice see web mai,relates
+1646,14387,line stdgraphicphp hardc,14386,line stdgraphicphp hardc,duplicates
+1647,14387,line stdgraphicphp hardc,14386,line stdgraphicphp hardc,duplicates
+1648,14411,menu work without problem mac,14384,contextmenu pagetree left,duplicates
+1649,14344,donotcheckreferer disabled form mail,14924,sending formmail check,relates
+1650,33136,hello guysrnrnduring work extpiwi,14338,everyone several database account ava,relates
+1651,16034,maybe dbal could provide tableprefixing eg,14338,everyone several database account ava,duplicates
+1652,14335,try add table type innodb,14334,try add table type innodb,duplicates
+1653,14335,try add table type innodb,14334,try add table type innodb,duplicates
+1654,70964,mysql function rand used som,14026,currently allowed sort mode asce,relates
+1655,13800,wikipedia also redi,13794,website set cooky redirect othe,relates
+1656,13800,wikipedia also redi,13794,website set cooky redirect othe,relates
+1657,13517,notify someone current,13095,thing editor could,relates
+1658,13230,problemrncurrently standard cs styled,13229,problemrncurrently standard cs styled,relates
+1659,13230,problemrncurrently standard cs styled,13229,problemrncurrently standard cs styled,relates
+1660,12958,hirnrnsince suppose form inclu,13229,problemrncurrently standard cs styled,relates
+1661,13199,see,13198,base new layoutrn,relates
+1662,13199,see,13198,base new layoutrn,relates
+1663,13517,notify someone current,13095,thing editor could,relates
+1664,12958,hirnrnsince suppose form inclu,13229,problemrncurrently standard cs styled,relates
+1665,12872,couldnt find issue im,11771,think checking writepermis,duplicates
+1666,27442,row detail view workspace module,12868,currently possible customize,blocks
+1667,24901,hello guysrnrnusing since trunk,12664,hello guysrnrnusing since trunk,duplicates
+1668,12664,hello guysrnrnusing since trunk,28384,xtype allows u ge,precedes
+1669,12637,currently display record grouped,5956,sometimes merging item list singl,duplicates
+1670,12344,new mailer api based swift,11276,really need send html mail use lo,duplicates
+1671,11869,hellornrni think filter field th,26722,think select condition filter item,relates
+1672,43477,unpack dummy package blank vho,11771,think checking writepermis,relates
+1673,12872,couldnt find issue im,11771,think checking writepermis,duplicates
+1674,11740,hellornrnsometimes necessary use,34944,threat associated ticketrnr,relates
+1675,11292,problemrnsince php filter v,11291,problemrnsince php filter v,relates
+1676,11292,problemrnsince php filter v,72869,validators touched since age,relates
+1677,11292,problemrnsince php filter v,11291,problemrnsince php filter v,relates
+1678,11291,problemrnsince php filter v,72869,validators touched since age,relates
+1679,60723,possible configure pageren,11287,great able declare head,relates
+1680,11286,fluid object way tag brace ar,7608,see mailinglist thread limitation f,duplicates
+1681,12344,new mailer api based swift,11276,really need send html mail use lo,duplicates
+1682,37816,would nice additional input fiel,10767,would nice possibility set,duplicates
+1683,10680,use case content negotiatio,315,request object mainly webrequest,relates
+1684,37561,older implementation fairly limited,10680,use case content negotiatio,relates
+1685,10667,order comply accessibility guidelin,14902,link prev page page next use onclick,duplicates
+1686,10431,webpage contains multiple link,10432,link processed one chun,blocks
+1687,10431,webpage contains multiple link,10432,link processed one chun,blocks
+1688,10173,discussed herernrn,23669,new filetypes arent indexedrnrnive got,duplicates
+1689,10045,grid support local sorting make th,9751,field defined structure,blocks
+1690,10045,grid support local sorting make th,9751,field defined structure,blocks
+1691,9313,currency probably handled spe,33143,formatcurrency viewhelper currently,relates
+1692,4704,fluid parsing exception contain pa,9211,currently viewhelper throw exception,relates
+1693,9063,currently multiple record shown one,53941,tceforms called multirecordedit,relates
+1694,8774,discussing widget concept r,6609,one possibility join implementation coul,relates
+1695,8736,provide generic routepart handler,29972,need new entity redirect mvcwebro,relates
+1696,26688,im dreaming intuitive way,8736,provide generic routepart handler,duplicates
+1697,8269,wrap ofrn resultinforn pagelinksr,8267,like cs integrated ar,relates
+1698,8269,wrap ofrn resultinforn pagelinksr,8267,like cs integrated ar,relates
+1699,8180,preparation selenium test creat,8179,see,relates
+1700,8180,preparation selenium test creat,8179,see,relates
+1701,6724,hirnrnfirst sorry bad english,7724,message formatter class format,relates
+1702,6724,hirnrnfirst sorry bad english,7723,localedependent message text stor,relates
+1703,6724,hirnrnfirst sorry bad english,7722,cldr data contains information xml format,relates
+1704,6724,hirnrnfirst sorry bad english,7721,existing resource management subsystem need,relates
+1705,7720,locale detection done web applicatio,6724,hirnrnfirst sorry bad english,relates
+1706,43356,allow fluid array viewhelper argument,7608,see mailinglist thread limitation f,relates
+1707,11286,fluid object way tag brace ar,7608,see mailinglist thread limitation f,duplicates
+1708,7459,creating new content element result,67750,suggestion dont know som,relates
+1709,77842,sure im right category ther,7459,creating new content element result,relates
+1710,27744,multiple server multiple inst,7365,possible assign testgroups,duplicates
+1711,7216,im currently putting package tog,4426,distribution come easy use c,relates
+1712,7216,im currently putting package tog,4469,currently provides command line interf,relates
+1713,7203,im exactly sure bug mi,6390,would great enable access array,relates
+1714,5785,streaming downloads advantage,7062,usage etag make sence tell,precedes
+1715,6969,patch attached us extension,49108,add flag language supported,relates
+1716,6844,remove shutup operator instead cr,6389,currently objectaccessor always e,relates
+1717,7720,locale detection done web applicatio,6724,hirnrnfirst sorry bad english,relates
+1718,6724,hirnrnfirst sorry bad english,7721,existing resource management subsystem need,relates
+1719,6724,hirnrnfirst sorry bad english,7722,cldr data contains information xml format,relates
+1720,6724,hirnrnfirst sorry bad english,7723,localedependent message text stor,relates
+1721,6724,hirnrnfirst sorry bad english,7724,message formatter class format,relates
+1722,6681,path php binary configura,4469,currently provides command line interf,relates
+1723,6681,path php binary configura,4426,distribution come easy use c,relates
+1724,8774,discussing widget concept r,6609,one possibility join implementation coul,relates
+1725,6459,past used template engine,6149,feature request first saw fu,duplicates
+1726,28399,custom application bundled validators,6456,add possibility customize validatio,relates
+1727,6060,would cool single medium fiel,6398,configuration module damlightbox sh,relates
+1728,6394,attached patch allows display different,72529,fal allows file folder restricted,relates
+1729,7203,im exactly sure bug mi,6390,would great enable access array,relates
+1730,6844,remove shutup operator instead cr,6389,currently objectaccessor always e,relates
+1731,6459,past used template engine,6149,feature request first saw fu,duplicates
+1732,6142,possible set identity iden,6140,class schema exists type set,relates
+1733,6142,possible set identity iden,6140,class schema exists type set,relates
+1734,6120,need replacement lazy loading tha,3337,possible count object,blocks
+1735,6060,would cool single medium fiel,6398,configuration module damlightbox sh,relates
+1736,6008,resource object discarded relat,342,mvc framework need support file mult,relates
+1737,5967,htaccess work file would bet,72529,fal allows file folder restricted,relates
+1738,12637,currently display record grouped,5956,sometimes merging item list singl,duplicates
+1739,5849,need monitor setting probably l,3306,class containing route part handler,relates
+1740,5750,test file manipulation method,5785,streaming downloads advantage,relates
+1741,5785,streaming downloads advantage,7062,usage etag make sence tell,precedes
+1742,5750,test file manipulation method,5785,streaming downloads advantage,relates
+1743,5660,finally property mapper need suppo,342,mvc framework need support file mult,relates
+1744,27417,possible submit date,5660,finally property mapper need suppo,relates
+1745,66343,get feedback hotke,5390,would really nice keyboard co,relates
+1746,57065,easier usage behaviour norm,5390,would really nice keyboard co,relates
+1747,71306,decided protocol sele,5369,general inconsistency issue througho,relates
+1748,69351,configuring link target elementb,5341,user simple redactor dont know,relates
+1749,5341,user simple redactor dont know,24247,offer possibility open menu link,relates
+1750,78488,hey therernrnis solution,5341,user simple redactor dont know,relates
+1751,5111,overview module overview,4895,statistic information available,relates
+1752,5068,currently setting typically define,31277,discussed last code sprint sch,duplicates
+1753,2817,need mechanism prevents user fr,4960,scenariornrnthe developer programmed,relates
+1754,5111,overview module overview,4895,statistic information available,relates
+1755,4718,possible register custom view,4894,currently chart created equally e,relates
+1756,4718,possible register custom view,4894,currently chart created equally e,relates
+1757,4704,fluid parsing exception contain pa,9211,currently viewhelper throw exception,relates
+1758,37765,trying build link fluid,4704,fluid parsing exception contain pa,relates
+1759,35766,repeated declaration namespace,4472,currently custom view helper namespaces,duplicates
+1760,4469,currently provides command line interf,4426,distribution come easy use c,relates
+1761,6681,path php binary configura,4469,currently provides command line interf,relates
+1762,7216,im currently putting package tog,4469,currently provides command line interf,relates
+1763,4445,common grinch access right p,4279,setfilepermissionssh work curren,relates
+1764,4469,currently provides command line interf,4426,distribution come easy use c,relates
+1765,6681,path php binary configura,4426,distribution come easy use c,relates
+1766,7216,im currently putting package tog,4426,distribution come easy use c,relates
+1767,64093,would nice data provider sche,4387,itd useful way automatically,relates
+1768,83338,serializing clean potent,4387,itd useful way automatically,relates
+1769,4445,common grinch access right p,4279,setfilepermissionssh work curren,relates
+1770,4146,following validation make u,3933,domain model contains array member v,relates
+1771,3728,sometimes need receive variable numb,4146,following validation make u,relates
+1772,4112,make sense cli module,4108,rnthe following commandrnrnprerncli,blocks
+1773,4112,make sense cli module,4108,rnthe following commandrnrnprerncli,blocks
+1774,4146,following validation make u,3933,domain model contains array member v,relates
+1775,3728,sometimes need receive variable numb,4146,following validation make u,relates
+1776,3717,formviewhelper need new argument designa,1907,supply mechanism viewhelpe,relates
+1777,3581,need concept implementation flush,3649,usually upgrading one version,relates
+1778,3619,something like system policy,890,order running advice advice,relates
+1779,3581,need concept implementation flush,3649,usually upgrading one version,relates
+1780,3385,must possible ask fluidtemplateview,3382,fluid default templating engine,blocks
+1781,3385,must possible ask fluidtemplateview,3382,fluid default templating engine,blocks
+1782,6120,need replacement lazy loading tha,3337,possible count object,blocks
+1783,5849,need monitor setting probably l,3306,class containing route part handler,relates
+1784,3297,implement flash message,2819,provide view helper allows handlin,duplicates
+1785,3291,need concept cacheable viewhelpers,43457,idea add new argument render viewh,relates
+1786,60181,would nice way tell fl,3291,need concept cacheable viewhelpers,relates
+1787,3153,similar way decl,3092,possible define additional val,relates
+1788,3153,similar way decl,3092,possible define additional val,relates
+1789,3297,implement flash message,2819,provide view helper allows handlin,duplicates
+1790,2818,need mechanism prevents user fr,2817,need mechanism prevents user fr,duplicates
+1791,2817,need mechanism prevents user fr,4960,scenariornrnthe developer programmed,relates
+1792,2818,need mechanism prevents user fr,2817,need mechanism prevents user fr,duplicates
+1793,2733,hirnrnin revision added support,2042,beispiel da wort telefonrnrnich möchte,relates
+1794,1677,retrieve one single object repositor,2603,base repository provide magic,relates
+1795,2603,base repository provide magic,1676,would great base repository woul,duplicates
+1796,2408,similar automatic flushing refle,2305,similar automatic flushing refle,relates
+1797,2408,similar automatic flushing refle,2305,similar automatic flushing refle,relates
+1798,2110,object framework support custom fac,2109,currently possible pas construc,relates
+1799,2110,object framework support custom fac,2109,currently possible pas construc,relates
+1800,2733,hirnrnin revision added support,2042,beispiel da wort telefonrnrnich möchte,relates
+1801,3717,formviewhelper need new argument designa,1907,supply mechanism viewhelpe,relates
+1802,1835,imagine following structure deleted pag,1834,imagine record still available dat,relates
+1803,1835,imagine following structure deleted pag,1834,imagine record still available dat,relates
+1804,1787,currently fixed time ap,1785,expired cache entry even cache w,blocks
+1805,1786,cache entry need found tag,1199,although one store cache entry tag,duplicates
+1806,1787,currently fixed time ap,1785,expired cache entry even cache w,blocks
+1807,1677,retrieve one single object repositor,2603,base repository provide magic,relates
+1808,2603,base repository provide magic,1676,would great base repository woul,duplicates
+1809,1235,check somehow mod rewrite,87,add fallback server without mod rewrite,relates
+1810,704,im sure mind thought,1205,extension published automati,duplicates
+1811,1786,cache entry need found tag,1199,although one store cache entry tag,duplicates
+1812,1071,especially list extension,1070,lot extension,relates
+1813,1071,especially list extension,1070,lot extension,relates
+1814,3619,something like system policy,890,order running advice advice,relates
+1815,704,im sure mind thought,1205,extension published automati,duplicates
+1816,5660,finally property mapper need suppo,342,mvc framework need support file mult,relates
+1817,6008,resource object discarded relat,342,mvc framework need support file mult,relates
+1818,10680,use case content negotiatio,315,request object mainly webrequest,relates
+1819,1235,check somehow mod rewrite,87,add fallback server without mod rewrite,relates

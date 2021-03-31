@@ -1,0 +1,1221 @@
+,id1,Description1,id2,Description2,Type of dependency
+0,15628,hirnrnthis is not really bug but more of,17525,,relates
+1,15743,my understanding is that rubyvm is supposed,17500,rubyvm is traprn users will think from,relates
+2,15752,believe we should introduce module for exp,17500,rubyvm is traprn users will think from,relates
+3,17496,excuse me if this has been brought up before,4897,firstly please read the tau manifesto at,duplicates
+4,8804,how about to introduce once syntax which,17474,ruby has borrowed conceptsidioms from allot o,relates
+5,17273,this proposal is to introduce shareable con,17397,i think shareable constant value literal is,relates
+6,17384,hi allrnwhen used hashmerge thought,6225,strings and arrays can be combined with,duplicates
+7,17365,summary currently there is no good way to ret,17378,with discussion with marcandre we found good,relates
+8,15865,how about adding syntax for oneline pattern,17371,how about reintroducing expr in pat as akr,relates
+9,16355,currently single line pattern matchingexpr,17371,how about reintroducing expr in pat as akr,relates
+10,17365,summary currently there is no good way to ret,17378,with discussion with marcandre we found good,relates
+11,15973,when kernellambda receives proc that is not,17361,in newsrnrnrn kernellambda,relates
+12,10600,in multipleproducer multipleconsumer sit,17357,it is currently difficult to reliably distingu,relates
+13,15799,implemented the pipeline operator topi,17353,since ruby already moving in that directionfu,relates
+14,16794,while reading rassign and re,17353,since ruby already moving in that directionfu,relates
+15,17322,randomdefault default random generator u,17351,from,relates
+16,17336,problemrnwhen we need monkey patch whic,16241,the original discussion is here,duplicates
+17,12075,sometimes write following codernrnru,17330,as always with core method proposals don,relates
+18,17322,randomdefault default random generator u,17351,from,relates
+19,16987,enumerations are designed to be greedy immedi,17312,the offspring of which was too vague,relates
+20,15657,the maintenance of webrick is hard for the rub,17303,propose to move webrick to bundled gems or r,relates
+21,17292,set literal vs javascript object punningr,14579,how about to allow value omission in hash lite,duplicates
+22,17288,made patch to optimize send call w,17291,made patch to optimize send call,duplicates
+23,17288,made patch to optimize send call w,17291,made patch to optimize send call,duplicates
+24,13334,mathncomplex and mathnrational is deprec,17281,as mathn is deprecated canonicalization for,relates
+25,17273,this proposal is to introduce shareable con,17278,description rnrnthis proposal aims to,relates
+26,17145,id like to propose objectdeep freezern,17274,this ticket describes the semantics of sharea,relates
+27,17273,this proposal is to introduce shareable con,17274,this ticket describes the semantics of sharea,relates
+28,17273,this proposal is to introduce shareable con,17274,this ticket describes the semantics of sharea,relates
+29,17145,id like to propose objectdeep freezern,17273,this proposal is to introduce shareable con,relates
+30,17273,this proposal is to introduce shareable con,17278,description rnrnthis proposal aims to,relates
+31,17273,this proposal is to introduce shareable con,17397,i think shareable constant value literal is,relates
+32,14912,propose new pattern matching syntaxrnrn,17260,propose to promote pattern matching to offic,relates
+33,15504,abstractrnrnrange is currently nonfroze,17195,now all ranges are frozen,relates
+34,16381,this is followup to,17187,add connect timeout to tcpsocketnew in the sa,relates
+35,17134,add resolve timeout to tcpsocketnewrnit ma,17187,add connect timeout to tcpsocketnew in the sa,relates
+36,16752,defining private constant should not require,17171,rubyrnclass foorn def call mern,relates
+37,13381,,17147,object deserializer like json messagepack i,relates
+38,17147,object deserializer like json messagepack i,13077,introduce stringfstring methodrnrnthis ex,duplicates
+39,2509,beginrn like freezing my constants confi,17145,id like to propose objectdeep freezern,relates
+40,17100,ractor proposal for new concurrent abst,17145,id like to propose objectdeep freezern,relates
+41,17145,id like to propose objectdeep freezern,17274,this ticket describes the semantics of sharea,relates
+42,17145,id like to propose objectdeep freezern,17273,this proposal is to introduce shareable con,relates
+43,17055,these two verbose mode warnings are both fairl,17143,support was recently added for warningwarn to,relates
+44,16381,this is followup to,17134,add resolve timeout to tcpsocketnewrnit ma,relates
+45,17134,add resolve timeout to tcpsocketnewrnit ma,17187,add connect timeout to tcpsocketnew in the sa,relates
+46,16476,it seems like the blocking syscall done by so,17134,add resolve timeout to tcpsocketnewrnit ma,relates
+47,17133,kerneliterator was mildly deprecate sicne,15547,block given has been added since and,duplicates
+48,11588,rubys current warning system is lacking warn,17122,deprecation warnings and other warnings in rub,relates
+49,12026,this adds simple way to filter warnings from,17122,deprecation warnings and other warnings in rub,relates
+50,12299,this is another attempt to provide the same ty,17122,deprecation warnings and other warnings in rub,relates
+51,17100,ractor proposal for new concurrent abst,17145,id like to propose objectdeep freezern,relates
+52,17055,these two verbose mode warnings are both fairl,17143,support was recently added for warningwarn to,relates
+53,16345,we propose that ruby doesnt emit deprecation,17000,matz has decided to disable deprecation warnin,relates
+54,16989,am opening series of feature requests on,16995,this is quite minor but set should be r,relates
+55,16989,am opening series of feature requests on,16994,would like shorthand syntax for frozen se,relates
+56,16989,am opening series of feature requests on,16993,to create set from hash keys currently impli,relates
+57,16989,am opening series of feature requests on,16992,officially set elements have uncertain order,relates
+58,16989,am opening series of feature requests on,16991,id like to add join to setrnrnru,relates
+59,16989,am opening series of feature requests on,16990,we currently have set operator array work,relates
+60,16989,am opening series of feature requests on,16990,we currently have set operator array work,relates
+61,16989,am opening series of feature requests on,16991,id like to add join to setrnrnru,relates
+62,16989,am opening series of feature requests on,16992,officially set elements have uncertain order,relates
+63,16989,am opening series of feature requests on,16993,to create set from hash keys currently impli,relates
+64,16989,am opening series of feature requests on,16994,would like shorthand syntax for frozen se,relates
+65,16989,am opening series of feature requests on,16995,this is quite minor but set should be r,relates
+66,16987,enumerations are designed to be greedy immedi,17312,the offspring of which was too vague,relates
+67,14138,there are many good reasons to simply define a,16963,englishrb is no longer maintained by ruby cor,relates
+68,16945,would like to propose to create some way to,12543,how about introducing new syntax for tail ca,duplicates
+69,15198,frequently find myself needing to determine,16928,hirnrnthe ruby array class is currently m,relates
+70,16463,ruby is outrnit aims to warn for ever,16897,rubyrnrequire benchmarkipsrnrnmodu,relates
+71,16378,think this is very important otherwise,16891,based on feedback from railscore matz has de,relates
+72,11925,propose to make struct subclass constructors w,16806,proposalrnrnrbrnpost structnew,relates
+73,16794,while reading rassign and re,17353,since ruby already moving in that directionfu,relates
+74,16786,abstractrnrnwe propose to introduce li,16792,currently mutex in cruby is held per thread,relates
+75,16786,abstractrnrnwe propose to introduce li,16792,currently mutex in cruby is held per thread,relates
+76,14736,ruby concurrency can be greatly enhanced by co,16786,abstractrnrnwe propose to introduce li,relates
+77,16122,value object is useful concept introduc,16769,backgroundrnweve discussed interface to,relates
+78,16752,defining private constant should not require,17171,rubyrnclass foorn def call mern,relates
+79,5054,though as matz said at ruby is a,16746,ruby syntax is full of ends im paranoid t,relates
+80,5065,ive noticed issue subjecting an endal,16746,ruby syntax is full of ends im paranoid t,relates
+81,12241,this is refinement of feature,16746,ruby syntax is full of ends im paranoid t,relates
+82,8661,currently the way ruby prints backtrace is th,16684,the mostrecentcalllast order of backtrace i,relates
+83,13488,currently encodingdefault external is set to,16604,this issue is related to,relates
+84,12650,windows environment variables supports unicode,16604,this issue is related to,relates
+85,15393,hirnrni would like to add vm compilation,16600,contextrnrna somewhat common pattern w,relates
+86,16463,ruby is outrnit aims to warn for ever,16511,as an alternative to and id lik,relates
+87,15973,when kernellambda receives proc that is not,16499,from,relates
+88,15357,the current implementation of procparameters,16499,from,relates
+89,10637,encountered this issue while bringing up v,16482,right now nethttp forces the user to use cl,relates
+90,16381,this is followup to,16476,it seems like the blocking syscall done by so,relates
+91,16476,it seems like the blocking syscall done by so,17134,add resolve timeout to tcpsocketnewrnit ma,relates
+92,16038,know objectspaceweakmap isnt really sup,16471,id like to request two features for weakref,relates
+93,15958,when matz changed timeto format in fr,16470,ruby added nanosecond representation to th,relates
+94,16463,ruby is outrnit aims to warn for ever,16511,as an alternative to and id lik,relates
+95,16378,think this is very important otherwise,16463,ruby is outrnit aims to warn for ever,relates
+96,16463,ruby is outrnit aims to warn for ever,16897,rubyrnrequire benchmarkipsrnrnmodu,relates
+97,12086,currently refinements can be activated only in,16461,overviewrni propose procusing to support,relates
+98,16441,the method is just like take while but als,16446,led me to think about the issue more ge,relates
+99,16441,the method is just like take while but als,16446,led me to think about the issue more ge,relates
+100,16363,the did you mean gem has been bundled gem,16431,just have opened pr which allows ruby t,relates
+101,16430,im not sure if this is intentional in which,6810,is this the expected behavior to me it is ra,duplicates
+102,15751,similar to nameerrorreceiver this returns,16419,other exception classes with receiver accept r,relates
+103,16101,in feature,16412,procto returns fileline instead of,relates
+104,16381,this is followup to,16476,it seems like the blocking syscall done by so,relates
+105,15553,currently we use timeout in nethttp and oth,16381,this is followup to,relates
+106,16381,this is followup to,17134,add resolve timeout to tcpsocketnewrnit ma,relates
+107,16381,this is followup to,17187,add connect timeout to tcpsocketnew in the sa,relates
+108,16253,what about using thisrnrnrubyrn def,16378,think this is very important otherwise,relates
+109,16378,think this is very important otherwise,16891,based on feedback from railscore matz has de,relates
+110,16378,think this is very important otherwise,16463,ruby is outrnit aims to warn for ever,relates
+111,16377,the following scriptrnrnrubyrndef mu,8948,beginrni see that frozen string was accepte,duplicates
+112,16355,currently single line pattern matchingexpr,16370,wrote this codernrn rubyrnn,relates
+113,16363,the did you mean gem has been bundled gem,16431,just have opened pr which allows ruby t,relates
+114,14145,the idea when investigating in example scrip,16356,current behavior includes rnis th,relates
+115,15865,how about adding syntax for oneline pattern,16355,currently single line pattern matchingexpr,relates
+116,16355,currently single line pattern matchingexpr,16370,wrote this codernrn rubyrnn,relates
+117,16355,currently single line pattern matchingexpr,17371,how about reintroducing expr in pat as akr,relates
+118,16289,problemrnrncurrently the interpreter e,16345,we propose that ruby doesnt emit deprecation,relates
+119,16018,since we have moduledeprecate consta,16345,we propose that ruby doesnt emit deprecation,relates
+120,16345,we propose that ruby doesnt emit deprecation,17000,matz has decided to disable deprecation warnin,relates
+121,16253,what about using thisrnrnrubyrn def,16296,in we settled on syntax where the rem,relates
+122,16289,problemrnrncurrently the interpreter e,16345,we propose that ruby doesnt emit deprecation,relates
+123,16276,private or protected declarations in ruby clas,7019,like to indent my private methods one level,duplicates
+124,12125,hellornrnthe operator lets one pass a,16275,objmethod is introduced at by,relates
+125,13581,some another programming languages even java,16275,objmethod is introduced at by,relates
+126,4539,inspired by haskells zipwith function ha,16261,upd after discussion in comments method,relates
+127,5044,is there any reason that zip doesnt return r,16261,upd after discussion in comments method,relates
+128,16253,what about using thisrnrnrubyrn def,16296,in we settled on syntax where the rem,relates
+129,16253,what about using thisrnrnrubyrn def,16378,think this is very important otherwise,relates
+130,14344,rely on refinements lot but dont want to,16241,the original discussion is here,relates
+131,17336,problemrnwhen we need monkey patch whic,16241,the original discussion is here,duplicates
+132,16240,rnas work with objects some of them are n,4818,some objects can not be marshaled maybe there,duplicates
+133,15865,how about adding syntax for oneline pattern,16182,in new syntax expr in pattern,relates
+134,5481,beginrnrnuptodate summary of this propo,16170,im working to extract standard libraries to r,relates
+135,16150,much of the time when user calls to they,16153,freezing strings can give us nice performanc,relates
+136,16150,much of the time when user calls to they,16153,freezing strings can give us nice performanc,relates
+137,15998,patch,16131,ruby had taint checking which is originally in,relates
+138,8468,yesterday at github tokyo drinkup thanks gi,16131,ruby had taint checking which is originally in,relates
+139,16123,problemrnrnthere is an inconsistency be,11297,ruby does not allow private method to be calle,duplicates
+140,16122,value object is useful concept introduc,16769,backgroundrnweve discussed interface to,relates
+141,14145,the idea when investigating in example scrip,16101,in feature,relates
+142,16101,in feature,16412,procto returns fileline instead of,relates
+143,11105,why not support hash literals,16095,common usern rubyrnclass arn de,relates
+144,16038,know objectspaceweakmap isnt really sup,16471,id like to request two features for weakref,relates
+145,16029,as discussed with tenderlove here,13381,,duplicates
+146,16018,since we have moduledeprecate consta,16345,we propose that ruby doesnt emit deprecation,relates
+147,12447,sometimes want to extract digits of placeva,16011,ruby seems to have no way to format number w,relates
+148,16006,in nonproportional font multibyte characters,14618,abstractrnrnunicode has display width d,duplicates
+149,15998,patch,16131,ruby had taint checking which is originally in,relates
+150,15931,rubyとjavaのブリッジを開発していて文字列の変換処理で困っていますrn現象,15995,as discussed in issue encoding convers,relates
+151,12046,now we should write an accessor method of bo,15991,hirnrni thought such an issue wouldve al,relates
+152,5781,pretty sure this has come up before but id l,15991,hirnrni thought such an issue wouldve al,relates
+153,15976,this is semantically equivalent to ar,15198,frequently find myself needing to determine,duplicates
+154,12957,currently to create lambda proc one has to u,15973,when kernellambda receives proc that is not,relates
+155,7314,have code where need to convert proc to,15973,when kernellambda receives proc that is not,relates
+156,9777,currently different block objects such as la,15973,when kernellambda receives proc that is not,relates
+157,8693,def yield end def,15973,when kernellambda receives proc that is not,relates
+158,15973,when kernellambda receives proc that is not,16499,from,relates
+159,15973,when kernellambda receives proc that is not,17361,in newsrnrnrn kernellambda,relates
+160,15752,believe we should introduce module for exp,15966,feel frustrated with some recent experimenta,relates
+161,15958,when matz changed timeto format in fr,16470,ruby added nanosecond representation to th,relates
+162,5958,propose the method threadgroupjoinrnca,15954,現在いるスレッド以外の全てのスレッドを現在のスレッドに合流させたいときは多いと思いますr,relates
+163,15931,rubyとjavaのブリッジを開発していて文字列の変換処理で困っていますrn現象,15995,as discussed in issue encoding convers,relates
+164,15799,implemented the pipeline operator topi,15921,from,relates
+165,14912,propose new pattern matching syntaxrnrn,15918,currently set does not respond to deconstr,relates
+166,15230,id like feature to know what will be loaded,15903,rubyvm contains mostly mrispecific features b,relates
+167,15752,believe we should introduce module for exp,15903,rubyvm contains mostly mrispecific features b,relates
+168,14912,propose new pattern matching syntaxrnrn,15881,rubyrnclass arn def deconstructrn,relates
+169,14912,propose new pattern matching syntaxrnrn,15865,how about adding syntax for oneline pattern,relates
+170,15865,how about adding syntax for oneline pattern,16182,in new syntax expr in pattern,relates
+171,15865,how about adding syntax for oneline pattern,16355,currently single line pattern matchingexpr,relates
+172,15865,how about adding syntax for oneline pattern,17371,how about reintroducing expr in pat as akr,relates
+173,8499,according to my experiences the following two,15863,add hashslicernrnin,relates
+174,14035,reproducernrnexecute urifileetc,15861,recently ruby has getting better at parsing ur,relates
+175,14912,propose new pattern matching syntaxrnrn,15824,rubyに追加されそうなパターンマッチの機能についてrninterger arr,relates
+176,13563,hirnrni propose hashchoice methodrnr,15822,according to hashslice would like to add,relates
+177,15822,according to hashslice would like to add,8499,according to my experiences the following two,duplicates
+178,15814,in ruby when casewhen statement is written,14912,propose new pattern matching syntaxrnrn,duplicates
+179,10425,method near like the following would be u,15811,backgroundrnrnequal comparison method be,relates
+180,15799,implemented the pipeline operator topi,15921,from,relates
+181,14392,would like to see implemented in ruby pipe,15799,implemented the pipeline operator topi,relates
+182,15799,implemented the pipeline operator topi,17353,since ruby already moving in that directionfu,relates
+183,15743,my understanding is that rubyvm is supposed,15752,believe we should introduce module for exp,relates
+184,15752,believe we should introduce module for exp,15903,rubyvm contains mostly mrispecific features b,relates
+185,15752,believe we should introduce module for exp,15966,feel frustrated with some recent experimenta,relates
+186,14844,hi thanks for all your great work on the ruby,15752,believe we should introduce module for exp,relates
+187,15752,believe we should introduce module for exp,17500,rubyvm is traprn users will think from,relates
+188,15751,similar to nameerrorreceiver this returns,16419,other exception classes with receiver accept r,relates
+189,15743,my understanding is that rubyvm is supposed,15752,believe we should introduce module for exp,relates
+190,15743,my understanding is that rubyvm is supposed,17500,rubyvm is traprn users will think from,relates
+191,15195,as most people in japan should know by now,15742,reproduce,relates
+192,12240,often improvements about implicit block argume,15741,numbered parameters have been introduced into,relates
+193,12648,would like to pass an optional argument to,15725,hellornrni would like to propose four new,relates
+194,14759,not everybody benefits from jemalloc and the e,15667,per honglis excellent article it looks like m,relates
+195,5481,beginrnrnuptodate summary of this propo,15657,the maintenance of webrick is hard for the rub,relates
+196,15657,the maintenance of webrick is hard for the rub,17303,propose to move webrick to bundled gems or r,relates
+197,15628,hirnrnthis is not really bug but more of,17525,,relates
+198,5653,hirn rntoday talked with nahi about en,15592,how about feature to switch autoload behav,relates
+199,15563,ruby introduced dig for array has,12282,new feature for your consideration dig wh,duplicates
+200,15563,ruby introduced dig for array has,14602,currently if have hash like thisrnrn,duplicates
+201,13807,frequently see code that uses some value if,15557,often see code like thisrnrn rubyr,relates
+202,10499,procnew and kernelproc have little known f,15554,abstractrnrnwarn or raise an argumenterr,copied_to
+203,14430,instead of using tcpsocketopen wrapped in ti,15553,currently we use timeout in nethttp and oth,relates
+204,15553,currently we use timeout in nethttp and oth,16381,this is followup to,relates
+205,17133,kerneliterator was mildly deprecate sicne,15547,block given has been added since and,duplicates
+206,15504,abstractrnrnrange is currently nonfroze,17195,now all ranges are frozen,relates
+207,15393,hirnrni would like to add vm compilation,16600,contextrnrna somewhat common pattern w,relates
+208,15357,the current implementation of procparameters,16499,from,relates
+209,8468,yesterday at github tokyo drinkup thanks gi,15344,would like to start discussion relating to,relates
+210,12460,currently the unicode version used in speci,15341,the emoji version is different from the unicod,relates
+211,15341,the emoji version is different from the unicod,15182,reported by naruse yui naruse at,blocks
+212,5663,it is pretty common to want to map over an en,15323,this is proposal for combined filter,relates
+213,14802,unicode version will be published somet,15321,unicode version will be published in,blocks
+214,15321,unicode version will be published in,15195,as most people in japan should know by now,blocks
+215,15317,,14802,unicode version will be published somet,blocks
+216,15301,in one reddit discussion ive got stuck with t,12115,am great fan of the symbolto proc short,duplicates
+217,15236,pr in github,15286,this is suggestion for hash shorthandrn,relates
+218,15236,pr in github,15286,this is suggestion for hash shorthandrn,relates
+219,15236,pr in github,11105,why not support hash literals,duplicates
+220,15230,id like feature to know what will be loaded,15903,rubyvm contains mostly mrispecific features b,relates
+221,11925,propose to make struct subclass constructors w,15222,with ruby struct subclasses can have dif,relates
+222,15215,current behavior and problemrnat the mo,5180,通常 nethttp を使う時はnethttpstartrubylango,duplicates
+223,15198,frequently find myself needing to determine,16928,hirnrnthe ruby array class is currently m,relates
+224,15976,this is semantically equivalent to ar,15198,frequently find myself needing to determine,duplicates
+225,15195,as most people in japan should know by now,15742,reproduce,relates
+226,15321,unicode version will be published in,15195,as most people in japan should know by now,blocks
+227,12820,hellornrnthe patternrnrnrubyrnc,15192,motivationrnrnintroduce new syntax for,relates
+228,15192,motivationrnrnintroduce new syntax for,5825,im very excited about this feature in coffees,duplicates
+229,15182,reported by naruse yui naruse at,14802,unicode version will be published somet,blocks
+230,15341,the emoji version is different from the unicod,15182,reported by naruse yui naruse at,blocks
+231,15143,often we call arrayto to the result of,10208,now that we can convert list of key value,duplicates
+232,14609,abstractrnrnkernelpobj prints obj,15112,sometimes write stderrputs objinspect to,relates
+233,15092,rni would like to propose making changes to,13904,at,duplicates
+234,11925,propose to make struct subclass constructors w,15076,when struct is used to instantiate object with,relates
+235,14022,after joining the elements of an array into,15024,think it could be handy to have block suppor,relates
+236,14830,this ticket is picking only mjitpause from ht,14954,problemrnto measure an mjitgenerated cod,relates
+237,10797,moduleconst defined takes an optional argu,14944,module has many introspection methods for meth,duplicates
+238,14915,this method is system and implementation depen,14940,related to this adds bcrypt password h,relates
+239,14869,概要rnrnhash を追加する提案になりますrnrn,14916,概要rnrnarray を追加する提案になりますrn基本的な,relates
+240,14913,this proposal is part of the search for how pa,14916,概要rnrnarray を追加する提案になりますrn基本的な,relates
+241,14915,this method is system and implementation depen,14940,related to this adds bcrypt password h,relates
+242,14913,this proposal is part of the search for how pa,14916,概要rnrnarray を追加する提案になりますrn基本的な,relates
+243,14709,on rubykaigi there was presentation,14912,propose new pattern matching syntaxrnrn,relates
+244,14912,propose new pattern matching syntaxrnrn,15865,how about adding syntax for oneline pattern,relates
+245,14912,propose new pattern matching syntaxrnrn,15918,currently set does not respond to deconstr,relates
+246,14912,propose new pattern matching syntaxrnrn,15881,rubyrnclass arn def deconstructrn,relates
+247,14912,propose new pattern matching syntaxrnrn,15824,rubyに追加されそうなパターンマッチの機能についてrninterger arr,relates
+248,14912,propose new pattern matching syntaxrnrn,17260,propose to promote pattern matching to offic,relates
+249,15814,in ruby when casewhen statement is written,14912,propose new pattern matching syntaxrnrn,duplicates
+250,14869,概要rnrnhash を追加する提案になりますrnrn,14916,概要rnrnarray を追加する提案になりますrn基本的な,relates
+251,14844,hi thanks for all your great work on the ruby,15752,believe we should introduce module for exp,relates
+252,14839,this is request for feedback in particular,14802,unicode version will be published somet,blocks
+253,14830,this ticket is picking only mjitpause from ht,14954,problemrnto measure an mjitgenerated cod,relates
+254,14491,issuernrndoing careful analysis of mji,14830,this ticket is picking only mjitpause from ht,precedes
+255,13685,unicode was published about week ago,14802,unicode version will be published somet,relates
+256,14839,this is request for feedback in particular,14802,unicode version will be published somet,blocks
+257,15182,reported by naruse yui naruse at,14802,unicode version will be published somet,blocks
+258,15317,,14802,unicode version will be published somet,blocks
+259,14802,unicode version will be published somet,15321,unicode version will be published in,blocks
+260,7003,lets make it sure therell be no mvm in,14792,this is an old problem maybe running multip,relates
+261,12092,this allows creating modified clones of frozen,14778,id like to use objectdup with block whi,relates
+262,14759,not everybody benefits from jemalloc and the e,15667,per honglis excellent article it looks like m,relates
+263,13618,rnauto fiber schedule for rb wait for sin,14736,ruby concurrency can be greatly enhanced by co,relates
+264,14736,ruby concurrency can be greatly enhanced by co,16786,abstractrnrnwe propose to introduce li,relates
+265,13767,in order for ruby to be used in more scientifi,14722,is there way to implement or even copy pyth,relates
+266,14709,on rubykaigi there was presentation,14912,propose new pattern matching syntaxrnrn,relates
+267,14706,ruby does not any threadsafe way to implement,12607,this one was derived from bug,duplicates
+268,12912,why dont you allow range without end like,14697,in enumeratorarithmeticsequence ha,relates
+269,14696,so original dst is defined atrn,6394,in linux so original dst provides the origina,duplicates
+270,13241,this is currently an exploratory proposalr,14618,abstractrnrnunicode has display width d,relates
+271,16006,in nonproportional font multibyte characters,14618,abstractrnrnunicode has display width d,duplicates
+272,14609,abstractrnrnkernelpobj prints obj,15112,sometimes write stderrputs objinspect to,relates
+273,14602,currently if have hash like thisrnrn,12282,new feature for your consideration dig wh,duplicates
+274,15563,ruby introduced dig for array has,14602,currently if have hash like thisrnrn,duplicates
+275,11105,why not support hash literals,14579,how about to allow value omission in hash lite,relates
+276,17292,set literal vs javascript object punningr,14579,how about to allow value omission in hash lite,duplicates
+277,12996,the proposal is that range optimize by red,14575,this is conscious duplicate of the bug,relates
+278,14575,this is conscious duplicate of the bug,12612,currently range is an alias of includ,duplicates
+279,11741,git to svnrnrnconverting ruby wholesale,14551,know migrating to git get asked at least eve,relates
+280,4910,suggest to add these two to class classr,14498,hellornrni was creating list of class i,relates
+281,14489,currently on discourse boot notice few min,14492,rn and not in rubygem like yomikomu,relates
+282,14491,issuernrndoing careful analysis of mji,14830,this ticket is picking only mjitpause from ht,precedes
+283,14489,currently on discourse boot notice few min,14492,rn and not in rubygem like yomikomu,relates
+284,7639,when we chain methods with the period at the e,14463,coming from other languages find it extre,relates
+285,8158,use lightweight structure for loaded features,14460,hirnrnive attached patch that speeds u,relates
+286,14443,when gsub takes hash as the second ar,13016,background wanted to drop nkf dependency of,duplicates
+287,14430,instead of using tcpsocketopen wrapped in ti,15553,currently we use timeout in nethttp and oth,relates
+288,11541,since ruby def returns symbol with th,14397,matsudasan suggested me that public prote,relates
+289,14396,matsudasan suggested me that public prote,14397,matsudasan suggested me that public prote,duplicates
+290,14396,matsudasan suggested me that public prote,14397,matsudasan suggested me that public prote,duplicates
+291,14392,would like to see implemented in ruby pipe,15799,implemented the pipeline operator topi,relates
+292,14344,rely on refinements lot but dont want to,16241,the original discussion is here,relates
+293,14045,backgroundrnrnif we need to pass given b,14267,the following script consistently prints proc,relates
+294,14250,safe is removed from ruby and there,14256,see,relates
+295,14250,safe is removed from ruby and there,14256,see,relates
+296,14138,there are many good reasons to simply define a,14240,think the four special variables for separat,relates
+297,5977,hellornrnas mentioned at rubyconf wo,14240,think the four special variables for separat,relates
+298,12589,hello id like to start big mri project,14235,backgroundrnrnin,relates
+299,14197,all any none and one accept,11286,proposalrnit is proposed that enumerable,relates
+300,14158,the racc parser that is included in mri ruby c,9456,as you can see,relates
+301,14111,日本人じゃないですが日本語を勉強してますから日本語でレポートしてみましたrn日本語,14145,the idea when investigating in example scrip,relates
+302,14145,the idea when investigating in example scrip,16101,in feature,relates
+303,14145,the idea when investigating in example scrip,16356,current behavior includes rnis th,relates
+304,14138,there are many good reasons to simply define a,14240,think the four special variables for separat,relates
+305,14138,there are many good reasons to simply define a,16963,englishrb is no longer maintained by ruby cor,relates
+306,14133,modules and classes can be reopened and change,14132,modules and classes can be reopened and change,relates
+307,14133,modules and classes can be reopened and change,6539,feel there are inconsistencies in which meth,relates
+308,14132,modules and classes can be reopened and change,6539,feel there are inconsistencies in which meth,relates
+309,14133,modules and classes can be reopened and change,14132,modules and classes can be reopened and change,relates
+310,14111,日本人じゃないですが日本語を勉強してますから日本語でレポートしてみましたrn日本語,14145,the idea when investigating in example scrip,relates
+311,14097,currently there is concat method in ruby whi,14105,not sure if should also add feautures for th,relates
+312,14097,currently there is concat method in ruby whi,14105,not sure if should also add feautures for th,relates
+313,14055,the following string and symbol methods are cu,12786,descriptionrnrni would find stringcasecmp,relates
+314,11256,since capturing block into proc is slow f,14045,backgroundrnrnif we need to pass given b,relates
+315,14045,backgroundrnrnif we need to pass given b,14267,the following script consistently prints proc,relates
+316,14044,as described in numonarray and pycal,13904,at,relates
+317,3714,beginrn given an enumerator there is no wa,14044,as described in numonarray and pycal,relates
+318,9049,for nmatrix weve implemented range shortha,14044,as described in numonarray and pycal,relates
+319,14042,hi rnrnive attached patch to make iop,9323,propose addition of iowritevrnit enables,relates
+320,14042,hi rnrnive attached patch to make iop,9420,since we added use of writev in we sho,duplicates
+321,14035,reproducernrnexecute urifileetc,15861,recently ruby has getting better at parsing ur,relates
+322,14022,after joining the elements of an array into,15024,think it could be handy to have block suppor,relates
+323,14007,propose and attach patch to add mode,11258,just saw which containsrnrnbut,duplicates
+324,13984,currently bigdecimal instances are not frozen,13985,since truefalsenilintegerfloat jus,relates
+325,13985,since truefalsenilintegerfloat jus,12979,this is proposal resulting from discussion,relates
+326,13985,since truefalsenilintegerfloat jus,13983,since they basically are value typesrnthey,relates
+327,13984,currently bigdecimal instances are not frozen,13985,since truefalsenilintegerfloat jus,relates
+328,13985,since truefalsenilintegerfloat jus,13983,since they basically are value typesrnthey,relates
+329,13969,dir has class method pairs direntries d,11302,direntries returns an array of its content wi,relates
+330,12010,direach and dirread including direntr,13969,dir has class method pairs direntries d,relates
+331,14044,as described in numonarray and pycal,13904,at,relates
+332,13904,at,3714,beginrn given an enumerator there is no wa,duplicates
+333,15092,rni would like to propose making changes to,13904,at,duplicates
+334,9508,since the coverage extension was introduced in,13901,plan to add branch coverage and method c,relates
+335,12698,there is frequent need to delete substring f,13890,currently stringcount only accepts strings,relates
+336,13847,if you try to use some default gems with fix,10320,when requiring library global namespace alw,relates
+337,13807,frequently see code that uses some value if,15557,often see code like thisrnrn rubyr,relates
+338,13109,when using refinements in one file the using,13805,refinements are currently lexically scoped wh,relates
+339,13789,if having new direntries dirchidren wo,11302,direntries returns an array of its content wi,relates
+340,13784,ruby has full set of functional tools in the,5663,it is pretty common to want to map over an en,relates
+341,13767,in order for ruby to be used in more scientifi,14722,is there way to implement or even copy pyth,relates
+342,13765,proc has curry,6817,know that what propose here is significa,relates
+343,13765,proc has curry,7939,beginrni really like the new assuming,relates
+344,13731,でwindowsでのinodeの代用としてby handle file inf,13726,at present believe windows builds have inte,relates
+345,13731,でwindowsでのinodeの代用としてby handle file inf,13726,at present believe windows builds have inte,relates
+346,3388,beginrn abcdefghijstar,13712,stringstart with should receive regexprn,relates
+347,13694,today june is tau day to honor the t,4897,firstly please read the tau manifesto at,relates
+348,13685,unicode was published about week ago,12513,unicode was just published yesterday see,relates
+349,13685,unicode was published about week ago,14802,unicode version will be published somet,relates
+350,13645,proposalrnrnwhile it works and makes sen,11813,now we have the safe navigation operator,duplicates
+351,13618,rnauto fiber schedule for rb wait for sin,14736,ruby concurrency can be greatly enhanced by co,relates
+352,13613,backgroundrnrn,5980,currently encountering too many open file hand,relates
+353,13600,one of the main use cases that would make yie,6284,it would be nice to be able to compose procs l,relates
+354,13588,when implementing an iolike object id like,11094,was originally defined with codespace,relates
+355,13581,some another programming languages even java,16275,objmethod is introduced at by,relates
+356,13581,some another programming languages even java,12125,hellornrnthe operator lets one pass a,duplicates
+357,13577,first argument is file,13568,by using filetmpfile tmpfile allows us t,relates
+358,13577,first argument is file,13568,by using filetmpfile tmpfile allows us t,relates
+359,13563,hirnrni propose hashchoice methodrnr,8499,according to my experiences the following two,relates
+360,13563,hirnrni propose hashchoice methodrnr,15822,according to hashslice would like to add,relates
+361,11541,since ruby def returns symbol with th,13560,hirnrnim suggesting all moduleattr,relates
+362,13560,hirnrnim suggesting all moduleattr,9453,with ruby returning symbol from def an,duplicates
+363,13559,hirnrnplease reconsider implementation of,12760,thats an another attempt to choose good metap,duplicates
+364,13488,currently encodingdefault external is set to,16604,this issue is related to,relates
+365,13395,there does not seem to be method in ruby to,12075,sometimes write following codernrnru,relates
+366,13381,,17147,object deserializer like json messagepack i,relates
+367,16029,as discussed with tenderlove here,13381,,duplicates
+368,13335,mathn is deprecated feature from ye,10169,englishrnrnas mentioned in,relates
+369,13334,mathncomplex and mathnrational is deprec,10169,englishrnrnas mentioned in,relates
+370,13334,mathncomplex and mathnrational is deprec,17281,as mathn is deprecated canonicalization for,relates
+371,13272,when we define subclass of struct it take a,11925,propose to make struct subclass constructors w,duplicates
+372,13261,this issue is tracking for gem release of sdbm,5481,beginrnrnuptodate summary of this propo,relates
+373,13248,this issue is tracking for gem release of gdbm,5481,beginrnrnuptodate summary of this propo,relates
+374,13201,this issue is tracking for gem release of dbm,13248,this issue is tracking for gem release of gdbm,relates
+375,13244,id like to suggestrnto enhance the interfac,12224,when use logger class very often or mayb,duplicates
+376,13241,this is currently an exploratory proposalr,13240,for unicode property checks eg phiragan,relates
+377,13241,this is currently an exploratory proposalr,14618,abstractrnrnunicode has display width d,relates
+378,13241,this is currently an exploratory proposalr,13240,for unicode property checks eg phiragan,relates
+379,13213,this issue is tracking for gem release of scan,5481,beginrnrnuptodate summary of this propo,relates
+380,12906,when you want to rescue in block you must d,13212,blocks are ubiquitous in ruby world theres a,duplicates
+381,13201,this issue is tracking for gem release of dbm,5481,beginrnrnuptodate summary of this propo,relates
+382,13201,this issue is tracking for gem release of dbm,13248,this issue is tracking for gem release of gdbm,relates
+383,13199,this issue is tracking for gem release of stri,5481,beginrnrnuptodate summary of this propo,relates
+384,13197,this issue is tracking for gem release of file,5481,beginrnrnuptodate summary of this propo,relates
+385,13186,this issue is tracking for gem release of zlib,5481,beginrnrnuptodate summary of this propo,relates
+386,13183,this issue is tracking for gem release of date,5481,beginrnrnuptodate summary of this propo,relates
+387,13182,this issue is tracking for gem release of cmat,5481,beginrnrnuptodate summary of this propo,relates
+388,13179,came across scenario where needed the ab,11747,in matzs recent rubyconf talk he used this e,duplicates
+389,13177,this issue is tracking for gem release of csv,5481,beginrnrnuptodate summary of this propo,relates
+390,13173,this issue is tracking for gem release of webr,5481,beginrnrnuptodate summary of this propo,relates
+391,13172,hi everyonernrntheres tap method t,10095,weve had so many times of feature requests fo,duplicates
+392,13172,hi everyonernrntheres tap method t,11717,objecttrap can be thought as useful counter,duplicates
+393,13172,hi everyonernrntheres tap method t,12760,thats an another attempt to choose good metap,duplicates
+394,13137,the update to javascript added object shor,11105,why not support hash literals,relates
+395,13109,when using refinements in one file the using,13805,refinements are currently lexically scoped wh,relates
+396,17147,object deserializer like json messagepack i,13077,introduce stringfstring methodrnrnthis ex,duplicates
+397,13067,propose to make trueclass falseclass to,11286,proposalrnit is proposed that enumerable,relates
+398,13056,proposal of base option to dirglob meth,7360,currently there is only pathnameglob method,blocks
+399,14443,when gsub takes hash as the second ar,13016,background wanted to drop nkf dependency of,duplicates
+400,13006,hello am right now having difficulties to u,6647,many applications and users have dealt with,relates
+401,12996,the proposal is that range optimize by red,12612,currently range is an alias of includ,relates
+402,12996,the proposal is that range optimize by red,14575,this is conscious duplicate of the bug,relates
+403,13985,since truefalsenilintegerfloat jus,12979,this is proposal resulting from discussion,relates
+404,12978,as the developers meeting today proposed syn,12963,now symbol as keyword argument is often used,relates
+405,12973,require relative speeds up loading of files by,8781,wrote attached small script rrcrb stand,relates
+406,12968,kernel provides the global conversion functi,12732,would like to be able to pass an option to,relates
+407,12978,as the developers meeting today proposed syn,12963,now symbol as keyword argument is often used,relates
+408,12957,currently to create lambda proc one has to u,7314,have code where need to convert proc to,relates
+409,12957,currently to create lambda proc one has to u,15973,when kernellambda receives proc that is not,relates
+410,12928,rncurrent nethttp and netpop use timeoutt,12435,hey all ive got pull request at,relates
+411,12921,if env have some like,10652,get user and pass from variable whe,relates
+412,12921,if env have some like,6546,nahi suggested request the os environment h,duplicates
+413,12912,why dont you allow range without end like,14697,in enumeratorarithmeticsequence ha,relates
+414,12906,when you want to rescue in block you must d,7882,the keywords rescue else and ensure can,duplicates
+415,12906,when you want to rescue in block you must d,11337,while its possible to have rescues without b,duplicates
+416,12906,when you want to rescue in block you must d,12623,hi therernrntheres pretty nice feature t,duplicates
+417,12906,when you want to rescue in block you must d,13212,blocks are ubiquitous in ruby world theres a,duplicates
+418,12820,hellornrnthe patternrnrnrubyrnc,15192,motivationrnrnintroduce new syntax for,relates
+419,12820,hellornrnthe patternrnrnrubyrnc,5825,im very excited about this feature in coffees,duplicates
+420,12820,hellornrnthe patternrnrnrubyrnc,8563,often times people want to assign given argum,duplicates
+421,12820,hellornrnthe patternrnrnrubyrnc,12023,ive found myself writing lot of code simila,duplicates
+422,12820,hellornrnthe patternrnrnrubyrnc,12578,when first saw the instance assignments in c,duplicates
+423,14055,the following string and symbol methods are cu,12786,descriptionrnrni would find stringcasecmp,relates
+424,12760,thats an another attempt to choose good metap,6721,rni think the following method is missing fr,duplicates
+425,12760,thats an another attempt to choose good metap,6684,beginrnobjectdornthis is my first post,duplicates
+426,12760,thats an another attempt to choose good metap,7388,beginrnfrom githubrn,duplicates
+427,12760,thats an another attempt to choose good metap,10095,weve had so many times of feature requests fo,duplicates
+428,12760,thats an another attempt to choose good metap,11717,objecttrap can be thought as useful counter,duplicates
+429,13172,hi everyonernrntheres tap method t,12760,thats an another attempt to choose good metap,duplicates
+430,13559,hirnrnplease reconsider implementation of,12760,thats an another attempt to choose good metap,duplicates
+431,6802,ruby should have method to obtain not an array,12745,simplified and stupid example replace som,relates
+432,5749,the string class should contain an instance me,12745,simplified and stupid example replace som,relates
+433,5606,文字列上の正規表現に一致する場所のoffsetを順に処理できるようなrnイテレータが欲し,12745,simplified and stupid example replace som,relates
+434,12739,how about class object deprecate constant f,12005,cruby has two integer classes fixnum and,relates
+435,12737,how about to provide moduledefined refinement,9704,if refinements are to remain filescoped then,relates
+436,12968,kernel provides the global conversion functi,12732,would like to be able to pass an option to,relates
+437,12698,there is frequent need to delete substring f,13890,currently stringcount only accepts strings,relates
+438,12697,methods like alias method attr accessor defi,8846,propose changing moduleinclude to public,relates
+439,12697,methods like alias method attr accessor defi,6539,feel there are inconsistencies in which meth,relates
+440,12694,often write codes likernrnrubyrnst,6842,beginrnone of the very few things miss fr,duplicates
+441,12650,windows environment variables supports unicode,16604,this issue is related to,relates
+442,12648,would like to pass an optional argument to,15725,hellornrni would like to propose four new,relates
+443,12638,it is my understanding thatrnrnrnvma,9451,not sure if this is bug or feature request,duplicates
+444,12623,hi therernrntheres pretty nice feature t,7882,the keywords rescue else and ensure can,duplicates
+445,12906,when you want to rescue in block you must d,12623,hi therernrntheres pretty nice feature t,duplicates
+446,12996,the proposal is that range optimize by red,12612,currently range is an alias of includ,relates
+447,14575,this is conscious duplicate of the bug,12612,currently range is an alias of includ,duplicates
+448,12607,this one was derived from bug,12463,from,relates
+449,14706,ruby does not any threadsafe way to implement,12607,this one was derived from bug,duplicates
+450,12589,hello id like to start big mri project,14235,backgroundrnrnin,relates
+451,12578,when first saw the instance assignments in c,5825,im very excited about this feature in coffees,duplicates
+452,12578,when first saw the instance assignments in c,8563,often times people want to assign given argum,duplicates
+453,12578,when first saw the instance assignments in c,12023,ive found myself writing lot of code simila,duplicates
+454,12820,hellornrnthe patternrnrnrubyrnc,12578,when first saw the instance assignments in c,duplicates
+455,12546,unicodenormalizeunicode version is defined i,12460,currently the unicode version used in speci,relates
+456,12543,how about introducing new syntax for tail ca,6602,hirnrnsome hours ago matz proposed turni,relates
+457,16945,would like to propose to create some way to,12543,how about introducing new syntax for tail ca,duplicates
+458,13685,unicode was published about week ago,12513,unicode was just published yesterday see,relates
+459,12512,think value transformation is fundamental,7793,it would be nice to have the following methods,relates
+460,12512,think value transformation is fundamental,6669,given hash hmap returns an arrayali,relates
+461,12512,think value transformation is fundamental,8951,please see this thread,relates
+462,12512,think value transformation is fundamental,9635,there should be way to directly map hash t,relates
+463,12512,think value transformation is fundamental,9970,these methods simplify two common patterns whe,relates
+464,10208,now that we can convert list of key value,12512,think value transformation is fundamental,relates
+465,11003,would like to suggest implementing fast mo,12508,new method integermod pow power with modul,duplicates
+466,12607,this one was derived from bug,12463,from,relates
+467,12461,it would be nice if hash had way to create a,8499,according to my experiences the following two,relates
+468,12546,unicodenormalizeunicode version is defined i,12460,currently the unicode version used in speci,relates
+469,12460,currently the unicode version used in speci,15341,the emoji version is different from the unicod,relates
+470,12447,sometimes want to extract digits of placeva,4787,suggest new feature of integer to enumerat,relates
+471,12447,sometimes want to extract digits of placeva,12116,sometimes need to apply divmod repeatedly,relates
+472,12447,sometimes want to extract digits of placeva,16011,ruby seems to have no way to format number w,relates
+473,12928,rncurrent nethttp and netpop use timeoutt,12435,hey all ive got pull request at,relates
+474,12275,think it will be usefull to have function th,12419,currently i̇i̇i̇dump produces,relates
+475,12403,at the moment match is dynamically dispatc,12306,time and again there have been rejected featur,relates
+476,12334,this sort of relates to,12021,having final instance variables in ruby will,relates
+477,12247,found that its very useful if arraydelete,12333,would like stringconcat arrayconcat,relates
+478,12319,moduleconst get accepts nonnested string,5690,it would be great if there was way to dynami,relates
+479,12306,time and again there have been rejected featur,8110,it is useful to have methods allowing pattern,relates
+480,12403,at the moment match is dynamically dispatc,12306,time and again there have been rejected featur,relates
+481,12306,time and again there have been rejected featur,8206,there has been some discussion about porting t,duplicates
+482,12299,this is another attempt to provide the same ty,17122,deprecation warnings and other warnings in rub,relates
+483,15563,ruby introduced dig for array has,12282,new feature for your consideration dig wh,duplicates
+484,14602,currently if have hash like thisrnrn,12282,new feature for your consideration dig wh,duplicates
+485,12086,currently refinements can be activated only in,12281,in ruby refinement could be used in,relates
+486,12275,think it will be usefull to have function th,12419,currently i̇i̇i̇dump produces,relates
+487,12247,found that its very useful if arraydelete,12333,would like stringconcat arrayconcat,relates
+488,12241,this is refinement of feature,5054,though as matz said at ruby is a,relates
+489,12241,this is refinement of feature,16746,ruby syntax is full of ends im paranoid t,relates
+490,12240,often improvements about implicit block argume,15741,numbered parameters have been introduced into,relates
+491,13244,id like to suggestrnto enhance the interfac,12224,when use logger class very often or mayb,duplicates
+492,12222,as python has statistics library for calculati,12217,in this issue propose to introduce enumerabl,relates
+493,12217,in this issue propose to introduce enumerabl,10298,here propose arrayfloat sum in arrayc or,relates
+494,12222,as python has statistics library for calculati,12217,in this issue propose to introduce enumerabl,relates
+495,12173,it is very frequent to have time instancer,8640,hirnrnwe time many things in rails and s,relates
+496,12173,it is very frequent to have time instancer,8096,beginrna lot of scenarios and applications,relates
+497,12160,xmlrpc library is no longer maintain actively,5481,beginrnrnuptodate summary of this propo,relates
+498,5903,given some of preparations to this patches alr,12142,rn hello the following patch contains a,relates
+499,12125,hellornrnthe operator lets one pass a,16275,objmethod is introduced at by,relates
+500,13581,some another programming languages even java,12125,hellornrnthe operator lets one pass a,duplicates
+501,12116,sometimes need to apply divmod repeatedly,4787,suggest new feature of integer to enumerat,relates
+502,12447,sometimes want to extract digits of placeva,12116,sometimes need to apply divmod repeatedly,relates
+503,4146,現在symbolto procで i,12115,am great fan of the symbolto proc short,relates
+504,15301,in one reddit discussion ive got stuck with t,12115,am great fan of the symbolto proc short,duplicates
+505,12092,this allows creating modified clones of frozen,14778,id like to use objectdup with block whi,relates
+506,12086,currently refinements can be activated only in,12281,in ruby refinement could be used in,relates
+507,12086,currently refinements can be activated only in,16461,overviewrni propose procusing to support,relates
+508,12079,there are few nonstandard ways of calling a,9451,not sure if this is bug or feature request,duplicates
+509,12079,there are few nonstandard ways of calling a,11476,rnclass endrnrnmodule mrn refine,duplicates
+510,12077,hellornrnis there reason why sslsocket,8126,opensslsslsslsocket does not define recv,duplicates
+511,13395,there does not seem to be method in ruby to,12075,sometimes write following codernrnru,relates
+512,12075,sometimes write following codernrnru,17330,as always with core method proposals don,relates
+513,11167,hi guysrnrnhi nobu rnrnalso hi matz,12046,now we should write an accessor method of bo,relates
+514,5781,pretty sure this has come up before but id l,12046,now we should write an accessor method of bo,relates
+515,12046,now we should write an accessor method of bo,15991,hirnrni thought such an issue wouldve al,relates
+516,12046,now we should write an accessor method of bo,10720,hi guysrnrnsorry to burden you with anoth,duplicates
+517,10641,hellorni propose to introduce fixnumfinit,12039,we have an issue where it is not easy to ask i,relates
+518,12026,this adds simple way to filter warnings from,11588,rubys current warning system is lacking warn,relates
+519,12026,this adds simple way to filter warnings from,17122,deprecation warnings and other warnings in rub,relates
+520,12023,ive found myself writing lot of code simila,5825,im very excited about this feature in coffees,duplicates
+521,12578,when first saw the instance assignments in c,12023,ive found myself writing lot of code simila,duplicates
+522,12820,hellornrnthe patternrnrnrubyrnc,12023,ive found myself writing lot of code simila,duplicates
+523,12019,nowadays almost every processor has more than,12021,having final instance variables in ruby will,relates
+524,12334,this sort of relates to,12021,having final instance variables in ruby will,relates
+525,12019,nowadays almost every processor has more than,12020,defining memory model for language is nece,relates
+526,12019,nowadays almost every processor has more than,12020,defining memory model for language is nece,relates
+527,12019,nowadays almost every processor has more than,11539,summaryrnrnwe seek to add mechanism fo,relates
+528,12019,nowadays almost every processor has more than,8259,motivated by this gist url,relates
+529,12019,nowadays almost every processor has more than,12021,having final instance variables in ruby will,relates
+530,12019,nowadays almost every processor has more than,11541,since ruby def returns symbol with th,relates
+531,12012,in ruby we have methods with capital letter,11848,new to method converts strings,duplicates
+532,12010,direach and dirread including direntr,10121,on irc someone asked how to find out if dire,relates
+533,12010,direach and dirread including direntr,13969,dir has class method pairs direntries d,relates
+534,12739,how about class object deprecate constant f,12005,cruby has two integer classes fixnum and,relates
+535,11951,when rubyvminstructionsequencecompile rai,11868,currently rubyvminstructionsequencecompile,relates
+536,11925,propose to make struct subclass constructors w,15076,when struct is used to instantiate object with,relates
+537,11925,propose to make struct subclass constructors w,15222,with ruby struct subclasses can have dif,relates
+538,11925,propose to make struct subclass constructors w,16806,proposalrnrnrbrnpost structnew,relates
+539,9209,now that ruby supports named params it seems n,11925,propose to make struct subclass constructors w,duplicates
+540,13272,when we define subclass of struct it take a,11925,propose to make struct subclass constructors w,duplicates
+541,11905,currently the class keyword returns nilrn,8839,with the change for,relates
+542,11879,moduleincluded modules include prepended mo,8026,we should have way to get the list of prepen,duplicates
+543,11951,when rubyvminstructionsequencecompile rai,11868,currently rubyvminstructionsequencecompile,relates
+544,12012,in ruby we have methods with capital letter,11848,new to method converts strings,duplicates
+545,13645,proposalrnrnwhile it works and makes sen,11813,now we have the safe navigation operator,duplicates
+546,13179,came across scenario where needed the ab,11747,in matzs recent rubyconf talk he used this e,duplicates
+547,11741,git to svnrnrnconverting ruby wholesale,14551,know migrating to git get asked at least eve,relates
+548,11717,objecttrap can be thought as useful counter,6721,rni think the following method is missing fr,duplicates
+549,12760,thats an another attempt to choose good metap,11717,objecttrap can be thought as useful counter,duplicates
+550,13172,hi everyonernrntheres tap method t,11717,objecttrap can be thought as useful counter,duplicates
+551,11678,rubyrna brn,7639,when we chain methods with the period at the e,duplicates
+552,11670,warn without at compile timernrnsee,11665,the wisdom of using local variables has been i,relates
+553,10912,was surprised to find that ipaddr has no met,11666,propose new feature ipaddrprivatern,duplicates
+554,11670,warn without at compile timernrnsee,11665,the wisdom of using local variables has been i,relates
+555,12026,this adds simple way to filter warnings from,11588,rubys current warning system is lacking warn,relates
+556,11588,rubys current warning system is lacking warn,17122,deprecation warnings and other warnings in rub,relates
+557,11583,propose new method fileunlinkrnrn,11218,fluentdというossのログコレクタがあるのですがこれにはin tailプラグイ,relates
+558,11563,the unicode data for the onigmo regular expres,11561,as done regularly ruby should be updated to t,blocks
+559,11562,unicode character normalization data the data,11561,as done regularly ruby should be updated to t,blocks
+560,11562,unicode character normalization data the data,11561,as done regularly ruby should be updated to t,blocks
+561,11563,the unicode data for the onigmo regular expres,11561,as done regularly ruby should be updated to t,blocks
+562,12019,nowadays almost every processor has more than,11541,since ruby def returns symbol with th,relates
+563,11541,since ruby def returns symbol with th,14397,matsudasan suggested me that public prote,relates
+564,6470,attr accesor currently returns nil it would b,11541,since ruby def returns symbol with th,relates
+565,9453,with ruby returning symbol from def an,11541,since ruby def returns symbol with th,relates
+566,11541,since ruby def returns symbol with th,13560,hirnrnim suggesting all moduleattr,relates
+567,12019,nowadays almost every processor has more than,11539,summaryrnrnwe seek to add mechanism fo,relates
+568,6470,attr accesor currently returns nil it would b,11539,summaryrnrnwe seek to add mechanism fo,relates
+569,11537,sometimes write following code with rails ap,8191,beginrnas ducktyped language ruby doesn,relates
+570,11537,sometimes write following code with rails ap,8237,beginrnthis is feature suggestion that wa,relates
+571,11537,sometimes write following code with rails ap,11034,hi everyone rnrnsome time ago was think,relates
+572,11210,both to and to string omit the subnet mask o,11527,right now theres no way to get the current va,relates
+573,12079,there are few nonstandard ways of calling a,11476,rnclass endrnrnmodule mrn refine,duplicates
+574,11473,matz said all string literals are immutable,8976,yesterday we had facetoface developer mee,relates
+575,11420,lets introduce id key table to optimization,6962,ive experimented with replacing struct st ta,relates
+576,11420,lets introduce id key table to optimization,11414,can we relax ordering rule for id table such a,relates
+577,11420,lets introduce id key table to optimization,9638,this should allow better use of cachefriendly,relates
+578,11420,lets introduce id key table to optimization,11414,can we relax ordering rule for id table such a,relates
+579,11398,sometimes old constants are deprecated but sti,10342,proposal for moduledeprecate constant whic,duplicates
+580,11347,hello errors with cause are an important an,9918,exceptioncause has been added in feature,duplicates
+581,11346,while dont think it would be good idea to,11066,hi this is my first report so please bear wit,relates
+582,11337,while its possible to have rescues without b,7882,the keywords rescue else and ensure can,duplicates
+583,12906,when you want to rescue in block you must d,11337,while its possible to have rescues without b,duplicates
+584,13789,if having new direntries dirchidren wo,11302,direntries returns an array of its content wi,relates
+585,13969,dir has class method pairs direntries d,11302,direntries returns an array of its content wi,relates
+586,16123,problemrnrnthere is an inconsistency be,11297,ruby does not allow private method to be calle,duplicates
+587,13067,propose to make trueclass falseclass to,11286,proposalrnit is proposed that enumerable,relates
+588,14197,all any none and one accept,11286,proposalrnit is proposed that enumerable,relates
+589,14007,propose and attach patch to add mode,11258,just saw which containsrnrnbut,duplicates
+590,11256,since capturing block into proc is slow f,3447,なかだですrnrn,relates
+591,11256,since capturing block into proc is slow f,14045,backgroundrnrnif we need to pass given b,relates
+592,11252,matz hope to integrate did you mean gem to r,11032,hi guysrnrnwhen was younger in class,relates
+593,11251,や,6694,abstractrnrnsupport threadnew without,relates
+594,11251,や,6695,beginrn abstractrnrnwith feature,relates
+595,11583,propose new method fileunlinkrnrn,11218,fluentdというossのログコレクタがあるのですがこれにはin tailプラグイ,relates
+596,11210,both to and to string omit the subnet mask o,11527,right now theres no way to get the current va,relates
+597,11167,hi guysrnrnhi nobu rnrnalso hi matz,12046,now we should write an accessor method of bo,relates
+598,11167,hi guysrnrnhi nobu rnrnalso hi matz,10720,hi guysrnrnsorry to burden you with anoth,duplicates
+599,11158,were in the process of migrating very large,9963,id like to add way to get the size of ruby,relates
+600,13137,the update to javascript added object shor,11105,why not support hash literals,relates
+601,11105,why not support hash literals,11104,why not support hash literals,relates
+602,11105,why not support hash literals,14579,how about to allow value omission in hash lite,relates
+603,11105,why not support hash literals,16095,common usern rubyrnclass arn de,relates
+604,15236,pr in github,11105,why not support hash literals,duplicates
+605,11105,why not support hash literals,11104,why not support hash literals,relates
+606,13588,when implementing an iolike object id like,11094,was originally defined with codespace,relates
+607,1153,beginrn なかだですrn rn arrayだけでなくenumerab,11090,currently if you want to iterate the first uni,relates
+608,11083,nettelnet has no maintainer but some issue i,5481,beginrnrnuptodate summary of this propo,relates
+609,11346,while dont think it would be good idea to,11066,hi this is my first report so please bear wit,relates
+610,5481,beginrnrnuptodate summary of this propo,11057,gemified json libraryrnrn,relates
+611,11049,sometime want to do grep like operation,5588,please add negation flag to regexps whic,relates
+612,11049,sometime want to do grep like operation,9602,enumerablegrep is useful to filter things,relates
+613,8921,it would be handy if select could accept r,11049,sometime want to do grep like operation,relates
+614,11537,sometimes write following code with rails ap,11034,hi everyone rnrnsome time ago was think,relates
+615,11252,matz hope to integrate did you mean gem to r,11032,hi guysrnrnwhen was younger in class,relates
+616,11025,rake can follow testunit and minitest and can,5481,beginrnrnuptodate summary of this propo,relates
+617,11003,would like to suggest implementing fast mo,12508,new method integermod pow power with modul,duplicates
+618,10912,was surprised to find that ipaddr has no met,11666,propose new feature ipaddrprivatern,duplicates
+619,10797,moduleconst defined takes an optional argu,14944,module has many introspection methods for meth,duplicates
+620,10728,how about add warning for fixnumsize rn,7517,maximum or minimum number of fixnum can not,relates
+621,11167,hi guysrnrnhi nobu rnrnalso hi matz,10720,hi guysrnrnsorry to burden you with anoth,duplicates
+622,12046,now we should write an accessor method of bo,10720,hi guysrnrnsorry to burden you with anoth,duplicates
+623,12921,if env have some like,10652,get user and pass from variable whe,relates
+624,10641,hellorni propose to introduce fixnumfinit,12039,we have an issue where it is not easy to ask i,relates
+625,10637,encountered this issue while bringing up v,16482,right now nethttp forces the user to use cl,relates
+626,10600,in multipleproducer multipleconsumer sit,17357,it is currently difficult to reliably distingu,relates
+627,10552,counting how many times value appears in som,9970,these methods simplify two common patterns whe,relates
+628,10552,counting how many times value appears in som,7793,it would be nice to have the following methods,relates
+629,10552,counting how many times value appears in som,10228,im gonna implement some features related with,relates
+630,10499,procnew and kernelproc have little known f,15554,abstractrnrnwarn or raise an argumenterr,copied_to
+631,10425,method near like the following would be u,15811,backgroundrnrnequal comparison method be,relates
+632,10420,gcm cipher accepts variable iv length but rub,8667,hellorn rn in openssl you are allowed to,relates
+633,8848,in commit yui naruse added stringb,10391,there is occasionally need to use string l,relates
+634,10354,nick slocum shows in,5378,see discussion here,duplicates
+635,11398,sometimes old constants are deprecated but sti,10342,proposal for moduledeprecate constant whic,duplicates
+636,10329,followupto feature optimize recv,10326,concatenating literal strings to existing stri,relates
+637,10329,followupto feature optimize recv,10326,concatenating literal strings to existing stri,relates
+638,10320,when requiring library global namespace alw,5643,current kernelload is defined asrnrn,relates
+639,13847,if you try to use some default gems with fix,10320,when requiring library global namespace alw,relates
+640,12217,in this issue propose to introduce enumerabl,10298,here propose arrayfloat sum in arrayc or,relates
+641,10552,counting how many times value appears in som,10228,im gonna implement some features related with,relates
+642,10216,because of ruby dynamism nature it is very use,9781,rnwhen super is called in method the rub,duplicates
+643,10208,now that we can convert list of key value,12512,think value transformation is fundamental,relates
+644,15143,often we call arrayto to the result of,10208,now that we can convert list of key value,duplicates
+645,10181,the purpose of the openat function is to ena,2324,なかだですrnrn,relates
+646,13335,mathn is deprecated feature from ye,10169,englishrnrnas mentioned in,relates
+647,13334,mathncomplex and mathnrational is deprec,10169,englishrnrnas mentioned in,relates
+648,10152,stringstrip doesnt remove nonbreaking space,10085,case conversion functions are currently limite,relates
+649,12010,direach and dirread including direntr,10121,on irc someone asked how to find out if dire,relates
+650,10095,weve had so many times of feature requests fo,6721,rni think the following method is missing fr,duplicates
+651,12760,thats an another attempt to choose good metap,10095,weve had so many times of feature requests fo,duplicates
+652,13172,hi everyonernrntheres tap method t,10095,weve had so many times of feature requests fo,duplicates
+653,10085,case conversion functions are currently limite,2034,beginrn has consideration been recently giv,relates
+654,10085,case conversion functions are currently limite,10002,hi the ruby version has problem with,relates
+655,10152,stringstrip doesnt remove nonbreaking space,10085,case conversion functions are currently limite,relates
+656,10084,unicode string normalization is frequent ope,2034,beginrn has consideration been recently giv,relates
+657,10084,unicode string normalization is frequent ope,9111,beginrncurrently strings with the same con,relates
+658,10069,beforernrnrnm,10068,rnrnbeforernrnv,relates
+659,10069,beforernrnrnm,10068,rnrnbeforernrnv,relates
+660,6739,hi therernrnwhen wrapping up single lin,10042,the postfix rescue notation is convenientbu,relates
+661,10085,case conversion functions are currently limite,10002,hi the ruby version has problem with,relates
+662,10552,counting how many times value appears in som,9970,these methods simplify two common patterns whe,relates
+663,12512,think value transformation is fundamental,9970,these methods simplify two common patterns whe,relates
+664,9970,these methods simplify two common patterns whe,7793,it would be nice to have the following methods,duplicates
+665,11158,were in the process of migrating very large,9963,id like to add way to get the size of ruby,relates
+666,9923,now gcstat returns internal information abuo,9924,now gcstat returns internal information abuo,copied_to
+667,9923,now gcstat returns internal information abuo,9924,now gcstat returns internal information abuo,copied_to
+668,11347,hello errors with cause are an important an,9918,exceptioncause has been added in feature,duplicates
+669,9893,ref comment on of,9894,any comment on officially supporting this as p,duplicates
+670,9893,ref comment on of,9894,any comment on officially supporting this as p,duplicates
+671,9887,hirnrni would like to have way to clean,8967,can be add uninclude and unextend method to ru,duplicates
+672,9857,filebirthtime が追加されたので pathnamebirthtime,9647,filestatbirthtimeを追加しませんかrnrn以下の様なシステム,relates
+673,9805,the following codernrn def a endr,6216,when debugging systemstackerror stack level,duplicates
+674,7836,see the following codernrnrubyrnmodu,9781,rnwhen super is called in method the rub,relates
+675,10216,because of ruby dynamism nature it is very use,9781,rnwhen super is called in method the rub,duplicates
+676,9778,my obsession with easy syntax annoys me when i,6225,strings and arrays can be combined with,duplicates
+677,9777,currently different block objects such as la,15973,when kernellambda receives proc that is not,relates
+678,12737,how about to provide moduledefined refinement,9704,if refinements are to remain filescoped then,relates
+679,9857,filebirthtime が追加されたので pathnamebirthtime,9647,filestatbirthtimeを追加しませんかrnrn以下の様なシステム,relates
+680,11420,lets introduce id key table to optimization,9638,this should allow better use of cachefriendly,relates
+681,12512,think value transformation is fundamental,9635,there should be way to directly map hash t,relates
+682,9612,previously in we discussed removing open,5481,beginrnrnuptodate summary of this propo,relates
+683,11049,sometime want to do grep like operation,9602,enumerablegrep is useful to filter things,relates
+684,9508,since the coverage extension was introduced in,13901,plan to add branch coverage and method c,relates
+685,5481,beginrnrnuptodate summary of this propo,9456,as you can see,relates
+686,14158,the racc parser that is included in mri ruby c,9456,as you can see,relates
+687,9453,with ruby returning symbol from def an,11541,since ruby def returns symbol with th,relates
+688,13560,hirnrnim suggesting all moduleattr,9453,with ruby returning symbol from def an,duplicates
+689,12638,it is my understanding thatrnrnrnvma,9451,not sure if this is bug or feature request,duplicates
+690,12079,there are few nonstandard ways of calling a,9451,not sure if this is bug or feature request,duplicates
+691,9420,since we added use of writev in we sho,9323,propose addition of iowritevrnit enables,relates
+692,14042,hi rnrnive attached patch to make iop,9420,since we added use of writev in we sho,duplicates
+693,9420,since we added use of writev in we sho,9323,propose addition of iowritevrnit enables,relates
+694,14042,hi rnrnive attached patch to make iop,9323,propose addition of iowritevrnit enables,relates
+695,9278,building on,8976,yesterday we had facetoface developer mee,duplicates
+696,9209,now that ruby supports named params it seems n,11925,propose to make struct subclass constructors w,duplicates
+697,2348,beginrn the merits of this library have bee,9121,rbtree is slower than the pure ruby versionr,relates
+698,9112,if module is included into class a,1586,beginrn the scenariorn include foo i,relates
+699,10084,unicode string normalization is frequent ope,9111,beginrncurrently strings with the same con,relates
+700,9108,hirnrni seem to regularly have the requir,8499,according to my experiences the following two,relates
+701,9107,have patch introducing the constants yesn,6126,propose to have predefined constants of true,duplicates
+702,9076,hellornrnid like to introduce new synt,4146,現在symbolto procで i,relates
+703,9049,for nmatrix weve implemented range shortha,14044,as described in numonarray and pycal,relates
+704,9047,beginrnrnin ruby if you can create sym,4276,current syntactic sugar allows thisrnrn,duplicates
+705,9037,beginrni was thinking about the frozen lite,8804,how about to introduce once syntax which,relates
+706,8579,id like to propose new type of string liter,8992,backgroundrnrnin,relates
+707,8987,please consider extending mapcollect by allow,4146,現在symbolto procで i,relates
+708,8977,during memory profiling noticed that large,8976,yesterday we had facetoface developer mee,relates
+709,8977,during memory profiling noticed that large,8976,yesterday we had facetoface developer mee,relates
+710,8579,id like to propose new type of string liter,8976,yesterday we had facetoface developer mee,relates
+711,11473,matz said all string literals are immutable,8976,yesterday we had facetoface developer mee,relates
+712,9278,building on,8976,yesterday we had facetoface developer mee,duplicates
+713,6499,sometimes its more natural to have arrayzip,8970,beginrnmost of the time when use arrayz,duplicates
+714,8970,beginrnmost of the time when use arrayz,7444,id like to propose arrayproduct set to ret,duplicates
+715,9887,hirnrni would like to have way to clean,8967,can be add uninclude and unextend method to ru,duplicates
+716,8556,propose adding mutexeddelegator as simpl,8961,beginrni propose synchronizable mixin to,relates
+717,7895,threadbacktrace locations and kernelcaller l,8960,all parties agreed this would be useful to add,relates
+718,12512,think value transformation is fundamental,8951,please see this thread,relates
+719,16377,the following scriptrnrnrubyrndef mu,8948,beginrni see that frozen string was accepte,duplicates
+720,8939,hashkeyvaluernhashkey should retur,7797,since has been rejected although don,duplicates
+721,8579,id like to propose new type of string liter,8923,related to feature already f,relates
+722,8921,it would be handy if select could accept r,11049,sometime want to do grep like operation,relates
+723,8579,id like to propose new type of string liter,8909,the suffix to declare frozen string was,relates
+724,8579,id like to propose new type of string liter,8906,now integer and float objects are frozen obje,relates
+725,8897,propose that ruby supports client side tcp f,8871,propose that ruby support server side tcp fa,relates
+726,8897,propose that ruby supports client side tcp f,8871,propose that ruby support server side tcp fa,relates
+727,8848,in commit yui naruse added stringb,10391,there is occasionally need to use string l,relates
+728,8846,propose changing moduleinclude to public,6539,feel there are inconsistencies in which meth,relates
+729,12697,methods like alias method attr accessor defi,8846,propose changing moduleinclude to public,relates
+730,11905,currently the class keyword returns nilrn,8839,with the change for,relates
+731,9037,beginrni was thinking about the frozen lite,8804,how about to introduce once syntax which,relates
+732,8804,how about to introduce once syntax which,17474,ruby has borrowed conceptsidioms from allot o,relates
+733,12973,require relative speeds up loading of files by,8781,wrote attached small script rrcrb stand,relates
+734,8777,hirnrnthis is related to mach ab,8658,how about adding new method processclock g,relates
+735,8771,beginrn start fake proxy in separate w,6546,nahi suggested request the os environment h,relates
+736,8751,hellornrni would like to have byte offset,6012,as originally suggested in,relates
+737,8693,def yield end def,15973,when kernellambda receives proc that is not,relates
+738,10420,gcm cipher accepts variable iv length but rub,8667,hellorn rn in openssl you are allowed to,relates
+739,8661,currently the way ruby prints backtrace is th,16684,the mostrecentcalllast order of backtrace i,relates
+740,8658,how about adding new method processclock g,8096,beginrna lot of scenarios and applications,relates
+741,8658,how about adding new method processclock g,8640,hirnrnwe time many things in rails and s,relates
+742,8777,hirnrnthis is related to mach ab,8658,how about adding new method processclock g,relates
+743,8643,bindingfrom hash would work likernrn,8631,it would be interesting if erb could allow h,relates
+744,8658,how about adding new method processclock g,8640,hirnrnwe time many things in rails and s,relates
+745,8640,hirnrnwe time many things in rails and s,8096,beginrna lot of scenarios and applications,relates
+746,12173,it is very frequent to have time instancer,8640,hirnrnwe time many things in rails and s,relates
+747,8643,bindingfrom hash would work likernrn,8631,it would be interesting if erb could allow h,relates
+748,5458,dl and fiddle are redundant moreover dl has n,8601,sits on in the so,relates
+749,8600,beginrn ruby vrn ruby,1141,beginn in ruby rn px if,duplicates
+750,8600,beginrn ruby vrn ruby,4965,right now find the following code will rais,duplicates
+751,8579,id like to propose new type of string liter,8923,related to feature already f,relates
+752,8579,id like to propose new type of string liter,8906,now integer and float objects are frozen obje,relates
+753,8579,id like to propose new type of string liter,8909,the suffix to declare frozen string was,relates
+754,8579,id like to propose new type of string liter,8992,backgroundrnrnin,relates
+755,8579,id like to propose new type of string liter,8976,yesterday we had facetoface developer mee,relates
+756,8568,fixnumsize is not really useful to represent,8553,how about changing bignumsize to well defin,relates
+757,8563,often times people want to assign given argum,5825,im very excited about this feature in coffees,duplicates
+758,12578,when first saw the instance assignments in c,8563,often times people want to assign given argum,duplicates
+759,12820,hellornrnthe patternrnrnrubyrnc,8563,often times people want to assign given argum,duplicates
+760,8556,propose adding mutexeddelegator as simpl,8961,beginrni propose synchronizable mixin to,relates
+761,8568,fixnumsize is not really useful to represent,8553,how about changing bignumsize to well defin,relates
+762,8539,how about unbundling exttk from ruby reposito,5481,beginrnrnuptodate summary of this propo,relates
+763,8539,how about unbundling exttk from ruby reposito,8526,tk を ruby のリポジトリから外しませんかrnrnそもそも tk はサイズベ,duplicates
+764,8526,tk を ruby のリポジトリから外しませんかrnrnそもそも tk はサイズベ,5481,beginrnrnuptodate summary of this propo,relates
+765,8539,how about unbundling exttk from ruby reposito,8526,tk を ruby のリポジトリから外しませんかrnrnそもそも tk はサイズベ,duplicates
+766,9108,hirnrni seem to regularly have the requir,8499,according to my experiences the following two,relates
+767,12461,it would be nice if hash had way to create a,8499,according to my experiences the following two,relates
+768,13563,hirnrni propose hashchoice methodrnr,8499,according to my experiences the following two,relates
+769,8499,according to my experiences the following two,15863,add hashslicernrnin,relates
+770,15822,according to hashslice would like to add,8499,according to my experiences the following two,duplicates
+771,8497,rubykaigi,7019,like to indent my private methods one level,duplicates
+772,8468,yesterday at github tokyo drinkup thanks gi,15344,would like to start discussion relating to,relates
+773,8468,yesterday at github tokyo drinkup thanks gi,16131,ruby had taint checking which is originally in,relates
+774,8273,nullobject is quite useful pattern but refa,6180,when boolean return value is required it has,duplicates
+775,8271,proposal for moving to more visible formal,7549,matzrnrnat rubyconf gave talk a,relates
+776,12019,nowadays almost every processor has more than,8259,motivated by this gist url,relates
+777,8246,beginrnfrom,8237,beginrnthis is feature suggestion that wa,relates
+778,8246,beginrnfrom,5531,this feature request stems from dealing with n,duplicates
+779,8246,beginrnfrom,8237,beginrnthis is feature suggestion that wa,relates
+780,8237,beginrnthis is feature suggestion that wa,8191,beginrnas ducktyped language ruby doesn,relates
+781,11537,sometimes write following code with rails ap,8237,beginrnthis is feature suggestion that wa,relates
+782,8206,there has been some discussion about porting t,8110,it is useful to have methods allowing pattern,relates
+783,12306,time and again there have been rejected featur,8206,there has been some discussion about porting t,duplicates
+784,8237,beginrnthis is feature suggestion that wa,8191,beginrnas ducktyped language ruby doesn,relates
+785,11537,sometimes write following code with rails ap,8191,beginrnas ducktyped language ruby doesn,relates
+786,8158,use lightweight structure for loaded features,14460,hirnrnive attached patch that speeds u,relates
+787,12077,hellornrnis there reason why sslsocket,8126,opensslsslsslsocket does not define recv,duplicates
+788,8206,there has been some discussion about porting t,8110,it is useful to have methods allowing pattern,relates
+789,12306,time and again there have been rejected featur,8110,it is useful to have methods allowing pattern,relates
+790,8098,there should be dir constant to complime,3346,beginrn id like to know why dir was re,duplicates
+791,8658,how about adding new method processclock g,8096,beginrna lot of scenarios and applications,relates
+792,8640,hirnrnwe time many things in rails and s,8096,beginrna lot of scenarios and applications,relates
+793,12173,it is very frequent to have time instancer,8096,beginrna lot of scenarios and applications,relates
+794,11879,moduleincluded modules include prepended mo,8026,we should have way to get the list of prepen,duplicates
+795,8015,diff git agcc bgccrnindex,2837,beginrn the gc currently increases the size,relates
+796,7939,beginrni really like the new assuming,6817,know that what propose here is significa,relates
+797,13765,proc has curry,7939,beginrni really like the new assuming,relates
+798,7907,beginrni noticed that word doesnt mean,7906,beginrni noticed that word doesn,duplicates
+799,7907,beginrni noticed that word doesnt mean,7906,beginrni noticed that word doesn,duplicates
+800,7895,threadbacktrace locations and kernelcaller l,8960,all parties agreed this would be useful to add,relates
+801,11337,while its possible to have rescues without b,7882,the keywords rescue else and ensure can,duplicates
+802,12623,hi therernrntheres pretty nice feature t,7882,the keywords rescue else and ensure can,duplicates
+803,12906,when you want to rescue in block you must d,7882,the keywords rescue else and ensure can,duplicates
+804,7854,propose new class method on symbol if,7839,hirnrnon team rails were having trouble,relates
+805,7845,strip and associated methods in ruby and,2093,beginn 現在stringstrip は rb enc isspace を使って,relates
+806,7854,propose new class method on symbol if,7839,hirnrnon team rails were having trouble,relates
+807,7836,see the following codernrnrubyrnmodu,9781,rnwhen super is called in method the rub,relates
+808,5653,hirn rntoday talked with nahi about en,7835,while ago matz declared his intention to rem,relates
+809,8939,hashkeyvaluernhashkey should retur,7797,since has been rejected although don,duplicates
+810,7793,it would be nice to have the following methods,6669,given hash hmap returns an arrayali,relates
+811,7793,it would be nice to have the following methods,4151,beginrn hirn rn how about method for,relates
+812,7793,it would be nice to have the following methods,7292,now that to is the official method for expl,relates
+813,10552,counting how many times value appears in som,7793,it would be nice to have the following methods,relates
+814,12512,think value transformation is fundamental,7793,it would be nice to have the following methods,relates
+815,9970,these methods simplify two common patterns whe,7793,it would be nice to have the following methods,duplicates
+816,7792,recently had to replace several of my symbol,5964,or to put it another way make symbols and st,relates
+817,7639,when we chain methods with the period at the e,14463,coming from other languages find it extre,relates
+818,11678,rubyrna brn,7639,when we chain methods with the period at the e,duplicates
+819,8271,proposal for moving to more visible formal,7549,matzrnrnat rubyconf gave talk a,relates
+820,10728,how about add warning for fixnumsize rn,7517,maximum or minimum number of fixnum can not,relates
+821,7505,以下のようなプログラムがあったとしますrnrnthreadasync inter,6762,beginrn abstractrnrnadd asynchronous i,relates
+822,8970,beginrnmost of the time when use arrayz,7444,id like to propose arrayproduct set to ret,duplicates
+823,7424,the documented way to embed ruby interpreter,3731,beginrn with ruby it has become more d,relates
+824,7388,beginrnfrom githubrn,6721,rni think the following method is missing fr,relates
+825,12760,thats an another attempt to choose good metap,7388,beginrnfrom githubrn,duplicates
+826,7387,im moving this over from githubrn,5427,currently loaded features are unsorted so t,duplicates
+827,7384,propose that each with object be renamed to,6687,beginrnlet me propose enumerablewith for,relates
+828,7340,following on from the discussions at and,7384,propose that each with object be renamed to,relates
+829,7378,there should be variant of filewrite for pa,7360,currently there is only pathnameglob method,relates
+830,7378,there should be variant of filewrite for pa,7361,pathname has an mkdir method to create dire,relates
+831,7378,there should be variant of filewrite for pa,7362,if pathname starts with another pathname th,relates
+832,7378,there should be variant of filewrite for pa,7363,about year ago sumbitted an not yet accept,relates
+833,7378,there should be variant of filewrite for pa,7363,about year ago sumbitted an not yet accept,relates
+834,7378,there should be variant of filewrite for pa,7362,if pathname starts with another pathname th,relates
+835,7378,there should be variant of filewrite for pa,7361,pathname has an mkdir method to create dire,relates
+836,7378,there should be variant of filewrite for pa,7360,currently there is only pathnameglob method,relates
+837,13056,proposal of base option to dirglob meth,7360,currently there is only pathnameglob method,blocks
+838,6672,beginrnit looks odd to call procmethod,7346,propose for the parser to interpret object,duplicates
+839,7340,following on from the discussions at and,7384,propose that each with object be renamed to,relates
+840,7340,following on from the discussions at and,7297,would love to have shorter alias for each,relates
+841,7340,following on from the discussions at and,6687,beginrnlet me propose enumerablewith for,relates
+842,12957,currently to create lambda proc one has to u,7314,have code where need to convert proc to,relates
+843,7314,have code where need to convert proc to,15973,when kernellambda receives proc that is not,relates
+844,7340,following on from the discussions at and,7297,would love to have shorter alias for each,relates
+845,7292,now that to is the official method for expl,4151,beginrn hirn rn how about method for,relates
+846,7292,now that to is the official method for expl,6669,given hash hmap returns an arrayali,relates
+847,7793,it would be nice to have the following methods,7292,now that to is the official method for expl,relates
+848,7292,now that to is the official method for expl,7241,often use the inject method to build has,duplicates
+849,7251,suspect kernelusing to using all the alread,4085,beginrn as said at rubyconf id lik,relates
+850,7241,often use the inject method to build has,5008,beginrnhellornrni am using ruby,relates
+851,7241,often use the inject method to build has,4151,beginrn hirn rn how about method for,relates
+852,7292,now that to is the official method for expl,7241,often use the inject method to build has,duplicates
+853,7226,was surprised that setnewjoin gives me a,5970,currently to join the elements of an enumerab,duplicates
+854,7177,hirnrnwe uses rb newobj in cruby when w,7047,nariですrnrn現在のcrubyではオブジェクトを割り当てる際に rb new,duplicates
+855,7177,hirnrnwe uses rb newobj in cruby when w,7047,nariですrnrn現在のcrubyではオブジェクトを割り当てる際に rb new,duplicates
+856,7022,it would be useful for profilers to have more,2565,beginrn hirn rn made commit that e,relates
+857,8497,rubykaigi,7019,like to indent my private methods one level,duplicates
+858,16276,private or protected declarations in ruby clas,7019,like to indent my private methods one level,duplicates
+859,7003,lets make it sure therell be no mvm in,14792,this is an old problem maybe running multip,relates
+860,6973,numericinteger checks whether an instance is,5310,believe it is ambiguous what object can beha,relates
+861,11420,lets introduce id key table to optimization,6962,ive experimented with replacing struct st ta,relates
+862,6946,beginrnhi running the test suite on fips e,6943,is there any chance to make pstore compatible,relates
+863,6946,beginrnhi running the test suite on fips e,6943,is there any chance to make pstore compatible,relates
+864,6936,feature などで議論されていた flonum が でが入,6763,beginrnrn abstractrnrnintroducing fl,relates
+865,3222,beginrn fixing up the rubyspecs led me to t,6936,feature などで議論されていた flonum が でが入,relates
+866,12694,often write codes likernrnrubyrnst,6842,beginrnone of the very few things miss fr,duplicates
+867,6823,hirn rn ive previously reported coupl,5382,and similar delimited strings arrays a,relates
+868,6823,hirn rn ive previously reported coupl,5453,gemspec should be added to automodea,relates
+869,5142,rubymodeel は emacs に添付されるようになりましたがrn今も ru,6823,hirn rn ive previously reported coupl,relates
+870,6817,know that what propose here is significa,4539,inspired by haskells zipwith function ha,relates
+871,6817,know that what propose here is significa,6373,this was recently suggested to me as an extens,relates
+872,7939,beginrni really like the new assuming,6817,know that what propose here is significa,relates
+873,13765,proc has curry,6817,know that what propose here is significa,relates
+874,16430,im not sure if this is intentional in which,6810,is this the expected behavior to me it is ra,duplicates
+875,6802,ruby should have method to obtain not an array,5749,the string class should contain an instance me,relates
+876,6802,ruby should have method to obtain not an array,5606,文字列上の正規表現に一致する場所のoffsetを順に処理できるようなrnイテレータが欲し,relates
+877,6802,ruby should have method to obtain not an array,12745,simplified and stupid example replace som,relates
+878,6793,hello all couldnt remember if this had be,4046,beginrn in debugger often one gets to s,duplicates
+879,6783,in ruby in rails in rails cons,6733,after we discussed,relates
+880,6779,when crosscompiling using the prefix and,6778,when crosscompiling using the prefix and,duplicates
+881,6779,when crosscompiling using the prefix and,6778,when crosscompiling using the prefix and,duplicates
+882,6767,ある string を にしたいことはしばしばありますrnそれだ,6361,know this has been discussed lot in the pa,relates
+883,6936,feature などで議論されていた flonum が でが入,6763,beginrnrn abstractrnrnintroducing fl,relates
+884,7505,以下のようなプログラムがあったとしますrnrnthreadasync inter,6762,beginrn abstractrnrnadd asynchronous i,relates
+885,6321,if use the stringencode feature to transcod,6752,beginrn 概要rnstringになんらかの理由で不正なバイト列が含まれて,relates
+886,6739,hi therernrnwhen wrapping up single lin,10042,the postfix rescue notation is convenientbu,relates
+887,6737,just generally speaking it is nice to have,6442,rubys hash class is not very internally conn,relates
+888,6783,in ruby in rails in rails cons,6733,after we discussed,relates
+889,7388,beginrnfrom githubrn,6721,rni think the following method is missing fr,relates
+890,6721,rni think the following method is missing fr,6684,beginrnobjectdornthis is my first post,relates
+891,11717,objecttrap can be thought as useful counter,6721,rni think the following method is missing fr,duplicates
+892,10095,weve had so many times of feature requests fo,6721,rni think the following method is missing fr,duplicates
+893,12760,thats an another attempt to choose good metap,6721,rni think the following method is missing fr,duplicates
+894,6711,today woke up with some ideas to overcome so,5583,although know all of you dislike static typi,relates
+895,11251,や,6695,beginrn abstractrnrnwith feature,relates
+896,11251,や,6694,abstractrnrnsupport threadnew without,relates
+897,3187,beginrn id like way to increase the size,6694,abstractrnrnsupport threadnew without,relates
+898,7384,propose that each with object be renamed to,6687,beginrnlet me propose enumerablewith for,relates
+899,7340,following on from the discussions at and,6687,beginrnlet me propose enumerablewith for,relates
+900,6721,rni think the following method is missing fr,6684,beginrnobjectdornthis is my first post,relates
+901,12760,thats an another attempt to choose good metap,6684,beginrnobjectdornthis is my first post,duplicates
+902,6672,beginrnit looks odd to call procmethod,7346,propose for the parser to interpret object,duplicates
+903,4151,beginrn hirn rn how about method for,6669,given hash hmap returns an arrayali,relates
+904,7292,now that to is the official method for expl,6669,given hash hmap returns an arrayali,relates
+905,7793,it would be nice to have the following methods,6669,given hash hmap returns an arrayali,relates
+906,12512,think value transformation is fundamental,6669,given hash hmap returns an arrayali,relates
+907,6648,beginrncurrently there are no standard mech,4046,beginrn in debugger often one gets to s,duplicates
+908,13006,hello am right now having difficulties to u,6647,many applications and users have dealt with,relates
+909,6636,now that it has been made clear that enumerab,3715,beginrn it would be useful to be able to as,relates
+910,12543,how about introducing new syntax for tail ca,6602,hirnrnsome hours ago matz proposed turni,relates
+911,6561,have feature proposition to add new opearato,6023,ive just proposed this idea to groovy and t,duplicates
+912,8771,beginrn start fake proxy in separate w,6546,nahi suggested request the os environment h,relates
+913,12921,if env have some like,6546,nahi suggested request the os environment h,duplicates
+914,8846,propose changing moduleinclude to public,6539,feel there are inconsistencies in which meth,relates
+915,12697,methods like alias method attr accessor defi,6539,feel there are inconsistencies in which meth,relates
+916,14132,modules and classes can be reopened and change,6539,feel there are inconsistencies in which meth,relates
+917,14133,modules and classes can be reopened and change,6539,feel there are inconsistencies in which meth,relates
+918,6499,sometimes its more natural to have arrayzip,8970,beginrnmost of the time when use arrayz,duplicates
+919,6492,beginrnthis patch moves the compressionhan,6494,this patch builds atop to enable accept,blocks
+920,6492,beginrnthis patch moves the compressionhan,6494,this patch builds atop to enable accept,blocks
+921,6483,found very common usecase for map map with,4146,現在symbolto procで i,relates
+922,6482,beginrnthis patch adds the full uri request,5064,currently there are some problems with netht,relates
+923,6470,attr accesor currently returns nil it would b,11539,summaryrnrnwe seek to add mechanism fo,relates
+924,6470,attr accesor currently returns nil it would b,11541,since ruby def returns symbol with th,relates
+925,6470,attr accesor currently returns nil it would b,6198,id like to set visibility like thisrnrn,duplicates
+926,6737,just generally speaking it is nice to have,6442,rubys hash class is not very internally conn,relates
+927,6414,meanrnrnjohn name john last sm,5474,hellornrnim sending patch for keyword,relates
+928,6413,is there reason why direntries requires one,6412,is there reason why direntries requires one,duplicates
+929,6413,is there reason why direntries requires one,6412,is there reason why direntries requires one,duplicates
+930,14696,so original dst is defined atrn,6394,in linux so original dst provides the origina,duplicates
+931,6817,know that what propose here is significa,6373,this was recently suggested to me as an extens,relates
+932,6767,ある string を にしたいことはしばしばありますrnそれだ,6361,know this has been discussed lot in the pa,relates
+933,6321,if use the stringencode feature to transcod,6752,beginrn 概要rnstringになんらかの理由で不正なバイト列が含まれて,relates
+934,6309,most interesting uses of weakref are much hard,6308,weakrefs delegation features are really awf,relates
+935,6309,most interesting uses of weakref are much hard,6308,weakrefs delegation features are really awf,relates
+936,6298,beginrnmaybe there is another way to do thi,5007,im proposing method called proccall under,relates
+937,6287,def def i am test,4085,beginrn as said at rubyconf id lik,duplicates
+938,13600,one of the main use cases that would make yie,6284,it would be nice to be able to compose procs l,relates
+939,5008,beginrnhellornrni am using ruby,6276,dear matzrnrnwe should establish to as,relates
+940,6241,beginrncurrently modulemethod defined,5673,is there any significant reason for undef met,relates
+941,9778,my obsession with easy syntax annoys me when i,6225,strings and arrays can be combined with,duplicates
+942,17384,hi allrnwhen used hashmerge thought,6225,strings and arrays can be combined with,duplicates
+943,6224,propose to make below code workrnrn do,1141,beginn in ruby rn px if,duplicates
+944,6224,propose to make below code workrnrn do,4965,right now find the following code will rais,duplicates
+945,6222,propose to use to connect two or multiple,6201,beginrnive read several aproaches to deal,duplicates
+946,9805,the following codernrn def a endr,6216,when debugging systemstackerror stack level,duplicates
+947,6222,propose to use to connect two or multiple,6201,beginrnive read several aproaches to deal,duplicates
+948,6198,id like to set visibility like thisrnrn,3753,beginrn rubykaigi見てて思い出したのですがdef式はsymbolを返,relates
+949,6470,attr accesor currently returns nil it would b,6198,id like to set visibility like thisrnrn,duplicates
+950,8273,nullobject is quite useful pattern but refa,6180,when boolean return value is required it has,duplicates
+951,6163,beginrnthe syck extension should be removed,2340,beginn yaml and syck is whys product and,relates
+952,9107,have patch introducing the constants yesn,6126,propose to have predefined constants of true,duplicates
+953,6056,this patch fixes one issue protecting new os,1400,beginrn there are two ways to find out what,relates
+954,6561,have feature proposition to add new opearato,6023,ive just proposed this idea to groovy and t,duplicates
+955,8751,hellornrni would like to have byte offset,6012,as originally suggested in,relates
+956,13613,backgroundrnrn,5980,currently encountering too many open file hand,relates
+957,5977,hellornrnas mentioned at rubyconf wo,14240,think the four special variables for separat,relates
+958,7226,was surprised that setnewjoin gives me a,5970,currently to join the elements of an enumerab,duplicates
+959,7792,recently had to replace several of my symbol,5964,or to put it another way make symbols and st,relates
+960,5958,propose the method threadgroupjoinrnca,15954,現在いるスレッド以外の全てのスレッドを現在のスレッドに合流させたいときは多いと思いますr,relates
+961,5903,given some of preparations to this patches alr,12142,rn hello the following patch contains a,relates
+962,5856,feature raise any objectrnrn proposalr,5818,proposalrnrnthe ability to raise any obj,relates
+963,8563,often times people want to assign given argum,5825,im very excited about this feature in coffees,duplicates
+964,12023,ive found myself writing lot of code simila,5825,im very excited about this feature in coffees,duplicates
+965,12578,when first saw the instance assignments in c,5825,im very excited about this feature in coffees,duplicates
+966,12820,hellornrnthe patternrnrnrubyrnc,5825,im very excited about this feature in coffees,duplicates
+967,15192,motivationrnrnintroduce new syntax for,5825,im very excited about this feature in coffees,duplicates
+968,5856,feature raise any objectrnrn proposalr,5818,proposalrnrnthe ability to raise any obj,relates
+969,5781,pretty sure this has come up before but id l,12046,now we should write an accessor method of bo,relates
+970,5781,pretty sure this has come up before but id l,15991,hirnrni thought such an issue wouldve al,relates
+971,5749,the string class should contain an instance me,5606,文字列上の正規表現に一致する場所のoffsetを順に処理できるようなrnイテレータが欲し,relates
+972,6802,ruby should have method to obtain not an array,5749,the string class should contain an instance me,relates
+973,5749,the string class should contain an instance me,12745,simplified and stupid example replace som,relates
+974,5690,it would be great if there was way to dynami,5666,would like to make rb public ap,relates
+975,12319,moduleconst get accepts nonnested string,5690,it would be great if there was way to dynami,relates
+976,6241,beginrncurrently modulemethod defined,5673,is there any significant reason for undef met,relates
+977,5690,it would be great if there was way to dynami,5666,would like to make rb public ap,relates
+978,13784,ruby has full set of functional tools in the,5663,it is pretty common to want to map over an en,relates
+979,5663,it is pretty common to want to map over an en,15323,this is proposal for combined filter,relates
+980,4151,beginrn hirn rn how about method for,5662,with ruby we often use this idiom to build,relates
+981,5653,hirn rntoday talked with nahi about en,7835,while ago matz declared his intention to rem,relates
+982,5653,hirn rntoday talked with nahi about en,15592,how about feature to switch autoload behav,relates
+983,10320,when requiring library global namespace alw,5643,current kernelload is defined asrnrn,relates
+984,5607,beginrnwhen tried to access excel file i,2323,beginrn surfboard e,relates
+985,5749,the string class should contain an instance me,5606,文字列上の正規表現に一致する場所のoffsetを順に処理できるようなrnイテレータが欲し,relates
+986,6802,ruby should have method to obtain not an array,5606,文字列上の正規表現に一致する場所のoffsetを順に処理できるようなrnイテレータが欲し,relates
+987,5606,文字列上の正規表現に一致する場所のoffsetを順に処理できるようなrnイテレータが欲し,12745,simplified and stupid example replace som,relates
+988,11049,sometime want to do grep like operation,5588,please add negation flag to regexps whic,relates
+989,6711,today woke up with some ideas to overcome so,5583,although know all of you dislike static typi,relates
+990,5549,request the following methodsrnrn com,4574,beginrnhellornrnmany people have writt,relates
+991,5543,first rb thread blocking region requires th,4328,beginrn think it is general enough to rem,relates
+992,8246,beginrnfrom,5531,this feature request stems from dealing with n,duplicates
+993,5523,負の零なども含め正しく符号を判断するために必要です実際complex やrnlib,2968,beginrn 数値の正負を返すメソッドが欲しいですrn 主たる想定用途は,duplicates
+994,5321,ruby has several numeric classes such as integ,5520,暫く様子を見て特に反対がなければ決定しますrnrn今の raitonal や co,duplicates
+995,9612,previously in we discussed removing open,5481,beginrnrnuptodate summary of this propo,relates
+996,11025,rake can follow testunit and minitest and can,5481,beginrnrnuptodate summary of this propo,relates
+997,5481,beginrnrnuptodate summary of this propo,11057,gemified json libraryrnrn,relates
+998,12160,xmlrpc library is no longer maintain actively,5481,beginrnrnuptodate summary of this propo,relates
+999,8526,tk を ruby のリポジトリから外しませんかrnrnそもそも tk はサイズベ,5481,beginrnrnuptodate summary of this propo,relates
+1000,13173,this issue is tracking for gem release of webr,5481,beginrnrnuptodate summary of this propo,relates
+1001,13177,this issue is tracking for gem release of csv,5481,beginrnrnuptodate summary of this propo,relates
+1002,13182,this issue is tracking for gem release of cmat,5481,beginrnrnuptodate summary of this propo,relates
+1003,13183,this issue is tracking for gem release of date,5481,beginrnrnuptodate summary of this propo,relates
+1004,13197,this issue is tracking for gem release of file,5481,beginrnrnuptodate summary of this propo,relates
+1005,13201,this issue is tracking for gem release of dbm,5481,beginrnrnuptodate summary of this propo,relates
+1006,13199,this issue is tracking for gem release of stri,5481,beginrnrnuptodate summary of this propo,relates
+1007,13186,this issue is tracking for gem release of zlib,5481,beginrnrnuptodate summary of this propo,relates
+1008,11083,nettelnet has no maintainer but some issue i,5481,beginrnrnuptodate summary of this propo,relates
+1009,8539,how about unbundling exttk from ruby reposito,5481,beginrnrnuptodate summary of this propo,relates
+1010,2635,beginn the rdoc in trunk is outdated and not,5481,beginrnrnuptodate summary of this propo,relates
+1011,13213,this issue is tracking for gem release of scan,5481,beginrnrnuptodate summary of this propo,relates
+1012,13248,this issue is tracking for gem release of gdbm,5481,beginrnrnuptodate summary of this propo,relates
+1013,13261,this issue is tracking for gem release of sdbm,5481,beginrnrnuptodate summary of this propo,relates
+1014,5481,beginrnrnuptodate summary of this propo,9456,as you can see,relates
+1015,5481,beginrnrnuptodate summary of this propo,16170,im working to extract standard libraries to r,relates
+1016,5481,beginrnrnuptodate summary of this propo,15657,the maintenance of webrick is hard for the rub,relates
+1017,6414,meanrnrnjohn name john last sm,5474,hellornrnim sending patch for keyword,relates
+1018,5064,currently there are some problems with netht,5461,beginrnthe attached patch adds pip,relates
+1019,5458,dl and fiddle are redundant moreover dl has n,8601,sits on in the so,relates
+1020,6823,hirn rn ive previously reported coupl,5453,gemspec should be added to automodea,relates
+1021,7387,im moving this over from githubrn,5427,currently loaded features are unsorted so t,duplicates
+1022,5394,proposal for anonymous symbols and anonymous m,4288,beginrn this is one groovy feature tend t,relates
+1023,6823,hirn rn ive previously reported coupl,5382,and similar delimited strings arrays a,relates
+1024,10354,nick slocum shows in,5378,see discussion here,duplicates
+1025,5321,ruby has several numeric classes such as integ,5520,暫く様子を見て特に反対がなければ決定しますrnrn今の raitonal や co,duplicates
+1026,6973,numericinteger checks whether an instance is,5310,believe it is ambiguous what object can beha,relates
+1027,15215,current behavior and problemrnat the mo,5180,通常 nethttp を使う時はnethttpstartrubylango,duplicates
+1028,5142,rubymodeel は emacs に添付されるようになりましたがrn今も ru,6823,hirn rn ive previously reported coupl,relates
+1029,5138,the current ruby io classes have nonblocking,4560,blindly hitting ioread nonblock and raising,relates
+1030,5120,here are examples showing surprising and inc,3575,currently works like thisrnrnrubyrn,relates
+1031,5112,when was first working on the inadvertent sy,5072,recently discovered denial of service vuln,relates
+1032,5089,this is the third and hopefully final patch fo,5072,recently discovered denial of service vuln,precedes
+1033,5079,as mentioned in an update to this rem,5072,recently discovered denial of service vuln,precedes
+1034,5112,when was first working on the inadvertent sy,5072,recently discovered denial of service vuln,relates
+1035,5079,as mentioned in an update to this rem,5072,recently discovered denial of service vuln,precedes
+1036,5089,this is the third and hopefully final patch fo,5072,recently discovered denial of service vuln,precedes
+1037,5065,ive noticed issue subjecting an endal,5054,though as matz said at ruby is a,relates
+1038,5065,ive noticed issue subjecting an endal,16746,ruby syntax is full of ends im paranoid t,relates
+1039,5064,currently there are some problems with netht,5461,beginrnthe attached patch adds pip,relates
+1040,6482,beginrnthis patch adds the full uri request,5064,currently there are some problems with netht,relates
+1041,5065,ive noticed issue subjecting an endal,5054,though as matz said at ruby is a,relates
+1042,12241,this is refinement of feature,5054,though as matz said at ruby is a,relates
+1043,5054,though as matz said at ruby is a,16746,ruby syntax is full of ends im paranoid t,relates
+1044,5044,is there any reason that zip doesnt return r,4539,inspired by haskells zipwith function ha,relates
+1045,5044,is there any reason that zip doesnt return r,16261,upd after discussion in comments method,relates
+1046,4512,beginrnits in and will be use,5041,id like to set fd cloexec for all file descri,relates
+1047,1291,beginrn linux has the most useful cloex,5041,id like to set fd cloexec for all file descri,duplicates
+1048,5016,calling kernelcaller with negative limit sh,1906,beginrn inspired by nobus recent refactori,relates
+1049,5016,calling kernelcaller with negative limit sh,3917,beginrn propose to introduce kernelcalle,relates
+1050,4151,beginrn hirn rn how about method for,5008,beginrnhellornrni am using ruby,relates
+1051,7241,often use the inject method to build has,5008,beginrnhellornrni am using ruby,relates
+1052,5008,beginrnhellornrni am using ruby,6276,dear matzrnrnwe should establish to as,relates
+1053,5008,beginrnhellornrni am using ruby,4862,occasionally it is necessary to convert str,duplicates
+1054,5008,beginrnhellornrni am using ruby,1400,beginrn there are two ways to find out what,duplicates
+1055,5008,beginrnhellornrni am using ruby,3131,beginrn hellorn rn there is an imbalan,precedes
+1056,6298,beginrnmaybe there is another way to do thi,5007,im proposing method called proccall under,relates
+1057,4990,there is significant interest in improvingalt,2471,beginrn gc のアルゴリズムを複数用意して選択可能にするのはどうでしょうか,relates
+1058,4965,right now find the following code will rais,1141,beginn in ruby rn px if,duplicates
+1059,6224,propose to make below code workrnrn do,4965,right now find the following code will rais,duplicates
+1060,8600,beginrn ruby vrn ruby,4965,right now find the following code will rais,duplicates
+1061,4935,as discussed in the shorthand hash syntax for,4276,current syntactic sugar allows thisrnrn,duplicates
+1062,4924,beginrnwhen user calls have headerso,3330,beginrn うっかりrubylistに投げてしまったきしもとですrn r,relates
+1063,4924,beginrnwhen user calls have headerso,3333,beginrn なかだですrn rn rubydevに移動しますrn,duplicates
+1064,4910,suggest to add these two to class classr,14498,hellornrni was creating list of class i,relates
+1065,13694,today june is tau day to honor the t,4897,firstly please read the tau manifesto at,relates
+1066,17496,excuse me if this has been brought up before,4897,firstly please read the tau manifesto at,duplicates
+1067,4890,beginrn examplernprint first primes,4653,from,relates
+1068,5008,beginrnhellornrni am using ruby,4862,occasionally it is necessary to convert str,duplicates
+1069,16240,rnas work with objects some of them are n,4818,some objects can not be marshaled maybe there,duplicates
+1070,4276,current syntactic sugar allows thisrnrn,4801,assuming theres no technical limitation or am,relates
+1071,12116,sometimes need to apply divmod repeatedly,4787,suggest new feature of integer to enumerat,relates
+1072,12447,sometimes want to extract digits of placeva,4787,suggest new feature of integer to enumerat,relates
+1073,4780,mentioned before in another rejected issue,4615,beginnfileeach linesep line c,relates
+1074,3479,beginrn it would be quite handy to have m,4766,hellornrni propose rangebsearch for bina,duplicates
+1075,4698,in ruby the licensing of ruby has been,2000,beginn hellorn rn recently readline,relates
+1076,4890,beginrn examplernprint first primes,4653,from,relates
+1077,4647,this is easier to use than ioselect for sin,4646,this is easier to use than ioselect for sin,duplicates
+1078,4647,this is easier to use than ioselect for sin,4646,this is easier to use than ioselect for sin,duplicates
+1079,4780,mentioned before in another rejected issue,4615,beginnfileeach linesep line c,relates
+1080,5549,request the following methodsrnrn com,4574,beginrnhellornrnmany people have writt,relates
+1081,5138,the current ruby io classes have nonblocking,4560,blindly hitting ioread nonblock and raising,relates
+1082,5044,is there any reason that zip doesnt return r,4539,inspired by haskells zipwith function ha,relates
+1083,6817,know that what propose here is significa,4539,inspired by haskells zipwith function ha,relates
+1084,4539,inspired by haskells zipwith function ha,16261,upd after discussion in comments method,relates
+1085,4512,beginrnits in and will be use,5041,id like to set fd cloexec for all file descri,relates
+1086,4512,beginrnits in and will be use,1291,beginrn linux has the most useful cloex,relates
+1087,4477,from documentation and common sense would e,2715,beginrn this is an old issue think going,relates
+1088,4477,from documentation and common sense would e,4269,beginrn hellorn currently with linuxrn,relates
+1089,4402,beginn it would be great to support the synt,3845,beginrn hirn rn id propose in infix,duplicates
+1090,4335,here is rubys behaviorrn rnrubyrn,3575,currently works like thisrnrnrubyrn,relates
+1091,5543,first rb thread blocking region requires th,4328,beginrn think it is general enough to rem,relates
+1092,5394,proposal for anonymous symbols and anonymous m,4288,beginrn this is one groovy feature tend t,relates
+1093,4276,current syntactic sugar allows thisrnrn,4801,assuming theres no technical limitation or am,relates
+1094,4935,as discussed in the shorthand hash syntax for,4276,current syntactic sugar allows thisrnrn,duplicates
+1095,9047,beginrnrnin ruby if you can create sym,4276,current syntactic sugar allows thisrnrn,duplicates
+1096,4477,from documentation and common sense would e,4269,beginrn hellorn currently with linuxrn,relates
+1097,4257,beginn switch hittered already passed nearl,4068,beginn the current standard date library is,relates
+1098,4247,beginrn we are planning to add the followin,3647,arraysample does not support sampling with,relates
+1099,4247,beginrn we are planning to add the followin,4147,beginrn arraysample にブロックを渡したときブロックの戻り値を要,relates
+1100,4239,beginrn rn t,4207,beginrn 現状 ruby が出せる状況ではないのは存じあげております誰,relates
+1101,1200,beginrn it should be possible to use named,4239,beginrn rn t,relates
+1102,4239,beginrn rn t,4207,beginrn 現状 ruby が出せる状況ではないのは存じあげております誰,relates
+1103,4204,beginn で導入された ioadvise メソッドは引数に sym,4038,beginn as discussed in suggest wr,relates
+1104,4151,beginrn hirn rn how about method for,6669,given hash hmap returns an arrayali,relates
+1105,4151,beginrn hirn rn how about method for,5662,with ruby we often use this idiom to build,relates
+1106,4151,beginrn hirn rn how about method for,5008,beginrnhellornrni am using ruby,relates
+1107,7241,often use the inject method to build has,4151,beginrn hirn rn how about method for,relates
+1108,7292,now that to is the official method for expl,4151,beginrn hirn rn how about method for,relates
+1109,7793,it would be nice to have the following methods,4151,beginrn hirn rn how about method for,relates
+1110,4247,beginrn we are planning to add the followin,4147,beginrn arraysample にブロックを渡したときブロックの戻り値を要,relates
+1111,6483,found very common usecase for map map with,4146,現在symbolto procで i,relates
+1112,8987,please consider extending mapcollect by allow,4146,現在symbolto procで i,relates
+1113,9076,hellornrnid like to introduce new synt,4146,現在symbolto procで i,relates
+1114,4146,現在symbolto procで i,12115,am great fan of the symbolto proc short,relates
+1115,7251,suspect kernelusing to using all the alread,4085,beginrn as said at rubyconf id lik,relates
+1116,6287,def def i am test,4085,beginrn as said at rubyconf id lik,duplicates
+1117,4084,beginn pack should support network byt,3491,beginn the arraypack and stringunpack have,relates
+1118,4084,beginn pack should support network byt,3947,beginn ruby の伏魔殿 arraypack ですが機種依存な部分をいじる際,relates
+1119,4073,beginn suspect that in ruby mis,1784,beginn was very glad to see theres build,relates
+1120,4071,beginn support basic auth for nethttpget,3848,beginrn hirn rn needed to download a,relates
+1121,4257,beginn switch hittered already passed nearl,4068,beginn the current standard date library is,relates
+1122,6648,beginrncurrently there are no standard mech,4046,beginrn in debugger often one gets to s,duplicates
+1123,6793,hello all couldnt remember if this had be,4046,beginrn in debugger often one gets to s,duplicates
+1124,4038,beginn as discussed in suggest wr,4015,beginn couple of the flags on li,relates
+1125,4204,beginn で導入された ioadvise メソッドは引数に sym,4038,beginn as discussed in suggest wr,relates
+1126,4038,beginn as discussed in suggest wr,4015,beginn couple of the flags on li,relates
+1127,4084,beginn pack should support network byt,3947,beginn ruby の伏魔殿 arraypack ですが機種依存な部分をいじる際,relates
+1128,3947,beginn ruby の伏魔殿 arraypack ですが機種依存な部分をいじる際,3491,beginn the arraypack and stringunpack have,duplicates
+1129,3917,beginrn propose to introduce kernelcalle,1906,beginrn inspired by nobus recent refactori,relates
+1130,5016,calling kernelcaller with negative limit sh,3917,beginrn propose to introduce kernelcalle,relates
+1131,4071,beginn support basic auth for nethttpget,3848,beginrn hirn rn needed to download a,relates
+1132,4402,beginn it would be great to support the synt,3845,beginrn hirn rn id propose in infix,duplicates
+1133,6198,id like to set visibility like thisrnrn,3753,beginrn rubykaigi見てて思い出したのですがdef式はsymbolを返,relates
+1134,7424,the documented way to embed ruby interpreter,3731,beginrn with ruby it has become more d,relates
+1135,3715,beginrn it would be useful to be able to as,2673,beginrn arraypermutation と arraycombinati,relates
+1136,3715,beginrn it would be useful to be able to as,3714,beginrn given an enumerator there is no wa,relates
+1137,6636,now that it has been made clear that enumerab,3715,beginrn it would be useful to be able to as,relates
+1138,3715,beginrn it would be useful to be able to as,3714,beginrn given an enumerator there is no wa,relates
+1139,3714,beginrn given an enumerator there is no wa,14044,as described in numonarray and pycal,relates
+1140,13904,at,3714,beginrn given an enumerator there is no wa,duplicates
+1141,3649,beginn arraysample arrayshuffle arraysh,3647,arraysample does not support sampling with,relates
+1142,3649,beginn arraysample arrayshuffle arraysh,3647,arraysample does not support sampling with,relates
+1143,4247,beginrn we are planning to add the followin,3647,arraysample does not support sampling with,relates
+1144,4335,here is rubys behaviorrn rnrubyrn,3575,currently works like thisrnrnrubyrn,relates
+1145,5120,here are examples showing surprising and inc,3575,currently works like thisrnrnrubyrn,relates
+1146,4084,beginn pack should support network byt,3491,beginn the arraypack and stringunpack have,relates
+1147,3947,beginn ruby の伏魔殿 arraypack ですが機種依存な部分をいじる際,3491,beginn the arraypack and stringunpack have,duplicates
+1148,3479,beginrn it would be quite handy to have m,4766,hellornrni propose rangebsearch for bina,duplicates
+1149,11256,since capturing block into proc is slow f,3447,なかだですrnrn,relates
+1150,3426,beginrn the documentation for exec states,2715,beginrn this is an old issue think going,relates
+1151,3388,beginrn abcdefghijstar,13712,stringstart with should receive regexprn,relates
+1152,3346,beginrn id like to know why dir was re,1961,beginrn proposalrn rn kernel dir,duplicates
+1153,8098,there should be dir constant to complime,3346,beginrn id like to know why dir was re,duplicates
+1154,4924,beginrnwhen user calls have headerso,3333,beginrn なかだですrn rn rubydevに移動しますrn,duplicates
+1155,4924,beginrnwhen user calls have headerso,3330,beginrn うっかりrubylistに投げてしまったきしもとですrn r,relates
+1156,3222,beginrn fixing up the rubyspecs led me to t,6936,feature などで議論されていた flonum が でが入,relates
+1157,3187,beginrn id like way to increase the size,6694,abstractrnrnsupport threadnew without,relates
+1158,5008,beginrnhellornrni am using ruby,3131,beginrn hellorn rn there is an imbalan,precedes
+1159,3112,beginrn whyrnendrn,2340,beginn yaml and syck is whys product and,relates
+1160,2983,beginn hirn rn the readline library was,2032,beginn this is moved ticked from rubydevr,duplicates
+1161,2983,beginn hirn rn the readline library was,2982,beginn hirn rn ruby currently tries to,duplicates
+1162,2032,beginn this is moved ticked from rubydevr,2982,beginn hirn rn ruby currently tries to,duplicates
+1163,2983,beginn hirn rn the readline library was,2982,beginn hirn rn ruby currently tries to,duplicates
+1164,5523,負の零なども含め正しく符号を判断するために必要です実際complex やrnlib,2968,beginrn 数値の正負を返すメソッドが欲しいですrn 主たる想定用途は,duplicates
+1165,8015,diff git agcc bgccrnindex,2837,beginrn the gc currently increases the size,relates
+1166,3426,beginrn the documentation for exec states,2715,beginrn this is an old issue think going,relates
+1167,4477,from documentation and common sense would e,2715,beginrn this is an old issue think going,relates
+1168,3715,beginrn it would be useful to be able to as,2673,beginrn arraypermutation と arraycombinati,relates
+1169,2645,beginrn in ruby stringscannerpos retu,1159,beginn 松田と申しますrn rn ruby stringsca,duplicates
+1170,2635,beginn the rdoc in trunk is outdated and not,5481,beginrnrnuptodate summary of this propo,relates
+1171,1279,beginrn please add the relevant dtrace prob,2565,beginrn hirn rn made commit that e,relates
+1172,7022,it would be useful for profilers to have more,2565,beginrn hirn rn made commit that e,relates
+1173,2509,beginrn like freezing my constants confi,17145,id like to propose objectdeep freezern,relates
+1174,4990,there is significant interest in improvingalt,2471,beginrn gc のアルゴリズムを複数用意して選択可能にするのはどうでしょうか,relates
+1175,2348,beginrn the merits of this library have bee,9121,rbtree is slower than the pure ruby versionr,relates
+1176,3112,beginrn whyrnendrn,2340,beginn yaml and syck is whys product and,relates
+1177,6163,beginrnthe syck extension should be removed,2340,beginn yaml and syck is whys product and,relates
+1178,2325,まつもと ゆきひろですrnrnin message re,2324,なかだですrnrn,duplicates
+1179,10181,the purpose of the openat function is to ena,2324,なかだですrnrn,relates
+1180,2325,まつもと ゆきひろですrnrnin message re,2324,なかだですrnrn,duplicates
+1181,5607,beginrnwhen tried to access excel file i,2323,beginrn surfboard e,relates
+1182,2321,beginn have created new patch for the ar,2322,beginrn this patch adds standard deviatio,relates
+1183,2321,beginn have created new patch for the ar,2322,beginrn this patch adds standard deviatio,relates
+1184,2294,beginrn hirn rn am attaching ruby,2126,beginn hellorn rn background rn,duplicates
+1185,2166,beginn here is patch which implements th,1999,beginn ive written an improved version of t,relates
+1186,2294,beginrn hirn rn am attaching ruby,2126,beginn hellorn rn background rn,duplicates
+1187,7845,strip and associated methods in ruby and,2093,beginn 現在stringstrip は rb enc isspace を使って,relates
+1188,2080,beginrn sou,1857,beginn this is request for installation pr,blocks
+1189,10084,unicode string normalization is frequent ope,2034,beginrn has consideration been recently giv,relates
+1190,10085,case conversion functions are currently limite,2034,beginrn has consideration been recently giv,relates
+1191,2000,beginn hellorn rn recently readline,2032,beginn this is moved ticked from rubydevr,duplicates
+1192,2983,beginn hirn rn the readline library was,2032,beginn this is moved ticked from rubydevr,duplicates
+1193,2032,beginn this is moved ticked from rubydevr,2982,beginn hirn rn ruby currently tries to,duplicates
+1194,4698,in ruby the licensing of ruby has been,2000,beginn hellorn rn recently readline,relates
+1195,2000,beginn hellorn rn recently readline,2032,beginn this is moved ticked from rubydevr,duplicates
+1196,2166,beginn here is patch which implements th,1999,beginn ive written an improved version of t,relates
+1197,3346,beginrn id like to know why dir was re,1961,beginrn proposalrn rn kernel dir,duplicates
+1198,3917,beginrn propose to introduce kernelcalle,1906,beginrn inspired by nobus recent refactori,relates
+1199,5016,calling kernelcaller with negative limit sh,1906,beginrn inspired by nobus recent refactori,relates
+1200,1275,beginrn the ipaddr class internally stores,1905,beginrn いまいですrn rn はありがとうございました,relates
+1201,2080,beginrn sou,1857,beginn this is request for installation pr,blocks
+1202,4073,beginn suspect that in ruby mis,1784,beginn was very glad to see theres build,relates
+1203,9112,if module is included into class a,1586,beginrn the scenariorn include foo i,relates
+1204,1492,beginn まつもと ゆきひろですrn rn in message re,1488,beginn こんにちはなかむらうですn rubyでスクリプトを書いてい,duplicates
+1205,1492,beginn まつもと ゆきひろですrn rn in message re,1488,beginn こんにちはなかむらうですn rubyでスクリプトを書いてい,duplicates
+1206,6056,this patch fixes one issue protecting new os,1400,beginrn there are two ways to find out what,relates
+1207,5008,beginrnhellornrni am using ruby,1400,beginrn there are two ways to find out what,duplicates
+1208,4512,beginrnits in and will be use,1291,beginrn linux has the most useful cloex,relates
+1209,1291,beginrn linux has the most useful cloex,5041,id like to set fd cloexec for all file descri,duplicates
+1210,1279,beginrn please add the relevant dtrace prob,2565,beginrn hirn rn made commit that e,relates
+1211,1275,beginrn the ipaddr class internally stores,1905,beginrn いまいですrn rn はありがとうございました,relates
+1212,1201,beginrn it should be possible to use relati,1200,beginrn it should be possible to use named,relates
+1213,1201,beginrn it should be possible to use relati,1200,beginrn it should be possible to use named,relates
+1214,1200,beginrn it should be possible to use named,4239,beginrn rn t,relates
+1215,2645,beginrn in ruby stringscannerpos retu,1159,beginn 松田と申しますrn rn ruby stringsca,duplicates
+1216,1153,beginrn なかだですrn rn arrayだけでなくenumerab,11090,currently if you want to iterate the first uni,relates
+1217,4965,right now find the following code will rais,1141,beginn in ruby rn px if,duplicates
+1218,6224,propose to make below code workrnrn do,1141,beginn in ruby rn px if,duplicates
+1219,8600,beginrn ruby vrn ruby,1141,beginn in ruby rn px if,duplicates

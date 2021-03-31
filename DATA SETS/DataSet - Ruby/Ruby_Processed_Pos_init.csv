@@ -1,0 +1,1221 @@
+,id1,Description1,id2,Description2,Type of dependency
+0,15628,hirnrnthis really bug,17525,,relates
+1,15743,understanding rubyvm supposed,17500,rubyvm traprn user think,relates
+2,15752,believe introduce module exp,17500,rubyvm traprn user think,relates
+3,17496,excuse brought,4897,firstly please read tau manifesto,duplicates
+4,8804,introduce syntax,17474,ruby borrowed conceptsidioms allot,relates
+5,17273,proposal introduce shareable con,17397,think shareable constant value literal,relates
+6,17384,hi allrnwhen used hashmerge thought,6225,string array combined,duplicates
+7,17365,summary currently good way ret,17378,discussion marcandre found good,relates
+8,15865,adding syntax oneline pattern,17371,reintroducing expr pat akr,relates
+9,16355,currently single line pattern matchingexpr,17371,reintroducing expr pat akr,relates
+10,17365,summary currently good way ret,17378,discussion marcandre found good,relates
+11,15973,kernellambda receives proc,17361,newsrnrnrn kernellambda,relates
+12,10600,multipleproducer multipleconsumer sit,17357,currently difficult reliably distingu,relates
+13,15799,implemented pipeline operator topi,17353,since ruby already moving directionfu,relates
+14,16794,reading rassign,17353,since ruby already moving directionfu,relates
+15,17322,randomdefault default random generator u,17351,,relates
+16,17336,problemrnwhen need monkey patch whic,16241,original discussion,duplicates
+17,12075,sometimes write following codernrnru,17330,always core method proposal,relates
+18,17322,randomdefault default random generator u,17351,,relates
+19,16987,enumeration designed greedy immedi,17312,offspring vague,relates
+20,15657,maintenance webrick hard rub,17303,propose move webrick bundled gem r,relates
+21,17292,set literal v javascript object punningr,14579,allow value omission hash lite,duplicates
+22,17288,made patch optimize send call w,17291,made patch optimize send call,duplicates
+23,17288,made patch optimize send call w,17291,made patch optimize send call,duplicates
+24,13334,mathncomplex mathnrational deprec,17281,mathn deprecated canonicalization,relates
+25,17273,proposal introduce shareable con,17278,description rnrnthis proposal aim,relates
+26,17145,id like propose objectdeep freezern,17274,ticket describes semantics sharea,relates
+27,17273,proposal introduce shareable con,17274,ticket describes semantics sharea,relates
+28,17273,proposal introduce shareable con,17274,ticket describes semantics sharea,relates
+29,17145,id like propose objectdeep freezern,17273,proposal introduce shareable con,relates
+30,17273,proposal introduce shareable con,17278,description rnrnthis proposal aim,relates
+31,17273,proposal introduce shareable con,17397,think shareable constant value literal,relates
+32,14912,propose new pattern matching syntaxrnrn,17260,propose promote pattern matching offic,relates
+33,15504,abstractrnrnrange currently nonfroze,17195,range frozen,relates
+34,16381,followup,17187,add connect timeout tcpsocketnew sa,relates
+35,17134,add resolve timeout tcpsocketnewrnit,17187,add connect timeout tcpsocketnew sa,relates
+36,16752,defining private constant require,17171,rubyrnclass foorn def call mern,relates
+37,13381,,17147,object deserializer like json messagepack,relates
+38,17147,object deserializer like json messagepack,13077,introduce stringfstring methodrnrnthis ex,duplicates
+39,2509,beginrn like freezing constant confi,17145,id like propose objectdeep freezern,relates
+40,17100,ractor proposal new concurrent abst,17145,id like propose objectdeep freezern,relates
+41,17145,id like propose objectdeep freezern,17274,ticket describes semantics sharea,relates
+42,17145,id like propose objectdeep freezern,17273,proposal introduce shareable con,relates
+43,17055,two verbose mode warning fairl,17143,support recently added warningwarn,relates
+44,16381,followup,17134,add resolve timeout tcpsocketnewrnit,relates
+45,17134,add resolve timeout tcpsocketnewrnit,17187,add connect timeout tcpsocketnew sa,relates
+46,16476,seems like blocking syscall done,17134,add resolve timeout tcpsocketnewrnit,relates
+47,17133,kerneliterator mildly deprecate sicne,15547,block given added since,duplicates
+48,11588,ruby current warning system lacking warn,17122,deprecation warning warning rub,relates
+49,12026,add simple way filter warning,17122,deprecation warning warning rub,relates
+50,12299,another attempt provide ty,17122,deprecation warning warning rub,relates
+51,17100,ractor proposal new concurrent abst,17145,id like propose objectdeep freezern,relates
+52,17055,two verbose mode warning fairl,17143,support recently added warningwarn,relates
+53,16345,propose ruby doesnt emit deprecation,17000,matz decided disable deprecation warnin,relates
+54,16989,opening series feature request,16995,quite minor set r,relates
+55,16989,opening series feature request,16994,would like shorthand syntax frozen se,relates
+56,16989,opening series feature request,16993,create set hash key currently impli,relates
+57,16989,opening series feature request,16992,officially set element uncertain order,relates
+58,16989,opening series feature request,16991,id like add join setrnrnru,relates
+59,16989,opening series feature request,16990,currently set operator array work,relates
+60,16989,opening series feature request,16990,currently set operator array work,relates
+61,16989,opening series feature request,16991,id like add join setrnrnru,relates
+62,16989,opening series feature request,16992,officially set element uncertain order,relates
+63,16989,opening series feature request,16993,create set hash key currently impli,relates
+64,16989,opening series feature request,16994,would like shorthand syntax frozen se,relates
+65,16989,opening series feature request,16995,quite minor set r,relates
+66,16987,enumeration designed greedy immedi,17312,offspring vague,relates
+67,14138,many good reason simply define,16963,englishrb longer maintained ruby cor,relates
+68,16945,would like propose create way,12543,introducing new syntax tail ca,duplicates
+69,15198,frequently find needing determine,16928,hirnrnthe ruby array class currently,relates
+70,16463,ruby outrnit aim warn ever,16897,rubyrnrequire benchmarkipsrnrnmodu,relates
+71,16378,think important otherwise,16891,based feedback railscore matz de,relates
+72,11925,propose make struct subclass constructor w,16806,proposalrnrnrbrnpost structnew,relates
+73,16794,reading rassign,17353,since ruby already moving directionfu,relates
+74,16786,abstractrnrnwe propose introduce li,16792,currently mutex cruby held per thread,relates
+75,16786,abstractrnrnwe propose introduce li,16792,currently mutex cruby held per thread,relates
+76,14736,ruby concurrency greatly enhanced co,16786,abstractrnrnwe propose introduce li,relates
+77,16122,value object useful concept introduc,16769,backgroundrnweve discussed interface,relates
+78,16752,defining private constant require,17171,rubyrnclass foorn def call mern,relates
+79,5054,though matz said ruby,16746,ruby syntax full end im paranoid,relates
+80,5065,ive noticed issue subjecting endal,16746,ruby syntax full end im paranoid,relates
+81,12241,refinement feature,16746,ruby syntax full end im paranoid,relates
+82,8661,currently way ruby print backtrace th,16684,mostrecentcalllast order backtrace,relates
+83,13488,currently encodingdefault external set,16604,issue related,relates
+84,12650,window environment variable support unicode,16604,issue related,relates
+85,15393,hirnrni would like add vm compilation,16600,contextrnrna somewhat common pattern w,relates
+86,16463,ruby outrnit aim warn ever,16511,alternative id lik,relates
+87,15973,kernellambda receives proc,16499,,relates
+88,15357,current implementation procparameters,16499,,relates
+89,10637,encountered issue bringing v,16482,right nethttp force user use cl,relates
+90,16381,followup,16476,seems like blocking syscall done,relates
+91,16476,seems like blocking syscall done,17134,add resolve timeout tcpsocketnewrnit,relates
+92,16038,know objectspaceweakmap isnt really sup,16471,id like request two feature weakref,relates
+93,15958,matz changed timeto format fr,16470,ruby added nanosecond representation th,relates
+94,16463,ruby outrnit aim warn ever,16511,alternative id lik,relates
+95,16378,think important otherwise,16463,ruby outrnit aim warn ever,relates
+96,16463,ruby outrnit aim warn ever,16897,rubyrnrequire benchmarkipsrnrnmodu,relates
+97,12086,currently refinement activated,16461,overviewrni propose procusing support,relates
+98,16441,method like take al,16446,led think issue ge,relates
+99,16441,method like take al,16446,led think issue ge,relates
+100,16363,mean gem bundled gem,16431,opened pr allows ruby,relates
+101,16430,im sure intentional,6810,expected behavior ra,duplicates
+102,15751,similar nameerrorreceiver return,16419,exception class receiver accept r,relates
+103,16101,feature,16412,procto return fileline instead,relates
+104,16381,followup,16476,seems like blocking syscall done,relates
+105,15553,currently use timeout nethttp oth,16381,followup,relates
+106,16381,followup,17134,add resolve timeout tcpsocketnewrnit,relates
+107,16381,followup,17187,add connect timeout tcpsocketnew sa,relates
+108,16253,using thisrnrnrubyrn def,16378,think important otherwise,relates
+109,16378,think important otherwise,16891,based feedback railscore matz de,relates
+110,16378,think important otherwise,16463,ruby outrnit aim warn ever,relates
+111,16377,following scriptrnrnrubyrndef mu,8948,beginrni see frozen string accepte,duplicates
+112,16355,currently single line pattern matchingexpr,16370,wrote codernrn rubyrnn,relates
+113,16363,mean gem bundled gem,16431,opened pr allows ruby,relates
+114,14145,idea investigating example scrip,16356,current behavior includes rnis th,relates
+115,15865,adding syntax oneline pattern,16355,currently single line pattern matchingexpr,relates
+116,16355,currently single line pattern matchingexpr,16370,wrote codernrn rubyrnn,relates
+117,16355,currently single line pattern matchingexpr,17371,reintroducing expr pat akr,relates
+118,16289,problemrnrncurrently interpreter e,16345,propose ruby doesnt emit deprecation,relates
+119,16018,since moduledeprecate consta,16345,propose ruby doesnt emit deprecation,relates
+120,16345,propose ruby doesnt emit deprecation,17000,matz decided disable deprecation warnin,relates
+121,16253,using thisrnrnrubyrn def,16296,settled syntax rem,relates
+122,16289,problemrnrncurrently interpreter e,16345,propose ruby doesnt emit deprecation,relates
+123,16276,private protected declaration ruby clas,7019,like indent private method one level,duplicates
+124,12125,hellornrnthe operator let one pas,16275,objmethod introduced,relates
+125,13581,another programming language even java,16275,objmethod introduced,relates
+126,4539,inspired haskells zipwith function ha,16261,upd discussion comment method,relates
+127,5044,reason zip doesnt return r,16261,upd discussion comment method,relates
+128,16253,using thisrnrnrubyrn def,16296,settled syntax rem,relates
+129,16253,using thisrnrnrubyrn def,16378,think important otherwise,relates
+130,14344,rely refinement lot dont want,16241,original discussion,relates
+131,17336,problemrnwhen need monkey patch whic,16241,original discussion,duplicates
+132,16240,rna work object n,4818,object marshaled maybe,duplicates
+133,15865,adding syntax oneline pattern,16182,new syntax expr pattern,relates
+134,5481,beginrnrnuptodate summary propo,16170,im working extract standard library r,relates
+135,16150,much time user call,16153,freezing string give u nice performanc,relates
+136,16150,much time user call,16153,freezing string give u nice performanc,relates
+137,15998,patch,16131,ruby taint checking originally,relates
+138,8468,yesterday github tokyo drinkup thanks gi,16131,ruby taint checking originally,relates
+139,16123,problemrnrnthere inconsistency,11297,ruby allow private method calle,duplicates
+140,16122,value object useful concept introduc,16769,backgroundrnweve discussed interface,relates
+141,14145,idea investigating example scrip,16101,feature,relates
+142,16101,feature,16412,procto return fileline instead,relates
+143,11105,support hash literal,16095,common usern rubyrnclass arn de,relates
+144,16038,know objectspaceweakmap isnt really sup,16471,id like request two feature weakref,relates
+145,16029,discussed tenderlove,13381,,duplicates
+146,16018,since moduledeprecate consta,16345,propose ruby doesnt emit deprecation,relates
+147,12447,sometimes want extract digit placeva,16011,ruby seems way format number w,relates
+148,16006,nonproportional font multibyte character,14618,abstractrnrnunicode display width,duplicates
+149,15998,patch,16131,ruby taint checking originally,relates
+150,15931,rubyとjavaのブリッジを開発していて文字列の変換処理で困っていますrn現象,15995,discussed issue encoding convers,relates
+151,12046,write accessor method bo,15991,hirnrni thought issue wouldve al,relates
+152,5781,pretty sure come id l,15991,hirnrni thought issue wouldve al,relates
+153,15976,semantically equivalent ar,15198,frequently find needing determine,duplicates
+154,12957,currently create lambda proc one u,15973,kernellambda receives proc,relates
+155,7314,code need convert proc,15973,kernellambda receives proc,relates
+156,9777,currently different block object la,15973,kernellambda receives proc,relates
+157,8693,def yield end def,15973,kernellambda receives proc,relates
+158,15973,kernellambda receives proc,16499,,relates
+159,15973,kernellambda receives proc,17361,newsrnrnrn kernellambda,relates
+160,15752,believe introduce module exp,15966,feel frustrated recent experimenta,relates
+161,15958,matz changed timeto format fr,16470,ruby added nanosecond representation th,relates
+162,5958,propose method threadgroupjoinrnca,15954,現在いるスレッド以外の全てのスレッドを現在のスレッドに合流させたいときは多いと思いますr,relates
+163,15931,rubyとjavaのブリッジを開発していて文字列の変換処理で困っていますrn現象,15995,discussed issue encoding convers,relates
+164,15799,implemented pipeline operator topi,15921,,relates
+165,14912,propose new pattern matching syntaxrnrn,15918,currently set respond deconstr,relates
+166,15230,id like feature know loaded,15903,rubyvm contains mostly mrispecific feature b,relates
+167,15752,believe introduce module exp,15903,rubyvm contains mostly mrispecific feature b,relates
+168,14912,propose new pattern matching syntaxrnrn,15881,rubyrnclass arn def deconstructrn,relates
+169,14912,propose new pattern matching syntaxrnrn,15865,adding syntax oneline pattern,relates
+170,15865,adding syntax oneline pattern,16182,new syntax expr pattern,relates
+171,15865,adding syntax oneline pattern,16355,currently single line pattern matchingexpr,relates
+172,15865,adding syntax oneline pattern,17371,reintroducing expr pat akr,relates
+173,8499,according experience following two,15863,add hashslicernrnin,relates
+174,14035,reproducernrnexecute urifileetc,15861,recently ruby getting better parsing ur,relates
+175,14912,propose new pattern matching syntaxrnrn,15824,rubyに追加されそうなパターンマッチの機能についてrninterger arr,relates
+176,13563,hirnrni propose hashchoice methodrnr,15822,according hashslice would like add,relates
+177,15822,according hashslice would like add,8499,according experience following two,duplicates
+178,15814,ruby casewhen statement written,14912,propose new pattern matching syntaxrnrn,duplicates
+179,10425,method near like following would u,15811,backgroundrnrnequal comparison method,relates
+180,15799,implemented pipeline operator topi,15921,,relates
+181,14392,would like see implemented ruby pipe,15799,implemented pipeline operator topi,relates
+182,15799,implemented pipeline operator topi,17353,since ruby already moving directionfu,relates
+183,15743,understanding rubyvm supposed,15752,believe introduce module exp,relates
+184,15752,believe introduce module exp,15903,rubyvm contains mostly mrispecific feature b,relates
+185,15752,believe introduce module exp,15966,feel frustrated recent experimenta,relates
+186,14844,hi thanks great work ruby,15752,believe introduce module exp,relates
+187,15752,believe introduce module exp,17500,rubyvm traprn user think,relates
+188,15751,similar nameerrorreceiver return,16419,exception class receiver accept r,relates
+189,15743,understanding rubyvm supposed,15752,believe introduce module exp,relates
+190,15743,understanding rubyvm supposed,17500,rubyvm traprn user think,relates
+191,15195,people japan know,15742,reproduce,relates
+192,12240,often improvement implicit block argume,15741,numbered parameter introduced,relates
+193,12648,would like pas optional argument,15725,hellornrni would like propose four new,relates
+194,14759,everybody benefit jemalloc e,15667,per honglis excellent article look like,relates
+195,5481,beginrnrnuptodate summary propo,15657,maintenance webrick hard rub,relates
+196,15657,maintenance webrick hard rub,17303,propose move webrick bundled gem r,relates
+197,15628,hirnrnthis really bug,17525,,relates
+198,5653,hirn rntoday talked nahi en,15592,feature switch autoload behav,relates
+199,15563,ruby introduced dig array,12282,new feature consideration dig wh,duplicates
+200,15563,ruby introduced dig array,14602,currently hash like thisrnrn,duplicates
+201,13807,frequently see code us value,15557,often see code like thisrnrn rubyr,relates
+202,10499,procnew kernelproc little known f,15554,abstractrnrnwarn raise argumenterr,copied_to
+203,14430,instead using tcpsocketopen wrapped ti,15553,currently use timeout nethttp oth,relates
+204,15553,currently use timeout nethttp oth,16381,followup,relates
+205,17133,kerneliterator mildly deprecate sicne,15547,block given added since,duplicates
+206,15504,abstractrnrnrange currently nonfroze,17195,range frozen,relates
+207,15393,hirnrni would like add vm compilation,16600,contextrnrna somewhat common pattern w,relates
+208,15357,current implementation procparameters,16499,,relates
+209,8468,yesterday github tokyo drinkup thanks gi,15344,would like start discussion relating,relates
+210,12460,currently unicode version used speci,15341,emoji version different unicod,relates
+211,15341,emoji version different unicod,15182,reported naruse yui naruse,blocks
+212,5663,pretty common want map en,15323,proposal combined filter,relates
+213,14802,unicode version published somet,15321,unicode version published,blocks
+214,15321,unicode version published,15195,people japan know,blocks
+215,15317,,14802,unicode version published somet,blocks
+216,15301,one reddit discussion ive got stuck,12115,great fan symbolto proc short,duplicates
+217,15236,pr github,15286,suggestion hash shorthandrn,relates
+218,15236,pr github,15286,suggestion hash shorthandrn,relates
+219,15236,pr github,11105,support hash literal,duplicates
+220,15230,id like feature know loaded,15903,rubyvm contains mostly mrispecific feature b,relates
+221,11925,propose make struct subclass constructor w,15222,ruby struct subclass dif,relates
+222,15215,current behavior problemrnat mo,5180,通常 nethttp を使う時はnethttpstartrubylango,duplicates
+223,15198,frequently find needing determine,16928,hirnrnthe ruby array class currently,relates
+224,15976,semantically equivalent ar,15198,frequently find needing determine,duplicates
+225,15195,people japan know,15742,reproduce,relates
+226,15321,unicode version published,15195,people japan know,blocks
+227,12820,hellornrnthe patternrnrnrubyrnc,15192,motivationrnrnintroduce new syntax,relates
+228,15192,motivationrnrnintroduce new syntax,5825,im excited feature coffee,duplicates
+229,15182,reported naruse yui naruse,14802,unicode version published somet,blocks
+230,15341,emoji version different unicod,15182,reported naruse yui naruse,blocks
+231,15143,often call arrayto result,10208,convert list key value,duplicates
+232,14609,abstractrnrnkernelpobj print obj,15112,sometimes write stderrputs objinspect,relates
+233,15092,rni would like propose making change,13904,,duplicates
+234,11925,propose make struct subclass constructor w,15076,struct used instantiate object,relates
+235,14022,joining element array,15024,think could handy block suppor,relates
+236,14830,ticket picking mjitpause ht,14954,problemrnto measure mjitgenerated cod,relates
+237,10797,moduleconst defined take optional argu,14944,module many introspection method meth,duplicates
+238,14915,method system implementation depen,14940,related add bcrypt password h,relates
+239,14869,概要rnrnhash を追加する提案になりますrnrn,14916,概要rnrnarray を追加する提案になりますrn基本的な,relates
+240,14913,proposal part search pa,14916,概要rnrnarray を追加する提案になりますrn基本的な,relates
+241,14915,method system implementation depen,14940,related add bcrypt password h,relates
+242,14913,proposal part search pa,14916,概要rnrnarray を追加する提案になりますrn基本的な,relates
+243,14709,rubykaigi presentation,14912,propose new pattern matching syntaxrnrn,relates
+244,14912,propose new pattern matching syntaxrnrn,15865,adding syntax oneline pattern,relates
+245,14912,propose new pattern matching syntaxrnrn,15918,currently set respond deconstr,relates
+246,14912,propose new pattern matching syntaxrnrn,15881,rubyrnclass arn def deconstructrn,relates
+247,14912,propose new pattern matching syntaxrnrn,15824,rubyに追加されそうなパターンマッチの機能についてrninterger arr,relates
+248,14912,propose new pattern matching syntaxrnrn,17260,propose promote pattern matching offic,relates
+249,15814,ruby casewhen statement written,14912,propose new pattern matching syntaxrnrn,duplicates
+250,14869,概要rnrnhash を追加する提案になりますrnrn,14916,概要rnrnarray を追加する提案になりますrn基本的な,relates
+251,14844,hi thanks great work ruby,15752,believe introduce module exp,relates
+252,14839,request feedback particular,14802,unicode version published somet,blocks
+253,14830,ticket picking mjitpause ht,14954,problemrnto measure mjitgenerated cod,relates
+254,14491,issuernrndoing careful analysis mji,14830,ticket picking mjitpause ht,precedes
+255,13685,unicode published week ago,14802,unicode version published somet,relates
+256,14839,request feedback particular,14802,unicode version published somet,blocks
+257,15182,reported naruse yui naruse,14802,unicode version published somet,blocks
+258,15317,,14802,unicode version published somet,blocks
+259,14802,unicode version published somet,15321,unicode version published,blocks
+260,7003,let make sure therell mvm,14792,old problem maybe running multip,relates
+261,12092,allows creating modified clone frozen,14778,id like use objectdup block whi,relates
+262,14759,everybody benefit jemalloc e,15667,per honglis excellent article look like,relates
+263,13618,rnauto fiber schedule rb wait sin,14736,ruby concurrency greatly enhanced co,relates
+264,14736,ruby concurrency greatly enhanced co,16786,abstractrnrnwe propose introduce li,relates
+265,13767,order ruby used scientifi,14722,way implement even copy pyth,relates
+266,14709,rubykaigi presentation,14912,propose new pattern matching syntaxrnrn,relates
+267,14706,ruby threadsafe way implement,12607,one derived bug,duplicates
+268,12912,dont allow range without end like,14697,enumeratorarithmeticsequence ha,relates
+269,14696,original dst defined atrn,6394,linux original dst provides origina,duplicates
+270,13241,currently exploratory proposalr,14618,abstractrnrnunicode display width,relates
+271,16006,nonproportional font multibyte character,14618,abstractrnrnunicode display width,duplicates
+272,14609,abstractrnrnkernelpobj print obj,15112,sometimes write stderrputs objinspect,relates
+273,14602,currently hash like thisrnrn,12282,new feature consideration dig wh,duplicates
+274,15563,ruby introduced dig array,14602,currently hash like thisrnrn,duplicates
+275,11105,support hash literal,14579,allow value omission hash lite,relates
+276,17292,set literal v javascript object punningr,14579,allow value omission hash lite,duplicates
+277,12996,proposal range optimize red,14575,conscious duplicate bug,relates
+278,14575,conscious duplicate bug,12612,currently range alias includ,duplicates
+279,11741,git svnrnrnconverting ruby wholesale,14551,know migrating git get asked least eve,relates
+280,4910,suggest add two class classr,14498,hellornrni creating list class,relates
+281,14489,currently discourse boot notice min,14492,rn rubygem like yomikomu,relates
+282,14491,issuernrndoing careful analysis mji,14830,ticket picking mjitpause ht,precedes
+283,14489,currently discourse boot notice min,14492,rn rubygem like yomikomu,relates
+284,7639,chain method period e,14463,coming language find extre,relates
+285,8158,use lightweight structure loaded feature,14460,hirnrnive attached patch speed u,relates
+286,14443,gsub take hash second ar,13016,background wanted drop nkf dependency,duplicates
+287,14430,instead using tcpsocketopen wrapped ti,15553,currently use timeout nethttp oth,relates
+288,11541,since ruby def return symbol th,14397,matsudasan suggested public prote,relates
+289,14396,matsudasan suggested public prote,14397,matsudasan suggested public prote,duplicates
+290,14396,matsudasan suggested public prote,14397,matsudasan suggested public prote,duplicates
+291,14392,would like see implemented ruby pipe,15799,implemented pipeline operator topi,relates
+292,14344,rely refinement lot dont want,16241,original discussion,relates
+293,14045,backgroundrnrnif need pas given b,14267,following script consistently print proc,relates
+294,14250,safe removed ruby,14256,see,relates
+295,14250,safe removed ruby,14256,see,relates
+296,14138,many good reason simply define,14240,think four special variable separat,relates
+297,5977,hellornrnas mentioned rubyconf wo,14240,think four special variable separat,relates
+298,12589,hello id like start big mri project,14235,backgroundrnrnin,relates
+299,14197,none one accept,11286,proposalrnit proposed enumerable,relates
+300,14158,racc parser included mri ruby c,9456,see,relates
+301,14111,日本人じゃないですが日本語を勉強してますから日本語でレポートしてみましたrn日本語,14145,idea investigating example scrip,relates
+302,14145,idea investigating example scrip,16101,feature,relates
+303,14145,idea investigating example scrip,16356,current behavior includes rnis th,relates
+304,14138,many good reason simply define,14240,think four special variable separat,relates
+305,14138,many good reason simply define,16963,englishrb longer maintained ruby cor,relates
+306,14133,module class reopened change,14132,module class reopened change,relates
+307,14133,module class reopened change,6539,feel inconsistency meth,relates
+308,14132,module class reopened change,6539,feel inconsistency meth,relates
+309,14133,module class reopened change,14132,module class reopened change,relates
+310,14111,日本人じゃないですが日本語を勉強してますから日本語でレポートしてみましたrn日本語,14145,idea investigating example scrip,relates
+311,14097,currently concat method ruby whi,14105,sure also add feautures th,relates
+312,14097,currently concat method ruby whi,14105,sure also add feautures th,relates
+313,14055,following string symbol method cu,12786,descriptionrnrni would find stringcasecmp,relates
+314,11256,since capturing block proc slow f,14045,backgroundrnrnif need pas given b,relates
+315,14045,backgroundrnrnif need pas given b,14267,following script consistently print proc,relates
+316,14044,described numonarray pycal,13904,,relates
+317,3714,beginrn given enumerator wa,14044,described numonarray pycal,relates
+318,9049,nmatrix weve implemented range shortha,14044,described numonarray pycal,relates
+319,14042,hi rnrnive attached patch make iop,9323,propose addition iowritevrnit enables,relates
+320,14042,hi rnrnive attached patch make iop,9420,since added use writev sho,duplicates
+321,14035,reproducernrnexecute urifileetc,15861,recently ruby getting better parsing ur,relates
+322,14022,joining element array,15024,think could handy block suppor,relates
+323,14007,propose attach patch add mode,11258,saw containsrnrnbut,duplicates
+324,13984,currently bigdecimal instance frozen,13985,since truefalsenilintegerfloat jus,relates
+325,13985,since truefalsenilintegerfloat jus,12979,proposal resulting discussion,relates
+326,13985,since truefalsenilintegerfloat jus,13983,since basically value typesrnthey,relates
+327,13984,currently bigdecimal instance frozen,13985,since truefalsenilintegerfloat jus,relates
+328,13985,since truefalsenilintegerfloat jus,13983,since basically value typesrnthey,relates
+329,13969,dir class method pair direntries,11302,direntries return array content wi,relates
+330,12010,direach dirread including direntr,13969,dir class method pair direntries,relates
+331,14044,described numonarray pycal,13904,,relates
+332,13904,,3714,beginrn given enumerator wa,duplicates
+333,15092,rni would like propose making change,13904,,duplicates
+334,9508,since coverage extension introduced,13901,plan add branch coverage method c,relates
+335,12698,frequent need delete substring f,13890,currently stringcount accepts string,relates
+336,13847,try use default gem fix,10320,requiring library global namespace alw,relates
+337,13807,frequently see code us value,15557,often see code like thisrnrn rubyr,relates
+338,13109,using refinement one file using,13805,refinement currently lexically scoped wh,relates
+339,13789,new direntries dirchidren wo,11302,direntries return array content wi,relates
+340,13784,ruby full set functional tool,5663,pretty common want map en,relates
+341,13767,order ruby used scientifi,14722,way implement even copy pyth,relates
+342,13765,proc curry,6817,know propose significa,relates
+343,13765,proc curry,7939,beginrni really like new assuming,relates
+344,13731,でwindowsでのinodeの代用としてby handle file inf,13726,present believe window build inte,relates
+345,13731,でwindowsでのinodeの代用としてby handle file inf,13726,present believe window build inte,relates
+346,3388,beginrn abcdefghijstar,13712,stringstart receive regexprn,relates
+347,13694,today june tau day honor,4897,firstly please read tau manifesto,relates
+348,13685,unicode published week ago,12513,unicode published yesterday see,relates
+349,13685,unicode published week ago,14802,unicode version published somet,relates
+350,13645,proposalrnrnwhile work make sen,11813,safe navigation operator,duplicates
+351,13618,rnauto fiber schedule rb wait sin,14736,ruby concurrency greatly enhanced co,relates
+352,13613,backgroundrnrn,5980,currently encountering many open file hand,relates
+353,13600,one main use case would make yie,6284,would nice able compose procs l,relates
+354,13588,implementing iolike object id like,11094,originally defined codespace,relates
+355,13581,another programming language even java,16275,objmethod introduced,relates
+356,13581,another programming language even java,12125,hellornrnthe operator let one pas,duplicates
+357,13577,first argument file,13568,using filetmpfile tmpfile allows u,relates
+358,13577,first argument file,13568,using filetmpfile tmpfile allows u,relates
+359,13563,hirnrni propose hashchoice methodrnr,8499,according experience following two,relates
+360,13563,hirnrni propose hashchoice methodrnr,15822,according hashslice would like add,relates
+361,11541,since ruby def return symbol th,13560,hirnrnim suggesting moduleattr,relates
+362,13560,hirnrnim suggesting moduleattr,9453,ruby returning symbol def,duplicates
+363,13559,hirnrnplease reconsider implementation,12760,thats another attempt choose good metap,duplicates
+364,13488,currently encodingdefault external set,16604,issue related,relates
+365,13395,seem method ruby,12075,sometimes write following codernrnru,relates
+366,13381,,17147,object deserializer like json messagepack,relates
+367,16029,discussed tenderlove,13381,,duplicates
+368,13335,mathn deprecated feature ye,10169,englishrnrnas mentioned,relates
+369,13334,mathncomplex mathnrational deprec,10169,englishrnrnas mentioned,relates
+370,13334,mathncomplex mathnrational deprec,17281,mathn deprecated canonicalization,relates
+371,13272,define subclass struct take,11925,propose make struct subclass constructor w,duplicates
+372,13261,issue tracking gem release sdbm,5481,beginrnrnuptodate summary propo,relates
+373,13248,issue tracking gem release gdbm,5481,beginrnrnuptodate summary propo,relates
+374,13201,issue tracking gem release dbm,13248,issue tracking gem release gdbm,relates
+375,13244,id like suggestrnto enhance interfac,12224,use logger class often mayb,duplicates
+376,13241,currently exploratory proposalr,13240,unicode property check eg phiragan,relates
+377,13241,currently exploratory proposalr,14618,abstractrnrnunicode display width,relates
+378,13241,currently exploratory proposalr,13240,unicode property check eg phiragan,relates
+379,13213,issue tracking gem release scan,5481,beginrnrnuptodate summary propo,relates
+380,12906,want rescue block must,13212,block ubiquitous ruby world there,duplicates
+381,13201,issue tracking gem release dbm,5481,beginrnrnuptodate summary propo,relates
+382,13201,issue tracking gem release dbm,13248,issue tracking gem release gdbm,relates
+383,13199,issue tracking gem release stri,5481,beginrnrnuptodate summary propo,relates
+384,13197,issue tracking gem release file,5481,beginrnrnuptodate summary propo,relates
+385,13186,issue tracking gem release zlib,5481,beginrnrnuptodate summary propo,relates
+386,13183,issue tracking gem release date,5481,beginrnrnuptodate summary propo,relates
+387,13182,issue tracking gem release cmat,5481,beginrnrnuptodate summary propo,relates
+388,13179,came across scenario needed ab,11747,matzs recent rubyconf talk used e,duplicates
+389,13177,issue tracking gem release csv,5481,beginrnrnuptodate summary propo,relates
+390,13173,issue tracking gem release webr,5481,beginrnrnuptodate summary propo,relates
+391,13172,hi everyonernrntheres tap method,10095,weve many time feature request fo,duplicates
+392,13172,hi everyonernrntheres tap method,11717,objecttrap thought useful counter,duplicates
+393,13172,hi everyonernrntheres tap method,12760,thats another attempt choose good metap,duplicates
+394,13137,update javascript added object shor,11105,support hash literal,relates
+395,13109,using refinement one file using,13805,refinement currently lexically scoped wh,relates
+396,17147,object deserializer like json messagepack,13077,introduce stringfstring methodrnrnthis ex,duplicates
+397,13067,propose make trueclass falseclass,11286,proposalrnit proposed enumerable,relates
+398,13056,proposal base option dirglob meth,7360,currently pathnameglob method,blocks
+399,14443,gsub take hash second ar,13016,background wanted drop nkf dependency,duplicates
+400,13006,hello right difficulty u,6647,many application user dealt,relates
+401,12996,proposal range optimize red,12612,currently range alias includ,relates
+402,12996,proposal range optimize red,14575,conscious duplicate bug,relates
+403,13985,since truefalsenilintegerfloat jus,12979,proposal resulting discussion,relates
+404,12978,developer meeting today proposed syn,12963,symbol keyword argument often used,relates
+405,12973,require relative speed loading file,8781,wrote attached small script rrcrb stand,relates
+406,12968,kernel provides global conversion functi,12732,would like able pas option,relates
+407,12978,developer meeting today proposed syn,12963,symbol keyword argument often used,relates
+408,12957,currently create lambda proc one u,7314,code need convert proc,relates
+409,12957,currently create lambda proc one u,15973,kernellambda receives proc,relates
+410,12928,rncurrent nethttp netpop use timeoutt,12435,hey ive got pull request,relates
+411,12921,env like,10652,get user pas variable whe,relates
+412,12921,env like,6546,nahi suggested request o environment h,duplicates
+413,12912,dont allow range without end like,14697,enumeratorarithmeticsequence ha,relates
+414,12906,want rescue block must,7882,keywords rescue else ensure,duplicates
+415,12906,want rescue block must,11337,possible rescue without b,duplicates
+416,12906,want rescue block must,12623,hi therernrntheres pretty nice feature,duplicates
+417,12906,want rescue block must,13212,block ubiquitous ruby world there,duplicates
+418,12820,hellornrnthe patternrnrnrubyrnc,15192,motivationrnrnintroduce new syntax,relates
+419,12820,hellornrnthe patternrnrnrubyrnc,5825,im excited feature coffee,duplicates
+420,12820,hellornrnthe patternrnrnrubyrnc,8563,often time people want assign given argum,duplicates
+421,12820,hellornrnthe patternrnrnrubyrnc,12023,ive found writing lot code simila,duplicates
+422,12820,hellornrnthe patternrnrnrubyrnc,12578,first saw instance assignment c,duplicates
+423,14055,following string symbol method cu,12786,descriptionrnrni would find stringcasecmp,relates
+424,12760,thats another attempt choose good metap,6721,rni think following method missing fr,duplicates
+425,12760,thats another attempt choose good metap,6684,beginrnobjectdornthis first post,duplicates
+426,12760,thats another attempt choose good metap,7388,beginrnfrom githubrn,duplicates
+427,12760,thats another attempt choose good metap,10095,weve many time feature request fo,duplicates
+428,12760,thats another attempt choose good metap,11717,objecttrap thought useful counter,duplicates
+429,13172,hi everyonernrntheres tap method,12760,thats another attempt choose good metap,duplicates
+430,13559,hirnrnplease reconsider implementation,12760,thats another attempt choose good metap,duplicates
+431,6802,ruby method obtain array,12745,simplified stupid example replace som,relates
+432,5749,string class contain instance,12745,simplified stupid example replace som,relates
+433,5606,文字列上の正規表現に一致する場所のoffsetを順に処理できるようなrnイテレータが欲し,12745,simplified stupid example replace som,relates
+434,12739,class object deprecate constant f,12005,cruby two integer class fixnum,relates
+435,12737,provide moduledefined refinement,9704,refinement remain filescoped,relates
+436,12968,kernel provides global conversion functi,12732,would like able pas option,relates
+437,12698,frequent need delete substring f,13890,currently stringcount accepts string,relates
+438,12697,method like alias method attr accessor defi,8846,propose changing moduleinclude public,relates
+439,12697,method like alias method attr accessor defi,6539,feel inconsistency meth,relates
+440,12694,often write code likernrnrubyrnst,6842,beginrnone thing miss fr,duplicates
+441,12650,window environment variable support unicode,16604,issue related,relates
+442,12648,would like pas optional argument,15725,hellornrni would like propose four new,relates
+443,12638,understanding thatrnrnrnvma,9451,sure bug feature request,duplicates
+444,12623,hi therernrntheres pretty nice feature,7882,keywords rescue else ensure,duplicates
+445,12906,want rescue block must,12623,hi therernrntheres pretty nice feature,duplicates
+446,12996,proposal range optimize red,12612,currently range alias includ,relates
+447,14575,conscious duplicate bug,12612,currently range alias includ,duplicates
+448,12607,one derived bug,12463,,relates
+449,14706,ruby threadsafe way implement,12607,one derived bug,duplicates
+450,12589,hello id like start big mri project,14235,backgroundrnrnin,relates
+451,12578,first saw instance assignment c,5825,im excited feature coffee,duplicates
+452,12578,first saw instance assignment c,8563,often time people want assign given argum,duplicates
+453,12578,first saw instance assignment c,12023,ive found writing lot code simila,duplicates
+454,12820,hellornrnthe patternrnrnrubyrnc,12578,first saw instance assignment c,duplicates
+455,12546,unicodenormalizeunicode version defined,12460,currently unicode version used speci,relates
+456,12543,introducing new syntax tail ca,6602,hirnrnsome hour ago matz proposed turni,relates
+457,16945,would like propose create way,12543,introducing new syntax tail ca,duplicates
+458,13685,unicode published week ago,12513,unicode published yesterday see,relates
+459,12512,think value transformation fundamental,7793,would nice following method,relates
+460,12512,think value transformation fundamental,6669,given hash hmap return arrayali,relates
+461,12512,think value transformation fundamental,8951,please see thread,relates
+462,12512,think value transformation fundamental,9635,way directly map hash,relates
+463,12512,think value transformation fundamental,9970,method simplify two common pattern whe,relates
+464,10208,convert list key value,12512,think value transformation fundamental,relates
+465,11003,would like suggest implementing fast mo,12508,new method integermod pow power modul,duplicates
+466,12607,one derived bug,12463,,relates
+467,12461,would nice hash way create,8499,according experience following two,relates
+468,12546,unicodenormalizeunicode version defined,12460,currently unicode version used speci,relates
+469,12460,currently unicode version used speci,15341,emoji version different unicod,relates
+470,12447,sometimes want extract digit placeva,4787,suggest new feature integer enumerat,relates
+471,12447,sometimes want extract digit placeva,12116,sometimes need apply divmod repeatedly,relates
+472,12447,sometimes want extract digit placeva,16011,ruby seems way format number w,relates
+473,12928,rncurrent nethttp netpop use timeoutt,12435,hey ive got pull request,relates
+474,12275,think usefull function th,12419,currently i̇i̇i̇dump produce,relates
+475,12403,moment match dynamically dispatc,12306,time rejected featur,relates
+476,12334,sort relates,12021,final instance variable ruby,relates
+477,12247,found useful arraydelete,12333,would like stringconcat arrayconcat,relates
+478,12319,moduleconst get accepts nonnested string,5690,would great way dynami,relates
+479,12306,time rejected featur,8110,useful method allowing pattern,relates
+480,12403,moment match dynamically dispatc,12306,time rejected featur,relates
+481,12306,time rejected featur,8206,discussion porting,duplicates
+482,12299,another attempt provide ty,17122,deprecation warning warning rub,relates
+483,15563,ruby introduced dig array,12282,new feature consideration dig wh,duplicates
+484,14602,currently hash like thisrnrn,12282,new feature consideration dig wh,duplicates
+485,12086,currently refinement activated,12281,ruby refinement could used,relates
+486,12275,think usefull function th,12419,currently i̇i̇i̇dump produce,relates
+487,12247,found useful arraydelete,12333,would like stringconcat arrayconcat,relates
+488,12241,refinement feature,5054,though matz said ruby,relates
+489,12241,refinement feature,16746,ruby syntax full end im paranoid,relates
+490,12240,often improvement implicit block argume,15741,numbered parameter introduced,relates
+491,13244,id like suggestrnto enhance interfac,12224,use logger class often mayb,duplicates
+492,12222,python statistic library calculati,12217,issue propose introduce enumerabl,relates
+493,12217,issue propose introduce enumerabl,10298,propose arrayfloat sum arrayc,relates
+494,12222,python statistic library calculati,12217,issue propose introduce enumerabl,relates
+495,12173,frequent time instancer,8640,hirnrnwe time many thing rail,relates
+496,12173,frequent time instancer,8096,beginrna lot scenario application,relates
+497,12160,xmlrpc library longer maintain actively,5481,beginrnrnuptodate summary propo,relates
+498,5903,given preparation patch alr,12142,rn hello following patch contains,relates
+499,12125,hellornrnthe operator let one pas,16275,objmethod introduced,relates
+500,13581,another programming language even java,12125,hellornrnthe operator let one pas,duplicates
+501,12116,sometimes need apply divmod repeatedly,4787,suggest new feature integer enumerat,relates
+502,12447,sometimes want extract digit placeva,12116,sometimes need apply divmod repeatedly,relates
+503,4146,現在symbolto procで,12115,great fan symbolto proc short,relates
+504,15301,one reddit discussion ive got stuck,12115,great fan symbolto proc short,duplicates
+505,12092,allows creating modified clone frozen,14778,id like use objectdup block whi,relates
+506,12086,currently refinement activated,12281,ruby refinement could used,relates
+507,12086,currently refinement activated,16461,overviewrni propose procusing support,relates
+508,12079,nonstandard way calling,9451,sure bug feature request,duplicates
+509,12079,nonstandard way calling,11476,rnclass endrnrnmodule mrn refine,duplicates
+510,12077,hellornrnis reason sslsocket,8126,opensslsslsslsocket define recv,duplicates
+511,13395,seem method ruby,12075,sometimes write following codernrnru,relates
+512,12075,sometimes write following codernrnru,17330,always core method proposal,relates
+513,11167,hi guysrnrnhi nobu rnrnalso hi matz,12046,write accessor method bo,relates
+514,5781,pretty sure come id l,12046,write accessor method bo,relates
+515,12046,write accessor method bo,15991,hirnrni thought issue wouldve al,relates
+516,12046,write accessor method bo,10720,hi guysrnrnsorry burden anoth,duplicates
+517,10641,hellorni propose introduce fixnumfinit,12039,issue easy ask,relates
+518,12026,add simple way filter warning,11588,ruby current warning system lacking warn,relates
+519,12026,add simple way filter warning,17122,deprecation warning warning rub,relates
+520,12023,ive found writing lot code simila,5825,im excited feature coffee,duplicates
+521,12578,first saw instance assignment c,12023,ive found writing lot code simila,duplicates
+522,12820,hellornrnthe patternrnrnrubyrnc,12023,ive found writing lot code simila,duplicates
+523,12019,nowadays almost every processor,12021,final instance variable ruby,relates
+524,12334,sort relates,12021,final instance variable ruby,relates
+525,12019,nowadays almost every processor,12020,defining memory model language nece,relates
+526,12019,nowadays almost every processor,12020,defining memory model language nece,relates
+527,12019,nowadays almost every processor,11539,summaryrnrnwe seek add mechanism fo,relates
+528,12019,nowadays almost every processor,8259,motivated gist url,relates
+529,12019,nowadays almost every processor,12021,final instance variable ruby,relates
+530,12019,nowadays almost every processor,11541,since ruby def return symbol th,relates
+531,12012,ruby method capital letter,11848,new method convert string,duplicates
+532,12010,direach dirread including direntr,10121,irc someone asked find dire,relates
+533,12010,direach dirread including direntr,13969,dir class method pair direntries,relates
+534,12739,class object deprecate constant f,12005,cruby two integer class fixnum,relates
+535,11951,rubyvminstructionsequencecompile rai,11868,currently rubyvminstructionsequencecompile,relates
+536,11925,propose make struct subclass constructor w,15076,struct used instantiate object,relates
+537,11925,propose make struct subclass constructor w,15222,ruby struct subclass dif,relates
+538,11925,propose make struct subclass constructor w,16806,proposalrnrnrbrnpost structnew,relates
+539,9209,ruby support named params seems n,11925,propose make struct subclass constructor w,duplicates
+540,13272,define subclass struct take,11925,propose make struct subclass constructor w,duplicates
+541,11905,currently class keyword return nilrn,8839,change,relates
+542,11879,moduleincluded module include prepended mo,8026,way get list prepen,duplicates
+543,11951,rubyvminstructionsequencecompile rai,11868,currently rubyvminstructionsequencecompile,relates
+544,12012,ruby method capital letter,11848,new method convert string,duplicates
+545,13645,proposalrnrnwhile work make sen,11813,safe navigation operator,duplicates
+546,13179,came across scenario needed ab,11747,matzs recent rubyconf talk used e,duplicates
+547,11741,git svnrnrnconverting ruby wholesale,14551,know migrating git get asked least eve,relates
+548,11717,objecttrap thought useful counter,6721,rni think following method missing fr,duplicates
+549,12760,thats another attempt choose good metap,11717,objecttrap thought useful counter,duplicates
+550,13172,hi everyonernrntheres tap method,11717,objecttrap thought useful counter,duplicates
+551,11678,rubyrna brn,7639,chain method period e,duplicates
+552,11670,warn without compile timernrnsee,11665,wisdom using local variable,relates
+553,10912,surprised find ipaddr met,11666,propose new feature ipaddrprivatern,duplicates
+554,11670,warn without compile timernrnsee,11665,wisdom using local variable,relates
+555,12026,add simple way filter warning,11588,ruby current warning system lacking warn,relates
+556,11588,ruby current warning system lacking warn,17122,deprecation warning warning rub,relates
+557,11583,propose new method fileunlinkrnrn,11218,fluentdというossのログコレクタがあるのですがこれにはin tailプラグイ,relates
+558,11563,unicode data onigmo regular expres,11561,done regularly ruby updated,blocks
+559,11562,unicode character normalization data data,11561,done regularly ruby updated,blocks
+560,11562,unicode character normalization data data,11561,done regularly ruby updated,blocks
+561,11563,unicode data onigmo regular expres,11561,done regularly ruby updated,blocks
+562,12019,nowadays almost every processor,11541,since ruby def return symbol th,relates
+563,11541,since ruby def return symbol th,14397,matsudasan suggested public prote,relates
+564,6470,attr accesor currently return nil would b,11541,since ruby def return symbol th,relates
+565,9453,ruby returning symbol def,11541,since ruby def return symbol th,relates
+566,11541,since ruby def return symbol th,13560,hirnrnim suggesting moduleattr,relates
+567,12019,nowadays almost every processor,11539,summaryrnrnwe seek add mechanism fo,relates
+568,6470,attr accesor currently return nil would b,11539,summaryrnrnwe seek add mechanism fo,relates
+569,11537,sometimes write following code rail ap,8191,beginrnas ducktyped language ruby,relates
+570,11537,sometimes write following code rail ap,8237,beginrnthis feature suggestion wa,relates
+571,11537,sometimes write following code rail ap,11034,hi everyone rnrnsome time ago think,relates
+572,11210,string omit subnet mask,11527,right there way get current va,relates
+573,12079,nonstandard way calling,11476,rnclass endrnrnmodule mrn refine,duplicates
+574,11473,matz said string literal immutable,8976,yesterday facetoface developer mee,relates
+575,11420,let introduce id key table optimization,6962,ive experimented replacing struct st ta,relates
+576,11420,let introduce id key table optimization,11414,relax ordering rule id table,relates
+577,11420,let introduce id key table optimization,9638,allow better use cachefriendly,relates
+578,11420,let introduce id key table optimization,11414,relax ordering rule id table,relates
+579,11398,sometimes old constant deprecated sti,10342,proposal moduledeprecate constant whic,duplicates
+580,11347,hello error cause important,9918,exceptioncause added feature,duplicates
+581,11346,dont think would good idea,11066,hi first report please bear wit,relates
+582,11337,possible rescue without b,7882,keywords rescue else ensure,duplicates
+583,12906,want rescue block must,11337,possible rescue without b,duplicates
+584,13789,new direntries dirchidren wo,11302,direntries return array content wi,relates
+585,13969,dir class method pair direntries,11302,direntries return array content wi,relates
+586,16123,problemrnrnthere inconsistency,11297,ruby allow private method calle,duplicates
+587,13067,propose make trueclass falseclass,11286,proposalrnit proposed enumerable,relates
+588,14197,none one accept,11286,proposalrnit proposed enumerable,relates
+589,14007,propose attach patch add mode,11258,saw containsrnrnbut,duplicates
+590,11256,since capturing block proc slow f,3447,なかだですrnrn,relates
+591,11256,since capturing block proc slow f,14045,backgroundrnrnif need pas given b,relates
+592,11252,matz hope integrate mean gem r,11032,hi guysrnrnwhen younger class,relates
+593,11251,や,6694,abstractrnrnsupport threadnew without,relates
+594,11251,や,6695,beginrn abstractrnrnwith feature,relates
+595,11583,propose new method fileunlinkrnrn,11218,fluentdというossのログコレクタがあるのですがこれにはin tailプラグイ,relates
+596,11210,string omit subnet mask,11527,right there way get current va,relates
+597,11167,hi guysrnrnhi nobu rnrnalso hi matz,12046,write accessor method bo,relates
+598,11167,hi guysrnrnhi nobu rnrnalso hi matz,10720,hi guysrnrnsorry burden anoth,duplicates
+599,11158,process migrating large,9963,id like add way get size ruby,relates
+600,13137,update javascript added object shor,11105,support hash literal,relates
+601,11105,support hash literal,11104,support hash literal,relates
+602,11105,support hash literal,14579,allow value omission hash lite,relates
+603,11105,support hash literal,16095,common usern rubyrnclass arn de,relates
+604,15236,pr github,11105,support hash literal,duplicates
+605,11105,support hash literal,11104,support hash literal,relates
+606,13588,implementing iolike object id like,11094,originally defined codespace,relates
+607,1153,beginrn なかだですrn rn arrayだけでなくenumerab,11090,currently want iterate first uni,relates
+608,11083,nettelnet maintainer issue,5481,beginrnrnuptodate summary propo,relates
+609,11346,dont think would good idea,11066,hi first report please bear wit,relates
+610,5481,beginrnrnuptodate summary propo,11057,gemified json libraryrnrn,relates
+611,11049,sometime want grep like operation,5588,please add negation flag regexps whic,relates
+612,11049,sometime want grep like operation,9602,enumerablegrep useful filter thing,relates
+613,8921,would handy select could accept r,11049,sometime want grep like operation,relates
+614,11537,sometimes write following code rail ap,11034,hi everyone rnrnsome time ago think,relates
+615,11252,matz hope integrate mean gem r,11032,hi guysrnrnwhen younger class,relates
+616,11025,rake follow testunit minitest,5481,beginrnrnuptodate summary propo,relates
+617,11003,would like suggest implementing fast mo,12508,new method integermod pow power modul,duplicates
+618,10912,surprised find ipaddr met,11666,propose new feature ipaddrprivatern,duplicates
+619,10797,moduleconst defined take optional argu,14944,module many introspection method meth,duplicates
+620,10728,add warning fixnumsize rn,7517,maximum minimum number fixnum,relates
+621,11167,hi guysrnrnhi nobu rnrnalso hi matz,10720,hi guysrnrnsorry burden anoth,duplicates
+622,12046,write accessor method bo,10720,hi guysrnrnsorry burden anoth,duplicates
+623,12921,env like,10652,get user pas variable whe,relates
+624,10641,hellorni propose introduce fixnumfinit,12039,issue easy ask,relates
+625,10637,encountered issue bringing v,16482,right nethttp force user use cl,relates
+626,10600,multipleproducer multipleconsumer sit,17357,currently difficult reliably distingu,relates
+627,10552,counting many time value appears som,9970,method simplify two common pattern whe,relates
+628,10552,counting many time value appears som,7793,would nice following method,relates
+629,10552,counting many time value appears som,10228,im gonna implement feature related,relates
+630,10499,procnew kernelproc little known f,15554,abstractrnrnwarn raise argumenterr,copied_to
+631,10425,method near like following would u,15811,backgroundrnrnequal comparison method,relates
+632,10420,gcm cipher accepts variable iv length rub,8667,hellorn rn openssl allowed,relates
+633,8848,commit yui naruse added stringb,10391,occasionally need use string l,relates
+634,10354,nick slocum show,5378,see discussion,duplicates
+635,11398,sometimes old constant deprecated sti,10342,proposal moduledeprecate constant whic,duplicates
+636,10329,followupto feature optimize recv,10326,concatenating literal string existing stri,relates
+637,10329,followupto feature optimize recv,10326,concatenating literal string existing stri,relates
+638,10320,requiring library global namespace alw,5643,current kernelload defined asrnrn,relates
+639,13847,try use default gem fix,10320,requiring library global namespace alw,relates
+640,12217,issue propose introduce enumerabl,10298,propose arrayfloat sum arrayc,relates
+641,10552,counting many time value appears som,10228,im gonna implement feature related,relates
+642,10216,ruby dynamism nature use,9781,rnwhen super called method rub,duplicates
+643,10208,convert list key value,12512,think value transformation fundamental,relates
+644,15143,often call arrayto result,10208,convert list key value,duplicates
+645,10181,purpose openat function ena,2324,なかだですrnrn,relates
+646,13335,mathn deprecated feature ye,10169,englishrnrnas mentioned,relates
+647,13334,mathncomplex mathnrational deprec,10169,englishrnrnas mentioned,relates
+648,10152,stringstrip doesnt remove nonbreaking space,10085,case conversion function currently limite,relates
+649,12010,direach dirread including direntr,10121,irc someone asked find dire,relates
+650,10095,weve many time feature request fo,6721,rni think following method missing fr,duplicates
+651,12760,thats another attempt choose good metap,10095,weve many time feature request fo,duplicates
+652,13172,hi everyonernrntheres tap method,10095,weve many time feature request fo,duplicates
+653,10085,case conversion function currently limite,2034,beginrn consideration recently giv,relates
+654,10085,case conversion function currently limite,10002,hi ruby version problem,relates
+655,10152,stringstrip doesnt remove nonbreaking space,10085,case conversion function currently limite,relates
+656,10084,unicode string normalization frequent ope,2034,beginrn consideration recently giv,relates
+657,10084,unicode string normalization frequent ope,9111,beginrncurrently string con,relates
+658,10069,beforernrnrnm,10068,rnrnbeforernrnv,relates
+659,10069,beforernrnrnm,10068,rnrnbeforernrnv,relates
+660,6739,hi therernrnwhen wrapping single lin,10042,postfix rescue notation convenientbu,relates
+661,10085,case conversion function currently limite,10002,hi ruby version problem,relates
+662,10552,counting many time value appears som,9970,method simplify two common pattern whe,relates
+663,12512,think value transformation fundamental,9970,method simplify two common pattern whe,relates
+664,9970,method simplify two common pattern whe,7793,would nice following method,duplicates
+665,11158,process migrating large,9963,id like add way get size ruby,relates
+666,9923,gcstat return internal information abuo,9924,gcstat return internal information abuo,copied_to
+667,9923,gcstat return internal information abuo,9924,gcstat return internal information abuo,copied_to
+668,11347,hello error cause important,9918,exceptioncause added feature,duplicates
+669,9893,ref comment,9894,comment officially supporting p,duplicates
+670,9893,ref comment,9894,comment officially supporting p,duplicates
+671,9887,hirnrni would like way clean,8967,add uninclude unextend method ru,duplicates
+672,9857,filebirthtime が追加されたので pathnamebirthtime,9647,filestatbirthtimeを追加しませんかrnrn以下の様なシステム,relates
+673,9805,following codernrn def endr,6216,debugging systemstackerror stack level,duplicates
+674,7836,see following codernrnrubyrnmodu,9781,rnwhen super called method rub,relates
+675,10216,ruby dynamism nature use,9781,rnwhen super called method rub,duplicates
+676,9778,obsession easy syntax annoys,6225,string array combined,duplicates
+677,9777,currently different block object la,15973,kernellambda receives proc,relates
+678,12737,provide moduledefined refinement,9704,refinement remain filescoped,relates
+679,9857,filebirthtime が追加されたので pathnamebirthtime,9647,filestatbirthtimeを追加しませんかrnrn以下の様なシステム,relates
+680,11420,let introduce id key table optimization,9638,allow better use cachefriendly,relates
+681,12512,think value transformation fundamental,9635,way directly map hash,relates
+682,9612,previously discussed removing open,5481,beginrnrnuptodate summary propo,relates
+683,11049,sometime want grep like operation,9602,enumerablegrep useful filter thing,relates
+684,9508,since coverage extension introduced,13901,plan add branch coverage method c,relates
+685,5481,beginrnrnuptodate summary propo,9456,see,relates
+686,14158,racc parser included mri ruby c,9456,see,relates
+687,9453,ruby returning symbol def,11541,since ruby def return symbol th,relates
+688,13560,hirnrnim suggesting moduleattr,9453,ruby returning symbol def,duplicates
+689,12638,understanding thatrnrnrnvma,9451,sure bug feature request,duplicates
+690,12079,nonstandard way calling,9451,sure bug feature request,duplicates
+691,9420,since added use writev sho,9323,propose addition iowritevrnit enables,relates
+692,14042,hi rnrnive attached patch make iop,9420,since added use writev sho,duplicates
+693,9420,since added use writev sho,9323,propose addition iowritevrnit enables,relates
+694,14042,hi rnrnive attached patch make iop,9323,propose addition iowritevrnit enables,relates
+695,9278,building,8976,yesterday facetoface developer mee,duplicates
+696,9209,ruby support named params seems n,11925,propose make struct subclass constructor w,duplicates
+697,2348,beginrn merit library bee,9121,rbtree slower pure ruby versionr,relates
+698,9112,module included class,1586,beginrn scenariorn include foo,relates
+699,10084,unicode string normalization frequent ope,9111,beginrncurrently string con,relates
+700,9108,hirnrni seem regularly requir,8499,according experience following two,relates
+701,9107,patch introducing constant yesn,6126,propose predefined constant true,duplicates
+702,9076,hellornrnid like introduce new synt,4146,現在symbolto procで,relates
+703,9049,nmatrix weve implemented range shortha,14044,described numonarray pycal,relates
+704,9047,beginrnrnin ruby create sym,4276,current syntactic sugar allows thisrnrn,duplicates
+705,9037,beginrni thinking frozen lite,8804,introduce syntax,relates
+706,8579,id like propose new type string liter,8992,backgroundrnrnin,relates
+707,8987,please consider extending mapcollect allow,4146,現在symbolto procで,relates
+708,8977,memory profiling noticed large,8976,yesterday facetoface developer mee,relates
+709,8977,memory profiling noticed large,8976,yesterday facetoface developer mee,relates
+710,8579,id like propose new type string liter,8976,yesterday facetoface developer mee,relates
+711,11473,matz said string literal immutable,8976,yesterday facetoface developer mee,relates
+712,9278,building,8976,yesterday facetoface developer mee,duplicates
+713,6499,sometimes natural arrayzip,8970,beginrnmost time use arrayz,duplicates
+714,8970,beginrnmost time use arrayz,7444,id like propose arrayproduct set ret,duplicates
+715,9887,hirnrni would like way clean,8967,add uninclude unextend method ru,duplicates
+716,8556,propose adding mutexeddelegator simpl,8961,beginrni propose synchronizable mixin,relates
+717,7895,threadbacktrace location kernelcaller l,8960,party agreed would useful add,relates
+718,12512,think value transformation fundamental,8951,please see thread,relates
+719,16377,following scriptrnrnrubyrndef mu,8948,beginrni see frozen string accepte,duplicates
+720,8939,hashkeyvaluernhashkey retur,7797,since rejected although,duplicates
+721,8579,id like propose new type string liter,8923,related feature already f,relates
+722,8921,would handy select could accept r,11049,sometime want grep like operation,relates
+723,8579,id like propose new type string liter,8909,suffix declare frozen string,relates
+724,8579,id like propose new type string liter,8906,integer float object frozen obje,relates
+725,8897,propose ruby support client side tcp f,8871,propose ruby support server side tcp fa,relates
+726,8897,propose ruby support client side tcp f,8871,propose ruby support server side tcp fa,relates
+727,8848,commit yui naruse added stringb,10391,occasionally need use string l,relates
+728,8846,propose changing moduleinclude public,6539,feel inconsistency meth,relates
+729,12697,method like alias method attr accessor defi,8846,propose changing moduleinclude public,relates
+730,11905,currently class keyword return nilrn,8839,change,relates
+731,9037,beginrni thinking frozen lite,8804,introduce syntax,relates
+732,8804,introduce syntax,17474,ruby borrowed conceptsidioms allot,relates
+733,12973,require relative speed loading file,8781,wrote attached small script rrcrb stand,relates
+734,8777,hirnrnthis related mach ab,8658,adding new method processclock g,relates
+735,8771,beginrn start fake proxy separate w,6546,nahi suggested request o environment h,relates
+736,8751,hellornrni would like byte offset,6012,originally suggested,relates
+737,8693,def yield end def,15973,kernellambda receives proc,relates
+738,10420,gcm cipher accepts variable iv length rub,8667,hellorn rn openssl allowed,relates
+739,8661,currently way ruby print backtrace th,16684,mostrecentcalllast order backtrace,relates
+740,8658,adding new method processclock g,8096,beginrna lot scenario application,relates
+741,8658,adding new method processclock g,8640,hirnrnwe time many thing rail,relates
+742,8777,hirnrnthis related mach ab,8658,adding new method processclock g,relates
+743,8643,bindingfrom hash would work likernrn,8631,would interesting erb could allow h,relates
+744,8658,adding new method processclock g,8640,hirnrnwe time many thing rail,relates
+745,8640,hirnrnwe time many thing rail,8096,beginrna lot scenario application,relates
+746,12173,frequent time instancer,8640,hirnrnwe time many thing rail,relates
+747,8643,bindingfrom hash would work likernrn,8631,would interesting erb could allow h,relates
+748,5458,dl fiddle redundant moreover dl n,8601,sits,relates
+749,8600,beginrn ruby vrn ruby,1141,beginn ruby rn px,duplicates
+750,8600,beginrn ruby vrn ruby,4965,right find following code rais,duplicates
+751,8579,id like propose new type string liter,8923,related feature already f,relates
+752,8579,id like propose new type string liter,8906,integer float object frozen obje,relates
+753,8579,id like propose new type string liter,8909,suffix declare frozen string,relates
+754,8579,id like propose new type string liter,8992,backgroundrnrnin,relates
+755,8579,id like propose new type string liter,8976,yesterday facetoface developer mee,relates
+756,8568,fixnumsize really useful represent,8553,changing bignumsize well defin,relates
+757,8563,often time people want assign given argum,5825,im excited feature coffee,duplicates
+758,12578,first saw instance assignment c,8563,often time people want assign given argum,duplicates
+759,12820,hellornrnthe patternrnrnrubyrnc,8563,often time people want assign given argum,duplicates
+760,8556,propose adding mutexeddelegator simpl,8961,beginrni propose synchronizable mixin,relates
+761,8568,fixnumsize really useful represent,8553,changing bignumsize well defin,relates
+762,8539,unbundling exttk ruby reposito,5481,beginrnrnuptodate summary propo,relates
+763,8539,unbundling exttk ruby reposito,8526,tk を ruby のリポジトリから外しませんかrnrnそもそも tk はサイズベ,duplicates
+764,8526,tk を ruby のリポジトリから外しませんかrnrnそもそも tk はサイズベ,5481,beginrnrnuptodate summary propo,relates
+765,8539,unbundling exttk ruby reposito,8526,tk を ruby のリポジトリから外しませんかrnrnそもそも tk はサイズベ,duplicates
+766,9108,hirnrni seem regularly requir,8499,according experience following two,relates
+767,12461,would nice hash way create,8499,according experience following two,relates
+768,13563,hirnrni propose hashchoice methodrnr,8499,according experience following two,relates
+769,8499,according experience following two,15863,add hashslicernrnin,relates
+770,15822,according hashslice would like add,8499,according experience following two,duplicates
+771,8497,rubykaigi,7019,like indent private method one level,duplicates
+772,8468,yesterday github tokyo drinkup thanks gi,15344,would like start discussion relating,relates
+773,8468,yesterday github tokyo drinkup thanks gi,16131,ruby taint checking originally,relates
+774,8273,nullobject quite useful pattern refa,6180,boolean return value required,duplicates
+775,8271,proposal moving visible formal,7549,matzrnrnat rubyconf gave talk,relates
+776,12019,nowadays almost every processor,8259,motivated gist url,relates
+777,8246,beginrnfrom,8237,beginrnthis feature suggestion wa,relates
+778,8246,beginrnfrom,5531,feature request stem dealing n,duplicates
+779,8246,beginrnfrom,8237,beginrnthis feature suggestion wa,relates
+780,8237,beginrnthis feature suggestion wa,8191,beginrnas ducktyped language ruby,relates
+781,11537,sometimes write following code rail ap,8237,beginrnthis feature suggestion wa,relates
+782,8206,discussion porting,8110,useful method allowing pattern,relates
+783,12306,time rejected featur,8206,discussion porting,duplicates
+784,8237,beginrnthis feature suggestion wa,8191,beginrnas ducktyped language ruby,relates
+785,11537,sometimes write following code rail ap,8191,beginrnas ducktyped language ruby,relates
+786,8158,use lightweight structure loaded feature,14460,hirnrnive attached patch speed u,relates
+787,12077,hellornrnis reason sslsocket,8126,opensslsslsslsocket define recv,duplicates
+788,8206,discussion porting,8110,useful method allowing pattern,relates
+789,12306,time rejected featur,8110,useful method allowing pattern,relates
+790,8098,dir constant complime,3346,beginrn id like know dir,duplicates
+791,8658,adding new method processclock g,8096,beginrna lot scenario application,relates
+792,8640,hirnrnwe time many thing rail,8096,beginrna lot scenario application,relates
+793,12173,frequent time instancer,8096,beginrna lot scenario application,relates
+794,11879,moduleincluded module include prepended mo,8026,way get list prepen,duplicates
+795,8015,diff git agcc bgccrnindex,2837,beginrn gc currently increase size,relates
+796,7939,beginrni really like new assuming,6817,know propose significa,relates
+797,13765,proc curry,7939,beginrni really like new assuming,relates
+798,7907,beginrni noticed word doesnt mean,7906,beginrni noticed word,duplicates
+799,7907,beginrni noticed word doesnt mean,7906,beginrni noticed word,duplicates
+800,7895,threadbacktrace location kernelcaller l,8960,party agreed would useful add,relates
+801,11337,possible rescue without b,7882,keywords rescue else ensure,duplicates
+802,12623,hi therernrntheres pretty nice feature,7882,keywords rescue else ensure,duplicates
+803,12906,want rescue block must,7882,keywords rescue else ensure,duplicates
+804,7854,propose new class method symbol,7839,hirnrnon team rail trouble,relates
+805,7845,strip associated method ruby,2093,beginn 現在stringstrip は rb enc isspace を使って,relates
+806,7854,propose new class method symbol,7839,hirnrnon team rail trouble,relates
+807,7836,see following codernrnrubyrnmodu,9781,rnwhen super called method rub,relates
+808,5653,hirn rntoday talked nahi en,7835,ago matz declared intention rem,relates
+809,8939,hashkeyvaluernhashkey retur,7797,since rejected although,duplicates
+810,7793,would nice following method,6669,given hash hmap return arrayali,relates
+811,7793,would nice following method,4151,beginrn hirn rn method,relates
+812,7793,would nice following method,7292,official method expl,relates
+813,10552,counting many time value appears som,7793,would nice following method,relates
+814,12512,think value transformation fundamental,7793,would nice following method,relates
+815,9970,method simplify two common pattern whe,7793,would nice following method,duplicates
+816,7792,recently replace several symbol,5964,put another way make symbol st,relates
+817,7639,chain method period e,14463,coming language find extre,relates
+818,11678,rubyrna brn,7639,chain method period e,duplicates
+819,8271,proposal moving visible formal,7549,matzrnrnat rubyconf gave talk,relates
+820,10728,add warning fixnumsize rn,7517,maximum minimum number fixnum,relates
+821,7505,以下のようなプログラムがあったとしますrnrnthreadasync inter,6762,beginrn abstractrnrnadd asynchronous,relates
+822,8970,beginrnmost time use arrayz,7444,id like propose arrayproduct set ret,duplicates
+823,7424,documented way embed ruby interpreter,3731,beginrn ruby become,relates
+824,7388,beginrnfrom githubrn,6721,rni think following method missing fr,relates
+825,12760,thats another attempt choose good metap,7388,beginrnfrom githubrn,duplicates
+826,7387,im moving githubrn,5427,currently loaded feature unsorted,duplicates
+827,7384,propose object renamed,6687,beginrnlet propose enumerablewith,relates
+828,7340,following discussion,7384,propose object renamed,relates
+829,7378,variant filewrite pa,7360,currently pathnameglob method,relates
+830,7378,variant filewrite pa,7361,pathname mkdir method create dire,relates
+831,7378,variant filewrite pa,7362,pathname start another pathname th,relates
+832,7378,variant filewrite pa,7363,year ago sumbitted yet accept,relates
+833,7378,variant filewrite pa,7363,year ago sumbitted yet accept,relates
+834,7378,variant filewrite pa,7362,pathname start another pathname th,relates
+835,7378,variant filewrite pa,7361,pathname mkdir method create dire,relates
+836,7378,variant filewrite pa,7360,currently pathnameglob method,relates
+837,13056,proposal base option dirglob meth,7360,currently pathnameglob method,blocks
+838,6672,beginrnit look odd call procmethod,7346,propose parser interpret object,duplicates
+839,7340,following discussion,7384,propose object renamed,relates
+840,7340,following discussion,7297,would love shorter alias,relates
+841,7340,following discussion,6687,beginrnlet propose enumerablewith,relates
+842,12957,currently create lambda proc one u,7314,code need convert proc,relates
+843,7314,code need convert proc,15973,kernellambda receives proc,relates
+844,7340,following discussion,7297,would love shorter alias,relates
+845,7292,official method expl,4151,beginrn hirn rn method,relates
+846,7292,official method expl,6669,given hash hmap return arrayali,relates
+847,7793,would nice following method,7292,official method expl,relates
+848,7292,official method expl,7241,often use inject method build,duplicates
+849,7251,suspect kernelusing using alread,4085,beginrn said rubyconf id lik,relates
+850,7241,often use inject method build,5008,beginrnhellornrni using ruby,relates
+851,7241,often use inject method build,4151,beginrn hirn rn method,relates
+852,7292,official method expl,7241,often use inject method build,duplicates
+853,7226,surprised setnewjoin give,5970,currently join element enumerab,duplicates
+854,7177,hirnrnwe us rb newobj cruby w,7047,nariですrnrn現在のcrubyではオブジェクトを割り当てる際に rb new,duplicates
+855,7177,hirnrnwe us rb newobj cruby w,7047,nariですrnrn現在のcrubyではオブジェクトを割り当てる際に rb new,duplicates
+856,7022,would useful profilers,2565,beginrn hirn rn made commit e,relates
+857,8497,rubykaigi,7019,like indent private method one level,duplicates
+858,16276,private protected declaration ruby clas,7019,like indent private method one level,duplicates
+859,7003,let make sure therell mvm,14792,old problem maybe running multip,relates
+860,6973,numericinteger check whether instance,5310,believe ambiguous object beha,relates
+861,11420,let introduce id key table optimization,6962,ive experimented replacing struct st ta,relates
+862,6946,beginrnhi running test suite fips e,6943,chance make pstore compatible,relates
+863,6946,beginrnhi running test suite fips e,6943,chance make pstore compatible,relates
+864,6936,feature などで議論されていた flonum が でが入,6763,beginrnrn abstractrnrnintroducing fl,relates
+865,3222,beginrn fixing rubyspecs led,6936,feature などで議論されていた flonum が でが入,relates
+866,12694,often write code likernrnrubyrnst,6842,beginrnone thing miss fr,duplicates
+867,6823,hirn rn ive previously reported coupl,5382,similar delimited string array,relates
+868,6823,hirn rn ive previously reported coupl,5453,gemspec added automodea,relates
+869,5142,rubymodeel は emacs に添付されるようになりましたがrn今も ru,6823,hirn rn ive previously reported coupl,relates
+870,6817,know propose significa,4539,inspired haskells zipwith function ha,relates
+871,6817,know propose significa,6373,recently suggested extens,relates
+872,7939,beginrni really like new assuming,6817,know propose significa,relates
+873,13765,proc curry,6817,know propose significa,relates
+874,16430,im sure intentional,6810,expected behavior ra,duplicates
+875,6802,ruby method obtain array,5749,string class contain instance,relates
+876,6802,ruby method obtain array,5606,文字列上の正規表現に一致する場所のoffsetを順に処理できるようなrnイテレータが欲し,relates
+877,6802,ruby method obtain array,12745,simplified stupid example replace som,relates
+878,6793,hello couldnt remember,4046,beginrn debugger often one get,duplicates
+879,6783,ruby rail rail con,6733,discussed,relates
+880,6779,crosscompiling using prefix,6778,crosscompiling using prefix,duplicates
+881,6779,crosscompiling using prefix,6778,crosscompiling using prefix,duplicates
+882,6767,ある string を にしたいことはしばしばありますrnそれだ,6361,know discussed lot pa,relates
+883,6936,feature などで議論されていた flonum が でが入,6763,beginrnrn abstractrnrnintroducing fl,relates
+884,7505,以下のようなプログラムがあったとしますrnrnthreadasync inter,6762,beginrn abstractrnrnadd asynchronous,relates
+885,6321,use stringencode feature transcod,6752,beginrn 概要rnstringになんらかの理由で不正なバイト列が含まれて,relates
+886,6739,hi therernrnwhen wrapping single lin,10042,postfix rescue notation convenientbu,relates
+887,6737,generally speaking nice,6442,ruby hash class internally conn,relates
+888,6783,ruby rail rail con,6733,discussed,relates
+889,7388,beginrnfrom githubrn,6721,rni think following method missing fr,relates
+890,6721,rni think following method missing fr,6684,beginrnobjectdornthis first post,relates
+891,11717,objecttrap thought useful counter,6721,rni think following method missing fr,duplicates
+892,10095,weve many time feature request fo,6721,rni think following method missing fr,duplicates
+893,12760,thats another attempt choose good metap,6721,rni think following method missing fr,duplicates
+894,6711,today woke idea overcome,5583,although know dislike static typi,relates
+895,11251,や,6695,beginrn abstractrnrnwith feature,relates
+896,11251,や,6694,abstractrnrnsupport threadnew without,relates
+897,3187,beginrn id like way increase size,6694,abstractrnrnsupport threadnew without,relates
+898,7384,propose object renamed,6687,beginrnlet propose enumerablewith,relates
+899,7340,following discussion,6687,beginrnlet propose enumerablewith,relates
+900,6721,rni think following method missing fr,6684,beginrnobjectdornthis first post,relates
+901,12760,thats another attempt choose good metap,6684,beginrnobjectdornthis first post,duplicates
+902,6672,beginrnit look odd call procmethod,7346,propose parser interpret object,duplicates
+903,4151,beginrn hirn rn method,6669,given hash hmap return arrayali,relates
+904,7292,official method expl,6669,given hash hmap return arrayali,relates
+905,7793,would nice following method,6669,given hash hmap return arrayali,relates
+906,12512,think value transformation fundamental,6669,given hash hmap return arrayali,relates
+907,6648,beginrncurrently standard mech,4046,beginrn debugger often one get,duplicates
+908,13006,hello right difficulty u,6647,many application user dealt,relates
+909,6636,made clear enumerab,3715,beginrn would useful able,relates
+910,12543,introducing new syntax tail ca,6602,hirnrnsome hour ago matz proposed turni,relates
+911,6561,feature proposition add new opearato,6023,ive proposed idea groovy,duplicates
+912,8771,beginrn start fake proxy separate w,6546,nahi suggested request o environment h,relates
+913,12921,env like,6546,nahi suggested request o environment h,duplicates
+914,8846,propose changing moduleinclude public,6539,feel inconsistency meth,relates
+915,12697,method like alias method attr accessor defi,6539,feel inconsistency meth,relates
+916,14132,module class reopened change,6539,feel inconsistency meth,relates
+917,14133,module class reopened change,6539,feel inconsistency meth,relates
+918,6499,sometimes natural arrayzip,8970,beginrnmost time use arrayz,duplicates
+919,6492,beginrnthis patch move compressionhan,6494,patch build atop enable accept,blocks
+920,6492,beginrnthis patch move compressionhan,6494,patch build atop enable accept,blocks
+921,6483,found common usecase map map,4146,現在symbolto procで,relates
+922,6482,beginrnthis patch add full uri request,5064,currently problem netht,relates
+923,6470,attr accesor currently return nil would b,11539,summaryrnrnwe seek add mechanism fo,relates
+924,6470,attr accesor currently return nil would b,11541,since ruby def return symbol th,relates
+925,6470,attr accesor currently return nil would b,6198,id like set visibility like thisrnrn,duplicates
+926,6737,generally speaking nice,6442,ruby hash class internally conn,relates
+927,6414,meanrnrnjohn name john last sm,5474,hellornrnim sending patch keyword,relates
+928,6413,reason direntries requires one,6412,reason direntries requires one,duplicates
+929,6413,reason direntries requires one,6412,reason direntries requires one,duplicates
+930,14696,original dst defined atrn,6394,linux original dst provides origina,duplicates
+931,6817,know propose significa,6373,recently suggested extens,relates
+932,6767,ある string を にしたいことはしばしばありますrnそれだ,6361,know discussed lot pa,relates
+933,6321,use stringencode feature transcod,6752,beginrn 概要rnstringになんらかの理由で不正なバイト列が含まれて,relates
+934,6309,interesting us weakref much hard,6308,weakrefs delegation feature really awf,relates
+935,6309,interesting us weakref much hard,6308,weakrefs delegation feature really awf,relates
+936,6298,beginrnmaybe another way thi,5007,im proposing method called proccall,relates
+937,6287,def def test,4085,beginrn said rubyconf id lik,duplicates
+938,13600,one main use case would make yie,6284,would nice able compose procs l,relates
+939,5008,beginrnhellornrni using ruby,6276,dear matzrnrnwe establish,relates
+940,6241,beginrncurrently modulemethod defined,5673,significant reason undef met,relates
+941,9778,obsession easy syntax annoys,6225,string array combined,duplicates
+942,17384,hi allrnwhen used hashmerge thought,6225,string array combined,duplicates
+943,6224,propose make code workrnrn,1141,beginn ruby rn px,duplicates
+944,6224,propose make code workrnrn,4965,right find following code rais,duplicates
+945,6222,propose use connect two multiple,6201,beginrnive read several aproaches deal,duplicates
+946,9805,following codernrn def endr,6216,debugging systemstackerror stack level,duplicates
+947,6222,propose use connect two multiple,6201,beginrnive read several aproaches deal,duplicates
+948,6198,id like set visibility like thisrnrn,3753,beginrn rubykaigi見てて思い出したのですがdef式はsymbolを返,relates
+949,6470,attr accesor currently return nil would b,6198,id like set visibility like thisrnrn,duplicates
+950,8273,nullobject quite useful pattern refa,6180,boolean return value required,duplicates
+951,6163,beginrnthe syck extension removed,2340,beginn yaml syck why product,relates
+952,9107,patch introducing constant yesn,6126,propose predefined constant true,duplicates
+953,6056,patch fix one issue protecting new o,1400,beginrn two way find,relates
+954,6561,feature proposition add new opearato,6023,ive proposed idea groovy,duplicates
+955,8751,hellornrni would like byte offset,6012,originally suggested,relates
+956,13613,backgroundrnrn,5980,currently encountering many open file hand,relates
+957,5977,hellornrnas mentioned rubyconf wo,14240,think four special variable separat,relates
+958,7226,surprised setnewjoin give,5970,currently join element enumerab,duplicates
+959,7792,recently replace several symbol,5964,put another way make symbol st,relates
+960,5958,propose method threadgroupjoinrnca,15954,現在いるスレッド以外の全てのスレッドを現在のスレッドに合流させたいときは多いと思いますr,relates
+961,5903,given preparation patch alr,12142,rn hello following patch contains,relates
+962,5856,feature raise objectrnrn proposalr,5818,proposalrnrnthe ability raise obj,relates
+963,8563,often time people want assign given argum,5825,im excited feature coffee,duplicates
+964,12023,ive found writing lot code simila,5825,im excited feature coffee,duplicates
+965,12578,first saw instance assignment c,5825,im excited feature coffee,duplicates
+966,12820,hellornrnthe patternrnrnrubyrnc,5825,im excited feature coffee,duplicates
+967,15192,motivationrnrnintroduce new syntax,5825,im excited feature coffee,duplicates
+968,5856,feature raise objectrnrn proposalr,5818,proposalrnrnthe ability raise obj,relates
+969,5781,pretty sure come id l,12046,write accessor method bo,relates
+970,5781,pretty sure come id l,15991,hirnrni thought issue wouldve al,relates
+971,5749,string class contain instance,5606,文字列上の正規表現に一致する場所のoffsetを順に処理できるようなrnイテレータが欲し,relates
+972,6802,ruby method obtain array,5749,string class contain instance,relates
+973,5749,string class contain instance,12745,simplified stupid example replace som,relates
+974,5690,would great way dynami,5666,would like make rb public ap,relates
+975,12319,moduleconst get accepts nonnested string,5690,would great way dynami,relates
+976,6241,beginrncurrently modulemethod defined,5673,significant reason undef met,relates
+977,5690,would great way dynami,5666,would like make rb public ap,relates
+978,13784,ruby full set functional tool,5663,pretty common want map en,relates
+979,5663,pretty common want map en,15323,proposal combined filter,relates
+980,4151,beginrn hirn rn method,5662,ruby often use idiom build,relates
+981,5653,hirn rntoday talked nahi en,7835,ago matz declared intention rem,relates
+982,5653,hirn rntoday talked nahi en,15592,feature switch autoload behav,relates
+983,10320,requiring library global namespace alw,5643,current kernelload defined asrnrn,relates
+984,5607,beginrnwhen tried access excel file,2323,beginrn surfboard e,relates
+985,5749,string class contain instance,5606,文字列上の正規表現に一致する場所のoffsetを順に処理できるようなrnイテレータが欲し,relates
+986,6802,ruby method obtain array,5606,文字列上の正規表現に一致する場所のoffsetを順に処理できるようなrnイテレータが欲し,relates
+987,5606,文字列上の正規表現に一致する場所のoffsetを順に処理できるようなrnイテレータが欲し,12745,simplified stupid example replace som,relates
+988,11049,sometime want grep like operation,5588,please add negation flag regexps whic,relates
+989,6711,today woke idea overcome,5583,although know dislike static typi,relates
+990,5549,request following methodsrnrn com,4574,beginrnhellornrnmany people writt,relates
+991,5543,first rb thread blocking region requires th,4328,beginrn think general enough rem,relates
+992,8246,beginrnfrom,5531,feature request stem dealing n,duplicates
+993,5523,負の零なども含め正しく符号を判断するために必要です実際complex やrnlib,2968,beginrn 数値の正負を返すメソッドが欲しいですrn 主たる想定用途は,duplicates
+994,5321,ruby several numeric class integ,5520,暫く様子を見て特に反対がなければ決定しますrnrn今の raitonal や co,duplicates
+995,9612,previously discussed removing open,5481,beginrnrnuptodate summary propo,relates
+996,11025,rake follow testunit minitest,5481,beginrnrnuptodate summary propo,relates
+997,5481,beginrnrnuptodate summary propo,11057,gemified json libraryrnrn,relates
+998,12160,xmlrpc library longer maintain actively,5481,beginrnrnuptodate summary propo,relates
+999,8526,tk を ruby のリポジトリから外しませんかrnrnそもそも tk はサイズベ,5481,beginrnrnuptodate summary propo,relates
+1000,13173,issue tracking gem release webr,5481,beginrnrnuptodate summary propo,relates
+1001,13177,issue tracking gem release csv,5481,beginrnrnuptodate summary propo,relates
+1002,13182,issue tracking gem release cmat,5481,beginrnrnuptodate summary propo,relates
+1003,13183,issue tracking gem release date,5481,beginrnrnuptodate summary propo,relates
+1004,13197,issue tracking gem release file,5481,beginrnrnuptodate summary propo,relates
+1005,13201,issue tracking gem release dbm,5481,beginrnrnuptodate summary propo,relates
+1006,13199,issue tracking gem release stri,5481,beginrnrnuptodate summary propo,relates
+1007,13186,issue tracking gem release zlib,5481,beginrnrnuptodate summary propo,relates
+1008,11083,nettelnet maintainer issue,5481,beginrnrnuptodate summary propo,relates
+1009,8539,unbundling exttk ruby reposito,5481,beginrnrnuptodate summary propo,relates
+1010,2635,beginn rdoc trunk outdated,5481,beginrnrnuptodate summary propo,relates
+1011,13213,issue tracking gem release scan,5481,beginrnrnuptodate summary propo,relates
+1012,13248,issue tracking gem release gdbm,5481,beginrnrnuptodate summary propo,relates
+1013,13261,issue tracking gem release sdbm,5481,beginrnrnuptodate summary propo,relates
+1014,5481,beginrnrnuptodate summary propo,9456,see,relates
+1015,5481,beginrnrnuptodate summary propo,16170,im working extract standard library r,relates
+1016,5481,beginrnrnuptodate summary propo,15657,maintenance webrick hard rub,relates
+1017,6414,meanrnrnjohn name john last sm,5474,hellornrnim sending patch keyword,relates
+1018,5064,currently problem netht,5461,beginrnthe attached patch add pip,relates
+1019,5458,dl fiddle redundant moreover dl n,8601,sits,relates
+1020,6823,hirn rn ive previously reported coupl,5453,gemspec added automodea,relates
+1021,7387,im moving githubrn,5427,currently loaded feature unsorted,duplicates
+1022,5394,proposal anonymous symbol anonymous,4288,beginrn one groovy feature tend,relates
+1023,6823,hirn rn ive previously reported coupl,5382,similar delimited string array,relates
+1024,10354,nick slocum show,5378,see discussion,duplicates
+1025,5321,ruby several numeric class integ,5520,暫く様子を見て特に反対がなければ決定しますrnrn今の raitonal や co,duplicates
+1026,6973,numericinteger check whether instance,5310,believe ambiguous object beha,relates
+1027,15215,current behavior problemrnat mo,5180,通常 nethttp を使う時はnethttpstartrubylango,duplicates
+1028,5142,rubymodeel は emacs に添付されるようになりましたがrn今も ru,6823,hirn rn ive previously reported coupl,relates
+1029,5138,current ruby io class nonblocking,4560,blindly hitting ioread nonblock raising,relates
+1030,5120,example showing surprising inc,3575,currently work like thisrnrnrubyrn,relates
+1031,5112,first working inadvertent sy,5072,recently discovered denial service vuln,relates
+1032,5089,third hopefully final patch fo,5072,recently discovered denial service vuln,precedes
+1033,5079,mentioned update rem,5072,recently discovered denial service vuln,precedes
+1034,5112,first working inadvertent sy,5072,recently discovered denial service vuln,relates
+1035,5079,mentioned update rem,5072,recently discovered denial service vuln,precedes
+1036,5089,third hopefully final patch fo,5072,recently discovered denial service vuln,precedes
+1037,5065,ive noticed issue subjecting endal,5054,though matz said ruby,relates
+1038,5065,ive noticed issue subjecting endal,16746,ruby syntax full end im paranoid,relates
+1039,5064,currently problem netht,5461,beginrnthe attached patch add pip,relates
+1040,6482,beginrnthis patch add full uri request,5064,currently problem netht,relates
+1041,5065,ive noticed issue subjecting endal,5054,though matz said ruby,relates
+1042,12241,refinement feature,5054,though matz said ruby,relates
+1043,5054,though matz said ruby,16746,ruby syntax full end im paranoid,relates
+1044,5044,reason zip doesnt return r,4539,inspired haskells zipwith function ha,relates
+1045,5044,reason zip doesnt return r,16261,upd discussion comment method,relates
+1046,4512,beginrnits use,5041,id like set fd cloexec file descri,relates
+1047,1291,beginrn linux useful cloex,5041,id like set fd cloexec file descri,duplicates
+1048,5016,calling kernelcaller negative limit sh,1906,beginrn inspired nobus recent refactori,relates
+1049,5016,calling kernelcaller negative limit sh,3917,beginrn propose introduce kernelcalle,relates
+1050,4151,beginrn hirn rn method,5008,beginrnhellornrni using ruby,relates
+1051,7241,often use inject method build,5008,beginrnhellornrni using ruby,relates
+1052,5008,beginrnhellornrni using ruby,6276,dear matzrnrnwe establish,relates
+1053,5008,beginrnhellornrni using ruby,4862,occasionally necessary convert str,duplicates
+1054,5008,beginrnhellornrni using ruby,1400,beginrn two way find,duplicates
+1055,5008,beginrnhellornrni using ruby,3131,beginrn hellorn rn imbalan,precedes
+1056,6298,beginrnmaybe another way thi,5007,im proposing method called proccall,relates
+1057,4990,significant interest improvingalt,2471,beginrn gc のアルゴリズムを複数用意して選択可能にするのはどうでしょうか,relates
+1058,4965,right find following code rais,1141,beginn ruby rn px,duplicates
+1059,6224,propose make code workrnrn,4965,right find following code rais,duplicates
+1060,8600,beginrn ruby vrn ruby,4965,right find following code rais,duplicates
+1061,4935,discussed shorthand hash syntax,4276,current syntactic sugar allows thisrnrn,duplicates
+1062,4924,beginrnwhen user call headerso,3330,beginrn うっかりrubylistに投げてしまったきしもとですrn r,relates
+1063,4924,beginrnwhen user call headerso,3333,beginrn なかだですrn rn rubydevに移動しますrn,duplicates
+1064,4910,suggest add two class classr,14498,hellornrni creating list class,relates
+1065,13694,today june tau day honor,4897,firstly please read tau manifesto,relates
+1066,17496,excuse brought,4897,firstly please read tau manifesto,duplicates
+1067,4890,beginrn examplernprint first prime,4653,,relates
+1068,5008,beginrnhellornrni using ruby,4862,occasionally necessary convert str,duplicates
+1069,16240,rna work object n,4818,object marshaled maybe,duplicates
+1070,4276,current syntactic sugar allows thisrnrn,4801,assuming there technical limitation,relates
+1071,12116,sometimes need apply divmod repeatedly,4787,suggest new feature integer enumerat,relates
+1072,12447,sometimes want extract digit placeva,4787,suggest new feature integer enumerat,relates
+1073,4780,mentioned another rejected issue,4615,beginnfileeach linesep line c,relates
+1074,3479,beginrn would quite handy,4766,hellornrni propose rangebsearch bina,duplicates
+1075,4698,ruby licensing ruby,2000,beginn hellorn rn recently readline,relates
+1076,4890,beginrn examplernprint first prime,4653,,relates
+1077,4647,easier use ioselect sin,4646,easier use ioselect sin,duplicates
+1078,4647,easier use ioselect sin,4646,easier use ioselect sin,duplicates
+1079,4780,mentioned another rejected issue,4615,beginnfileeach linesep line c,relates
+1080,5549,request following methodsrnrn com,4574,beginrnhellornrnmany people writt,relates
+1081,5138,current ruby io class nonblocking,4560,blindly hitting ioread nonblock raising,relates
+1082,5044,reason zip doesnt return r,4539,inspired haskells zipwith function ha,relates
+1083,6817,know propose significa,4539,inspired haskells zipwith function ha,relates
+1084,4539,inspired haskells zipwith function ha,16261,upd discussion comment method,relates
+1085,4512,beginrnits use,5041,id like set fd cloexec file descri,relates
+1086,4512,beginrnits use,1291,beginrn linux useful cloex,relates
+1087,4477,documentation common sense would e,2715,beginrn old issue think going,relates
+1088,4477,documentation common sense would e,4269,beginrn hellorn currently linuxrn,relates
+1089,4402,beginn would great support synt,3845,beginrn hirn rn id propose infix,duplicates
+1090,4335,ruby behaviorrn rnrubyrn,3575,currently work like thisrnrnrubyrn,relates
+1091,5543,first rb thread blocking region requires th,4328,beginrn think general enough rem,relates
+1092,5394,proposal anonymous symbol anonymous,4288,beginrn one groovy feature tend,relates
+1093,4276,current syntactic sugar allows thisrnrn,4801,assuming there technical limitation,relates
+1094,4935,discussed shorthand hash syntax,4276,current syntactic sugar allows thisrnrn,duplicates
+1095,9047,beginrnrnin ruby create sym,4276,current syntactic sugar allows thisrnrn,duplicates
+1096,4477,documentation common sense would e,4269,beginrn hellorn currently linuxrn,relates
+1097,4257,beginn switch hittered already passed nearl,4068,beginn current standard date library,relates
+1098,4247,beginrn planning add followin,3647,arraysample support sampling,relates
+1099,4247,beginrn planning add followin,4147,beginrn arraysample にブロックを渡したときブロックの戻り値を要,relates
+1100,4239,beginrn rn,4207,beginrn 現状 ruby が出せる状況ではないのは存じあげております誰,relates
+1101,1200,beginrn possible use named,4239,beginrn rn,relates
+1102,4239,beginrn rn,4207,beginrn 現状 ruby が出せる状況ではないのは存じあげております誰,relates
+1103,4204,beginn で導入された ioadvise メソッドは引数に sym,4038,beginn discussed suggest wr,relates
+1104,4151,beginrn hirn rn method,6669,given hash hmap return arrayali,relates
+1105,4151,beginrn hirn rn method,5662,ruby often use idiom build,relates
+1106,4151,beginrn hirn rn method,5008,beginrnhellornrni using ruby,relates
+1107,7241,often use inject method build,4151,beginrn hirn rn method,relates
+1108,7292,official method expl,4151,beginrn hirn rn method,relates
+1109,7793,would nice following method,4151,beginrn hirn rn method,relates
+1110,4247,beginrn planning add followin,4147,beginrn arraysample にブロックを渡したときブロックの戻り値を要,relates
+1111,6483,found common usecase map map,4146,現在symbolto procで,relates
+1112,8987,please consider extending mapcollect allow,4146,現在symbolto procで,relates
+1113,9076,hellornrnid like introduce new synt,4146,現在symbolto procで,relates
+1114,4146,現在symbolto procで,12115,great fan symbolto proc short,relates
+1115,7251,suspect kernelusing using alread,4085,beginrn said rubyconf id lik,relates
+1116,6287,def def test,4085,beginrn said rubyconf id lik,duplicates
+1117,4084,beginn pack support network byt,3491,beginn arraypack stringunpack,relates
+1118,4084,beginn pack support network byt,3947,beginn ruby の伏魔殿 arraypack ですが機種依存な部分をいじる際,relates
+1119,4073,beginn suspect ruby mi,1784,beginn glad see there build,relates
+1120,4071,beginn support basic auth nethttpget,3848,beginrn hirn rn needed download,relates
+1121,4257,beginn switch hittered already passed nearl,4068,beginn current standard date library,relates
+1122,6648,beginrncurrently standard mech,4046,beginrn debugger often one get,duplicates
+1123,6793,hello couldnt remember,4046,beginrn debugger often one get,duplicates
+1124,4038,beginn discussed suggest wr,4015,beginn couple flag li,relates
+1125,4204,beginn で導入された ioadvise メソッドは引数に sym,4038,beginn discussed suggest wr,relates
+1126,4038,beginn discussed suggest wr,4015,beginn couple flag li,relates
+1127,4084,beginn pack support network byt,3947,beginn ruby の伏魔殿 arraypack ですが機種依存な部分をいじる際,relates
+1128,3947,beginn ruby の伏魔殿 arraypack ですが機種依存な部分をいじる際,3491,beginn arraypack stringunpack,duplicates
+1129,3917,beginrn propose introduce kernelcalle,1906,beginrn inspired nobus recent refactori,relates
+1130,5016,calling kernelcaller negative limit sh,3917,beginrn propose introduce kernelcalle,relates
+1131,4071,beginn support basic auth nethttpget,3848,beginrn hirn rn needed download,relates
+1132,4402,beginn would great support synt,3845,beginrn hirn rn id propose infix,duplicates
+1133,6198,id like set visibility like thisrnrn,3753,beginrn rubykaigi見てて思い出したのですがdef式はsymbolを返,relates
+1134,7424,documented way embed ruby interpreter,3731,beginrn ruby become,relates
+1135,3715,beginrn would useful able,2673,beginrn arraypermutation と arraycombinati,relates
+1136,3715,beginrn would useful able,3714,beginrn given enumerator wa,relates
+1137,6636,made clear enumerab,3715,beginrn would useful able,relates
+1138,3715,beginrn would useful able,3714,beginrn given enumerator wa,relates
+1139,3714,beginrn given enumerator wa,14044,described numonarray pycal,relates
+1140,13904,,3714,beginrn given enumerator wa,duplicates
+1141,3649,beginn arraysample arrayshuffle arraysh,3647,arraysample support sampling,relates
+1142,3649,beginn arraysample arrayshuffle arraysh,3647,arraysample support sampling,relates
+1143,4247,beginrn planning add followin,3647,arraysample support sampling,relates
+1144,4335,ruby behaviorrn rnrubyrn,3575,currently work like thisrnrnrubyrn,relates
+1145,5120,example showing surprising inc,3575,currently work like thisrnrnrubyrn,relates
+1146,4084,beginn pack support network byt,3491,beginn arraypack stringunpack,relates
+1147,3947,beginn ruby の伏魔殿 arraypack ですが機種依存な部分をいじる際,3491,beginn arraypack stringunpack,duplicates
+1148,3479,beginrn would quite handy,4766,hellornrni propose rangebsearch bina,duplicates
+1149,11256,since capturing block proc slow f,3447,なかだですrnrn,relates
+1150,3426,beginrn documentation exec state,2715,beginrn old issue think going,relates
+1151,3388,beginrn abcdefghijstar,13712,stringstart receive regexprn,relates
+1152,3346,beginrn id like know dir,1961,beginrn proposalrn rn kernel dir,duplicates
+1153,8098,dir constant complime,3346,beginrn id like know dir,duplicates
+1154,4924,beginrnwhen user call headerso,3333,beginrn なかだですrn rn rubydevに移動しますrn,duplicates
+1155,4924,beginrnwhen user call headerso,3330,beginrn うっかりrubylistに投げてしまったきしもとですrn r,relates
+1156,3222,beginrn fixing rubyspecs led,6936,feature などで議論されていた flonum が でが入,relates
+1157,3187,beginrn id like way increase size,6694,abstractrnrnsupport threadnew without,relates
+1158,5008,beginrnhellornrni using ruby,3131,beginrn hellorn rn imbalan,precedes
+1159,3112,beginrn whyrnendrn,2340,beginn yaml syck why product,relates
+1160,2983,beginn hirn rn readline library,2032,beginn moved ticked rubydevr,duplicates
+1161,2983,beginn hirn rn readline library,2982,beginn hirn rn ruby currently try,duplicates
+1162,2032,beginn moved ticked rubydevr,2982,beginn hirn rn ruby currently try,duplicates
+1163,2983,beginn hirn rn readline library,2982,beginn hirn rn ruby currently try,duplicates
+1164,5523,負の零なども含め正しく符号を判断するために必要です実際complex やrnlib,2968,beginrn 数値の正負を返すメソッドが欲しいですrn 主たる想定用途は,duplicates
+1165,8015,diff git agcc bgccrnindex,2837,beginrn gc currently increase size,relates
+1166,3426,beginrn documentation exec state,2715,beginrn old issue think going,relates
+1167,4477,documentation common sense would e,2715,beginrn old issue think going,relates
+1168,3715,beginrn would useful able,2673,beginrn arraypermutation と arraycombinati,relates
+1169,2645,beginrn ruby stringscannerpos retu,1159,beginn 松田と申しますrn rn ruby stringsca,duplicates
+1170,2635,beginn rdoc trunk outdated,5481,beginrnrnuptodate summary propo,relates
+1171,1279,beginrn please add relevant dtrace prob,2565,beginrn hirn rn made commit e,relates
+1172,7022,would useful profilers,2565,beginrn hirn rn made commit e,relates
+1173,2509,beginrn like freezing constant confi,17145,id like propose objectdeep freezern,relates
+1174,4990,significant interest improvingalt,2471,beginrn gc のアルゴリズムを複数用意して選択可能にするのはどうでしょうか,relates
+1175,2348,beginrn merit library bee,9121,rbtree slower pure ruby versionr,relates
+1176,3112,beginrn whyrnendrn,2340,beginn yaml syck why product,relates
+1177,6163,beginrnthe syck extension removed,2340,beginn yaml syck why product,relates
+1178,2325,まつもと ゆきひろですrnrnin message,2324,なかだですrnrn,duplicates
+1179,10181,purpose openat function ena,2324,なかだですrnrn,relates
+1180,2325,まつもと ゆきひろですrnrnin message,2324,なかだですrnrn,duplicates
+1181,5607,beginrnwhen tried access excel file,2323,beginrn surfboard e,relates
+1182,2321,beginn created new patch ar,2322,beginrn patch add standard deviatio,relates
+1183,2321,beginn created new patch ar,2322,beginrn patch add standard deviatio,relates
+1184,2294,beginrn hirn rn attaching ruby,2126,beginn hellorn rn background rn,duplicates
+1185,2166,beginn patch implement th,1999,beginn ive written improved version,relates
+1186,2294,beginrn hirn rn attaching ruby,2126,beginn hellorn rn background rn,duplicates
+1187,7845,strip associated method ruby,2093,beginn 現在stringstrip は rb enc isspace を使って,relates
+1188,2080,beginrn sou,1857,beginn request installation pr,blocks
+1189,10084,unicode string normalization frequent ope,2034,beginrn consideration recently giv,relates
+1190,10085,case conversion function currently limite,2034,beginrn consideration recently giv,relates
+1191,2000,beginn hellorn rn recently readline,2032,beginn moved ticked rubydevr,duplicates
+1192,2983,beginn hirn rn readline library,2032,beginn moved ticked rubydevr,duplicates
+1193,2032,beginn moved ticked rubydevr,2982,beginn hirn rn ruby currently try,duplicates
+1194,4698,ruby licensing ruby,2000,beginn hellorn rn recently readline,relates
+1195,2000,beginn hellorn rn recently readline,2032,beginn moved ticked rubydevr,duplicates
+1196,2166,beginn patch implement th,1999,beginn ive written improved version,relates
+1197,3346,beginrn id like know dir,1961,beginrn proposalrn rn kernel dir,duplicates
+1198,3917,beginrn propose introduce kernelcalle,1906,beginrn inspired nobus recent refactori,relates
+1199,5016,calling kernelcaller negative limit sh,1906,beginrn inspired nobus recent refactori,relates
+1200,1275,beginrn ipaddr class internally store,1905,beginrn いまいですrn rn はありがとうございました,relates
+1201,2080,beginrn sou,1857,beginn request installation pr,blocks
+1202,4073,beginn suspect ruby mi,1784,beginn glad see there build,relates
+1203,9112,module included class,1586,beginrn scenariorn include foo,relates
+1204,1492,beginn まつもと ゆきひろですrn rn message,1488,beginn こんにちはなかむらうですn rubyでスクリプトを書いてい,duplicates
+1205,1492,beginn まつもと ゆきひろですrn rn message,1488,beginn こんにちはなかむらうですn rubyでスクリプトを書いてい,duplicates
+1206,6056,patch fix one issue protecting new o,1400,beginrn two way find,relates
+1207,5008,beginrnhellornrni using ruby,1400,beginrn two way find,duplicates
+1208,4512,beginrnits use,1291,beginrn linux useful cloex,relates
+1209,1291,beginrn linux useful cloex,5041,id like set fd cloexec file descri,duplicates
+1210,1279,beginrn please add relevant dtrace prob,2565,beginrn hirn rn made commit e,relates
+1211,1275,beginrn ipaddr class internally store,1905,beginrn いまいですrn rn はありがとうございました,relates
+1212,1201,beginrn possible use relati,1200,beginrn possible use named,relates
+1213,1201,beginrn possible use relati,1200,beginrn possible use named,relates
+1214,1200,beginrn possible use named,4239,beginrn rn,relates
+1215,2645,beginrn ruby stringscannerpos retu,1159,beginn 松田と申しますrn rn ruby stringsca,duplicates
+1216,1153,beginrn なかだですrn rn arrayだけでなくenumerab,11090,currently want iterate first uni,relates
+1217,4965,right find following code rais,1141,beginn ruby rn px,duplicates
+1218,6224,propose make code workrnrn,1141,beginn ruby rn px,duplicates
+1219,8600,beginrn ruby vrn ruby,1141,beginn ruby rn px,duplicates
