@@ -1,0 +1,360 @@
+req1,req2,id1,id2,Label
+hi \r\n\r\nwe time many things in rails and,=begin\r\na lot of scenarios and applications,8640,8096,1
+=begin\r\nmaybe there is another way to do thi,m proposing method called `proc call under,6298,5007,1
+hi \r\n\r\nthis is related to `mach ab,how about adding new method process clock,8777,8658,1
+have code where need to convert proc to,currently to create lambda proc one has to,,,0
+based on feedback from rails core matz has de,think this is very important otherwise `,,,0
+frequently see code that uses some value if,often see code like this \r\n\r\n ```ruby\r\,13807,15557,1
+background\r\nwe ve discussed interface to,value object is useful concept introduc,,,0
+propose new pattern matching syntax \r\n\r\n,propose to promote pattern matching to offic,14912,17260,1
+attr accesor currently returns nil it would,summary\r\n\r\nwe seek to add mechanism fo,6470,11539,1
+why not support like hash literals,why not support like hash literals,,,0
+right now there no way to get the current va,both to and to string omit the subnet mask,,,0
+let make it sure there ll be no mvm in,this is an old problem maybe running multip,7003,14792,1
+=begin\r\n the merits of this library have bee,rbtree is slower than the pure ruby version \r,2348,9121,1
+now gc stat returns internal information abuo,now gc stat returns internal information abuo,9923,9924,0
+though as matz said at ruby is,ve noticed issue subjecting an endal,,,0
+rb sits on in the so,dl and fiddle are redundant moreover dl has,,,0
+deprecation warnings and other warnings in rub,this is another attempt to provide the same ty,,,0
+would like to be able to pass an option to `,`kernel` provides the global conversion functi,,,0
+when first saw the instance assignments in,often times people want to assign given argum,12578,8563,0
+ruby should have method to obtain not an array,文字列上の正規表現に一致する場所のoffsetを順に処理できるような\r\nイテレータが欲し,6802,5606,1
+this adds simple way to filter warnings from,ruby’s current warning system is lacking warn,12026,11588,1
+to create set from hash keys currently impli,am opening series of feature requests on `,,,0
+dir has class method pairs `dir entries` / `d,dir entries returns an array of its content wi,13969,11302,1
+today woke up with some ideas to overcome so,although know all of you dislike static typi,6711,5583,1
+this is request for feedback in particular,unicode version will be published somet,14839,14802,0
+counting how many times value appears in som,these methods simplify two common patterns whe,10552,9970,1
+=begin\r\n d like way to increase the size,abstract\r\n\r\nsupport thread new without,3187,6694,1
+=begin\r\nthe attached patch adds pip,currently there are some problems with net ht,,,0
+currently the unicode version used in speci,unicodenormalize unicode version is defined,,,0
+when kernel lambda receives proc that is not,currently different block objects such as la,,,0
+the idea when investigating in example scrip,（日本人じゃないですが、日本語を勉強してますから、日本語でレポートしてみました\r\n日本語,,,0
+proc new and kernel proc have little known,abstract\r\n\r\nwarn or raise an argumenterr,10499,15554,0
+=begin\n yaml and syck is why product and,=begin\r\nthe syck extension should be removed,,,0
+suggest new feature of integer to enumerat,sometimes need to apply `divmod` repeatedly,,,0
+modules and classes can be reopened and change,modules and classes can be reopened and change,14133,14132,1
+from documentation and common sense would,=begin\r\n hello \r\n currently with linux\r\n,4477,4269,1
+=begin\r\nwhen tried to access excel file,=begin\r\n surfboard ~,5607,2323,1
+calling kernel caller with negative limit sh,=begin\r\n inspired by nobu recent refactori,5016,1906,1
+motivated by this gist url,nowadays almost every processor has more than,,,0
+most interesting uses of weakref are much hard,weakref delegation features are really awf,6309,6308,1
+hi everyone \r\n\r\nsome time ago was think,sometimes write following code with rails ap,,,0
+now integer and float objects are frozen obje,d like to propose new type of string liter,,,0
+upd after discussion in comments method,is there any reason that zip doesn return,,,0
+require relative speeds up loading of files by,wrote attached small script rrc rb stand,12973,8781,1
+propose new method file unlink \r\n\r\n,fluentdという、ossのログコレクタがあるのですが、これには`in tail`プラグイ,11583,11218,1
+by using file tmpfile tmpfile allows us,digest file first argument is file,,,0
+think value transformation is fundamental,given hash `h` `h map` returns an array ali,12512,6669,1
+currently works like this \r\n\r\n```ruby\r\n,here is ruby behavior \r\n \r\n```ruby\r\n,,,0
+in feature \r\n,the idea when investigating in example scrip,,,0
+=begin\r\n\r\nup to date summary of this propo,xmlrpc library is no longer maintain actively,,,0
+since true/false/nil/integer/float jus,currently bigdecimal instances are not frozen,,,0
+it would be great if there was way to dynami,`module const get` accepts non nested string,,,0
+common use \r\n``` ruby\r\nclass a\r\n de,why not support like hash literals,,,0
+propose to use to connect two or multiple,=begin\r\ni ve read several aproaches to deal,6222,6201,0
+this issue is tracking for gem release of stri,=begin\r\n\r\nup to date summary of this propo,13199,5481,1
+=begin\n ruby の伏魔殿 array pack ですが、機種依存な部分をいじる際,=begin\n pack should support network byt,,,0
+propose changing module include to public,feel there are inconsistencies in which meth,8846,6539,1
+abstract\r\n\r\n`kernel obj ` prints `obj`,sometimes write `stderr puts obj inspect` to,14609,15112,1
+concatenating literal strings to existing stri,follow up to feature optimize recv,,,0
+=begin\n switch hitter ed already passed nearl,=begin\n the current standard date library is,4257,4068,1
+currently we use timeout in net http and oth,instead of using tcpsocket open wrapped in ti,,,0
+it is pretty common to want to map over an `en,ruby has full set of functional tools in the,,,0
+at the moment ` match ` is dynamically dispatc,time and again there have been rejected featur,12403,12306,1
+there is occasionally need to use string,in commit yui naruse added string,,,0
+at present believe windows builds have inte,でwindowsでのinodeの代用としてby handle file inf,,,0
+d like to propose new type of string liter,yesterday we had face to face developer mee,8579,8976,1
+maximum or minimum number of fixnum can not,how about add warning for fixnum size \r\n\,,,0
+=begin\r\n given an enumerator there is no wa,as described in numo narray and pycal,3714,14044,1
+this is follow up to,currently we use timeout in net http and oth,,,0
+weakref delegation features are really awf,most interesting uses of weakref are much hard,,,0
+not everybody benefits from jemalloc and the,per hongli excellent article it looks like,14759,15667,1
+currently string count only accepts strings,there is frequent need to delete substring,,,0
+hi \r\n\r\nthe ruby array class is currently,frequently find myself needing to determine,,,0
+ruby’s current warning system is lacking warn,this adds simple way to filter warnings from,,,0
+=begin\r\n なかだです。\r\n \r\n arrayだけでなく、enumerab,currently if you want to iterate the first uni,1153,11090,1
+was surprised that `set new join` gives me,currently to join the elements of an enumerab,7226,5970,0
+hash= key value \r\nhash key should retur,since has been rejected although don,8939,7797,0
+threadの名前の取得・設定を行うapiを追加しませんか。\r\n\r\n や,=begin\r\n= abstract\r\n\r\nwith feature,11251,6695,1
+string strip doesn remove non breaking space,case conversion functions are currently limite,10152,10085,1
+this is refinement of feature \r\n\r,ruby syntax is full of end i paranoid,12241,16746,1
+=begin\r\ni was thinking about the frozen lite,how about to introduce once syntax which,9037,8804,1
+ruby syntax is full of end i paranoid,though as matz said at ruby is,,,0
+hello \r\n\r\ni like to introduce new synt,現在`symbol to proc`で ` map to `,9076,4146,1
+add resolve timeout to tcpsocket new \r\nit ma,this is follow up to,,,0
+現在`symbol to proc`で ` map to `,am great fan of the `symbol to proc` short,4146,12115,1
+ruby has several numeric classes such as integ,暫く様子を見て特に反対がなければ決定します。\r\n\r\n今の raitonal や co,5321,5520,0
+motivation \r\n\r\nintroduce new syntax for,m very excited about this feature in coffees,15192,5825,0
+with discussion with marcandre we found good,summary currently there is no good way to ret,,,0
+let introduce id key table to optimization \,this should allow better use of cache friendly,11420,9638,1
+since ruby `def` returns symbol with th,nowadays almost every processor has more than,,,0
+文字列上の正規表現に一致する場所のoffsetを順に処理できるような\r\nイテレータが欲し,the string class should contain an instance me,,,0
+```\r\n and not in rubygem like yomikomu,currently on discourse boot notice few min,,,0
+this issue is tracking for gem release of webr,=begin\r\n\r\nup to date summary of this propo,13173,5481,1
+this is follow up to,add resolve timeout to tcpsocket new \r\nit ma,16381,17134,1
+ruby’s current warning system is lacking warn,deprecation warnings and other warnings in rub,11588,17122,1
+=begin\n で導入された io advise メソッドは、引数に sym,=begin\n as discussed in suggest wr,4204,4038,1
+simplified and stupid example replace som,文字列上の正規表現に一致する場所のoffsetを順に処理できるような\r\nイテレータが欲し,,,0
+this issue is tracking for gem release of zlib,=begin\r\n\r\nup to date summary of this propo,13186,5481,1
+my understanding is that `rubyvm` is supposed,`rubyvm` is trap \r\n users will think from,15743,17500,1
+hello am right now having difficulties to,many applications and users have dealt with,13006,6647,1
+how about unbundling ext/tk from ruby reposito,=begin\r\n\r\nup to date summary of this propo,8539,5481,1
+=begin\r\n hi \r\n \r\n made commit that,it would be useful for profilers to have more,,,0
+there are many good reasons to simply define,english rb is no longer maintained by ruby cor,14138,16963,1
+this ticket describes the semantics of sharea,this proposal is to introduce ` shareable con,,,0
+in ruby we have methods with capital letter,new to method converts strings,12012,11848,0
+these two verbose mode warnings are both fairl,support was recently added for warning warn to,17055,17143,1
+=begin\nfile each line sep= / line,mentioned before in another rejected issue,,,0
+rake can follow test unit and minitest and can,=begin\r\n\r\nup to date summary of this propo,11025,5481,1
+matsuda san suggested me that `public` `prote,matsuda san suggested me that `public` `prote,14396,14397,0
+fixnum size is not really useful to represent,how about changing bignum size to well defin,8568,8553,1
+when kernel lambda receives proc that is not,in news \r\n\r\n```\r\n kernel lambda,15973,17361,1
+am opening series of feature requests on `,to create set from hash keys currently impli,16989,16993,1
+this one was derived from bug \r\n\r\n,from,12607,12463,1
+d like to add way to get the size of ruby,we re in the process of migrating very large,,,0
+propose adding `mutexeddelegator` as simpl,=begin\r\ni propose synchronizable mixin to,8556,8961,1
+概要\r\n\r\n`array ===` を追加する提案になります。\r\n基本的な,概要\r\n\r\n`hash ===` を追加する提案になります。\r\n\r\n\,,,0
+modules and classes can be reopened and change,feel there are inconsistencies in which meth,14133,6539,1
+=begin\r\nthis is feature suggestion that wa,=begin\r\nas duck typed language ruby doesn,8237,8191,1
+ve noticed issue subjecting an endal,though as matz said at ruby is,5065,5054,1
+this is currently an exploratory proposal \r,abstract\r\n\r\nunicode has display width,13241,14618,1
+would like to see implemented in ruby pipe,implemented the pipeline operator ` ` topi,14392,15799,1
+we have an issue where it is not easy to ask,hello \r\ni propose to introduce `fixnum finit,,,0
+=begin\r\n in ruby stringscanner pos retu,=begin\n 松田と申します。\r\n \r\n ruby stringsca,2645,1159,0
+=begin\r\n why \r\n=end\r\n,=begin\n yaml and syck is why product and,3112,2340,1
+=begin\n was very glad to see there build,=begin\n suspect that hkscs in ruby mis,,,0
+this is an old problem maybe running multip,let make it sure there ll be no mvm in,,,0
+```\r\nauto fiber schedule for rb wait for sin,ruby concurrency can be greatly enhanced by co,13618,14736,1
+there does not seem to be method in ruby to,sometimes write following code \r\n\r\n```ru,13395,12075,1
+ruby seems to have no way to format number,sometimes want to extract digits of place va,,,0
+=begin\r\nlet me propose `enumerable with` for,propose that each with object be renamed to,,,0
+hello \r\n\r\nthe pattern \r\n\r\n~~~ruby\r\nc,when first saw the instance assignments in,12820,12578,0
+description \r\n\r\nthis proposal aims to,this proposal is to introduce ` shareable con,,,0
+current behavior and problem \r\nat the mo,通常 net/http を使う時は、net http start ruby lang,15215,5180,0
+hello \r\n\r\nthe ` ` operator lets one pass,`obj method` is introduced at by,12125,16275,1
+let introduce id key table to optimization \,ve experimented with replacing `struct st ta,11420,6962,1
+=begin\r\n inspired by nobu recent refactori,calling kernel caller with negative limit sh,,,0
+hi \r\n\r\ni suggesting all `module attr `,with ruby returning symbol from `def` an,13560,9453,0
+currently if have hash like this \r\n\r\n,new feature for your consideration dig wh,14602,12282,0
+often improvements about implicit block argume,numbered parameters have been introduced into,12240,15741,1
+hi guys \r\n\r\nwhen was younger in class,matz hope to integrate did you mean gem to,,,0
+now gc stat returns internal information abuo,now gc stat returns internal information abuo,9923,9924,0
+since true/false/nil/integer/float jus,since they basically are value types \r\nthey,13985,13983,1
+ruby introduced ` dig` for `array` `has,new feature for your consideration dig wh,15563,12282,0
+matz \r\n\r\nat rubyconf gave talk,proposal for moving to more visible formal,,,0
+=begin\r\ni really like the new assuming,know that what propose here is significa,7939,6817,1
+can we relax ordering rule for id table such,let introduce id key table to optimization \,,,0
+ruby syntax is full of end i paranoid,ve noticed issue subjecting an endal,,,0
+=begin\n hello \r\n \r\n recently readline,=begin\n this is moved ticked from ruby dev \r,2000,2032,0
+much of the time when user calls to they,freezing strings can give us nice performanc,16150,16153,1
+previously in we discussed removing open,=begin\r\n\r\nup to date summary of this propo,9612,5481,1
+when `rubyvm instructionsequence compile` rai,currently rubyvm instructionsequence compile,11951,11868,1
+=begin\r\n the ipaddr class internally stores,=begin\r\n いまいです。\r\n \r\n はありがとうございました。,1275,1905,1
+often see code like this \r\n\r\n ```ruby\r\,frequently see code that uses some value if,,,0
+負の零なども含め正しく符号を判断するために必要です。実際、complex や\r\nlib/,=begin\r\n 数値の正負を返すメソッドが欲しいです。\r\n 主たる想定用途は,5523,2968,0
+what about using this \r\n\r\n```ruby\r\n def,in we settled on syntax where the rem,16253,16296,1
+=begin\r\n it would be useful to be able to as,=begin\r\n array permutation と array combinati,3715,2673,1
+hello \r\n \r\n in openssl you are allowed to,gcm cipher accepts variable iv length but rub,,,0
+propose new pattern matching syntax \r\n\r\n,```ruby\r\nclass a\r\n def deconstruct\r\n,14912,15881,1
+ref ruby core \r\n\r\nany comment on of,any comment on officially supporting this as,9893,9894,0
+=begin\r\n 現状 ruby が出せる状況ではないのは存じあげております。誰,=begin\r\n \r\n,,,0
+=begin\r\nthis patch moves the compression han,this patch builds atop to enable accept,6492,6494,0
+it would be useful for profilers to have more,=begin\r\n hi \r\n \r\n made commit that,7022,2565,1
+this adds simple way to filter warnings from,deprecation warnings and other warnings in rub,12026,17122,1
+in ruby when case when statement is written,propose new pattern matching syntax \r\n\r\n,15814,14912,0
+this issue is tracking for gem release of dbm,=begin\r\n\r\nup to date summary of this propo,13201,5481,1
+なかだです。\r\n\r\n,since capturing block into proc is slow,,,0
+the `did you mean` gem has been bundled gem,just have opened pr which allows ruby,16363,16431,1
+ve noticed issue subjecting an endal,though as matz said at ruby is,5065,5054,1
+現在`symbol to proc`で ` map to `,found very common use case for map map with,,,0
+this is another attempt to provide the same ty,deprecation warnings and other warnings in rub,12299,17122,1
+hello \r\ni propose to introduce `fixnum finit,we have an issue where it is not easy to ask,10641,12039,1
+proposal of `base` option to `dir glob` meth,currently there is only pathname glob method,13056,7360,0
+m proposing method called `proc call under,=begin\r\nmaybe there is another way to do thi,,,0
+=begin\r\nmost of the time when use `array,d like to propose `array product set` to ret,8970,7444,0
+以下のようなプログラムがあったとします。\r\n\r\nthread async inter,=begin\r\n= abstract\r\n\r\nadd asynchronous,7505,6762,1
+know that what propose here is significa,inspired by haskell `zipwith` function ha,6817,4539,1
+why not support like hash literals,how about to allow value omission in hash lite,11105,14579,1
+recently had to replace several of my symbol,or to put it another way make symbols and st,7792,5964,1
+would like to make rb public ap,it would be great if there was way to dynami,,,0
+nullobject is quite useful pattern but refa,when boolean return value is required it has,8273,6180,0
+in feature \r\n,the idea when investigating in example scrip,,,0
+in feature \r\n,proc to returns file line instead of,16101,16412,1
+since ruby `def` returns symbol with th,with ruby returning symbol from `def` an,,,0
+how about unbundling ext/tk from ruby reposito,=begin\r\n\r\nup to date summary of this propo,8539,5481,1
+strip and associated methods in ruby and,=begin\n 現在、string strip は rb enc isspace を使って,7845,2093,1
+propose to promote pattern matching to offic,propose new pattern matching syntax \r\n\r\n,,,0
+matsuda san suggested me that `public` `prote,since ruby `def` returns symbol with th,,,0
+=begin\r\n please add the relevant dtrace prob,=begin\r\n hi \r\n \r\n made commit that,1279,2565,1
+when implementing an io like object d like,utf was originally defined with codespace,13588,11094,1
+```ruby\r\nclass foo\r\n def call me\r\n,defining private constant should not require,,,0
+ve noticed issue subjecting an endal,ruby syntax is full of end i paranoid,5065,16746,1
+background\r\n\r\n,currently encountering too many open file hand,13613,5980,1
+=begin\r\n given an enumerator there is no wa,as described in numo narray and pycal,3714,14044,1
+please see this thread,think value transformation is fundamental,,,0
+suggest to add these two to class `class` \r,hello \r\n\r\ni was creating list of class,4910,14498,1
+d like to add way to get the size of ruby,we re in the process of migrating very large,,,0
+=begin\n まつもと ゆきひろです\r\n \r\n in message re,=begin\n こんにちは、なかむら う です。\n \n rubyでスクリプトを書いてい,1492,1488,0
+since ruby `def` returns symbol with th,hi \r\n\r\ni suggesting all `module attr `,11541,13560,1
+feel there are inconsistencies in which meth,methods like alias method attr accessor defi,,,0
+=begin\r\ni propose synchronizable mixin to,propose adding `mutexeddelegator` as simpl,,,0
+=begin\r\nwhen user calls have header so,=begin\r\n なかだです。\r\n \r\n ruby devに移動します。\r\n,4924,3333,0
+how about adding new method process clock,=begin\r\na lot of scenarios and applications,8658,8096,1
+since we have `module deprecate consta,we propose that ruby doesn emit deprecation,16018,16345,1
+=begin\r\n\r\nup to date summary of this propo,=begin\n the rdoc in trunk is outdated and not,,,0
+if module is included into class a,=begin\r\n the scenario \r\n include foo,9112,1586,1
+=begin\r\n it should be possible to use named,=begin\r\n \r\n,1200,4239,1
+when first saw the instance assignments in,m very excited about this feature in coffees,12578,5825,0
+it is very frequent to have time instance \r,hi \r\n\r\nwe time many things in rails and,12173,8640,1
+yesterday we had face to face developer mee,d like to propose new type of string liter,,,0
+ruby syntax is full of end i paranoid,this is refinement of feature \r\n\r,,,0
+=begin\r\ni noticed that ` word` doesn mean,=begin\r\ni noticed that word doesn,7907,7906,0
+many applications and users have dealt with,hello am right now having difficulties to,,,0
+def def i am test,=begin\r\n as said at rubyconf d lik,6287,4085,0
+`file birthtime` が追加されたので `pathname birthtime`,file stat birthtimeを追加しませんか。\r\n\r\n以下の様なシステム,9857,9647,1
+=begin\r\n this is an old issue think going,=begin\r\n the documentation for exec states,,,0
+yesterday at github tokyo drinkup thanks gi,ruby had taint checking which is originally in,8468,16131,1
+it is very frequent to have time instance \r,=begin\r\na lot of scenarios and applications,12173,8096,1
+currently encoding default external is set to,this issue is related to,13488,16604,1
+currently single line pattern matching `expr,how about adding syntax for one line pattern,,,0
+upd after discussion in comments method,is there any reason that zip doesn return,,,0
+rb sits on in the so,dl and fiddle are redundant moreover dl has,,,0
+as discussed in the shorthand hash syntax for,current syntactic sugar allows this \r\n\r\n,4935,4276,0
+calling kernel caller with negative limit sh,=begin\r\n inspired by nobu recent refactori,5016,1906,1
+this allows creating modified clones of frozen,d like to use `object dup` with block whi,12092,14778,1
+that an another attempt to choose good metap,=begin\r\nfrom github \r\n,12760,7388,0
+when struct is used to instantiate object with,propose to make struct subclass constructors,,,0
+pr in github,why not support like hash literals,15236,11105,0
+hi thanks for all your great work on the ruby,believe we should introduce module for exp,14844,15752,1
+rubykaigi,like to indent my private methods one level,8497,7019,0
+per hongli excellent article it looks like,not everybody benefits from jemalloc and the,,,0
+while it possible to have rescue without,the keywords `rescue` `else` and `ensure` can,11337,7882,0
+suggest to add these two to class `class` \r,hello \r\n\r\ni was creating list of class,4910,14498,1
+in this issue propose to introduce enumerabl,here propose array float sum in array or,12217,10298,1
+xmlrpc library is no longer maintain actively,=begin\r\n\r\nup to date summary of this propo,12160,5481,1
+ractor proposal for new concurrent abst,d like to propose `object deep freeze` \r\n\,17100,17145,1
+=begin\r\nfrom gh url,this feature request stems from dealing with,8246,5531,0
+after joining the elements of an array into,think it could be handy to have block suppor,14022,15024,1
+hi there \r\n\r\nwhen wrapping up single lin,the postfix rescue notation is convenient bu,6739,10042,1
+unicode was published about week ago,unicode version will be published somet,13685,14802,1
+sometimes write following code with rails ap,hi everyone \r\n\r\nsome time ago was think,11537,11034,1
+problem\r\nwhen we need monkey patch whic,the original discussion is here,17336,16241,0
+feature などで議論されていた flonum が でが入,=begin\r\n fixing up the rubyspecs led me to,,,0
+d like to propose `object deep freeze` \r\n\,this ticket describes the semantics of sharea,17145,17274,1
+now we should write an accessor method of bo,hi \r\n\r\ni thought such an issue would ve al,12046,15991,1
+propose the method `threadgroup join` \r\nca,現在いるスレッド以外の全てのスレッドを現在のスレッドに合流させたいときは多いと思います。\r,5958,15954,1
+now that it has been made clear that `enumerab,=begin\r\n it would be useful to be able to as,6636,3715,1
+fixnum size is not really useful to represent,how about changing bignum size to well defin,8568,8553,1
+how about to provide module defined refinement,if refinements are to remain file scoped then,12737,9704,1
+from documentation and common sense would,=begin\r\n this is an old issue think going,4477,2715,1
+deprecation warnings and other warnings in rub,ruby’s current warning system is lacking warn,,,0
+recently had to replace several of my symbol,or to put it another way make symbols and st,7792,5964,1
+it is useful to have methods allowing pattern,time and again there have been rejected featur,,,0
+=begin\r\n\r\nup to date summary of this propo,this issue is tracking for gem release of file,,,0
+am opening series of feature requests on `,this is quite minor but `set = ` should be,16989,16995,1
+according to my experiences the following two,add `hash slice `\r\n\r\nin,8499,15863,1
+= proposal\r\n\r\nthe ability to raise any obj,feature raise any object\r\n\r\n= proposal\r\,,,0
+hi \r\n\r\ni would like to have way to clean,can be add uninclude and unextend method to ru,9887,8967,0
+=begin\r\n it would be useful to be able to as,=begin\r\n array permutation と array combinati,3715,2673,1
+=begin\r\n \r\n,=begin\r\n 現状 ruby が出せる状況ではないのは存じあげております。誰,4239,4207,1
+hi \r\n\r\ni ve attached patch to make io,since we added use of writev in we sho,14042,9420,0
+unicode string normalization is frequent ope,=begin\r\ncurrently strings with the same con,10084,9111,1
+we propose that ruby doesn emit deprecation,matz has decided to disable deprecation warnin,16345,17000,1
+propose that ruby supports client side tcp,propose that ruby support server side tcp fa,8897,8871,1
+think value transformation is fundamental,it would be nice to have the following methods,12512,7793,1
+= proposal\r\n\r\nthe ability to raise any obj,feature raise any object\r\n\r\n= proposal\r\,,,0
+english\r\n\r\nas mentioned in,`mathn/complex` and `mathn/rational` is deprec,,,0
+when requiring library global namespace alw,current kernel load is defined as \r\n\r\n,10320,5643,1
+think the four special variables for separat,there are many good reasons to simply define,,,0
+though as matz said at ruby is,ruby syntax is full of end i paranoid,5054,16746,1
+currently refinements can be activated only in,overview\r\ni propose proc using to support,12086,16461,1
+now that to is the official method for expl,it would be nice to have the following methods,,,0
+why don you allow range without end like,in `enumerator arithmeticsequence` ha,12912,14697,1
+yesterday we had face to face developer mee,d like to propose new type of string liter,,,0
+d like to propose new type of string liter,related to feature \r\n\r\nwe already,8579,8923,1
+nick slocum shows in,see discussion here,10354,5378,0
+=begin\r\n ruby head abcdefghij star,string start with should receive regexp \r\n\,3388,13712,1
+following on from the discussions at and,=begin\r\nlet me propose `enumerable with` for,7340,6687,1
+made patch to optimize ` send ` call,made patch to optimize ` send ` call,17288,17291,0
+just generally speaking it is nice to have,ruby hash class is not very internally conn,6737,6442,1
+rubyに追加されそうなパターンマッチの機能について \r\ninterger arr,propose new pattern matching syntax \r\n\r\n,,,0
+the offspring of which was too vague/,enumerations are designed to be greedy immedi,,,0
+as discussed in issue encoding convers,rubyとjavaのブリッジを開発していて、文字列の変換処理で困っています。\r\n現象）\,,,0
+we ve had so many times of feature requests fo,\r\ni think the following method is missing fr,10095,6721,0
+` all ` ` any ` ` none ` and ` one ` accept,proposal\r\nit is proposed that `enumerable,14197,11286,1
+`kernel` provides the global conversion functi,would like to be able to pass an option to `,12968,12732,1
+this is follow up to,it seems like the blocking syscall done by `so,16381,16476,1
+issue\r\n\r\ndoing careful analysis of mji,this ticket is picking only mjit pause from ht,14491,14830,0
+now that to is the official method for expl,given hash `h` `h map` returns an array ali,7292,6669,1
+=begin\r\n has consideration been recently giv,unicode string normalization is frequent ope,,,0
+if env have some like,nahi suggested request the os environment,12921,6546,0
+this patch fixes one issue protecting new os,=begin\r\n there are two ways to find out what,6056,1400,1
+how about to allow value omission in hash lite,why not support like hash literals,,,0
+=begin\r\ncurrently there are no standard mech,=begin\r\n in debugger often one gets to s,6648,4046,0
+windows environment variables supports unicode,this issue is related to,12650,16604,1
+it would be great if there was way to dynami,would like to make rb public ap,5690,5666,1
+frequently find myself needing to determine,hi \r\n\r\nthe ruby array class is currently,15198,16928,1
+feature raise any object\r\n\r\n= proposal\r\,= proposal\r\n\r\nthe ability to raise any obj,5856,5818,1
+can we relax ordering rule for id table such,let introduce id key table to optimization \,,,0
+follow up to feature optimize recv,concatenating literal strings to existing stri,10329,10326,1
+matz hope to integrate did you mean gem to,hi guys \r\n\r\nwhen was younger in class,11252,11032,1
+having final instance variables in ruby will,nowadays almost every processor has more than,,,0
+my understanding is that `rubyvm` is supposed,`rubyvm` is trap \r\n users will think from,15743,17500,1
+it would be handy if `select` could accept r,sometime want to do `grep v` like operation,8921,11049,1
+here propose array float sum in array or,in this issue propose to introduce enumerabl,,,0
+these methods simplify two common patterns whe,it would be nice to have the following methods,9970,7793,0
+my obsession with easy syntax annoys me when,strings and arrays can be combined with,9778,6225,0
+this is follow up to,it seems like the blocking syscall done by `so,16381,16476,1
+`binding from hash` would work like \r\n\r\n``,it would be interesting if erb could allow h,8643,8631,1
+=begin\r\n\r\nin ruby if you can create sym,current syntactic sugar allows this \r\n\r\n,9047,4276,0
+=begin\n here is patch which implements th,=begin\n ve written an improved version of,2166,1999,1
+~~~\r\n hello the following patch contains,given some of preparations to this patches alr,,,0
+propose to move webrick to bundled gems or,the maintenance of webrick is hard for the rub,,,0
+summary currently there is no good way to ret,with discussion with marcandre we found good,17365,17378,1
+since ruby `def` returns symbol with th,matsuda san suggested me that `public` `prote,11541,14397,1
+currently `range ===` is an alias of ` includ,the proposal is that range === optimize by red,,,0
+these methods simplify two common patterns whe,it would be nice to have the following methods,9970,7793,0
+made patch to optimize ` send ` call,made patch to optimize ` send ` call,17288,17291,0
+the current ruby i/o classes have non blocking,blindly hitting io read nonblock and raising,5138,4560,1
+`kernel` provides the global conversion functi,would like to be able to pass an option to `,12968,12732,1
+know `objectspace weakmap` isn really sup,d like to request two features for `weakref`,16038,16471,1
+=begin\r\n main ruby v\r\n ruby,right now find the following code will rais,8600,4965,0
+following on from the discussions at and,would love to have shorter alias for each,7340,7297,1
+if env have some like,nahi suggested request the os environment,12921,6546,0
+sometimes want to extract digits of place va,sometimes need to apply `divmod` repeatedly,12447,12116,1
+ある string を ascii にしたいことはしばしばあります。\r\nそれだ,know this has been discussed lot in the pa,6767,6361,1
+we propose that ruby doesn emit deprecation,matz has decided to disable deprecation warnin,16345,17000,1
+this is follow up to,add connect timeout to tcpsocket new in the sa,16381,17187,1
+=begin\n this is moved ticked from ruby dev \r,=begin\n hi \r\n \r\n ruby currently tries to,2032,2982,0
+often times people want to assign given argum,m very excited about this feature in coffees,8563,5825,0
+gemified json library \r\n\r\n,=begin\r\n\r\nup to date summary of this propo,,,0
+how about introducing new syntax for tail ca,hi \r\n\r\nsome hours ago matz proposed turni,12543,6602,1
+currently mutex in cruby is held per thread \,abstract\r\n\r\nwe propose to introduce li,,,0
+currently different block objects such as la,when kernel lambda receives proc that is not,9777,15973,1
+how about adding syntax for one line pattern,in new syntax ` expr in pattern `,15865,16182,1
+these methods simplify two common patterns whe,counting how many times value appears in som,,,0
+currently the unicode version used in speci,the emoji version is different from the unicod,12460,15341,1
+there should be variant of file write for pa,currently there is only pathname glob method,7378,7360,1
+文字列上の正規表現に一致する場所のoffsetを順に処理できるような\r\nイテレータが欲し,ruby should have method to obtain not an array,,,0
+the documented way to embed ruby interpreter,=begin\r\n with ruby it has become more,7424,3731,1
+=begin\r\nas duck typed language ruby doesn,sometimes write following code with rails ap,,,0
+現在`symbol to proc`で ` map to `,found very common use case for map map with,,,0
+hello am right now having difficulties to,many applications and users have dealt with,13006,6647,1
+ruby introduced ` dig` for `array` `has,currently if have hash like this \r\n\r\n,15563,14602,0
+propose that each with object be renamed to,=begin\r\nlet me propose `enumerable with` for,7384,6687,1
+believe we should introduce module for exp,feel frustrated with some recent experimenta,15752,15966,1
+at,=begin\r\n given an enumerator there is no wa,13904,3714,0
+there is occasionally need to use string,in commit yui naruse added string,,,0
+hi \r\n \r\n i’ve previously reported coupl,… and similar delimited strings arrays,6823,5382,1
+this adds simple way to filter warnings from,ruby’s current warning system is lacking warn,12026,11588,1
+found very common use case for map map with,現在`symbol to proc`で ` map to `,6483,4146,1
+nowadays almost every processor has more than,having final instance variables in ruby will,12019,12021,1
+this is quite minor but `set = ` should be,am opening series of feature requests on `,,,0
+=begin\r\n the gc currently increases the size,diff git a/gc b/gc c\r\nindex,,,0
+please add negation flag to regexps whic,sometime want to do `grep v` like operation,,,0
+wrote this code \r\n\r\n``` ruby\r\nn =,currently single line pattern matching `expr,,,0
+=begin\r\n like freezing my constants confi,d like to propose `object deep freeze` \r\n\,2509,17145,1
+know migrating to git get asked at least eve,git to svn\r\n\r\nconverting ruby wholesale,,,0
+=begin\r\n= abstract\r\n\r\nwith feature,threadの名前の取得・設定を行うapiを追加しませんか。\r\n\r\n や,,,0
+propose the method `threadgroup join` \r\nca,現在いるスレッド以外の全てのスレッドを現在のスレッドに合流させたいときは多いと思います。\r,5958,15954,1
