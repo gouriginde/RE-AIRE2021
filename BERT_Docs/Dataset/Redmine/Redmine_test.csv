@@ -1,0 +1,1123 @@
+Unnamed: 0,id1,req1,id2,req2,Type of dependency,Label
+29418,11989,consider situation where defect can be re,5417,when break project into versions there,independent,0
+18022,21969,wiki pages could be lost when you edit pag,15237,\r\nmany of my users would like threading in,independent,0
+35923,15910,hi am putting this tracker for the regular,2788,sub projects are great tool but the redmine,independent,0
+44625,17532,in the issue list when you try to select multi,18411,it is interesting that assignee = me,independent,0
+42634,9203,it would be nice if redmine displayed tag if,29715,am really pleased with the current ability,independent,0
+47055,5080,currently versions are shared with subprojects,10065,hello \r\n\r\nwe would like to use the wiki fu,independent,0
+4506,29183,think it would be better to show latest new,29491,would like to propose the possibility of def,independent,0
+2293,7982,dear redmine team \r\n\r\ni would realy like,2117,when handling multiple projects with one redmi,relates,1
+1670,11222,there is big problem with plugins compatibil,16215,in addition to it would be nice to be,relates,1
+1098,14820,consider root/trunk/app/controllers/account,14818,in diffs and other places include better na,relates,1
+237,29027,ve tested the patch series in on the,29034,in ve proposed to add an collapse/ex,relates,1
+30316,25247,as user new to redmine it would help me ver,32133,this patch keeps the same exact icons just ma,independent,0
+4544,1445,permission edit issue planning can be adde,3521,it would be nice to have possibly in the same,relates,1
+12246,7759,hello \r\ni have redmine installation at wor,6595,всем привет ребята посмотрите размер оплаты,independent,0
+2700,4298,when developing plugins often need persiste,6631,\r\nit would be nice to be able to assign perm,relates,1
+928,16849,it would be fine to render md in reposotory,29752,currently textile and markdown files are trea,relates,1
+21850,25648,our organisation we would appreciate funct,25358,the set up of roles their permissions and is,independent,0
+16124,11939,see for use case \r\n \r\nsometimes,8995,if one creates report on the spent time esp,independent,0
+29142,276,please add cvs support know svn is better,3545,suggestions \r\nwhen user is allowed to add,independent,0
+3366,4550,it would be very beneficial to be able to esta,4868,many projects requres to using documents that,relates,1
+209,29435,the list of discussion boards is poorly implem,29451,in the age of responsive web applications and,relates,1
+33507,555,it would be nice to have support for some comm,23314,there are too many activites displayed in main,independent,0
+4621,6794,would be nice if categories could be global fo,1278,it would be great if categories could be creat,relates,1
+46268,9153,стадия изучения \r\n стадия эксплуатации,16561,sometimes it recommended to allow some files,independent,0
+33523,410,ve been using pmwiki,520,imho it could be great to specify default stat,independent,0
+2938,26200,we do not use begin end dates much but we wou,24038,redmine introduced support for markdown whil,independent,0
+3092,5305,basic xml data produced by rest api should inc,1214,part of the main rest api issue this,relates,1
+14858,5331,you probably know hook script for svn etc t,674,redmine currently can only view the changeset,independent,0
+27673,1948,redmine should provide to users way to navig,14858,hello \r\nmy team get some trouble when they,independent,0
+25916,9595,would be useful to have sounds package in span,318,project manager always assigns hundreds of iss,independent,0
+16572,15966,it would be great if one could chose by the,7671,please provide file access permission with api,independent,0
+40259,23314,there are too many activites displayed in main,32626,in majority of my projects it happens lot,independent,0
+2054,6417,eric it would be great if there was way to,8897,issues are sorted by id in the gantt chart \r\,relates,1
+4772,1982,one of the things love about redmine is that,1040,it would be very helpful to have global wiki,relates,1
+2403,7590,guess it is usefull to make it possible that,4911,hello \r\n\r\nit would be nice if there would,relates,1
+19960,7671,please provide file access permission with api,1656,last weekend have found this great tool but,independent,0
+2458,1455,d like the capability of creating issue repo,23525,as stated in subject could be useful to can,independent,0
+3312,4706,is it possible to add member filter on the,13157,on my page there is no link below the spent ti,relates,1
+23453,23107,coderay which includes several neat ch,7783,for target version created in project eve,independent,0
+22970,13230,actually it is possible to group issues by sta,7673,опрос примерно следующий вы хотели бы и,independent,0
+1660,1306,it would be nice if fixing an issue would set,11313,are there any plans to implement this feature,relates,1
+3302,4742,exporting to csv currently includes large nu,702,first thank you on the creation and maintenan,relates,1
+1234,2083,idea is to allow user to input some value and,13708,we re using redmine for the moment as private,relates,1
+1447,12540,we are using redmine and we made several custo,12250,think nice feature is add the possibility,relates,1
+47821,294,currently the fixed version is only availabl,4779,test,independent,0
+3093,7366,there is no rest api for create update delet,5305,basic xml data produced by rest api should inc,relates,1
+4163,2372,this is wishlist for several enhancements of,6352,currently the repository view diff,relates,1
+19579,536,it would be nice if we could assign people to,23281,hope import and export some fields that prov,independent,0
+19952,20366,hi \r\n\r\ni maintain redmine on debian and,16206,hi \r\n\r\ni need script to migrate from,independent,0
+3903,3068,d like to suggest an addition which would ma,2082,currently by default the gui use the,relates,1
+4126,2529,when view issues for parent project am,6121,m using stable checkout from,relates,1
+44327,29958,morning guys \r\n\r\ni need little help with,3933,hi \r\ni love to export docbook straight fr,independent,0
+18187,6787,think it would be extremely useful if users,8227,allow filter the roadmap with only assigned to,independent,0
+12984,476,it be handy to be able to change the way the,8915,since the begin have configured my mercuria,independent,0
+1769,3921,hello everyone \r\nour team started developmen,10568,hi \r\n\r\ni think that would be great to have,relates,1
+36191,10486,when get list of projects using the rest,18030,a ticket has subtasks it would be very help,independent,0
+6048,7712,mohan \r\n\r\ni need to generate some reports,10883,as and improvement to ttcn fw it might be nice,independent,0
+40,33153,one of the most often action when working with,28829,patch has added icons to open the conte,relates,1
+1950,12223,as described in the topic \r\nit would be grea,9479,see title \r\n\r\ncurrently the my page sc,relates,1
+4720,1140,would like to filter issues using more than,10999,have not found any workaround on that by now,relates,1
+4326,5238,often happens that user creates new issue and,1881,it would be nice to have an add related issue,relates,1
+603,32976,by changing the user icon to avatar in the add,7361,mark currently used custom query bold when,independent,0
+65,32178,dear all \r\n\r\nis it possible to create cond,22026,like the very old topic below d like to req,relates,1
+8297,4219,important for integration with party apps,26334,some of the gems required by redmine are ancie,independent,0
+3931,9270,notifications on tasks help make things happen,3035,redminereminderemails reminder sends email,relates,1
+1049,13690,this is somewhat related to but think,15340,redmine could become much more powerful if it,relates,1
+14628,1574,in large projects you have multiple versions,32311,issues filter issue\r\nstatement is,independent,0
+2389,7697,for issues you have privileges that enable use,7652,today can only set myself as watcher of,relates,1
+13128,5841,на странице должна быть только верхняя часть,23525,as stated in subject could be useful to can,independent,0
+5578,7946,using upgrading to shortly \r\ni,10775,it would be nice to get the issue id while,independent,0
+4858,4620,is there way to publish news across projec,908,add global news related not to project but to,relates,1
+27716,15311,imagemagick convert is now used for generating,2158,if you can plugin the continuous integration,independent,0
+4015,4064,hi \r\n\r\nwe re using redmine in corporate,2836,in our redmine site want my account pref,relates,1
+7351,772,it should be useful to be able to add custom,368,it is not possible to update an issue setting,independent,0
+32077,29203,\r\nit would be nice to be able to add/remove,32695,the subject says it all please add the,independent,0
+308,27128,much like what available when new saved quer,7360,it would be nice to be able to create defaul,relates,1
+1052,15290,as of subproject nesting depth limit has,594,would like to see this enhancement for bet,relates,1
+1486,6188,it wold by important to me if where possible,6326,it would be nice if the mail handler could par,independent,0
+48386,2163,hello \r\ni have developed small plugin he,8609,maps like flatsville county by brickman have,independent,0
+4834,973,hey \r\n\r\ncurrently it seems the statuses an,4828,hi \r\n\r\ni tried playing around with work fl,relates,1
+2015,9122,it should be possible to track adding and remo,16934,make global or project based setting for,relates,1
+2716,4455,the current mercurial support in redmine has,6515,ve write little patch for mercurial scm th,relates,1
+40964,1974,our project manager and several developers hav,2062,it will be nice to have drop down with list of,independent,0
+31196,9441,has comment history for more reliable data,1653,we are using redmine trunk revision on,independent,0
+39834,10842,if have ldap user and want to delete,569,thanks for the great piece of work it would,independent,0
+2543,3224,as project managers we are going to project,7091,hello \r\n\r\nit will be nice if the project,relates,1
+23260,32657,hello \r\n\r\nwe are planning to use redmine,30485,at this moment the activity types are set glo,independent,0
+5627,19169,it would be great if the wiki could show de pr,27587,there does not seem to be way to hide users,independent,0
+4383,1766,like the subject states timelog custom field,1692,unfortunately can set up filter on my cust,relates,1
+9841,8267,line items with the creatives,5286,m trying to use excel redmine import featur,independent,0
+34654,32482,hello \r\n\r\ni was trying to reply here but,4781,it will be very useful if redmine could make,independent,0
+2336,7839,m looking for way to limit the tracker typ,285,what about adding rbac to trackers one of th,relates,1
+2790,6217,when adding subtask it takes lot of time,6117,have been asked if it is possible to have su,relates,1
+2261,2539,is it possible to have per project setting,8050,the problem with bigger workflow is that som,relates,1
+49398,11553,in my company for particular release we go,31814,when choose the language of simplified chin,independent,0
+2817,6118,there doesn seem to be an option to use par,6116,my colleagues have starting re arranging their,relates,1
+1485,13295,have to implement software which moves iss,12275,hi \r\n\r\ni making simple bot who update,relates,1
+3245,4932,pre \r\n,465,it would be really nice if issues of subpro,relates,1
+281,22015,in the current layout the preview of the texti,27758,m working on patch that adds the preview,relates,1
+27223,21938,in administration / issue tracking setting st,735,is there possiblity to define some kind of,independent,0
+4835,10331,we are getting internal requests for the abili,973,hey \r\n\r\ncurrently it seems the statuses an,relates,1
+14964,17997,goal \r\n\r\nprovide way for developer or,12312,document titles are limited to characters,independent,0
+41946,5748,could it be possible to integrate this plugin,10962,este banner eu preciso colocar do lado esquerd,independent,0
+41898,32538,we are using dms which should have the,6133,galeria do spicy,independent,0
+1433,12647,redmine has very form based flat view on,2448,found the output of this admittedly very ha,relates,1
+22994,9356,as currently understand it if you create,32086,we are having multiple project and need to gen,independent,0
+3136,5201,hello \r\n\r\ni hope to add description field,4768,currently it only has name and default assigne,relates,1
+234,29321,the issues view is split in two sections the,29034,in ve proposed to add an collapse/ex,relates,1
+20949,15380,bp theta = sum w n^ exp pi n sin th,17093,is there way to have role based wiki \r\n\,independent,0
+1393,12793,as described in subject \r\n\r\nby the way,12821,open new ticket just to split the request,relates,1
+41781,8217,dce,11642,hi guys \r\ni am new comer of redmine and a,independent,0
+6555,26077,hi \r\n\r\nplease create an new project page,20388,now in attachment model is\r\n\r\n after de,independent,0
+47801,13010,ask tracker/project which are the necessary fi,590,it would be good to have preview option wh,independent,0
+11278,978,as projects are wastly different there shoul,5774,calculating an estimated end date for vers,independent,0
+5094,20558,this would be useful for recording the purpose,442,hi \r\n\r\nin project when having testers/r,relates,1
+4226,12984,hello \r\n\r\nwe follow production versions th,24511,am having list of reports who can added any,independent,0
+42390,353,d like to be able to optionally assign use,2593,it be nice to have the ability to add file,independent,0
+345,26488,d like to move few issue tracking related,22090,currently users have to find the settings tab,relates,1
+988,16067,one off issue creation is cumbersome when jugg,12704,happy new years \r\nas you know redmine sub,relates,1
+14978,5731,there appears to be no way to make an existing,24399,is there any way to enhance referencing issue,independent,0
+2751,6366,when an issue does not have an end date assign,7626,when adding issues to versions expected the,relates,1
+715,8491,is it possible to make word wraping for issue,20481,it would be useful which right and left panel,relates,1
+6221,15315,if someone defines custom colors for ticket pr,19629,great user experience feature would be to qu,independent,0
+37996,3175,it a request from our managergs now there,3537,we hope the project members can be watched,independent,0
+4813,3912,d like to make search list that checks for,992,think two improvements can help lot \r\n,relates,1
+968,7867,is it possible to add group of auther for fil,16195,may be related to feature request\r\n\r,relates,1
+33456,3342,after installing the bitnami stack and discuss,2873,suggest some helpder script so every,independent,0
+39608,9422,my project hierarchy is one topproject with tw,3071,problem \r\n\r\nwe want to position redmine in,independent,0
+4571,23309,members redmine in my corporation reported me,1365,presently the default tracker value is deter,relates,1
+5184,1282,this is only last issue we miss so much in red,301,it would be good for the admin or project mana,relates,1
+2680,6666,currently deleting issues from the system res,7900,undo delete or recycle issues bin like wi,relates,1
+4159,2762,didn find any way to hide the list of chan,2372,this is wishlist for several enhancements of,relates,1
+537,23287,quite often version itself represent specifi,22802,in the roadmap tab issues are now automatical,relates,1
+44348,24291,hi team \r\n\r\nwould like to run redmine with,18257,current plugins delivering additional macros,independent,0
+1381,13824,currently the automatic project identifier sp,12844,m currently synchronizing lot of projects,relates,1
+43810,30477,\r\ncurrently there are four choices for user,17469,adding this \r\n\r\napi completed percent vers,independent,0
+13200,23580,filters look bad in mobile version for vertica,11649,m new to ruby and redmine just download the,independent,0
+26676,15603,is there any way the activity can be added,6298,when reviewing large list of issues each ti,independent,0
+41459,18527,after creating status workflow for single comb,17642,current process \r\n user logs in\r\n access,independent,0
+4246,2083,idea is to allow user to input some value and,5794,custom fields can also be used to store urls,relates,1
+38658,14945,when receiving an outlook mail \r\n\r\nif \r\n,7034,please insert multilanguage top menu caption,independent,0
+4878,850,have situation in which want any registe,2539,is it possible to have per project setting,relates,1
+55,5882,it be nice to have way for user to get,1653,we are using redmine trunk revision on,independent,0
+1261,14130,there is possibility in spent time report now,13558,it would be very helpful to be able to filter,relates,1
+38711,1263,with the new global wiki we are thinking in mi,5621,part of the main rest api issue this,independent,0
+7707,281,it would be great to be able to access passwor,25510,when user select particular group the next,independent,0
+1819,10191,when we need to add some filter conditions for,13157,on my page there is no link below the spent ti,relates,1
+144,14130,there is possibility in spent time report now,30346,am evaluating last redmine version,relates,1
+25568,12312,document titles are limited to characters,6328,this applies to the new issue alerts,independent,0
+1533,12085,now when you are displaying column with usern,10937,please add new user format lastname \r\n\r\,relates,1
+1814,10248,if you want to display specific text instead,17060,ve noticed that for issue links in commits,relates,1
+2580,6972,in this article,1766,like the subject states timelog custom field,relates,1
+13206,3221,we are using the redmine receiving emails func,11928,with some system registered customers can sen,independent,0
+896,17499,we use template project and copy projects ev,17500,requesting feature for allowing setting visibi,relates,1
+4934,705,when filling in an issue form either for ne,366,would like custom fields for issue statuses,relates,1
+19640,2596,would like to know when another user is edit,16430,currently in redmine there is an administrati,independent,0
+3856,3384,it would be great if we can define permissions,3187,please add view issues user permission,relates,1
+1189,12869,when create ticket via mail have to wri,13862,my redmine installation is configured to recie,relates,1
+1573,12347,it would be useful to be able to configure aut,11999,the current implementation\r\n\r\ncurrentl,relates,1
+36307,526,it would be nice if project description co,5613,would be great to see on user page not only th,independent,0
+13010,33102,it is time consuming task to add dozens of,13691,can you please share redmine net api sampl,independent,0
+24078,28868,currently you can perform administrative oper,9046,dear sven\r\n\r\nit will be beneficial for fil,independent,0
+8087,6574,it would be nice to be able to give few of,6678,it would be nice if there would be couple of,independent,0
+3306,6954,it is essential for my work the possibility of,4729,it would be great to be able to filter the iss,relates,1
+35639,463,make something similar to www wrike com,10823,it would be nice if you could see what the dev,independent,0
+21066,1696,it would be great if project could be assign,8748,hello \r\n\r\ni don know if this idea has al,independent,0
+2395,6366,when an issue does not have an end date assign,7626,when adding issues to versions expected the,relates,1
+43954,22884,how the assignee field shall be intended be,3773,hi \r\n\r\ni like to see the url that is pro,independent,0
+24045,14943,currently there is no way to do disjoint se,28868,currently you can perform administrative oper,independent,0
+84,31826,in addition to default assignee for category,5577,we like the ability to add certain people as,relates,1
+3747,521,it would be great if you could set parameter,3517,in the same way we can assign an issue to pe,relates,1
+3449,8409,right now after doing bulk update change,4326,this is not to be confused with another useful,relates,1
+823,18831,d like the ability to update the assigned,18391,function made redmine workflow goes automa,relates,1
+3543,4015,allow some application settings eg theme to,1853,trackers issue statuses workflow custom fie,relates,1
+45433,7551,in order to have better control on what user,8362,this redmine project should permit users to vi,independent,0
+1896,9834,as an application consuming the api would,7420,there is no rest api for add delete und selec,relates,1
+27407,1061,m using redmine with more than projects,9962,if you attached csv file to an issue / wiki,independent,0
+929,16845,hello \r\ni need to add this rule permission,8488,as requested by some people note,relates,1
+3672,3733,images from email as well should be imported,13429,our customers at planio thoug,relates,1
+38892,34308,resolving pagination issue by adding pagesize,16082,there is plugin that hides estimated hours,independent,0
+17926,14512,hello\r\n\r\ni am developing plugins and use,3207,each module seems to have its own way of displ,independent,0
+45993,9414,in days \r\nto allow reschedule of issues base,18773,it would be nice to have grouping for fields,independent,0
+5016,559,here are some suggestions to enhance workflow,2448,found the output of this admittedly very ha,relates,1
+1245,13635,it would be nice option to have ability to fil,13636,\r\nit would be nice option to have ability to,relates,1
+38270,2245,when receiving an email redmine could uses th,1756,at the moment it would be useful for me to cre,independent,0
+3556,3316,it would be beneficial if you could set the la,4015,allow some application settings eg theme to,relates,1
+1917,9703,it is common for multiple projects to use the,779,it would be nice to have multiple scm per proj,relates,1
+37563,403,hello \r\n\r\ni wish to see new boolean valu,2652,updated full ukrainian translation by me \r\n,independent,0
+44155,13911,as with wikis and issues would like relativ,2924,the right click context menu is really useful,independent,0
+4302,29725,in documents page documents are listed in asc,1958,on the page that list the documents /projects,relates,1
+40492,1770,really like the ajaxish functions on issues,15820,how to list all files from sub categories in,independent,0
+38730,26616,can you add done of issue to spent time fi,7436,jik khjh hjhnůj,independent,0
+479,17689,keep getting complaints by mail about easyre,24069,with due respect and humbleness request an,relates,1
+47192,2957,following feature would be very helpful \r\nr,8813,sfsr,independent,0
+618,13031,it seems as if is the maximum amount of ti,30208,is it possible to have specific users show in,independent,0
+35252,4799,issue custom fields parent/child \r\ni am n,6298,when reviewing large list of issues each ti,independent,0
+4384,6972,in this article,1766,like the subject states timelog custom field,relates,1
+2950,5765,my suggestion would be add issue numbers that,282,within the project settings it would be use,relates,1
+3419,5660,when login in one tab simple page refresh in,3260,being able to add menu links per project as,independent,0
+2465,7366,there is no rest api for create update delet,5305,basic xml data produced by rest api should inc,relates,1
+4536,7079,we want to show national holidays and sundays,1459,global holidays calendar should be desirable,relates,1
+39445,18411,it is interesting that assignee = me,14614,need two new view hooks for my plugin \r\n\r,independent,0
+4139,2471,would like to see my user activities in my,574,we re using my page for checking my tickets,relates,1
+81,31879,propose adding start with and end with,3040,context \r\nin order to identify each task,relates,1
+20751,18342,sometimes it would be nice to have more elabor,6543,it would be nice to have user preference for,independent,0
+3633,4091,ve had and still have lot of users comin,3852,this is simple workflow thing not all users,relates,1
+1618,19077,if you re using photo avatars the default size,11708,at this moment avatar is really small so it,relates,1
+2649,382,in many cases the person who originates an is,6723,think it would make sense to auto add the de,relates,1
+1639,11530,could you support hooks in mailer \r\n\r\nview,26839,we currently use email notifications to see wh,relates,1
+28827,8803,hallo erwin \r\n\r\nbitte um einrichtung eines,17842,hello \r\n\r\nis there any solution for our pr,independent,0
+33602,21788,think it really important to use chat to,6133,galeria do spicy,independent,0
+2892,31154,rfc non compliant emission causes mail field,5913,\r\nin mail notification created by redmine,relates,1
+1649,11414,by default redmine diff reports any whitesp,14034,it would be nice to get the ability to choose,relates,1
+3845,3224,as project managers we are going to project,12789,hi there \r\n\r\ni trying to give some ideas,relates,1
+9036,16679,it would be useful to be able to manipulate wi,16477,just show the last notifications that the us,independent,0
+885,17535,have two custom fields risk probability an,17582,didn find this in features or in plugins \,relates,1
+26384,6367,if user enters link to ticket in comme,32538,we are using dms which should have the,independent,0
+4433,1766,like the subject states timelog custom field,1692,unfortunately can set up filter on my cust,relates,1
+3118,13031,it seems as if is the maximum amount of ti,5842,\tна главной странице при нажатии на один из,independent,0
+4518,1232,the configuration for „referencing and fixing,1518,hello\r\n\r\ni use the log time feature quite,relates,1
+47619,1967,is it possible to model the project privacy be,20286,we have project custom field where its set,independent,0
+1320,3322,when entering spent time the date field allows,13244,for example any user have to log his spent tim,relates,1
+25635,31450,issue importer supports some date formats but,6297,something really useful for daily usage in ser,independent,0
+36083,22095,in the current redmine version are two option,19640,hello \r\n\r\nit would be great to have feat,independent,0
+910,17164,could there be way to restrict file /// urls,1415,as pointed out by jean philippe in user,relates,1
+24841,7608,gravatar offers retro default images please,5963,redmine does not reload scm commit comments \r,independent,0
+38255,11096,filipe feature,8810,the password in the database for connecting,independent,0
+287,27731,in the administration section you can say that,8488,as requested by some people note,relates,1
+25725,5836,our members sometimes submit the new issue wit,9629,hi \r\n\r\ni need some support to add custom,independent,0
+3137,5201,hello \r\n\r\ni hope to add description field,4637,in order to make it easier for users to use re,relates,1
+41690,27192,creating filter to exclude one particular na,7506,m trying to implement createtimeissue meth,independent,0
+2330,7849,in different projects am using redmine with,26786,may be related to \r\n\r\nsometimes mo,relates,1
+3676,12646,it would be useful to be able to configure per,3726,wonder if its possible to add restriction,relates,1
+35682,6665,it would be useful to be able to copy member,4019,we ve added custom fields as time has gone by,independent,0
+2195,8771,we have just started playing with redmine in,11322,need facility to search issue by its id,independent,0
+2034,9067,if create an private task access to it bloc,7414,the change consists in adding private flag,relates,1
+32528,4951,it would be great if there was one click pro,15820,how to list all files from sub categories in,independent,0
+5784,14115,some enhancements would make using huge wiki,29824,this feature allows us to use user initials as,independent,0
+1742,15880,currently redmine has at least three differen,10773,we would like to have redmine main and context,relates,1
+19139,10307,often have the problem that track bugs in,11161,currently custom fields can be configured per,independent,0
+356,26326,as in ticket mentioned there would be,28213,as described in it can be tedious to,relates,1
+255,28330,width border solid ccc highlighte,22978,when follow g the link note the,relates,1
+4223,5386,our development team uses branches pretty thor,2120,using redmine have problems linking with scm,relates,1
+5170,7412,this new option will allow each role to see al,337,hi \r\ni think it would be great if you implem,relates,1
+4046,1945,the process of manually adding users to projec,2722,very nice application keep up the great work,relates,1
+41500,18249,wanted to change elements of default my pag,20393,hey guys \r\n\r\nis this do able in the curren,independent,0
+11281,9698,в целях корректного отражения в цфт залогового,3941,since users can comment on news items if the,independent,0
+3231,4967,ve modified application css from classic th,493,hello all \r\n\r\njust wanted to say of,relates,1
+47039,8787,now it exists generic permission to save qu,407,adding syntax highlighting in wiki pages sh,independent,0
+3970,3389,we are running redmine trunk version wit,2925,d like to add url hook to redmine reposi,relates,1
+29214,34496,at the moment we can assign tickets to group,13670,is there any method to show completed version,independent,0
+44096,30981,when we add new members to project through,833,the first use can think of for this is li,independent,0
+488,11977,adding the restful gets for repositories would,23894,hello \r\n\r\nthe public rest api rest api,relates,1
+1921,9700,all fields of the “new issue” form are visible,1091,want to create tracker with all the custom,relates,1
+6402,24157,on the timelog it may be useful to also show,16754,this is duplicate of where patch is,independent,0
+3775,3436,hi \r\n\r\ni request feature please show th,12122,this is patch for trunk \r\n\r\ntaken,relates,1
+40563,29750,similarly to how google docs works only with,5046,is there anyways can have the values of the,independent,0
+3719,30893,currently and later you can see the,3555,need the ability to search for all issues that,relates,1
+37688,3385,there is currently no way to specify custom,13529,hi fold\r\n\r\ntoday the user rest api can,independent,0
+39076,10636,we would like to create customer views create,3861,using the svgweb project,independent,0
+29905,25418,e pull down list that looks like\r\n cust,278,hi \r\n\r\ncan you add the option to add wik,independent,0
+14971,5748,could it be possible to integrate this plugin,19662,when creating new issue it should be possibl,independent,0
+242,28829,patch has added icons to open the conte,28086,in addition to the nice improvements in,relates,1
+4047,2716,for simple dependencies instead of creating,1737,d very much like to have feature similar,relates,1
+45043,7608,gravatar offers retro default images please,26620,button search is more intuitive then butt,independent,0
+26555,6059,on the right there is issues and custom que,823,erstellung von repositories \r\ndirekt aus red,independent,0
+2654,6717,use case\r\n\r\nthe administrator of the,6716,use case\r\n\r\nthe galaxy company is de,relates,1
+1538,12049,this is follow up to feature \r\n\r\nw,10042,now you can bulk change private checkbox,relates,1
+27125,3844,am writing redmine plugin to use the wiki,11104,would like to propose to include to the redm,independent,0
+12723,5489,here is my problem have custom fields and,3269,am using redmine issue creation by email fun,independent,0
+1020,15838,when an update is received to an issue via ema,15837,when an email is received from valid user to,relates,1
+274,29470,there are some types of trackers like story,27988,few months after we started using redmine in,relates,1
+28975,18682,this can be very useful to be abble to restri,1430,want method to stop/run email notification,independent,0
+2859,6015,is there currently any way to have private us,17747,this is proposal for changing visibility of,relates,1
+41175,22597,redmine version devel\r\n,16326,column top bottom png,independent,0
+4168,9315,\r\nidea is simple wiki pages can be with it,18618,it would be nice to have to possibility to ass,independent,0
+2306,7907,hello \r\n\r\nwe have setup issues and child,6116,my colleagues have starting re arranging their,relates,1
+13147,12859,if there are many fields subject field do not,2047,it would be great if we could \r\n\r\n show,independent,0
+1700,10999,have not found any workaround on that by now,13635,it would be nice option to have ability to fil,relates,1
+16399,5295,example wan to see all completed but,901,sometimes similar issues can be raised in diff,independent,0
+3193,5011,allow the admin to configure which fields appe,5037,it would be nice to define some kind of view,relates,1
+43896,7223,am currently working on integrating redmine,451,display user name family name given name,independent,0
+49573,406,pdf export for roadmap and change log,5951,m currently browsing around the redmine layo,independent,0
+3157,4985,would be nice if it was possible to filter,5140,first of all would like to thank you very mu,relates,1
+29713,20398,think it would be interesting to be able to,3821,want to see all issues reported for category,independent,0
+3410,4427,the current role / permission concept is based,6670,would be nice if there were possibility to,relates,1
+21355,32317,from the issue filter the issue actually sh,5613,would be great to see on user page not only th,independent,0
+18042,1583,think that there are some actions in the act,26320,like discussed in message would like,independent,0
+4032,2783,it would be handy to have an filter for issues,25515,width attachments column png,relates,1
+6361,20286,we have project custom field where its set,1137,add feature move project version up and down,independent,0
+7608,13356,sometimes not just conjunction of two or more,7655,am looking to create report of issues base,independent,0
+7967,19937,hello \r\n\r\n\r\nit would be really great if,10778,hi\r\n\r\ncould you please add svn ignore pr,independent,0
+1308,4967,ve modified application css from classic th,13297,it would be great to have set of icons that ca,relates,1
+1791,10398,the aim of this new field type is to provide,1179,it would be very helpful if text and long text,relates,1
+40761,1629,something really interesting would be list,5147,copy in the lang folder language can be chang,independent,0
+19322,3263,this is very minor idea when you use the se,2812,would find it useful if redmine permited adm,independent,0
+2910,6914,have reported over two years ago to,5862,it would be useful to have two more options th,relates,1
+3557,432,this is something we came across \r\nwe needed,4015,allow some application settings eg theme to,relates,1
+307,27135,it generally good idea that creator of the,6914,have reported over two years ago to,relates,1
+1854,21589,entering only username with empty password\r\n,2686,if you have some/many projects and have to add,independent,0
+27334,29405,hi \r\n\r\naccording google this basic cont,20161,it would nice to have the possibility to have,independent,0
+24637,8678,oslc,29048,would like to set different permission level,independent,0
+599,26618,in was introduced support of standard,22383,for now in patches rb we have redefini,relates,1
+1475,6856,redmine should be easier to integrate into exi,12330,hi there \r\n\r\ni currently trying to integ,relates,1
+2338,7839,m looking for way to limit the tracker typ,973,hey \r\n\r\ncurrently it seems the statuses an,relates,1
+34655,3103,if we want to open the document to dedicated,1824,think any community that shares code can mak,independent,0
+3921,3058,we have some issues where there are so many st,3046,when an issue has number of associated revis,relates,1
+36678,14711,in app/models/query rb\r\n\r\nit would be usef,18645,would like to see the ability for users to cus,independent,0
+9269,1061,m using redmine with more than projects,8258,if you collapse groups they always go back to,independent,0
+4952,2117,when handling multiple projects with one redmi,700,on the home page latest projects section wou,relates,1
+1222,1853,trackers issue statuses workflow custom fie,13742,hello \r\n\r\ni would like to do this \r\n\r\,relates,1
+2617,1837,hi \r\n\r\ni wanted an easier way to create re,6892,it would be nice if redmine handle the reposit,relates,1
+1536,12917,currently to add note/comment have to cl,12060,hi \r\ni think it would be useful if under eac,relates,1
+5116,415,we tend to have lot of issues when using red,8342,currently the reminder email requires that iss,relates,1
+49174,615,have developed new block for the my page,1452,the repository registration system requires th,independent,0
+27333,17773,hi have question \r\ni added field to,3130,if user language is english the date/time sele,independent,0
+5632,2790,we have problem that always before and after,10824,hi all \r\n\r\nif use the following commands,independent,0
+35567,12421,please expand testing for jruby,9843,hi \r\n\r\ni am using two different roles/perm,independent,0
+30670,30464,currently you can see total spent hours on th,5902,many forums don offer an unread marker becau,independent,0
+21713,25053,how to restrict the file type upload in redmin,5814,hi guys \r\nfirst of all redmine is great \r\,independent,0
+44573,10159,often even project authors misses that they ar,10913,hi \r\n\r\nwe have some video stuff which is,independent,0
+43917,3237,when somebody commit something and include lin,3090,can it be that the field assigned to was adj,independent,0
+4567,1380,it would be fantastic if deleting issues only,6666,currently deleting issues from the system res,relates,1
+1559,12005,ability to hide field\r\n\r\nrelated to,4485,currently everyone with issue creation access,relates,1
+952,16410,have bunch of image attachments that inser,13072,hi there \r\n\r\nin several tickets my workmat,relates,1
+773,19299,project quick jump dropdown list sorting,23310,d like to replace the jump to project,relates,1
+50,32641,when language on my account is set to “engli,26279,in the current implementation the encoding of,relates,1
+414,25052,since we can create full width layout custom,15918,it should be possible to change the name or ev,relates,1
+1053,20422,hi \r\n\r\nthe thumbnail macro is very useful,15255,not big but nice feature open images that,relates,1
+4851,2356,it should be very interesting to integration,940,add radius authentication support as an authen,relates,1
+37940,407,adding syntax highlighting in wiki pages sh,9329,on render tabs helper label which is transla,independent,0
+49078,7685,when having multiple projects with multiple di,12532,having an option to test the email server sett,independent,0
+2776,6269,adding support for redcloth would be nice si,10889,have been trying to figure out how to link,relates,1
+30982,22043,hi \r\ni often use task with several subtask,7823,new custom field subproject and the possibi,independent,0
+19482,31526,used redmine to manager issue and knowledge,7487,author and assigned to fields included in,independent,0
+4031,12886,would be useful thing to display as column,2783,it would be handy to have an filter for issues,relates,1
+18732,15690,if receive imap crontab is setup redmine sh,4176,if the html page not contains frames the plug,independent,0
+31010,15311,imagemagick convert is now used for generating,1064,ve been testing erubis in place of the regul,independent,0
+29890,20458,hi m developing follow feature for cust,16082,there is plugin that hides estimated hours,independent,0
+946,22282,hi all \r\n do anybody know how to change th,7436,jik khjh hjhnůj,independent,0
+27471,2077,it would be nice to have support for redcloth,9079,hi \r\n\r\ni speak french but excuse me for,independent,0
+41709,5616,currently there is only possiblity to filter,900,this feature would be really usefull in our ca,independent,0
+2820,13054,like filter on related to blocks blocke,6118,there doesn seem to be an option to use par,relates,1
+47445,9714,hi \r\ni need some special custom query to,10343,m using redmine from almost two years often,independent,0
+8358,16877,when working with parent project assigning tas,5596,mexico networks is teling us now that login wo,independent,0
+2001,8016,we would really like to be able to specify an,9184,it would be very helpful to be able to edit is,relates,1
+3227,10083,when an issue is resolved it will be more eas,4967,ve modified application css from classic th,relates,1
+5012,568,am new to redmine but have succesfully do,296,the subject has been touched in few other re,relates,1
+4726,1142,it would be nice to have cc list of people,1133,\r\n\r\none of our projects is used to track,relates,1
+3158,18420,just realized it would be quite nice to be,28551,my problem \r\ni have some groups and about,independent,0
+1707,16119,hello redmine team \r\n\r\nwe actually have th,2142,plugin routes can today be handled,independent,0
+18981,6820,webeditpro is not working on ie so it requi,19640,hello \r\n\r\nit would be great to have feat,independent,0
+3999,2879,our installation of redmine uses the email sub,2984,m afraid the fix proposed in doesn w,relates,1
+59,32302,think it will be useful to allow users to fi,29482,the attached patch adds the existing query sys,relates,1
+23435,22771,all email notifications are disabled for csv,9329,on render tabs helper label which is transla,independent,0
+4431,1701,usecase production branches trunk\r\n,6899,of the time when an issue is copied it,relates,1
+2576,6881,this is my first bug report im not sure if it,6974,hi \r\n\r\nin my project ve many versions,relates,1
+3134,17534,it would be useful to show resource base his,5202,good day it would be helpful if the gantt ch,relates,1
+32266,4247,would like linking custom fields so that if,290,it would be hugely beneficial to be able to ad,independent,0
+20931,535,it would be very useful to add note before,6004,often develop tiny plugins these days for sp,independent,0
+41790,2124,would suggest to put link to the plugin,25140,currently the api only accepts two ways to au,independent,0
+1992,9209,the new private issues feature is great havin,7414,the change consists in adding private flag,relates,1
+2315,3647,hi all \r\n\r\ni think it will be very useful,7884,hi everybody \r\n\r\ni know this is not new,relates,1
+35043,26734,hi folks \r\n\r\nas m unable to add to an ex,3081,the ajax repository browser is nice and easy,independent,0
+3646,3825,currently it is not possible to access git rep,4457,it would be cool to implement support for remo,relates,1
+29548,5337,when version is closed it should be possib,7105,hi \r\n\r\ni an occasional jira user and,independent,0
+1045,15396,create order execution of the tasks and relati,2024,this is patch to edit gantt chart \r\nyou ca,relates,1
+97,6421,in the issue detail view it would be helpful,31499,this patch adds due in days / days late,relates,1
+3394,4462,it would be wonderful to be able to set an emi,1853,trackers issue statuses workflow custom fie,relates,1
+4825,5571,this is actually duplicate of but can,988,the link to an issue only display the,relates,1
+38078,11060,there is any possibility to insert html fragme,4284,when the project too many members new issue,independent,0
+4997,5061,when viewing an issue all updates are shown,578,would be good if you could see all activity,relates,1
+36961,30053,hi \r\n\r\ni am wondering if there is anyway,8791,нажал пошел все сломалось,independent,0
+385,26525,in the current version only the current week,14287,it would be very useful to be able to sort the,independent,0
+585,22621,hello \r\n\r\nis there possibility to reprod,22026,like the very old topic below d like to req,relates,1
+618,22109,hi \r\n\r\ni would like to enrich time recor,14872,allow creating activities with\r\n event type,relates,1
+4695,13737,hi austin \r\ni have cord that will not pl,10499,when exported visuialization it would be ni,independent,0
+6085,387,in our environment all of the people that use,9928,when using ldap authentication user passwords,independent,0
+38113,30407,there is need of report \r\n\r\n created vs,32108,hi \r\nwhere can find some plugin which conv,independent,0
+2802,1113,it would be great feature for corporate wide,6202,this feature would be useful to my company bec,relates,1
+3283,10259,currently it is impossible to get list of is,4806,it should be possible to filter by issue id,relates,1
+9253,26015,in the last versions redmine evolved lot,25017,would like to be able to have list of high,independent,0
+4221,2182,showing percentage of issue completion is ha,2139,the progress for an item version is not calc,relates,1
+105,572,because we have really long list of projects,31355,this patch aims to make the project jump box,relates,1
+967,16195,may be related to feature request\r\n\r,16074,it would be great to be able to use user goups,relates,1
+28350,5485,for recent events time indication relative,2258,when email reminders go out via the rake task,independent,0
+3971,2920,hi \r\n\r\nwe use redmine to deal with multi,1565,should be nice to add on my page folder save,relates,1
+14460,28199,hello\r\n\r\nit will be great if it possib,22058,for text file attachments and text files in,independent,0
+2281,22802,in the roadmap tab issues are now automatical,8016,we would really like to be able to specify an,relates,1
+41915,280,there are great continuous integration tools,22601,sometimes need to do some large ticket maint,independent,0
+3555,12044,hi \r\n\r\nwe run an installation of redmine,4015,allow some application settings eg theme to,relates,1
+2983,9208,redmine is brilliant tool but checking its,5638,recently faced two problems with redmine \r\,relates,1
+4591,1687,use case \r\n someone posts patch \r\n so,1339,as described in the forum message th,relates,1
+32812,3520,as subject says it would be cool feature to,33882,users often ask for per project issue id the,independent,0
+40969,3428,rightnow for creating new issue we have sepa,4909,the same way there is the projects menu it co,independent,0
+4951,1564,the pdf export of issues exports synthetic,702,first thank you on the creation and maintenan,relates,1
+4917,732,love redmine \r\n\r\ni think that it wants,4117,summary \r\ni would like to see new way to,relates,1
+6050,10339,was wondering if we could add button in the,29219,it would be great if email truncation could be,independent,0
+24566,23020,have multiple aliases configured to read ema,14419,imho it would be good idea to include ruby,independent,0
+4930,3383,for example for project \r\n\r\nuser proj,706,the simple user = role is fine for basic,relates,1
+2896,5901,after reading alexey skor forum post about,5977,suggest adding check status feature to red,relates,1
+17670,3400,when you chane any field of an issue redmin,28105,believe that it would be lot of help to ev,independent,0
+5808,13056,when user wants filter issue using relation,6206,if have custom variable list of the values,independent,0
+752,19797,when am trying to browse the activity of c,15129,our organization just migrated all the data fr,relates,1
+39462,9957,in the issue creation you can have bug featu,6701,grouping activities document categories and,independent,0
+3946,2879,our installation of redmine uses the email sub,2984,m afraid the fix proposed in doesn w,relates,1
+2518,7246,mercurial has concept of branches inside the,539,it would be great to be able to add differen,relates,1
+1796,10384,hi \r\n\r\nactualy the versions rest api isn,26237,according to below wiki there is no way to ac,relates,1
+38543,24299,there is no way right now in redmine to track,26842,criar bat para rodar dump no serviço do win,independent,0
+8933,25859,it would be nice to be able to login in this,4212,unlike feature this is request to have,independent,0
+21160,21391,m just playing around with the inbound emai,7749,currently the index by title displays sub,independent,0
+36964,15332,there should be an additional right in roles,8645,hello\r\nmethods permutation and combination,independent,0
+43,2973,numeric custom fields \r\npriority field \r\ne,33101,currently the priority issues filter supports,relates,1
+381,28213,as described in it can be tedious to,25799,we use the issue import feature in redmine whe,relates,1
+49056,22358,make custom target version sortable and ordera,1529,can you add privileges to every board \r\nfor,independent,0
+3024,5875,with the new subtask feature in redmine,5490,in the subtasks patch in trunk subtask contr,relates,1
+20269,17532,in the issue list when you try to select multi,11913,it would be convenient if an admin could set,independent,0
+17340,355,please add support for ssh access to svn repos,10000,the group by criterias in the time entries rep,independent,0
+1849,10062,samples,10058,permissions\r\n project view members list,relates,1
+1350,13054,like filter on related to blocks blocke,6118,there doesn seem to be an option to use par,relates,1
+443,24763,forcing ssl is important and some enterprise,2579,right now have my entire redmine installatio,relates,1
+11368,3982,like to use news to communicate with the my,9612,like scm diff view \r\n\r\n side by side png,independent,0
+8602,19625,think this would be really useful rather th,12913,more of task source trunk/doc/install has,independent,0
+2034,355,please add support for ssh access to svn repos,17844,currently the redmine help menu redirects to,independent,0
+2794,6204,suggest to delete bookmark new issue fro,4423,currently use master project with many sub,relates,1
+742,19882,have started to clean our plugin directory,24069,with due respect and humbleness request an,relates,1
+3452,4321,when reference an issue in svn checkin,1232,the configuration for „referencing and fixing,relates,1
+1583,11969,would like to have the option to display cer,5130,related tasks section in an issue view has pre,relates,1
+11724,11989,consider situation where defect can be re,17599,issue notes can be added even if the member,independent,0
+2837,5594,have few changes to make to mailhandler so,6112,redmine should allow me to send and mail usi,relates,1
+30967,26823,hi all \r\n\r\nhow to use post in json format,33080,want to change the background color accordin,independent,0
+3401,4455,the current mercurial support in redmine has,5386,our development team uses branches pretty thor,relates,1
+3874,3148,currently on,20310,on issue page if there are some notes every,relates,1
+6816,9447,wish could ignore some files from diff vie,4863,if someone already had mediawiki installatio,independent,0
+25367,7569,it appears as though forum posts can only be,6293,in regards to seen on pages,independent,0
+2791,13585,background\r\n\r\nsub task as such is pr,6217,when adding subtask it takes lot of time,relates,1
+3277,4815,it would be nice to have more options when fil,2942,when filtering tickets text fields mean,relates,1
+24865,25703,hello \r\ni trying to filter issues in the,28539,just like issue query but for journals we co,independent,0
+35117,17474,am using redmine for several projects in par,20421,it could be useful at least for me to have,independent,0
+2891,5913,\r\nin mail notification created by redmine,14727,in app/model/mailer rb add app title to email,relates,1
+11256,1709,it was once possible to edit the original issu,23386,use case \r\n user creates link of type iss,independent,0
+27668,2073,ve created small plugin for redmine \r\nit,16267,the aim is to combine the actions in single,independent,0
+37548,13471,would be nice to have the possibility to pub,31304,hello \r\ni would like to hide the checkbox,independent,0
+3697,3647,hi all \r\n\r\ni think it will be very useful,25625,problem with issue numbering\r\n\r\nit see,relates,1
+1667,11087,noticed that redmine calculates the total es,11253,on the issue list the progress bar includes th,relates,1
+33991,8307,at the moment if the user creates parent is,32169,the attached patch adds links to the detailed,independent,0
+2701,6628,rather than hunting for correct regexp why,2852,m requesting redmine incorporates method of,relates,1
+2986,5594,have few changes to make to mailhandler so,5622,hello \r\n\r\nmy boss always assign the target,relates,1
+2082,8680,we would like to have button which check all,10264,when getting search results all items are che,relates,1
+41716,2951,think it would be great if in the summery yo,7671,please provide file access permission with api,independent,0
+7956,7640,gravatar offers mm mystery man default ima,1453,when used with the automatic repository creati,independent,0
+37752,2078,hi \r\n\r\nfirst of all let me say that redmi,20267,hello \r\nwhen create new issue want to,independent,0
+2487,7349,it should be possible to configure email notif,13742,hello \r\n\r\ni would like to do this \r\n\r\,relates,1
+4231,2104,the team in charge of project may need to vo,1158,think it will be very useful to have polls,relates,1
+3498,5228,see that can link to redmine users but on,4179,it would be nice to have some user links in,relates,1
+22738,13064,symptom \r\n in following code our redmine,33902,all images were downloaded from the browser,independent,0
+34807,7841,think it a got feature specify the of th,18014,the link at the bottom under settings / reposi,independent,0
+2978,5457,like issues it will be cool to switch documen,5664,currently when you copy project there is no,relates,1
+2418,7517,there is request \r\n\r\n,4273,this feature request is based on forum topic,relates,1
+27249,11649,m new to ruby and redmine just download the,436,hello philippe \r\n\r\ni will use this opportu,independent,0
+4359,13497,currently not all redmine link types are prope,1845,the links to others resources of,relates,1
+23753,27770,implementation of srp in password transmission,2353,\r\nin my business we work with lot of gr,independent,0
+1776,6405,when add an item as related issue or subta,997,there should be way by which files can be so,independent,0
+41540,3050,if you add file and later delete it you wil,9828,the new ticket page of this redmine has no,independent,0
+33767,2124,would suggest to put link to the plugin,11760,spam is big issue not just with redmine,independent,0
+38821,7831,want to report bug counts and feature co,536,it would be nice if we could assign people to,independent,0
+4815,9063,using log time and comments logging the dail,992,think two improvements can help lot \r\n,relates,1
+25845,321,allow an administrator the option to archive,15718,currently there appears to be no way to create,independent,0
+2393,7629,can we add causes and caused by relation,7849,in different projects am using redmine with,relates,1
+3477,8818,hi \r\nmaybe someone else needs this curren,4244,is there anyway that we can store multiple m,relates,1
+29958,12438,hi guys\r\n\r\nis it possible to show show qua,22146,\r\nhello need to activate some states when,independent,0
+4619,1282,this is only last issue we miss so much in red,994,this is really one of last functionalities we,relates,1
+47527,6367,if user enters link to ticket in comme,14508,hello \r\n\r\nin our project we have lot of,independent,0
+9868,12436,unless am missing something m using versi,29474,many modern tools like slack/github/bitbucket,independent,0
+32055,1244,this may be similar to \r\n\r\ni intere,24171,redmine already provides shortcut to create,independent,0
+5536,2880,it would be great to have an issue attribute,11149,d like to include screenshot or logo int,independent,0
+26072,498,restricting file size is good but projects so,13471,would be nice to have the possibility to pub,independent,0
+24983,265,is it possible to textarea when type is stri,3714,as understand the forums are very limited in,independent,0
+42608,3372,search results display closed issues with re,10353,because of the big number of values that lis,independent,0
+29267,10142,we have created some predefined filters at iss,8017,please change the domain from redmine net ua,independent,0
+3325,4485,currently everyone with issue creation access,4670,why can anybody =any role assign due date,relates,1
+816,18428,hello everyone \r\n\r\nis there any way to ada,6715,hello \r\n\r\ni think about issue templates,relates,1
+3597,25517,we use the bestest punch clock for redmine plu,21064,hi guys \r\n\r\ni think it would be helpful if,independent,0
+40850,6894,hi \r\n\r\ni think that some checks need to be,3537,we hope the project members can be watched,independent,0
+1556,12005,ability to hide field\r\n\r\nrelated to,2539,is it possible to have per project setting,relates,1
+1527,12122,this is patch for trunk \r\n\r\ntaken,12816,hi there \r\n\r\nit would be really great in,relates,1
+21028,28199,hello\r\n\r\nit will be great if it possib,2047,it would be great if we could \r\n\r\n show,independent,0
+49603,34307,sometimes we want to create custom field wit,20283,as of,independent,0
+150,30068,the purpose of this issue is not to implement,26791,with this patch series we are introducing the,relates,1
+33282,4330,it would be nice to implement opensearch stand,12101,sometimes redmine pagination can be recogniz,independent,0
+2127,8491,is it possible to make word wraping for issue,20481,it would be useful which right and left panel,relates,1
+4588,1342,similar to the approach used with my assigned,8099,would like to view all of the projects my te,relates,1
+3453,4306,think it would be usefull to keep trace in,21158,frequently bcc redmine when send project,relates,1
+4303,2687,for product planning and project management,1953,we have been using fogbugz,relates,1
+4251,1853,trackers issue statuses workflow custom fie,2076,there should be an ability to set options for,relates,1
+3587,3967,it would be great if there would be possibilit,1853,trackers issue statuses workflow custom fie,relates,1
+14380,483,don autofill last name with duplicate of fir,14350,can we have support added for the new in,independent,0
+11687,5017,it would be nice feature to show custom fields,12628,this would be also some great enhancement to,independent,0
+43733,27307,have an issue with assigning issues to dif,30483,it would be nice to have ability to hide some,independent,0
+3476,4252,would suggest all of the preview buttons,27758,m working on patch that adds the preview,relates,1
+3918,3048,hello \r\n\r\nis it possible to use one wiki,1040,it would be very helpful to have global wiki,relates,1
+1262,13556,adding an option to the search form that makes,992,think two improvements can help lot \r\n,relates,1
+1575,11988,think is better put the thumbnails and the,29034,in ve proposed to add an collapse/ex,relates,1
+30975,3269,am using redmine issue creation by email fun,8791,нажал пошел все сломалось,independent,0
+29918,23006,it would be great if you/we are able to open,7692,currently we have nice feature to associate wi,independent,0
+957,16351,currently one can set default person for th,482,it would nice to have setting item to select,relates,1
+4545,1443,trac offers some really nice features in the,804,it would be nicer if like trac moves/rename,relates,1
+17655,2913,hello \r\n\r\nit would be very useful if you,6933,hi\r\n\r\nis there any way to specify the open,independent,0
+951,16428,in api rest get project append module configu,16427,append api rest method to configure project mo,relates,1
+3284,33352,the query filters on issues and related issues,4806,it should be possible to filter by issue id,relates,1
+2818,6118,there doesn seem to be an option to use par,9992,it would be interesting to see the filters in,relates,1
+337,26555,if project is used for communication with cu,11724,this feature caused major problems at,relates,1
+1389,12796,when go to my account page would like to,12795,there is currently no way for user to find,relates,1
+43863,15154,hello \r\n\r\nin workflow administration there,7105,hi \r\n\r\ni an occasional jira user and,independent,0
+1276,13512,have role defined with issue visibility se,13511,the roles and permissions screen has many op,relates,1
+3267,2181,think it would be interesting to see some mo,4864,some global statistics maybe even graphs abo,relates,1
+1395,12789,hi there \r\n\r\ni trying to give some ideas,13157,on my page there is no link below the spent ti,relates,1
+5234,27097,hello\r\n\r\ni want to use the key/value list,19311,hello \r\n\r\nthere is way to add html li,independent,0
+9517,18880,hi \r\n\r\nwe have adapted the issues queries,7321,when you have repository with another reposi,independent,0
+4340,1853,trackers issue statuses workflow custom fie,973,hey \r\n\r\ncurrently it seems the statuses an,relates,1
+22147,25418,e pull down list that looks like\r\n cust,6235,hello \r\n\r\nwe do not have dependent list bo,independent,0
+4688,1184,it difficult for me to enter g the „estim,23996,redmine already allows input of e estimated,relates,1
+650,21577,if the custom field type version is used the,23855,this is my request as an own issue,relates,1
+3114,5250,it would be interesting to allow administrator,1358,it would be nice to have link to field in th,relates,1
+4392,1757,hi jean philippe it is great feature that,515,it would be handy to be able to add people to,relates,1
+32373,9744,maybe m missing something but when setting,15829,hi guys\r\n\r\ni want to filter by assign user,independent,0
+21618,15348,while editing roles there is checkbox calle,2099,first of all love redmine it very importa,independent,0
+1504,1051,reported issues list on my page view should,12223,as described in the topic \r\nit would be grea,relates,1
+31442,1439,it would be nice if when referencing to cer,5613,would be great to see on user page not only th,independent,0
+1117,14599,tried on latest version rmagick installed im,12447,the /vendor/plugins/rfpdf/tcpdf rb port of,relates,1
+1431,468,currently custom fields are limited to input,4258,on redmine devel mysql and on th,independent,0
+15060,13141,like reported on we would like to have,22146,\r\nhello need to activate some states when,independent,0
+3540,4015,allow some application settings eg theme to,3967,it would be great if there would be possibilit,relates,1
+27761,33589,ve created the following wiki page with inst,7536,first of all love redmine it very intuit,independent,0
+5314,5282,hi all \r\n\r\nwe have installed redmine for,3125,have redmine installed in systems and,independent,0
+27728,25648,our organisation we would appreciate funct,2078,hi \r\n\r\nfirst of all let me say that redmi,independent,0
+47991,320,would like to see features added \r\n\r\n,34040,currently only the latest note can be output,independent,0
+10858,24490,the subtask list should be collapsible when vi,24299,there is no way right now in redmine to track,independent,0
+860,11977,adding the restful gets for repositories would,17857,attaching custom fields to repositories would,relates,1
+1004,15902,currently the versions are not grouped accordi,9851,d suggest to equalize the way how available,relates,1
+21941,581,quite frequently especially on preproduction,4037,am working in an university and we ve starte,independent,0
+1013,6204,suggest to delete bookmark new issue fro,15880,currently redmine has at least three differen,relates,1
+8479,17335,right now forum message lists tend to take tw,17098,sometimes our bugs are rather big and have lon,independent,0
+22988,7453,think it is necessary to add custom fields,31450,issue importer supports some date formats but,independent,0
+46422,782,not real issue more of doc patch style,17666,this functionality should provide the manager,independent,0
+2158,8409,right now after doing bulk update change,4326,this is not to be confused with another useful,relates,1
+17594,7275,limpeza manutenção,10514,hello \r\n\r\nat the moment when we rename or,independent,0
+22957,29872,when using /time entries json api allows the,4960,in our organization we do large amounts of pee,independent,0
+2153,7784,is there way to place custom fields on the,8417,\r\ni thought about an approach to make the,relates,1
+5090,5026,hope to description field for status/role/tr,442,hi \r\n\r\nin project when having testers/r,relates,1
+241,28829,patch has added icons to open the conte,729,currently after clicking update on ticket,relates,1
+4586,8001,this ticket ticket references wa,3595,it would be great if redmine could provide evi,independent,0
+2610,6899,of the time when an issue is copied it,4403,in our way of working in our company when we,relates,1
+2801,5742,it should be possible to add ldap based auth,6202,this feature would be useful to my company bec,relates,1
+4327,5605,alternatively the roles permissions secti,1878,it would be nice if could while creating,relates,1
+2484,7349,it should be possible to configure email notif,4015,allow some application settings eg theme to,relates,1
+2059,8879,it would be very useful the possibility of up,1326,presently there is no way to add or edit an at,relates,1
+2152,5059,how to manage docments，files and attachments,20929,hi \r\n\r\n\r\nit possible to change the redm,independent,0
+3786,3395,add ability to filter on blank start and end,3600,problem d like to be able to add q,relates,1
+49003,6597,ve observed that even when let the browser,33641,the attached patch adds badges to issue journa,independent,0
+27466,33662,our ldap server only provides tls version,4555,when create search filter custom query,independent,0
+4174,5073,we ve created new open source software commu,2340,ve had public issue tracker running mantis,relates,1
+4035,24282,hello \r\n\r\n\r\ni actually work on project,2778,hi \r\n\r\ni would like to choose particular,relates,1
+3981,2906,custom fields display for the newest stable re,1358,it would be nice to have link to field in th,relates,1
+26192,3768,this looks really kewl and am intent on inst,2245,when receiving an email redmine could uses th,independent,0
+33321,9667,when submitting an issue with attachments that,4013,hello \r\ni usually use sub projects \r\nwhe,independent,0
+1655,11338,follow up to company is usin,10607,hi \r\n\r\nthere doesnt seem to be the functi,relates,1
+43029,31339,it would be nice if there is option where,13058,at the moment roadmap all versions without dat,independent,0
+29519,14416,good day \r\n\r\nis there any plugins or way,5031,when one issue is blocked by another it shou,independent,0
+31913,360,would it be possible to add on details/descr,10685,please add timezone europe/kaliningrad gmt,independent,0
+14901,19999,when user tries to access issue which he,31206,hi \r\n\r\nif the tracker is changed and the,independent,0
+16973,32116,administration information \r\n\r\ndisplay,15808,it doesn have any change when use the macr,independent,0
+38606,7671,please provide file access permission with api,28413,currently can find information whether re,independent,0
+27086,13361,d like to have special filter to filter out,2932,do you plan to build functionality to allow to,independent,0
+681,21203,home screen should have more usuful informatio,7935,right now it kind of difficult to see all op,relates,1
+20312,31032,inherited roles of project members cannot be,14091,took this inspiration from video games that,independent,0
+3422,4388,for example would like the custom field out,8417,\r\ni thought about an approach to make the,relates,1
+20945,4562,have parent project with several sub proje,21950,it would be highly useful to those integrating,independent,0
+25711,471,love redmine just have one major feature,357,as version redmine doesn support concur,independent,0
+473,24277,currently redmine offers the possibility to,22326,to enable burn down charts users should repor,relates,1
+555,23143,this is the modified adoption of suggestion,23289,in the issue page one can add related issues,relates,1
+1354,13035,as far as know it is possible to customize,4602,hello \r\n\r\ni am sorry for bothering you aga,relates,1
+43849,4644,using all the new features of redmine on my ow,34003,if issues are grouped in custom query then,independent,0
+40423,17829,hello all \r\ni am new to using redmine and,6412,found that redmine authentication is based,independent,0
+3467,4272,this patch adds context menu to the issue li,1191,when creating custom query one is able to cu,relates,1
+29975,5509,since we re not using the done very much her,367,g want new users to have reporter member,independent,0
+838,8966,we regularly use the rev keyword subst,31559,expected behaviour\r\n\r\nwhen doing htt,independent,0
+42369,6104,all the links on the right hand are stylewise,22103,with filter in the right column,independent,0
+27804,2855,presently authentication settings are global,34420,the current query columns selector ui consists,independent,0
+11377,6526,sometimes an issues could includes more than,14030,having plugins put their gem requirements in,independent,0
+4906,3346,it may sometimes be useful to be able to refer,779,it would be nice to have multiple scm per proj,relates,1
+3963,2953,there are urls that launch party applicati,2084,allows to define prototypes along with an ur,relates,1
+733,12066,currently in version when you go to al,20081,when filtering issues spent time etc by pr,relates,1
+39338,10362,message when you click,3267,it be nice if there was choice for creatin,independent,0
+556,23137,currently the expandable list of completed ve,4519,i’d like things like the version pulldown to,relates,1
+760,8928,there are much more wikipage in one projects,27826,suggestion \r\n non member should be invisibl,independent,0
+406,25357,right now one can view file in the reposit,26035,as follow up to and this smal,relates,1
+403,25384,in order to be able to manage cumulative works,7849,in different projects am using redmine with,relates,1
+7874,14434,don mean an email gets turned into an is,6424,lets say this is important feature of invoice,independent,0
+30475,24842,on the admin dashboard develop tool that wi,11342,hi \r\ni think that redmine should be improved,independent,0
+2207,8192,category is not available as filer criteria,5576,with project structure like\r\n\r\n a\r\n,relates,1
+18569,21124,enumeration is useful tool for constructing,2751,d like to have support for plain html in the,independent,0
+4048,12484,the gnu cross copiler from critical link is,541,if an issue has revisions associated with it,independent,0
+4526,22452,it would be very useful to display last issue,1474,this patch will add column to show the last,relates,1
+15248,12888,since we ve started using redmine we ve,33836,demo redmine org runs an old version of redmin,independent,0
+574,22802,in the roadmap tab issues are now automatical,8016,we would really like to be able to specify an,relates,1
+11943,1043,think it would be good to have my calenda,2857,currently the workflow on the activity view,independent,0
+45576,29588,currently can see no appropriate way of avoi,11096,filipe feature,independent,0
+23779,6511,redmine administration panel already has an,34123,we should add some system tests or other type,independent,0
+49273,10073,is it possible to get redmine to send mail,269,it would save time and ease use to have the ab,independent,0
+3262,9612,like scm diff view \r\n\r\n side by side png,2857,currently the workflow on the activity view,independent,0
+18092,8584,spammer profile,8158,create default user in the projects to which,independent,0
+1059,24568,it is not possible to select locked user for,15201,scenario\r\nuser leaves company profile get,relates,1
+483,28868,currently you can perform administrative oper,1171,it will be good to have workflow for custom,independent,0
+4794,32249,redmine displays thumbnails of attachments whe,1006,it would be nice to display thumbnail of ima,relates,1
+191,571,it can be nice to enable/disable displaying pr,29482,the attached patch adds the existing query sys,relates,1
+40809,26823,hi all \r\n\r\nhow to use post in json format,3926,redmine should allow to specify which users,independent,0
+2787,2026,the current format for mail notifications is,6221,currently the email subject and texts genera,relates,1
+3995,25625,problem with issue numbering\r\n\r\nit see,2885,am using redmine for all internal projects,relates,1
+3804,3346,it may sometimes be useful to be able to refer,779,it would be nice to have multiple scm per proj,relates,1
+430,11757,adding support for the hdpi screens that are,24922,today many computers have high resolution dis,relates,1
+4440,1675,as described in this forum post,685,hi \r\ni think it would be great to have cus,relates,1
+49383,3079,am using automatic repository creation via,5509,since we re not using the done very much her,independent,0
+1581,11976,currently reposman assumes scheme where all,11977,adding the restful gets for repositories would,relates,1
+4189,2313,it often needs to add some typical tasks \r\n,1138,it would be cool to allow pre filled issues,relates,1
+2784,6229,think it would be very useful for one to be,13582,the current notification settings available to,relates,1
+27742,3655,kimenni és megjavitani nyomatatt,29958,morning guys \r\n\r\ni need little help with,independent,0
+41768,13010,ask tracker/project which are the necessary fi,3403,it would be nice to be able to sort the issues,independent,0
+463,24568,it is not possible to select locked user for,11069,need to be able to search open / closed task,relates,1
+34776,3071,problem \r\n\r\nwe want to position redmine in,3620,when select the users tab in the administrat,independent,0
+4698,1179,it would be very helpful if text and long text,3543,it would be helpful if long text custom fiel,relates,1
+43370,6769,we just upgraded to the latest redmine we,16083,the issue number is shown default on the issue,independent,0
+2283,14801,currently \r\n\r\nwhen one updates ticket yo,8002,want to know if it is possible to close issu,relates,1
+1551,8162,it good if custom field could be make visibl,12005,ability to hide field\r\n\r\nrelated to,relates,1
+4479,9314,want to change issuesassignedtome block \r\,1565,should be nice to add on my page folder save,relates,1
+26045,6803,there is currently permission to decide whet,12705,hello \r\n\r\nis there way to not display cu,independent,0
+4874,707,currently the hide email address preference,861,in users has hide my email address featu,relates,1
+19614,5417,when break project into versions there,3146,currently custom queries in the issues list ar,independent,0
+34401,29491,would like to propose the possibility of def,25650,hi all \r\n\r\ni got new request and that ne,independent,0
+648,21585,feature \r\n\r\nmake associated revisions,3058,we have some issues where there are so many st,relates,1
+1246,13635,it would be nice option to have ability to fil,13638,this feature extends issue filtering,relates,1
+3023,6687,when normal issue is changed to being subt,5490,in the subtasks patch in trunk subtask contr,relates,1
+876,17689,keep getting complaints by mail about easyre,24069,with due respect and humbleness request an,relates,1
+1491,4388,for example would like the custom field out,12250,think nice feature is add the possibility,relates,1
+22548,20603,it would allow redmine to be compatible with,1258,currently in version version there,independent,0
+1145,14371,ruby retired on the end of june \r\,14534,hi \r\n\r\ni want to run redmine on rails \r,relates,1
+39738,8084,for example redmine org issue is in the,14423,currently the time tracker shows clock in,independent,0
+1388,12796,when go to my account page would like to,12795,there is currently no way for user to find,relates,1
+859,18631,current pagination is based on results timesta,17889,when we run search we can see in the debug,relates,1
+33864,12822,by using capybara,4023,we have added custom fields but there is no po,independent,0
+2190,415,we tend to have lot of issues when using red,8241,the notification function in redmine is very,relates,1
+2084,7989,ve searched hard within redmine and using go,24903,am getting stucked with ruby version,independent,0
+43785,11595,the file lib/redmine/mime type rb is missing,11461,we have setup redmine so that reporters can em,independent,0
+2867,973,hey \r\n\r\ncurrently it seems the statuses an,5991,currently you re not able to set different def,relates,1
+3381,1130,favor the addition of work breakdown struct,4555,when create search filter custom query,independent,0
+6353,11632,it would be very nice if someone could watch,14300,hi \r\n\r\nin my account have the following,independent,0
+31432,31032,inherited roles of project members cannot be,12114,lot has been written about this issue alread,independent,0
+3205,5011,allow the admin to configure which fields appe,5037,it would be nice to define some kind of view,relates,1
+487,1184,it difficult for me to enter g the „estim,23996,redmine already allows input of e estimated,relates,1
+776,941,bugzilla supports an xml rpc api for those of,19754,steps to reproduce \r\n\r\n create pr,independent,0
+26603,24525,hi \r\n\r\nin my company we use the tfs as sou,5133,can you please change my current login from,independent,0
+810,20100,would like to be able to have two different,18560,we use versions to track true sw releases and,relates,1
+2414,12347,it would be useful to be able to configure aut,7545,it is possible to add an option to calculate,relates,1
+24682,21483,currently if plugin provides its own pages,10372,hi we are currently using redmine with redmin,independent,0
+1501,12230,the redmine text format help like in new tick,14630,pre code class= diff \r\nindex lib/redmine,relates,1
+1833,10140,there are certain fields regular or custom,12250,think nice feature is add the possibility,relates,1
+3821,3316,it would be beneficial if you could set the la,4015,allow some application settings eg theme to,relates,1
+5061,2897,want to implement the tagging functionality,480,it would be really convenient for the wiki to,relates,1
+4399,1748,the gantt chart is very useful in our project,4967,ve modified application css from classic th,relates,1
+2821,22147,the helper added to group filters of tree,6118,there doesn seem to be an option to use par,relates,1
+2446,7412,this new option will allow each role to see al,1554,hi \r\n\r\nprivate issues would be great but,relates,1
+34633,5918,the migrate from trac task fails if redmine,5955,currently many hook calls provide some of the,independent,0
+288,27731,in the administration section you can say that,18640,introduced groups for non member and an,relates,1
+42129,14642,hello \r\n\r\nthe date from today to as today,33658,the attached patch adds robots exclusion tags,independent,0
+4879,850,have situation in which want any registe,17500,requesting feature for allowing setting visibi,relates,1
+13005,21574,dear all \r\nit possible to have easy to,16396,recently changed the default columns list in,independent,0
+6807,33802,hello \r\n\r\ni would like to know if we have,14711,in app/models/query rb\r\n\r\nit would be usef,independent,0
+540,10412,on the gantt chart when filtering target vers,23265,this pertains to the change applied in,relates,1
+2174,8313,currently the assignee list shows every member,8050,the problem with bigger workflow is that som,relates,1
+4339,1853,trackers issue statuses workflow custom fie,2076,there should be an ability to set options for,relates,1
+39856,13743,want to send email from local server to,7978,currently have to create an issue and then,independent,0
+33057,24610,when click 【help】 jump in strange web pa,2175,after creating document and adding second,independent,0
+1527,18030,a ticket has subtasks it would be very help,411,pretty self explanatory add mail notificat,independent,0
+2976,556,on more complex projects it is necessary to,7492,aws recently introduced simple email service,independent,0
+865,13533,this was sparked by mischa the evil comment,17747,this is proposal for changing visibility of,relates,1
+2771,6280,my company has recently adopted redmine as b,1564,the pdf export of issues exports synthetic,relates,1
+2659,15177,all custom fields are set in static manner,6717,use case\r\n\r\nthe administrator of the,relates,1
+1001,12005,ability to hide field\r\n\r\nrelated to,15918,it should be possible to change the name or ev,relates,1
+33589,24399,is there any way to enhance referencing issue,24662,formatting non trivial tables with many rows,independent,0
+18100,11084,rails has been released gemfile should,5295,example wan to see all completed but,independent,0
+3800,14341,could you add ability to restrict email domain,3369,for using redmine in an internal company situa,relates,1
+2982,5643,hi \r\n\r\ni think it would be great if we cou,5405,right now all email coming from redmine appea,relates,1
+27216,740,with large wiki pages transforming can be qui,17153,hy \r\n\r\nworking with svn advanced integrati,independent,0
+2134,27731,in the administration section you can say that,8488,as requested by some people note,relates,1
+4347,1853,trackers issue statuses workflow custom fie,1767,it would be nice if it becomes possible to con,relates,1
+291,26409,needless to say assignee is important informa,27672,would like to select and show the necessary,relates,1
+1167,4015,allow some application settings eg theme to,14073,hello \r\n\r\nwe have projects in our red,relates,1
+22585,5843,из «страницы категории товара» после выбора к,5493,common bot that seems to crawl redmine is \r,independent,0
+4149,2974,for issue tracking in our software we have,2651,could you please add css class to the calend,independent,0
+2551,7057,using \r\n\r\nif you remove the ticke,13585,background\r\n\r\nsub task as such is pr,relates,1
+41276,9446,m in the situation where ve been given dif,4322,would like to be able to create an issue fil,independent,0
+17461,1064,ve been testing erubis in place of the regul,329,the svn needs to be on nix to work can be do,independent,0
+14682,9803,g the following has new tracker id and pr,9153,стадия изучения \r\n стадия эксплуатации,independent,0
+3527,3346,it may sometimes be useful to be able to refer,4052,in feature support for cross project re,relates,1
+2798,6204,suggest to delete bookmark new issue fro,15880,currently redmine has at least three differen,relates,1
+41886,3081,the ajax repository browser is nice and easy,14273,have some trackers with many optional custom,independent,0
+284,29712,currently full width custom fields don have,27758,m working on patch that adds the preview,relates,1
+621,26488,d like to move few issue tracking related,22090,currently users have to find the settings tab,relates,1
+8285,29513,hi \r\n\r\nat my work we run percona xtradb,13245,it would be really nice addition if we could,independent,0
+3068,10831,for topic based development it would be very,5386,our development team uses branches pretty thor,relates,1
+269,28094,kotlin usage is growing recently and have qu,24681,propose replacing coderay with other syntax,relates,1
+11463,25419,hello \r\nit about two years use redmine,1452,the repository registration system requires th,independent,0
+4244,2953,there are urls that launch party applicati,2084,allows to define prototypes along with an ur,relates,1
+4670,5305,basic xml data produced by rest api should inc,1214,part of the main rest api issue this,relates,1
+42440,10009,when doing merge in svn also the unchanged,12894,whenever create sub task in the conten,independent,0
+14342,4894,hello first of all thank you all for awesom,2855,presently authentication settings are global,independent,0
+4627,1271,miss this number when reporting another tick,794,maybe the display of the version number should,relates,1
+981,5667,it will be convenient if could put link to,21848,have the current business case where \r\n,independent,0
+5000,1565,should be nice to add on my page folder save,574,we re using my page for checking my tickets,relates,1
+3249,4679,to put fixes or closes into submit mes,4911,hello \r\n\r\nit would be nice if there would,relates,1
+33883,24504,dear all \r\n\r\ncan we create private chann,22332,am using the api to add and modify wiki arti,independent,0
+1705,31321,from redmine the parent issue can be ab,10989,am able to close parent issue while its ch,relates,1
+16928,6983,would be nice to focus search on selected thre,14943,currently there is no way to do disjoint se,independent,0
+2286,10143,it would be great to have way to mark post,9962,if you attached csv file to an issue / wiki,independent,0
+25940,32672,added feature to filter roles in perm,30053,hi \r\n\r\ni am wondering if there is anyway,independent,0
+3988,2897,want to implement the tagging functionality,1448,many of our issues span multiple categories,relates,1
+3680,3718,it could be great to have several categories,5220,let me start out by saying that m quite impr,relates,1
+1603,7758,hi \r\ni know that road map came only if issue,11829,would like to create user that can only se,relates,1
+1279,13512,have role defined with issue visibility se,13511,the roles and permissions screen has many op,relates,1
+24517,18773,it would be nice to have grouping for fields,13064,symptom \r\n in following code our redmine,independent,0
+49635,30796,hi guys \r\n\r\ni we are using redmine for our,3201,when editing the workflow there check all,independent,0
+2999,8192,category is not available as filer criteria,5576,with project structure like\r\n\r\n a\r\n,relates,1
+33928,10842,if have ldap user and want to delete,7792,redmine pngs are currently not fully optimiz,independent,0
+27732,7196,описание \r\nдобавить возможность поиска по ад,4284,when the project too many members new issue,independent,0
+1436,24780,tooltips are added on workflow screen by,12598,we work with redmine using big workflows many,relates,1
+39116,11595,the file lib/redmine/mime type rb is missing,23525,as stated in subject could be useful to can,independent,0
+1989,30916,as jan wrote in beginners often get con,9226,at planio online project management,relates,1
+40572,16729,it would be very nice to be able to have place,3913,hi \r\n\r\ni was wondering if it not alre,independent,0
+34626,27199,can we add log date filter to the issue list,26015,in the last versions redmine evolved lot,independent,0
+654,21568,the idea would be nice to configure logic de,21149,hi \r\ni hope that this feature is not too com,relates,1
+32254,7458,seeing how redmine handles issues,1870,it would be nice if minimized version of the,independent,0
+34702,23955,regarding \r\n\r\ni would like to disab,10824,hi all \r\n\r\nif use the following commands,independent,0
+30351,4037,am working in an university and we ve starte,19508,lot of plugins was registered long time ago,independent,0
+3457,4291,currently you can tell which issues are not,12789,hi there \r\n\r\ni trying to give some ideas,relates,1
+13364,4816,when you use redmine to manage multiple projec,2693,redmine like to be able to,independent,0
+5052,10947,this is more generic approach to what has be,482,it would nice to have setting item to select,relates,1
+4107,5026,hope to description field for status/role/tr,2568,we have the problem that users are not always,relates,1
+41987,7797,administrar la red en el desarrollo del proyec,23423,working with lots of projects which uses many,independent,0
+4799,7057,using \r\n\r\nif you remove the ticke,1005,can find any trace of when someone adds,relates,1
+2494,7339,hi \r\n\r\na favorites project list would be,3224,as project managers we are going to project,relates,1
+5209,242,allow users to edit their own custom fields an,7484,sometimes want to see the activity of my col,relates,1
+2689,19955,steps to reproduce \r\n create an issue a\r\,26823,hi all \r\n\r\nhow to use post in json format,independent,0
+19141,23973,hello \r\n\r\nis there way to configure redm,16430,currently in redmine there is an administrati,independent,0
+3019,5501,really like the merge/branch lines in gitk,5386,our development team uses branches pretty thor,relates,1
+4249,2082,currently by default the gui use the,4636,think it would be useful for expanding exten,relates,1
+32075,4528,add projected date field to the version,529,have downloaded redmine and make it run but,independent,0
+3025,6167,calculation of parent percentage depends on,5490,in the subtasks patch in trunk subtask contr,relates,1
+4004,2865,it would be nice to have the same one click fi,992,think two improvements can help lot \r\n,relates,1
+1243,13637,nice feature would be interesting to consider,13638,this feature extends issue filtering,relates,1
+44920,14423,currently the time tracker shows clock in,948,apreciate so much if in this version we can,independent,0
+4582,5250,it would be interesting to allow administrator,1358,it would be nice to have link to field in th,relates,1
+33009,15199,hello \r\n\r\ni need report that will show,3106,need to run some plugin code after the passw,independent,0
+12561,18682,this can be very useful to be abble to restri,15739,when attempt to export pdf report file in is,independent,0
+12300,8881,sorry if this is an unusual way to approach on,7554,similar functionality to private issues,independent,0
+1116,12230,the redmine text format help like in new tick,14630,pre code class= diff \r\nindex lib/redmine,relates,1
+35854,3529,when you try to delete tracker that has issu,22993,greetings setting mail notification about the,independent,0
+2617,3528,m talking about how you see little bit of,12687,test,independent,0
+14508,12101,sometimes redmine pagination can be recogniz,6225,provide autocomplete feature for custom fields,independent,0
+837,18126,there useful feature in jira which we would,13387,ve done extensive reading on past conversat,relates,1
+15919,2410,hi \r\n\r\ni am using redmine recent version,13123,hi everybody \r\n\r\ni try to assigned group,independent,0
+3575,3976,it would be great feature to show/hide custo,3088,adding the option to hide this field to the,relates,1
+6825,21106,redmine does not have ability to add file atta,21427,this patch adds the possibility to divide the,independent,0
+4208,5055,hi \r\n\r\nversion you downl,2209,didn like that images didn just load in,relates,1
+37222,1580,custom fields are extremely handy and am usi,3796,dear all \r\n\r\nusers can create new issues,independent,0
+5981,6622,see redmine forum topics are flat,464,it seems that right the only numeric data type,independent,0
+16,20458,hi m developing follow feature for cust,7793,jdownloader and use synology nas \r\ni wou,independent,0
+3262,4873,hi \r\n\r\nthe search box is ok but if want,992,think two improvements can help lot \r\n,relates,1
+1539,12044,hi \r\n\r\nwe run an installation of redmine,4015,allow some application settings eg theme to,relates,1
+1295,23285,while each work item in software is reflected,13387,ve done extensive reading on past conversat,relates,1
+4836,7839,m looking for way to limit the tracker typ,973,hey \r\n\r\ncurrently it seems the statuses an,relates,1
+4104,442,hi \r\n\r\nin project when having testers/r,2568,we have the problem that users are not always,relates,1
+474,12762,for example if an issue has hours assigned,24277,currently redmine offers the possibility to,relates,1
+3322,9413,now start and due dates of an issue are hard,25040,wouldn it be better to convert the spent tim,independent,0
+3507,4156,like few others we are trying to use redmin,2421,when redmine is installed and used with just,relates,1
+17684,6983,would be nice to focus search on selected thre,9740,we are setting up redmine server for collabo,independent,0
+44053,6633,as there wqas discussion on gantt chart acro,10183,hi \r\n\r\nwe like to add some filtering inf,independent,0
+1244,13635,it would be nice option to have ability to fil,13636,\r\nit would be nice option to have ability to,relates,1
+2020,9088,m already using the api to retrieve issues,7403,it would be great to have versions available,relates,1
+12891,5187,your instruction for upgrade is not specific,7671,please provide file access permission with api,independent,0
+23281,1974,our project manager and several developers hav,6308,in role and permission setting if check vi,independent,0
+39130,25650,hi all \r\n\r\ni got new request and that ne,25016,how to cache disable in redmine,independent,0
+28182,1583,think that there are some actions in the act,31736,have mechanism to allow for setting user ou,independent,0
+13439,1870,it would be nice if minimized version of the,1120,it would be useful to have some wiki format to,independent,0
+4757,1086,permissions should be appliable per forum per,4550,it would be very beneficial to be able to esta,relates,1
+1197,13834,hi \r\n\r\ni am looking for datetime field,5458,can very good feature to add time fields for,relates,1
+3814,13596,time logging should be only possible for issue,3322,when entering spent time the date field allows,relates,1
+3829,10422,it would be convenient to be able to filter is,3265,it be nice if redmine issue filters includ,relates,1
+2229,8147,the adjustable header and footer should me mad,8058,currently it is impossible to use redmine with,relates,1
+233,29027,ve tested the patch series in on the,29034,in ve proposed to add an collapse/ex,relates,1
+15510,7692,currently we have nice feature to associate wi,25606,hi \r\n\r\ni want to know if there is any way,independent,0
+4109,4015,allow some application settings eg theme to,2563,while all the other parameters in the main set,relates,1
+2115,24940,we have redmine at job since few years and we,8562,we face the problem that we have many project,relates,1
+46693,16104,in my company we have redmines \r\none for,25547,can you add documentation about rest api for,independent,0
+3367,18619,it would be nice to have the possibility to no,3571,would like to request some minor features wh,independent,0
+3571,3988,in the revision browser it would be good to ha,2372,this is wishlist for several enhancements of,relates,1
+22345,1974,our project manager and several developers hav,3926,redmine should allow to specify which users,independent,0
+2032,9482,while editing wiki page when the change is mi,9068,this is new toogle link called submit witho,relates,1
+23190,33692,applying this patch attachment update activit,8314,would like simple link to jump back to the,independent,0
+23143,13670,is there any method to show completed version,15707,there should be possibility to limit the acc,independent,0
+11913,361,english is bigger than the united states it,4318,can receive mail notification \r\nthe foll,independent,0
+1247,10999,have not found any workaround on that by now,13635,it would be nice option to have ability to fil,relates,1
+325,7849,in different projects am using redmine with,26786,may be related to \r\n\r\nsometimes mo,relates,1
+363,26154,quickly created new issues in issues list like,729,currently after clicking update on ticket,relates,1
+1759,3521,it would be nice to have possibly in the same,10697,since its more obvious to edit ticket to,relates,1
+12670,7321,when you have repository with another reposi,12817,hi there \r\n\r\nmaybe this could be useful fo,independent,0
+2797,6204,suggest to delete bookmark new issue fro,481,it would be nifty to have keyboard shortcut to,relates,1
+5370,993,when creating time report you can select deta,13985,this patch gives list of roles for an issue,independent,0
+42640,18342,sometimes it would be nice to have more elabor,10886,with git you are encouraged to enter commit,independent,0
+15472,26575,width wiki update info png,23488,\r\nit would be nice if the image button added,independent,0
+1571,11999,the current implementation\r\n\r\ncurrentl,11809,in our team of closed issues have progres,relates,1
+22024,6257,it would be useful to be able to ecnrypt passw,17972,we have been using redmine to track server upd,independent,0
+12365,22657,for our installations our users appreciate ha,6039,the files tab includes d/l column which,independent,0
+427,24927,in addition to this patch implements,24922,today many computers have high resolution dis,relates,1
+2594,6945,lot of issues have generic responses such as,24946,with more than opened issues redmine its,relates,1
+3412,2529,when view issues for parent project am,4424,as mentioned in am using master pro,relates,1
+4809,994,this is really one of last functionalities we,301,it would be good for the admin or project mana,relates,1
+802,18631,current pagination is based on results timesta,9776,in case search results are so many it prett,relates,1
+1975,14654,currently the gantt chart can only display up,9296,it would be great to have user preference wh,relates,1
+1996,9197,there are use cases where an issue can be cons,5283,haven been able to see this discussed anyw,relates,1
+1560,12005,ability to hide field\r\n\r\nrelated to,15782,just to be clear this request is specificall,relates,1
+4492,1564,the pdf export of issues exports synthetic,4742,exporting to csv currently includes large nu,relates,1
+1934,4432,it would be handy to differentiate between mem,2179,just like redmine permits themes that modify,independent,0
+9937,8215,plugins can be added to the global search by,492,the problem is if developers role developers,independent,0
+13477,5882,it be nice to have way for user to get,14137,users retrieved via rest api must have also ta,independent,0
+2191,8241,the notification function in redmine is very,8409,right now after doing bulk update change,relates,1
+4707,11521,it would be good if the search could be limite,1159,currently we can add one or many filters to,relates,1
+21245,15786,hello \r\n\r\ni new to redmine right now,1166,think it would be great to have feature fo,independent,0
+4530,1472,used tables to create an organized view of all,12789,hi there \r\n\r\ni trying to give some ideas,relates,1
+2521,7246,mercurial has concept of branches inside the,1406,d like the git scm adapter to support git br,relates,1
+5394,5493,common bot that seems to crawl redmine is \r,6209,problem\r\n\r\nwhen creating requesting,independent,0
+4721,27363,morning \r\n\r\ni have some custom fields as,1140,would like to filter issues using more than,relates,1
+4610,1311,it would be great if revision histories could,539,it would be great to be able to add differen,relates,1
+2155,3543,it would be helpful if long text custom fiel,8417,\r\ni thought about an approach to make the,relates,1
+13603,33641,the attached patch adds badges to issue journa,359,it be really great to be able to click on th,independent,0
+22553,17238,was wondering if it would be possible to mod,25924,at the redmine log when user delete issue ca,independent,0
+3892,3096,believe redmine should have the functionalit,3155,hi \r\n\r\nit would be nice if higher authenti,relates,1
+13645,4653,hello \r\n\r\nfirst of all wan to thank yo,537,have look to basecamp here todo list can be,independent,0
+24371,27912,activities time tracking in the project se,2975,for given issue it would be nice to be able,independent,0
+43611,2848,go to /time entries/report and filter by proje,498,restricting file size is good but projects so,independent,0
+2458,9088,m already using the api to retrieve issues,7403,it would be great to have versions available,relates,1
+3761,8095,it would be good to let the text formatting be,3492,at present single option controls the text,relates,1
+10183,2315,currently redmine uses one login and password,14236,the attached patch solves the problem raised,independent,0
+8956,25648,our organisation we would appreciate funct,2152,when displaying search results it would be hel,independent,0
+5091,2389,standard issue fields should have tooltip or,442,hi \r\n\r\nin project when having testers/r,relates,1
+2217,4968,hi m developing redmine desktop client,8171,this seems to be requested often \r\n\r\n,relates,1
+1408,10773,we would like to have redmine main and context,12789,hi there \r\n\r\ni trying to give some ideas,relates,1
+31309,11760,spam is big issue not just with redmine,5431,d like to see feature to track remote issu,independent,0
+42084,13661,das ziel des projektes ist die realisierung ei,25419,hello \r\nit about two years use redmine,independent,0
+477,26189,this feature is implemented in as part,24089,\r\nmany users of redmine allow access to at,relates,1
+2962,2078,hi \r\n\r\nfirst of all let me say that redmi,22474,it would be nice to be able to request the gan,independent,0
+35758,12825,hi \r\n\r\nsince the last change on the activi,16207,by now if you export custom issue query for,independent,0
+8370,7236,use the group by feature heavily but first,25650,hi all \r\n\r\ni got new request and that ne,independent,0
+16535,8665,подготовить список проектов описание проектов,5814,hi guys \r\nfirst of all redmine is great \r\,independent,0
+35910,15910,hi am putting this tracker for the regular,14392,this is great feature which can be imp,independent,0
+40301,4974,users should be able to configure the currency,23501,hi \r\n\r\ni have configured redmine to create,independent,0
+38796,784,would like to build an air based fat client fo,2725,currently you can only select one href item,independent,0
+46743,30471,currently the default columns checkbox on,9726,the controller timelog edit before save hook,independent,0
+1153,14332,hi \r\n\r\nwhen browsing any repository it is,1424,hi \r\n\r\ni currently in the process of mig,relates,1
+5005,7751,looking for an enhancement to the project drop,572,because we have really long list of projects,relates,1
+5015,12878,hi \r\n\r\nthe workflow system that is provide,559,here are some suggestions to enhance workflow,relates,1
+9869,25786,in our redmine installation we automated the,329,the svn needs to be on nix to work can be do,independent,0
+3206,5011,allow the admin to configure which fields appe,12005,ability to hide field\r\n\r\nrelated to,relates,1
+27060,16396,recently changed the default columns list in,9462,could the diff be enhanced to allow the user,independent,0
+285,27758,m working on patch that adds the preview,30459,in redmine and earlier you could update,relates,1
+33299,23589,hello there\r\n\r\nim working with redmine and,33859,it useful to be able to see the languages th,independent,0
+5217,8984,think that we can have better usability of,2142,plugin routes can today be handled,independent,0
+21930,8930,use the webdav plugin to manage my documente,6543,it would be nice to have user preference for,independent,0
+18209,16396,recently changed the default columns list in,11538,need to know how to install the plugin for,independent,0
+719,20435,you can see it on redmine org if you use the,9601,dear developers \r\n\r\ni think one important,relates,1
+190,29482,the attached patch adds the existing query sys,32818,add system settings for default results disp,relates,1
+2132,8488,as requested by some people note,285,what about adding rbac to trackers one of th,relates,1
+980,11894,add the possibility to have different emiss,16093,while starting to use redmine lot more we,relates,1
+4252,4015,allow some application settings eg theme to,2076,there should be an ability to set options for,relates,1
+5,34258,when there are many custom fields or projects,9258,allow creating new role by copying an existi,relates,1
+17638,12423,hi \r\n\r\nif define some following or prece,15914,it allows to hide sub projects level by level,independent,0
+13984,2886,csinálj meg avalmit,17977,hi \r\n\r\ni am trying to find method to all,independent,0
+319,28338,have started implementing resque backend,26791,with this patch series we are introducing the,relates,1
+2782,6234,think this request is similar to \r\n\,6220,currently changing ticket status is achieved,relates,1
+46032,4871,am interested in using the gantt chart png,20518,url = =,independent,0
+652,17907,redmine is good for project management but no,21577,if the custom field type version is used the,relates,1
+35026,5799,it would be great if two new permissions could,25719,redmine has inherit permissions from parent pr,independent,0
+38131,21373,hi m doing plugin for automatic closure of,5431,d like to see feature to track remote issu,independent,0
+46549,8980,總檢核,1812,is possible add to header language drop down,independent,0
+2402,14498,path \bitnami\redmine,8515,may be or something else paypal,independent,0
+38066,33297,think it would be bit more convenient if,659,if you could query the calendar like this it,independent,0
+3441,1737,d very much like to have feature similar,4347,when an user replies to an issue he/she is de,relates,1
+21378,9760,autofetch commits not working with bazaar repo,790,rev,independent,0
+29725,14928,would like to improve my bookmarks in my web,2895,hi \r\n\r\nplease find attahed the french ca,independent,0
+16112,11030,feature to load database settings depends on,2986,for the issues assigned to me watched issu,independent,0
+17035,8384,if grouped my custom queries by priority and,15800,hi \r\n\r\nhow to know the number of issues in,independent,0
+410,25209,additional option for the list or key/value cu,25208,we sometimes have use case for custom fiel,relates,1
+4922,13387,ve done extensive reading on past conversat,724,redmine can be used for tracking in many diffe,relates,1
+326,26680,with new redmine version default assig,15919,currently the one can see default assignee on,relates,1
+35405,3695,frequently users do not give correct accurate,9182,add new class for admin schools,independent,0
+4812,4873,hi \r\n\r\nthe search box is ok but if want,992,think two improvements can help lot \r\n,relates,1
+29676,10672,we use redmine for our projects on the files,29048,would like to set different permission level,independent,0
+14852,16445,hello \r\nas we click on all issues on proje,523,you can see list of commited files when look,independent,0
+1277,12666,having control over involvement in an issue is,13512,have role defined with issue visibility se,relates,1
+673,1561,am constantly juggling tasks to try and assi,21390,the feature implemented in is very very,relates,1
+4680,2625,hey guys \r\n\r\nlove the work can get,1189,my project manager wants to be able to assign,relates,1
+3595,9086,when editing wiki site or an issue the attac,3957,an ajax file upload module with progress bar,relates,1
+15291,9347,showing simple/relative date/time instead of,22474,it would be nice to be able to request the gan,independent,0
+4,33383,jquery is end of life and we should update,34337,note \r\n because the update can bre,relates,1
+20475,354,any chance of listing the menu bar projects,7792,redmine pngs are currently not fully optimiz,independent,0
+86,31714,on the calendar view there are visible start,27095,it would be really handy to pick up which cust,relates,1
+23046,5172,it would nice if there was bread crumb nav,5080,currently versions are shared with subprojects,independent,0
+36443,8606,create colored records for peak payroll client,30368,pre \r\nalter table `users` add `password` va,independent,0
+43128,6644,m writing scripts to check various inconsist,22043,hi \r\ni often use task with several subtask,independent,0
+4639,29935,please provide edit authored issues and edi,1248,today as in version \r\n we may,relates,1
+33796,17776,problem\r\n\r\noften in project colle,10819,so would like to use plugin to redirect us,independent,0
+460,16267,the aim is to combine the actions in single,8852,without the plugin installed hitting enter wh,independent,0
+20935,275,at current projects we are working the documen,10485,in gantt view there is no way to manage any is,independent,0
+22269,8631,am storing in projects users versions cust,15855,when get list of issues would like to kn,independent,0
+4634,5645,m trying to build dashboard workflow \r\ni,3301,in head tag should be added line\r\n pre \,independent,0
+4304,1945,the process of manually adding users to projec,2722,very nice application keep up the great work,relates,1
+15463,358,as of version it is not possible to dele,31930,it would be great to have versions relationshi,independent,0
+21303,7546,problem members on project,2613,the way we currently use redmine is that some,independent,0
+47659,1679,enhance login / sign on action so that after,1948,redmine should provide to users way to navig,independent,0
+542,9850,like the subject already implies d suggest,23265,this pertains to the change applied in,relates,1
+49384,3301,in head tag should be added line\r\n pre \,14726,hi \r\n\r\ni would like to configure who can,independent,0
+1877,9918,it will be very helpful if we can assign roles,10121,as is \r\nwhen somesone add watcher he can,relates,1
+2775,12083,if you let us use this function \r\ni will be,3464,there are managers in our redmine who got,independent,0
+2515,7246,mercurial has concept of branches inside the,2120,using redmine have problems linking with scm,relates,1
+5059,6204,suggest to delete bookmark new issue fro,481,it would be nifty to have keyboard shortcut to,relates,1
+38058,3338,in current development version the proje,13052,we make heavily use of the my issueid mac,independent,0
+1082,23106,the new code highlighting toolbar button,14937,planio has developed and woul,relates,1
+32740,2986,for the issues assigned to me watched issu,6618,manage various projects in redmine instanc,independent,0
+838,18126,there useful feature in jira which we would,8991,it would be nice if there could also be nested,relates,1
+3686,3708,sometimes we might have duplicated issues reg,1624,know could add links to related issues bu,relates,1
+266,28198,as promised in now would like to pro,28213,as described in it can be tedious to,relates,1
+10095,31804,didn find this capability in docs\r\nthank,5645,m trying to build dashboard workflow \r\ni,independent,0
+3793,3383,for example for project \r\n\r\nuser proj,706,the simple user = role is fine for basic,relates,1
+4580,1179,it would be very helpful if text and long text,1358,it would be nice to have link to field in th,relates,1
+32654,34287,we have large amount of projects an selecti,10314,example in administration if we have activ,independent,0
+3701,4202,as reported in feature when user atte,3640,the same as archiving project except it isn,relates,1
+1789,10406,the user can navigate to tree structure ed,10407,wiki page can have weight and therefore,relates,1
+292,27644,when there are change on an issue based on,6687,when normal issue is changed to being subt,relates,1
+32451,9249,preparar slides ppt para formação,31395,in the case of in house operation it may be,independent,0
+4905,8826,hi \r\nsome projects rely on many scm repos,779,it would be nice to have multiple scm per proj,relates,1
+22380,10149,would like to be able to name my file someth,16707,this feature was implemented in chiliproject,independent,0
+4843,952,right now is completely arbitrary value en,12762,for example if an issue has hours assigned,relates,1
+4635,8648,hi everyone \r\ncould it be possible to add,1255,여러 작업자가 함께 협업해야 하는 이슈의 효과적인 관리를 위해서 mantis와 같이,relates,1
+40638,9385,was trying \r\n\r\nsource /show rev=vc po,5613,would be great to see on user page not only th,independent,0
+20702,30483,it would be nice to have ability to hide some,7271,many of the new features can only be tested in,independent,0
+47329,23984,some of our users would like to have the defau,1043,think it would be good to have my calenda,independent,0
+16063,8267,line items with the creatives,9957,in the issue creation you can have bug featu,independent,0
+44046,6540,settings versions new version add version,3202,when deleting wiki page that has linked chil,independent,0
+10682,318,project manager always assigns hundreds of iss,5131,pm rsyring query has,independent,0
+3803,3367,on the latest trunk when copying project fr,1125,in my compnay we offen have the exact same pro,relates,1
+17500,6511,redmine administration panel already has an,26355,like in user settings it should be possible,independent,0
+8994,926,file this under neat not crucial \r\n\r\n,22574,the search function must match ignoring not,independent,0
+30061,9152,администрирование,20393,hey guys \r\n\r\nis this do able in the curren,independent,0
+439,24780,tooltips are added on workflow screen by,12598,we work with redmine using big workflows many,relates,1
+8054,3510,hi actually adding images inside the wiki wit,20822,email notifications of private issues shouldn,independent,0
+39405,377,please add theme support for redmine \r\n\r\,4480,currently there seems to be no way to view th,independent,0
+3554,12347,it would be useful to be able to configure aut,4015,allow some application settings eg theme to,relates,1
+1774,12032,we frequently have meetings in our conference,10525,on small screens netnooks laptops the sideb,relates,1
+3664,3760,when send an attachment via mail or via,2770,now if we would like to include attached image,relates,1
+37027,4356,at this moment redmine analyse only themes dir,497,when replying to forum posts allow attachments,independent,0
+15452,26677,when purposely causing login error on redmin,526,it would be nice if project description co,independent,0
+12451,25647,requesting that the max character length for,3286,can find any way to get the list/count of,independent,0
+3823,3465,it is common that redmine is only used to mana,3300,user should be able to set default project,relates,1
+1005,15902,currently the versions are not grouped accordi,23265,this pertains to the change applied in,relates,1
+17827,14823,it would be much better to go from overall sp,23488,\r\nit would be nice if the image button added,independent,0
+23731,3385,there is currently no way to specify custom,18773,it would be nice to have grouping for fields,independent,0
+41654,23385,use case \r\n\r\ni have complex projects hie,2194,m building plugin with many controllers,independent,0
+2243,3101,very big problem occurs when main project has,9089,few of my team have had this happen \r\nstar,independent,0
+2626,6846,it would be very sweet to be able to navigatio,449,it would be so convinient and productive if re,relates,1
+44769,2854,created basic system to enable wiki templa,3742,read through the faq but didn quite get it,independent,0
+1405,4291,currently you can tell which issues are not,12789,hi there \r\n\r\ni trying to give some ideas,relates,1
+1691,1979,\r\nredmine has all information to draw activi,12200,is it possible to have private or confidential,independent,0
+5047,7769,the my page shows lists of for instance is,493,hello all \r\n\r\njust wanted to say of,relates,1
+6450,28307,as per wiki suggested have configure the ema,5190,\r\nit would be useful to be able to watch the,independent,0
+8652,22008,hi need to check the commit details for spec,3447,it would be great if redmine have possible for,independent,0
+4547,4266,to me it seems to be useful change to includ,1443,trac offers some really nice features in the,relates,1
+23980,8200,if clear the parent of the issue then the st,12702,reeasdf,independent,0
+35268,5131,pm rsyring query has,28237,hi all \r\n\r\ni just have problem create,independent,0
+1672,11211,these settings shall be configurable for auto,11212,we need to see the sender of the email the iss,relates,1
+1474,2356,it should be very interesting to integration,12330,hi there \r\n\r\ni currently trying to integ,relates,1
+1492,12250,think nice feature is add the possibility,8417,\r\ni thought about an approach to make the,relates,1
+28962,9169,cambio de aceite embutidora fricar,11858,in case we delete an issue number which is,independent,0
+1857,10027,redmine \r\n\r\nit could be interesting,1853,trackers issue statuses workflow custom fie,relates,1
+110,31348,this patch adds tabs to switch between profile,31353,at the moment the top menu bar offers several,relates,1
+94,31449,am using redmine as an issue manager so,31581,propose feature to visualize the changes,relates,1
+1068,19797,when am trying to browse the activity of c,15129,our organization just migrated all the data fr,relates,1
+2565,7020,it would be good to create default version tha,6117,have been asked if it is possible to have su,relates,1
+3285,4805,it would be nice if the issue copy function ha,11294,we use some projects like template to start,relates,1
+1924,9693,supports attachment images in pdf \r\nsu,3261,when an issue is exported to pdf by using the,relates,1
+331,26618,in was introduced support of standard,26642,same as in \r\npatch attached,relates,1
+47558,7327,very necessary thing which is so lacking,22310,currently only these variables are supported/d,independent,0
+1017,4157,ease of use is key when having end users clie,15880,currently redmine has at least three differen,relates,1
+13620,17972,we have been using redmine to track server upd,6660,это описание очень важной задачи,independent,0
+42221,26370,for the moment you have to make different,24766,sometimes we have lot of custom fields it wil,independent,0
+49595,33836,demo redmine org runs an old version of redmin,6560,please block this user he has,independent,0
+18414,17666,this functionality should provide the manager,3197,really need better way to track when issue,independent,0
+4731,1556,am busy adding projects and subprojects as,1125,in my compnay we offen have the exact same pro,relates,1
+17383,30250,want feature to add other html pages/applica,420,it would be great if mail notification could,independent,0
+15543,30733,when user submits an update to issue and,27381,would like hybrid option of complete drive,independent,0
+2110,8568,there is situation we have where it would be,1602,it would be useful to be able set default emai,relates,1
+1498,23349,when an issue or feature request has its statu,12236,it will be very useful to have an option to ha,relates,1
+2828,13585,background\r\n\r\nsub task as such is pr,6117,have been asked if it is possible to have su,relates,1
+17341,9113,hello \r\ni speak french so excuse me for my,1842,hi \r\n\r\ni ve been testing the latest svn re,independent,0
+36010,21262,when doing an on the fly user creation if red,4672,currently when copying project that contain,independent,0
+822,18424,want feature like this the project,1853,trackers issue statuses workflow custom fie,relates,1
+3218,4985,would be nice if it was possible to filter,5140,first of all would like to thank you very mu,relates,1
+30766,25317,hi all \r\n\r\ni have successfully installed,13010,ask tracker/project which are the necessary fi,independent,0
+87,31714,on the calendar view there are visible start,10267,it is powerful to be able to create date fie,relates,1
+250,28492,hello \r\n\r\ni saw that \r\n\r\nbut,31589,you cannot close an issue if it has open subta,relates,1
+29309,14106,this my suggestion for an improved,12563,whenever the activity view is opened all chan,independent,0
+49874,1721,it will be very useful to find what issues are,8785,teste de grande projeto,independent,0
+61,572,because we have really long list of projects,32302,think it will be useful to allow users to fi,relates,1
+26143,8041,changes to test case uc adm,26455,hi \r\n\r\nthe redmine counts the ticket id in,independent,0
+36550,6648,hi\r\n\r\nthis is minor issue \r\n\r\nif yo,661,this relates to issue relations between,independent,0
+451,24629,it looks to me that the option don want,14574,german \r\nhallo \r\n\r\nwie kann ich die opti,relates,1
+3932,14596,so we can easily find out the date in gantt vi,3034,there should be day numbers visible in gantt,relates,1
+3548,2058,sometimes it useful to have different sizes,4015,allow some application settings eg theme to,relates,1
+4088,2610,git is typically used with the convention that,6092,git uses hashes for the revision labels rather,relates,1
+705,27316,do not know if it will be defect but in th,20812,although css class overdue on issues was im,relates,1
+17898,33025,now years later this feature is in so,10425,hello\r\n\r\nif you have customfield that ha,independent,0
+40148,356,well would appreciate it if could control,4324,redmine renames files with spaces in their nam,independent,0
+789,19077,if you re using photo avatars the default size,11708,at this moment avatar is really small so it,relates,1
+21895,33662,our ldap server only provides tls version,13519,for custom fields we can set the option requi,independent,0
+235,9515,there is already an option that export the fil,29654,environment \r\n redmine version,independent,0
+4644,1360,have several projects with the customers and,1245,it would be great to have the chance to close,relates,1
+2448,4167,==current behaviour==\r\nif you want to give,7412,this new option will allow each role to see al,relates,1
+8734,8384,if grouped my custom queries by priority and,315,we will be using the assigned status quite,independent,0
+4882,17919,is there restful api call where can view,25053,how to restrict the file type upload in redmin,independent,0
+4677,1196,would it be possible to implement some version,991,thought redmine previously did this but m,relates,1
+1663,4805,it would be nice if the issue copy function ha,11294,we use some projects like template to start,relates,1
+21037,16103,would like to encrypt some issues in fact,18533,dear all designer \r\n\r\neg \r\n\r\nlatest re,independent,0
+4786,6945,lot of issues have generic responses such as,1011,as see lot of people voting for different ti,relates,1
+6373,21483,currently if plugin provides its own pages,770,am using redmine the major problem fo,independent,0
+82,23997,for issue custom fields one can already selec,31859,based on the work made by jens krämer in,relates,1
+4175,675,redmine is definitely gaining big popularity,2340,ve had public issue tracker running mantis,relates,1
+42126,12613,private comments is great but sometimes our te,31257,allow value like this\r\n\r\n redmine home,independent,0
+188,3224,as project managers we are going to project,29482,the attached patch adds the existing query sys,relates,1
+9845,6645,d like to see button in redmine to atomica,6062,\r\nin discussion with one of our users the ot,independent,0
+2595,5636,small description,357,as version redmine doesn support concur,independent,0
+21715,31804,didn find this capability in docs\r\nthank,4640,by changing the password hash to be enc,independent,0
+1610,13527,similar to nickname this would offer way,11724,this feature caused major problems at,relates,1
+1743,10828,patch is intended to reduce the need for multi,10763,in the rest api wiki you are offering parent,relates,1
+2397,22012,detected this when created some users manu,7623,when creating bunch of issues d probably,relates,1
+4493,6280,my company has recently adopted redmine as b,1564,the pdf export of issues exports synthetic,relates,1
+614,22124,instead of plain list of projects there cou,6655,now see lot of projects in one page but,relates,1
+3421,4388,for example would like the custom field out,12250,think nice feature is add the possibility,relates,1
+4620,1282,this is only last issue we miss so much in red,301,it would be good for the admin or project mana,relates,1
+9299,951,we would appreciate the ability to import mile,9114,it would be nice to have list of all incomi,independent,0
+774,19300,project quick jump dropdown list sorting,19298,add filter dropdown list\r\n\r\nmany of,relates,1
+3692,5195,there are should be edit own issues and del,3683,would like to know if it is possible to dele,relates,1
+1148,14341,could you add ability to restrict email domain,3369,for using redmine in an internal company situa,relates,1
+2076,8708,hosted my public release on files section of,7056,did quick search to see if this had been rep,relates,1
+42013,16348,dear team\r\n\r\nwe are working on customizing,646,for project planning it would be great to be,independent,0
+1611,11724,this feature caused major problems at,13533,this was sparked by mischa the evil comment,relates,1
+27779,364,it would be nice to have one button to create,32801,requesting way of limiting the amount of pro,independent,0
+2380,7697,for issues you have privileges that enable use,2064,for forum messages issues news etc whenev,relates,1
+23,29272,hi \r\nfor the moment it possible to get all,33418,sometimes you need to add lot of relations,relates,1
+1846,10083,when an issue is resolved it will be more eas,4967,ve modified application css from classic th,relates,1
+13953,10359,hi \r\n\r\ni looking for hours how to enab,34457,it would be nice to be able to add fields sta,independent,0
+33447,28724,at the moment redmine won reset the api key,32342,is it possible to export the list of uploaded,independent,0
+1347,11977,adding the restful gets for repositories would,13070,use init script that initialize my new proje,relates,1
+29641,2745,in the administration panel the default colum,2271,the usefulness of this feature arises in the,independent,0
+4121,850,have situation in which want any registe,2539,is it possible to have per project setting,relates,1
+1793,30032,greetings the redmine download page,658,would love to see roadmap for redmine jus,independent,0
+40039,4989,time entry hours input should support regula,8966,we regularly use the rev keyword subst,independent,0
+3544,4015,allow some application settings eg theme to,2076,there should be an ability to set options for,relates,1
+7868,666,when user starts getting connected with more,385,hi \r\n\r\nwe miss this feature really \r\nwou,independent,0
+4606,2985,as discussed in actual coderay support,1313,ultraviolet,relates,1
+40092,416,there should be permission or option to over,13052,we make heavily use of the my issueid mac,independent,0
+2822,33352,the query filters on issues and related issues,6118,there doesn seem to be an option to use par,relates,1
+18696,23580,filters look bad in mobile version for vertica,22789,for example \r\nwhen changed issue status,independent,0
+30588,20928,need to create query on issues and then se,8515,may be or something else paypal,independent,0
+14711,5307,hello \r\n\r\nas part of my job m using ti,14947,can we have an option to create test cases and,independent,0
+4694,1179,it would be very helpful if text and long text,5250,it would be interesting to allow administrator,relates,1
+41482,16103,would like to encrypt some issues in fact,3604,on the roadmap page it would be convenient to,independent,0
+7515,8146,hi everyone \r\n\r\ni doing some customizati,10165,patched mail handler rb to put the issue in,independent,0
+2996,15707,there should be possibility to limit the acc,26396,can you add column at spent time display wh,independent,0
+33660,18668,when using issue reference like issue,3765,\t\r\nbonus points would be added to the wiki,independent,0
+3005,23349,when an issue or feature request has its statu,5553,administrator or owner of the project should,relates,1
+46304,22032,example \r\n\r\n we want use ckedit in issue,6701,grouping activities document categories and,independent,0
+30335,8584,spammer profile,19850,it would be very handy to have field allowin,independent,0
+4207,6374,in the repository view you need to download,2209,didn like that images didn just load in,relates,1
+4826,1763,currently the autologin cookie is generated by,982,is it possible to have gui setting to contro,relates,1
+2118,8559,it would be nice if redmine could operate on,1561,am constantly juggling tasks to try and assi,relates,1
+44773,13503,maybe this is proper use case stumbled ov,18257,current plugins delivering additional macros,independent,0
+21580,3964,it would be priceless feature to have mercur,14365,\r\nwhen user commits to repository and,independent,0
+2741,7410,user passwords are stored as password,6394,the passwords in the redmine database are hash,relates,1
+45095,10778,hi\r\n\r\ncould you please add svn ignore pr,5010,am strongly missing the estimated hours per,independent,0
+36199,11730,we have custom field called invoice number,4101,it would be useful if the project manager coul,independent,0
+32712,4482,to improve performance the core textile rende,556,on more complex projects it is necessary to,independent,0
+34137,6622,see redmine forum topics are flat,3564,d like support for embedding comments in wik,independent,0
+4517,1088,it would be really nice to have the ability to,1518,hello\r\n\r\ni use the log time feature quite,relates,1
+42813,23123,suggest to allow to add relation issue from,586,we re using redmine more and more and it gr,independent,0
+3478,4511,having the nice user group feature in redmine,4244,is there anyway that we can store multiple m,relates,1
+11148,17116,currently there is an option in administration,32140,feature included in sets,independent,0
+32725,972,it should be great to have same date range se,19773,ldap authentication is very nice add on for,independent,0
+42835,269,it would save time and ease use to have the ab,8787,now it exists generic permission to save qu,independent,0
+39196,12678,testando redmine,1967,is it possible to model the project privacy be,independent,0
+563,28330,width border solid ccc highlighte,22978,when follow g the link note the,relates,1
+13216,17620,hi every body \r\ni would like spent time fiel,8452,it is possible modify redmine to change the na,independent,0
+29693,7201,feature request to perform an update and have,3851,when rails starts without cookie secret fro,independent,0
+13153,6071,would like to crud wiki site especially,2745,in the administration panel the default colum,independent,0
+4071,4559,this is fantastic tool one of the use case,2665,add filter to filter on sub projects target,relates,1
+47468,8094,some rtl languaged developers write their comm,16620,could it be made possible to change issue rela,independent,0
+2846,31138,hi am looking how can implement solution,27822,some of our users reported being confused by,independent,0
+7725,26616,can you add done of issue to spent time fi,1891,like how you can assign category to an iss,independent,0
+9354,3453,try to authorize the anonymous user to creat,14582,create project and add all the issues in,independent,0
+3500,4179,it would be nice to have some user links in,26127,this is continuation of the proposal initial,relates,1
+48570,7540,it will be very handy because now m doing,11084,rails has been released gemfile should,independent,0
+1480,12297,it would be nice to be able to render readme,13431,hi folks\r\n\r\nas both github and gitlab can,relates,1
+5136,1338,hello \r\n\r\njust browsed the issue list a,398,the watch function is useful function \r\nbut,relates,1
+4764,1069,the help link in the top menu should launch in,13263,people often post here probably thinking they,relates,1
+36787,33572,the current tooltip shows only the ticket numb,10507,the idea is to add in the configuration view,independent,0

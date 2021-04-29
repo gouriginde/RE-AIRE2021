@@ -1,0 +1,362 @@
+Unnamed: 0,id1,req1,id2,req2,Type of dependency,Label
+1172,7022,it would be useful for profilers to have more,2565,=begin\r\n hi \r\n \r\n made commit that,relates,1
+6987,3547,=begin\n strftime で と という指定を可能にするのはどう,10305,hi everyone \r\n\r\ni’m currently trying to ma,independent,0
+288,11541,since ruby `def` returns symbol with th,14397,matsuda san suggested me that `public` `prote,relates,1
+1012,13248,this issue is tracking for gem release of gdbm,5481,=begin\r\n\r\nup to date summary of this propo,relates,1
+4344,17039,`time succ` is obsolete since \r\n\r\n``,10769,it seems to me that most useful cases of `enum,independent,0
+5678,12593,~~~ ruby\r\na = b \r\nb = d,4180,=begin\n zlib deflate deflate ってムダに長いと思いんです。\,independent,0
+5080,14615,currently you need to either use `kind of ` or,15939,patch,independent,0
+5287,11524,openssl on trunk still use ssl version with,15378,using the ruby and try to save this ur,independent,0
+8748,11949,fluentd hits the problem that regexp named,16971,the following patterns mean basically the same,independent,0
+4260,13676,when call\r\n\r\n~~~ = set new\r\,1193,=begin\r\n one nice thing about test unit out,independent,0
+604,9068,gcc can pack the structure better when both,8223,let imagine class metre whose instances,independent,0
+8618,13714,as you know it possible to run minimalisti,11927,currently `module include` and `module prepen,independent,0
+1024,7604,=begin\r\ni propose to expand default behaviou,3322,=begin\r\n lot has been said about ruby la,independent,0
+5707,16946,haskell has an `intersperse` function which ad,10882,levenshtein distance algorithm,independent,0
+1435,8090,jruby shares stdlib with mri and as result,13602,this patch optimizes instance variable lookup,independent,0
+3476,10481,d like to propose syntax change allow boo,11723,hi everyone \r\n\r\ni was trying to write li,independent,0
+1126,4038,=begin\n as discussed in suggest wr,4015,=begin\n couple of the `open ` flags on li,relates,1
+533,12010,`dir each` and `dir read` including `dir entr,13969,dir has class method pairs `dir entries` / `d,relates,1
+1190,10085,case conversion functions are currently limite,2034,=begin\r\n has consideration been recently giv,relates,1
+2064,12960,create patch to define new useful visitor,16039,woud like to propose `array contains ` which,independent,0
+469,12460,currently the unicode version used in speci,15341,the emoji version is different from the unicod,relates,1
+804,7854,propose new class method on symbol if,7839,hi \r\n\r\non team rails we re having trouble,relates,1
+18,17322,`random default` default random generator,17351,from,relates,1
+3312,10726,hi there \r\n\r\nhere are patches \r\n\r\n`,8350,=begin\r\n`string ` accepts hash as an argu,independent,0
+982,5653,hi \r\n \r\ntoday talked with nahi about en,15592,how about feature to switch autoload behav,relates,1
+108,16253,what about using this \r\n\r\n```ruby\r\n def,16378,think this is very important otherwise `,relates,1
+186,14844,hi thanks for all your great work on the ruby,15752,believe we should introduce module for exp,relates,1
+688,16001,as it is common to use `caller locations `,16102,since symbols have `to proc` method it is,independent,0
+1040,6482,=begin\r\nthis patch adds the full uri request,5064,currently there are some problems with net ht,relates,1
+5691,17316,have seen so many attempts to memoize valu,14672,this feature request is about date safe pars,independent,0
+9952,14278,the `openssl hmac digest` shows unclear and,12084,for meta programming/debugging purposes wou,independent,0
+1376,14393,ruby revision,6353,relating to keyword argument there ar,independent,0
+1071,13561,using opt ltlt instruction instead of opt send,9853,hi \r\n\r\nin ruby we can do this \r\n\r\n,independent,0
+554,11670,warn without at compile time \r\n\r\nsee,11665,the wisdom of using local variables has been,relates,1
+535,11951,when `rubyvm instructionsequence compile` rai,11868,currently rubyvm instructionsequence compile,relates,1
+478,12319,`module const get` accepts non nested string,5690,it would be great if there was way to dynami,relates,1
+4466,2835,=begin\n ruby もおおむね完成してからそろそろ 年が経つのですが、\,14800,`zlib gzipreader read` does not support,independent,0
+137,15998,patch,16131,ruby had taint checking which is originally in,relates,1
+1135,3715,=begin\r\n it would be useful to be able to as,2673,=begin\r\n array permutation と array combinati,relates,1
+136,16150,much of the time when user calls to they,16153,freezing strings can give us nice performanc,relates,1
+19,16987,enumerations are designed to be greedy immedi,17312,the offspring of which was too vague/,relates,1
+7126,8938,automatic it keyword for block variable \r\,16791,updated \r\n```\r\ns = `csc cs` sub / \n\,independent,0
+5431,5551,there is enumerable drop which drops eleme,17148,概要\r\n\r\nruby インタープリターを stdbuf による stdou,independent,0
+135,4025,=begin\n notice every test framework has it,10237,find myself to sometimes have to convert one,independent,0
+4421,11348,as discussed in,8726,classオブジェクトが生成された場所を返す class source location メ,independent,0
+834,7378,there should be variant of file write for pa,7362,if pathname starts with another pathname th,relates,1
+8394,10333,this is follow up to feature,15156,currently if one ruby gem depends on the ext,independent,0
+6296,11077,imap move extension is defined in rfc and,4982,the attached patch adds printing of the differ,independent,0
+588,14197,` all ` ` any ` ` none ` and ` one ` accept,11286,proposal\r\nit is proposed that `enumerable,relates,1
+50,12299,this is another attempt to provide the same ty,17122,deprecation warnings and other warnings in rub,relates,1
+8744,8738,how about new method integer single bit \r\n,8544,the following code prints the contents of /tm,independent,0
+321,14035,reproduce\r\n\r\nexecute uri file ///etc/,15861,recently ruby has getting better at parsing ur,relates,1
+1760,13585,when all elements are returned on select the,10200,abstract\r\n\r\nwe need to consider specific,independent,0
+3959,16924,abstract\r\nproposal to expose the ability,3348,=begin\r\n 遠藤です。\r\n \r\n spawn のリダイレクトの引数で,independent,0
+470,12447,sometimes want to extract digits of place va,4787,suggest new feature of integer to enumerat,relates,1
+236,14819,general pattern notice in the pg / mysql,12656,currently file expand path expands short path,independent,0
+1133,6198,d like to set visibility like this \r\n\r\n,3753,=begin\r\n rubykaigi見てて思い出したのですが、def式はsymbolを返,relates,1
+6603,3846,=begin\n use the openssl option to pass in the,4968,math sqrt との対称性から、bigdecimal sqrt は bigmath sq,independent,0
+515,12046,now we should write an accessor method of bo,15991,hi \r\n\r\ni thought such an issue would ve al,relates,1
+2998,11388,considering,11934,ruby is dynamic language everything is pos,independent,0
+1543,10867,in some cases rb atomic types are retrieved,5157,unused variables are ugly \r\n\r\nas an often,independent,0
+492,12222,as python has statistics library for calculati,12217,in this issue propose to introduce enumerabl,relates,1
+9236,2013,=begin\r\n this makes the operator operate,1211,=begin\r\n まつもと ゆきひろです\r\n \r\n 最近、ao benchを見て,independent,0
+349,13685,unicode was published about week ago,14802,unicode version will be published somet,relates,1
+958,1591,=begin\r\n have module defined in file,15477,```\r\nf = x \r\ng = x,independent,0
+6575,12484,abstract\r\n\r\ni optimized built in librar,11797,sometimes when working with `enumerator with,independent,0
+324,13984,currently bigdecimal instances are not frozen,13985,since true/false/nil/integer/float jus,relates,1
+3330,8494,as developer\r\ni want simple method that,2666,=begin\n looking at bits of stdlib that ruby,independent,0
+754,8579,d like to propose new type of string liter,8992,background \r\n\r\nin,relates,1
+7967,4867,ve added documentation for the method added,17208,this is proposal to add `compact` and `compa,independent,0
+171,15865,how about adding syntax for one line pattern,16355,currently single line pattern matching `expr,relates,1
+689,4605,=begin\nrandom randとkernel randで引数としてrangeを扱える,6073,hi \r\n\r\ni propose to extend syntax of for,independent,0
+4296,5866,ve come across this from time to time where,14606,~~~ ruby\r\nbegin\r\n foo\r\nelse\r\n,independent,0
+1165,8015,diff git a/gc b/gc c\r\nindex,2837,=begin\r\n the gc currently increases the size,relates,1
+1331,5482,ll give you three great reasons why \r\n\r\n,13097,is there reason to keep these methods around,independent,0
+6118,3638,=begin\r\n dfp といったマジックナンバーを減らすよう、マクロを新設する,14785,just learned that these two pieces of code,independent,0
+31,17273,this proposal is to introduce ` shareable con,17397,i think `shareable constant value literal` is,relates,1
+7137,14091,the method time succ was marked as obsolete in,14170,nobu added ripper lexer state at,independent,0
+691,9420,since we added use of writev in we sho,9323,propose addition of io writev \r\nit enables,relates,1
+841,7340,following on from the discussions at and,6687,=begin\r\nlet me propose `enumerable with` for,relates,1
+389,13177,this issue is tracking for gem release of csv,5481,=begin\r\n\r\nup to date summary of this propo,relates,1
+1764,6073,hi \r\n\r\ni propose to extend syntax of for,14788,sometimes only need to fetch some of the,independent,0
+280,4910,suggest to add these two to class `class` \r,14498,hello \r\n\r\ni was creating list of class,relates,1
+99,16441,the method is just like ` take while` but als,16446,led me to think about the issue more ge,relates,1
+1652,14318,we don need to keep and restore` safe` for `,7631,saw bug my source,independent,0
+3785,15721,description\r\n\r\noptimize comparison betw,4168,=begin\r\n ve found couple issues with the,independent,0
+933,6321,if use the string encode feature to transcod,6752,=begin\r\n== 概要\r\nstringになんらかの理由で不正なバイト列が含まれて,relates,1
+4088,7644,the upcoming feature of refinements is bringin,1493,=begin\r\n changelog \r\n represent le,independent,0
+3882,9095,=begin\r\nafter discussing ve decided,13278,after working with ruby documentation for whil,independent,0
+77,16122,value object is useful concept introduc,16769,background\r\nwe ve discussed interface to,relates,1
+514,5995,=begin\r\ni propose to call io advise internal,12966,can we implement support for fxp its an exte,independent,0
+727,8848,in commit yui naruse added string,10391,there is occasionally need to use string,relates,1
+7407,1411,=begin\n なかだです。\r\n \r\n at thu apr,5431,error message you may have encountered bug,independent,0
+2716,17490,background\r\nthese days it sometimes sai,14763,enumerable has short hand which accepts meth,independent,0
+921,6483,found very common use case for map map with,4146,現在`symbol to proc`で ` map to `,relates,1
+882,6767,ある string を ascii にしたいことはしばしばあります。\r\nそれだ,6361,know this has been discussed lot in the pa,relates,1
+4522,17269,it seems immutable information \r\n,9064,in java it easy to define package for c,independent,0
+4633,5000,遠藤です。\r\n\r\nwhen 節に文字列リテラルをそのまま書くことは結構あると思います,16563,references,independent,0
+2908,11607,some external functions wish to call may tak,16404,while the need is not as common as for methods,independent,0
+7323,15408,ruby currently provides the object id method,14832,when `net readtimeout` occurs we can get,independent,0
+9955,6409,=begin\r\n public send can easily be bypa,5198,pop and smtp have functions like this and it,independent,0
+4643,5100,currently the resolv rb timeouts are hard code,11299,ll commit this in few days unless there,independent,0
+795,8015,diff git a/gc b/gc c\r\nindex,2837,=begin\r\n the gc currently increases the size,relates,1
+3093,9585,please add an in method to all objects that,15415,fileutils mv fall back to copy unlink on,independent,0
+404,12978,as the developers meeting today proposed syn,12963,now symbol as keyword argument is often used,relates,1
+3914,6720,found some discrepancy between datetime strf,2169,=begin\n in order to properly test this,independent,0
+1145,5120,here are examples showing surprising and inc,3575,currently works like this \r\n\r\n```ruby\r\n,relates,1
+105,15553,currently we use timeout in net http and oth,16381,this is follow up to,relates,1
+731,9037,=begin\r\ni was thinking about the frozen lite,8804,how about to introduce once syntax which,relates,1
+334,9508,since the coverage extension was introduced in,13901,plan to add branch coverage and method,relates,1
+1113,9076,hello \r\n\r\ni like to introduce new synt,4146,現在`symbol to proc`で ` map to `,relates,1
+983,8959,since `include` works on top level it reaso,14914,currently you cannot use `instance exec` with,independent,0
+936,14225,since we are working on deprecating and removi,16273,hi created issues to discuss shorthand for,independent,0
+503,4146,現在`symbol to proc`で ` map to `,12115,am great fan of the `symbol to proc` short,relates,1
+627,10552,counting how many times value appears in som,9970,these methods simplify two common patterns whe,relates,1
+6945,17407,maybe it is not the right time to ask but why,10328,this is not joke \r\n\r\ni worry about exe,independent,0
+950,7220,calling stringio initialize copy causes the tw,8707,currently reverse each calls enumerable re,independent,0
+4962,6958,=begin\r\nbigdecimal integer always return fa,17356,am testing low level patch for ruby,independent,0
+4406,7414,class foo\r\nend\r\nobject const get object,7309,example writing dsl that expresses some fac,independent,0
+4320,11076,very often use `hash array group by x ma,6322,currently when you require iconv it reports,independent,0
+144,16038,know `objectspace weakmap` isn really sup,16471,d like to request two features for `weakref`,relates,1
+5977,12254,hi \r\nin order to secure sinatra api using,4423,=begin\r\n there has already been some if,independent,0
+1128,12854,~~~ ruby\r\nclass chainedproc proc\r\nend\r\,12635,push namespace into another namespace\r\n\r\,independent,0
+8278,8691,the following code\r\n\r\ndef reassigned unuse,17109,when do intersection `a b` or union `a,independent,0
+2533,14399,for similar reasons for creating `enumerable,14383,have been running old code in ruby re,independent,0
+1093,4276,current syntactic sugar allows this \r\n\r\n,4801,assuming there no technical limitation or am,relates,1
+735,8771,=begin\r\n start fake proxy in separate,6546,nahi suggested request the os environment,relates,1
+916,14132,modules and classes can be reopened and change,6539,feel there are inconsistencies in which meth,relates,1
+3894,8773,with the addition of binding local variable ge,7914,=begin\r\nhere is use case for local class,independent,0
+812,7793,it would be nice to have the following methods,7292,now that to is the official method for expl,relates,1
+939,5008,=begin\r\nhello \r\n\r\ni am using ruby,6276,dear matz \r\n\r\nwe should establish to as,relates,1
+473,12928,\r\ncurrent net/http and net/pop use timeout,12435,hey all ve got pull request at,relates,1
+387,13182,this issue is tracking for gem release of cmat,5481,=begin\r\n\r\nup to date summary of this propo,relates,1
+275,11105,why not support like hash literals,14579,how about to allow value omission in hash lite,relates,1
+316,14044,as described in numo narray and pycal,13904,at,relates,1
+1170,2635,=begin\n the rdoc in trunk is outdated and not,5481,=begin\r\n\r\nup to date summary of this propo,relates,1
+4105,8365,while refactoring wiki article about ruby,7025,hello \r\ni noticed that it seems if you do \,independent,0
+4858,5389,if we want to iterate over the elements of e,15171,nobu\r\n\r\nthanks for your work with the app,independent,0
+733,12973,require relative speeds up loading of files by,8781,wrote attached small script rrc rb stand,relates,1
+1185,2166,=begin\n here is patch which implements th,1999,=begin\n ve written an improved version of,relates,1
+4632,14104,abstract\r\n\r\nremove `trace` instructions,12165,just run into simple problem with colleagu,independent,0
+3528,15277,there currently no easy way to have code exe,8426,=begin\r\nthis patch adds class hierarchy meth,independent,0
+895,11251,threadの名前の取得・設定を行うapiを追加しませんか。\r\n\r\n や,6695,=begin\r\n= abstract\r\n\r\nwith feature,relates,1
+2931,17036,this is to allow regexp matches in ruby,11154,this patch make it possible to parse and execu,independent,0
+318,9049,for nmatrix we ve implemented range shortha,14044,as described in numo narray and pycal,relates,1
+1202,4073,=begin\n suspect that hkscs in ruby mis,1784,=begin\n was very glad to see there build,relates,1
+495,5148,when defining dynamic class or module the,16120,how about considering this syntax for implicit,independent,0
+5121,5669,just little idea that popped into my head \r,13801,in keeping with other class semantics set sho,independent,0
+912,8771,=begin\r\n start fake proxy in separate,6546,nahi suggested request the os environment,relates,1
+884,7505,以下のようなプログラムがあったとします。\r\n\r\nthread async inter,6762,=begin\r\n= abstract\r\n\r\nadd asynchronous,relates,1
+537,11925,propose to make struct subclass constructors,15222,with ruby struct subclasses can have dif,relates,1
+2601,6478,how else is one supposed to get the class of,11624,problem\r\n\r\n erb is dsl but commentin,independent,0
+9812,14645,`dir glob` and `dir ` accepts ` ` separat,16142,abstract\r\n\r\nadd new method `code range,independent,0
+294,14250,` safe is removed from ruby and there,14256,see,relates,1
+305,14138,there are many good reasons to simply define,16963,english rb is no longer maintained by ruby cor,relates,1
+883,6936,feature などで議論されていた flonum が でが入,6763,=begin\r\n\r\n= abstract\r\n\r\nintroducing fl,relates,1
+3719,15982,the and are not available upstre,17393,it could be helpful to define `ractor moved,independent,0
+159,15973,when kernel lambda receives proc that is not,17361,in news \r\n\r\n```\r\n kernel lambda,relates,1
+198,5653,hi \r\n \r\ntoday talked with nahi about en,15592,how about feature to switch autoload behav,relates,1
+6599,8850,on ruby decimal literal is introduced \,16742,think adding these two methods would greatly,independent,0
+1146,4084,=begin\n pack should support network byt,3491,=begin\n the array pack and string unpack have,relates,1
+2297,2060,=begin\n dlをcからrubyに変換すれば良いと思ったので、変換しました。cからru,14800,`zlib gzipreader read` does not support,independent,0
+697,2348,=begin\r\n the merits of this library have bee,9121,rbtree is slower than the pure ruby version \r,relates,1
+820,10728,how about add warning for fixnum size \r\n\,7517,maximum or minimum number of fixnum can not,relates,1
+4478,14801,it would be great to have method to show the,10365,guess people would want to extract the numer,independent,0
+2817,14143,extracted from to focus on the default,12380,this issue is somewhat of the same flavor as,independent,0
+225,15195,as most people in japan should know by now,15742,reproduce process\r\n\r\n```\r\nirb main,relates,1
+780,8237,=begin\r\nthis is feature suggestion that wa,8191,=begin\r\nas duck typed language ruby doesn,relates,1
+623,12921,if env have some like,10652,get user and pass from variable whe,relates,1
+7630,11524,openssl on trunk still use ssl version with,14766,this matches the documentation for `enumerable,independent,0
+2,15752,believe we should introduce module for exp,17500,`rubyvm` is trap \r\n users will think from,relates,1
+1017,6414,mean \r\n\r\njohn = name john last sm,5474,hello \r\n\r\ni sending patch for keyword,relates,1
+844,7340,following on from the discussions at and,7297,would love to have shorter alias for each,relates,1
+122,16289,problem\r\n\r\ncurrently the interpreter,16345,we propose that ruby doesn emit deprecation,relates,1
+3879,8636,we discussed whether rdoc documentation should,5959,addrinfo の導入によって、socket getaddrinfo での正引き結果がオブ,independent,0
+4707,11309,this was hinted from problem in stackoverflo,1436,=begin\r\n please consider this diff which wou,independent,0
+2831,17155,ruby introduced the ``` dig``` method as,13732,windows 上での time now の精度を調べてみたところ、システムの\r\nタイマ,independent,0
+609,11346,while don think it would be good idea to,11066,hi this is my first report so please bear wit,relates,1
+807,7836,see the following code \r\n\r\n~~~ruby\r\nmodu,9781,\r\nwhen `super` is called in method the rub,relates,1
+767,12461,it would be nice if hash had way to create,8499,according to my experiences the following two,relates,1
+354,13588,when implementing an io like object d like,11094,utf was originally defined with codespace,relates,1
+174,14035,reproduce\r\n\r\nexecute uri file ///etc/,15861,recently ruby has getting better at parsing ur,relates,1
+4932,15899,there seems to be no methods for getting su,8394,dup force encoding ascii を使っているところは,independent,0
+310,14111,（日本人じゃないですが、日本語を勉強してますから、日本語でレポートしてみました\r\n日本語,14145,the idea when investigating in example scrip,relates,1
+8920,13561,using opt ltlt instruction instead of opt send,3719,=begin\r\n currently open uri does not allow,independent,0
+8783,11695,added logger level= symbol and logger level=st,12553,io readlinesやio foreach、io each lineなどは戻り値（または,independent,0
+2659,14377,m trying to use `openssl store verify,15919,request an optional argument on `integer tim,independent,0
+8092,5767,this patch add caching of expanded load path \,13884,very often arrays are used to filter paramete,independent,0
+2761,7816,=begin\r\nattached is patch that avoids incr,7631,saw bug my source,independent,0
+368,13335,mathn is deprecated feature from ye,10169,english\r\n\r\nas mentioned in,relates,1
+1103,4204,=begin\n で導入された io advise メソッドは、引数に sym,4038,=begin\n as discussed in suggest wr,relates,1
+4856,12244,we sometimes calculates `integer integer,8663,when not using custom made exceptions find,independent,0
+3689,10950,like feature other `close` methods,12034,~~~\r\n cat regexp encoding rb\r\n encod,independent,0
+3305,10177,referred to this matz remark \r\n\r\n,14399,for similar reasons for creating `enumerable,independent,0
+190,15743,my understanding is that `rubyvm` is supposed,17500,`rubyvm` is trap \r\n users will think from,relates,1
+991,5543,first rb thread blocking region requires th,4328,=begin\r\n think it is general enough to rem,relates,1
+3945,1377,=begin\n would like to be able to specify fi,7274,=begin\r\nas corollary unboundmethod,independent,0
+114,14145,the idea when investigating in example scrip,16356,current behavior includes ` ` \r\nis th,relates,1
+578,11420,let introduce id key table to optimization \,11414,can we relax ordering rule for id table such,relates,1
+525,12019,nowadays almost every processor has more than,12020,defining memory model for language is nece,relates,1
+748,5458,dl and fiddle are redundant moreover dl has,8601,rb sits on in the so,relates,1
+953,6056,this patch fixes one issue protecting new os,1400,=begin\r\n there are two ways to find out what,relates,1
+890,6721,\r\ni think the following method is missing fr,6684,=begin\r\n object do\r\nthis is my first post,relates,1
+8496,6868,=begin\r\ni propose to make the use of do,9585,please add an in method to all objects that,independent,0
+7078,15606,` ` and ` ` seem to have issues with method,1154,=begin\n なかだです。\n \n ブロックの値にしたがって一意のものを選ぶ、arra,independent,0
+322,14022,after joining the elements of an array into,15024,think it could be handy to have block suppor,relates,1
+104,16381,this is follow up to,16476,it seems like the blocking syscall done by `so,relates,1
+4685,11208,variable remove generic ivar support for sp,16754,the help message by ` help` is getting longer,independent,0
+1479,16137,abstract\r\n\r\n`unboundmethod` class should,17290,we frequently use keyword arguments just to pa,independent,0
+934,6309,most interesting uses of weakref are much hard,6308,weakref delegation features are really awf,relates,1
+1119,4073,=begin\n suspect that hkscs in ruby mis,1784,=begin\n was very glad to see there build,relates,1
+8939,5102,it seems as if currently creating wit,15166,this is to be more explicit and accurate tha,independent,0
+2729,15772,summary\r\n\r\nproposal for method that,10455,believe we better reduce the number of int,independent,0
+761,8568,fixnum size is not really useful to represent,8553,how about changing bignum size to well defin,relates,1
+5133,11918,calling ` nonzero ` on number returns itself,13630,~~~ ruby\r\n given\r\nmodule bam\r\n def sel,independent,0
+1009,8539,how about unbundling ext/tk from ruby reposito,5481,=begin\r\n\r\nup to date summary of this propo,relates,1
+28,12982,```\r\nvm regions near \r\n,10911,link local addresses may have zone iden,independent,0
+4581,5482,ll give you three great reasons why \r\n\r\n,7611,=begin\r\npresently ruby has seven methods for,independent,0
+1015,5481,=begin\r\n\r\nup to date summary of this propo,16170,m working to extract standard libraries to,relates,1
+477,12247,found that it very useful if `array delete,12333,would like `string concat` `array concat`,relates,1
+400,13683,summary\r\n\r\nthis is inspired by other,2639,=begin\n the be operating system functionali,independent,0
+517,10641,hello \r\ni propose to introduce `fixnum finit,12039,we have an issue where it is not easy to ask,relates,1
+870,6817,know that what propose here is significa,4539,inspired by haskell `zipwith` function ha,relates,1
+2777,10065,the output of `gem environment` is close to be,17047,proposal\r\nin `net smtp` add support for,independent,0
+4854,9888,~~~patch\r\nfrom,5000,遠藤です。\r\n\r\nwhen 節に文字列リテラルをそのまま書くことは結構あると思います,independent,0
+2758,13551,there doesn seem to be an intuitive way to,4871,=begin\r\n辻本です。\r\n\r\nrb env tのenvは以下の構造を持ちます,independent,0
+378,13241,this is currently an exploratory proposal \r,13240,for unicode property checks g `/\p hiragan,relates,1
+781,11537,sometimes write following code with rails ap,8237,=begin\r\nthis is feature suggestion that wa,relates,1
+7529,12354,steps to reproduce \r\n\r\ncreate ec key \r\n\,7309,example writing dsl that expresses some fac,independent,0
+307,14133,modules and classes can be reopened and change,6539,feel there are inconsistencies in which meth,relates,1
+2405,12962,when working on larger library with many cl,17109,when do intersection `a b` or union `a,independent,0
+830,7378,there should be variant of file write for pa,7361,pathname has an mkdir method to create dire,relates,1
+1151,3388,=begin\r\n ruby head abcdefghij star,13712,string start with should receive regexp \r\n\,relates,1
+1101,1200,=begin\r\n it should be possible to use named,4239,=begin\r\n \r\n,relates,1
+677,9777,currently different block objects such as la,15973,when kernel lambda receives proc that is not,relates,1
+498,5903,given some of preparations to this patches alr,12142,~~~\r\n hello the following patch contains,relates,1
+981,5653,hi \r\n \r\ntoday talked with nahi about en,7835,while ago matz declared his intention to rem,relates,1
+1086,4512,=begin\r\nit in posix and will be use,1291,=begin\r\n linux has the most useful cloex,relates,1
+5338,16648,the mark phase of non incremental major gc is,15990,```ruby\r\nif false\r\n puts false \r\nelse,independent,0
+311,14097,currently there is concat method in ruby whi,14105,not sure if should also add feautures for th,relates,1
+680,11420,let introduce id key table to optimization \,9638,this should allow better use of cache friendly,relates,1
+4068,13801,in keeping with other class semantics set sho,4145,=begin\n \work irb\r\n irb main =,independent,0
+570,11537,sometimes write following code with rails ap,8237,=begin\r\nthis is feature suggestion that wa,relates,1
+2573,8393,hi \r\n\r\ni have found that inheritance is no,9174,seems useful to be able to check for presence,independent,0
+499,12125,hello \r\n\r\nthe ` ` operator lets one pass,16275,`obj method` is introduced at by,relates,1
+1026,6973,numeric integer checks whether an instance is,5310,believe it is ambiguous what object can beha,relates,1
+2037,6372,have this method \r\n\r\n=begin\r\n class,8459,in order to still have the posix standard func,independent,0
+248,14912,propose new pattern matching syntax \r\n\r\n,17260,propose to promote pattern matching to offic,relates,1
+1115,7251,suspect kernel using to using all the alread,4085,=begin\r\n as said at rubyconf d lik,relates,1
+823,10468,parser rb initialize,9725,at least once every few months we get an erro,independent,0
+836,7378,there should be variant of file write for pa,7360,currently there is only pathname glob method,relates,1
+6355,1193,=begin\r\n one nice thing about test unit out,10849,it would be handy to have method that produc,independent,0
+2106,12245,related to feature \r\ni think that `,6199,move immutable fields from struct heaps slo,independent,0
+828,7340,following on from the discussions at and,7384,propose that each with object be renamed to,relates,1
+5200,16175,in the new keyword `freeze ` was intro,17432,currently `rb warn deprecated to remove` shows,independent,0
+344,13731,でwindowsでのinodeの代用としてby handle file inf,13726,at present believe windows builds have inte,relates,1
+117,7657,this seems similar to,2265,=begin\n now that the matrix library handles,independent,0
+530,12019,nowadays almost every processor has more than,11541,since ruby `def` returns symbol with th,relates,1
+407,12978,as the developers meeting today proposed syn,12963,now symbol as keyword argument is often used,relates,1
+1845,5805,would like to see object hexid added to rub,12361,proposal\r\n\r\nadd `geo coord` class to,independent,0
+150,15931,rubyとjavaのブリッジを開発していて、文字列の変換処理で困っています。\r\n現象）\,15995,as discussed in issue encoding convers,relates,1
+335,12698,there is frequent need to delete substring,13890,currently string count only accepts strings,relates,1
+745,8640,hi \r\n\r\nwe time many things in rails and,8096,=begin\r\na lot of scenarios and applications,relates,1
+390,13173,this issue is tracking for gem release of webr,5481,=begin\r\n\r\nup to date summary of this propo,relates,1
+66,16987,enumerations are designed to be greedy immedi,17312,the offspring of which was too vague/,relates,1
+9663,16894,hi ruby team \r\n\r\nit be great if division,8912,=begin\r\nwhen we have custom exception clas,independent,0
+157,8038,=begin\r\ni propose to introduce new keyword,14801,it would be great to have method to show the,independent,0
+8589,6668,currently when doing multiple assignment the,8707,currently reverse each calls enumerable re,independent,0
+7979,17039,`time succ` is obsolete since \r\n\r\n``,10506,imho the api `enumerable any ` behavior could,independent,0
+4115,13342,the yielding block will be faster around \r,9162,is there way to access when variables are re,independent,0
+2029,5555,shouldn the include method be renamed to,10323,the doc of `math is little bit diffic,independent,0
+2421,16255,abstract\r\n\r\n`monitor rb` introduces `mon,15901,there are cases where you want to create and,independent,0
+896,11251,threadの名前の取得・設定を行うapiを追加しませんか。\r\n\r\n や,6694,abstract\r\n\r\nsupport thread new without,relates,1
+4681,11300,proposal\r\n\r\nit is proposed that `string,14593,propose introducing an `enumerator concat ot,independent,0
+4626,14785,just learned that these two pieces of code,11643,posted this to the mailing list last year,independent,0
+24,13334,`mathn/complex` and `mathn/rational` is deprec,17281,as mathn is deprecated canonicalization for,relates,1
+3950,12731,this is continuation of as don s,10361,found it weird that open uri accepts read ti,independent,0
+438,10404,pretty self explanatory allow removal of indi,7400,=begin\r\nfrom github,independent,0
+6250,2617,=begin\n patch level irb main,11769,hi \r\n\r\ni ve noticed that when there are ce,independent,0
+1165,6353,relating to keyword argument there ar,17059,current ruby `io select` method calls posix,independent,0
+2565,3814,=begin\n 福森 sora です。\r\n \r\n 連続した自然数をinteg,16031,when parsing an invalid date like february,independent,0
+972,6802,ruby should have method to obtain not an array,5749,the string class should contain an instance me,relates,1
+406,13512,in this feature propose creating vm implem,16898,hello ruby team \r\ncan we modify the syntax,independent,0
+1156,3222,=begin\r\n fixing up the rubyspecs led me to,6936,feature などで議論されていた flonum が でが入,relates,1
+876,15781,although ruby has many core methods for retrie,16489,for extension libraries developers `rb warn,independent,0
+90,16381,this is follow up to,16476,it seems like the blocking syscall done by `so,relates,1
+1216,1153,=begin\r\n なかだです。\r\n \r\n arrayだけでなく、enumerab,11090,currently if you want to iterate the first uni,relates,1
+1835,10798,this patch adds the mime type for json applic,5185,waste of brain cells to have to learn and reca,independent,0
+5515,12831,m trying to replace rails grapheme impleme,13692,hello \r\n\r\nwe currently have these methods,independent,0
+8938,9867,hi\r\n\r\ncode like this happens quite often \,12877,○再現手順\r\nruby printf x\n chr wi,independent,0
+179,10425,method `near ` like the following would be,15811,background\r\n\r\nequal comparison method be,relates,1
+309,14133,modules and classes can be reopened and change,14132,modules and classes can be reopened and change,relates,1
+25,17273,this proposal is to introduce ` shareable con,17278,description \r\n\r\nthis proposal aims to,relates,1
+926,6737,just generally speaking it is nice to have,6442,ruby hash class is not very internally conn,relates,1
+8384,10270,hash doesn appear to have safe way to in,10107,this reduces casting and long lines this sho,independent,0
+6003,16375,references pr,4796,would like way to be able to make the foll,independent,0
+6787,10018,on irc someone asked nice question \r\n\r\n\,15917,`struct`s respond to `deconstruct` not to `de,independent,0
+903,4151,=begin\r\n hi \r\n \r\n how about method for,6669,given hash `h` `h map` returns an array ali,relates,1
+1740,12656,currently file expand path expands short path,13630,~~~ ruby\r\n given\r\nmodule bam\r\n def sel,independent,0
+286,12848,me again sorry only crazy ideas coming abou,5895,=begin\r\nrubyレベルではbreakで値を返すことができますが、cレベルでは今の,independent,0
+15,17322,`random default` default random generator,17351,from,relates,1
+9130,13512,in this feature propose creating vm implem,4391,=begin\n attached are few tests for the date,independent,0
+7021,11405,noticed with ruby core bug \r\,14033,ruby introduces `array append` as an alias,independent,0
+744,8658,how about adding new method process clock,8640,hi \r\n\r\nwe time many things in rails and,relates,1
+1049,5016,calling kernel caller with negative limit sh,3917,=begin\r\n propose to introduce kernel calle,relates,1
+9126,4265,=begin\r\n many libraries re launch ruby to pe,12244,we sometimes calculates `integer integer,independent,0
+489,12241,this is refinement of feature \r\n\r,16746,ruby syntax is full of end i paranoid,relates,1
+9738,11768,hi \r\n\r\ni ve attached patch that adds p,15492,fetch,independent,0
+2019,12574,believe `true` `false` and `nil` are no lo,17551,pattern matching is very powerful feature,independent,0
+194,14759,not everybody benefits from jemalloc and the,15667,per hongli excellent article it looks like,relates,1
+5822,13211,hi there \r\n\r\ni would like to add the abili,9867,hi\r\n\r\ncode like this happens quite often \,independent,0
+2074,5628,something use fairly often \r\n\r\n some,11534,~~~ruby\r\ndef foo\r\n,independent,0
+868,4116,=begin\n it is not easy to compare to nam,6444,would be nice if there is an alias for string,independent,0
+1084,4539,inspired by haskell `zipwith` function ha,16261,upd after discussion in comments method,relates,1
+606,13588,when implementing an io like object d like,11094,utf was originally defined with codespace,relates,1
+3583,11309,this was hinted from problem in stackoverflo,11695,added logger level= symbol and logger level=st,independent,0
+529,12019,nowadays almost every processor has more than,12021,having final instance variables in ruby will,relates,1
+9078,9768,some frameworks/libraries monkeypatch their ow,12267,the following file can be added or it conte,independent,0
+8845,3285,=begin\n the current bigdecimal is not managed,15955,d love way to apply an unboundmethod to,independent,0
+129,16253,what about using this \r\n\r\n```ruby\r\n def,16378,think this is very important otherwise `,relates,1
+1862,8863,=begin\r\ni propose to consider introducing,6841,=begin\r\nquite often in ruby find myself,independent,0
+8653,12877,○再現手順\r\nruby printf x\n chr wi,11734,in ternary operator it would be nice to be abl,independent,0
+1284,7518,there are fiddle pointer to str and to int,13129,refinements with method missing and respond to,independent,0
+282,4100,=begin\n the attached patch reorganizes and fu,4569,=begin\r\nhello \r\n\r\nfollowing the discussi,independent,0
+4067,17148,概要\r\n\r\nruby インタープリターを stdbuf による stdou,15419,tapping methods without any arguments already,independent,0
+8185,7436,related to,6245,dear rubyists can we add is integer method,independent,0
+156,9777,currently different block objects such as la,15973,when kernel lambda receives proc that is not,relates,1
+203,14430,instead of using tcpsocket open wrapped in ti,15553,currently we use timeout in net http and oth,relates,1
+6221,14550,how about supporting keyword arguments with da,2666,=begin\n looking at bits of stdlib that ruby,independent,0
+9290,17475,in gem create bunch of initializer shor,12625,am well aware that ruby is not typed and so,independent,0
+729,12697,methods like alias method attr accessor defi,8846,propose changing module include to public,relates,1
+358,13577,digest file first argument is file,13568,by using file tmpfile tmpfile allows us,relates,1
+612,11049,sometime want to do `grep v` like operation,9602,`enumerable grep` is useful to filter things \,relates,1
+283,14489,currently on discourse boot notice few min,14492,```\r\n and not in rubygem like yomikomu,relates,1
+370,13334,`mathn/complex` and `mathn/rational` is deprec,17281,as mathn is deprecated canonicalization for,relates,1
+766,9108,hi \r\n\r\ni seem to regularly have the requir,8499,according to my experiences the following two,relates,1
+7842,13379,hi \r\ni found out that using the standard ima,2021,=begin\n am graduate student at the univer,independent,0
+5222,11154,this patch make it possible to parse and execu,3036,=begin\n ruby dev の string encode to,independent,0
+5387,17173,debian gnu/linux buster の openssl,2824,=begin\n the backtrace from singleton classes,independent,0
+180,15799,implemented the pipeline operator ` ` topi,15921,from,relates,1
+377,13241,this is currently an exploratory proposal \r,14618,abstract\r\n\r\nunicode has display width,relates,1
+43,17055,these two verbose mode warnings are both fairl,17143,support was recently added for warning warn to,relates,1
+3001,11710,the set merge method currently mutates its cal,9253,hello \r\n\r\ni ve notice there no mean to,independent,0
+906,12512,think value transformation is fundamental,6669,given hash `h` `h map` returns an array ali,relates,1
+1023,6823,hi \r\n \r\n i’ve previously reported coupl,5382,… and similar delimited strings arrays,relates,1
+1200,1275,=begin\r\n the ipaddr class internally stores,1905,=begin\r\n いまいです。\r\n \r\n はありがとうございました。,relates,1
+1110,4247,=begin\r\n we are planning to add the followin,4147,=begin\r\n array sample にブロックを渡したとき、ブロックの戻り値を要,relates,1
+2059,15006,ref,8430,would like to propose new literal syntax,independent,0
+9444,10565,ok to remove or is block inlining to be resu,11797,sometimes when working with `enumerator with,independent,0
+4984,17550,googling around this seems to be relatively,7763,hello \r\n\r\nin today registry objec,independent,0
+88,15357,the current implementation of proc parameters,16499,from,relates,1
+1431,13795,enumerable select and enumerable find all are,12525,know this is probably not the right place fo,independent,0
+8358,7418,d like to propose method that returns an,17326,abstract\r\n\r\nwe should add method `kern,independent,0
+7722,11965,tempfile new have default basename from,11737,ruby `case expression ` scenario allows the,independent,0
+4615,15074,currently working with ruby api is basically,16290,related to,independent,0
+7236,3939,=begin\n after the default system erro,14217,problem\r\nwhen ruby is in release candidat,independent,0
+1098,4247,=begin\r\n we are planning to add the followin,3647,`array sample` does not support sampling with,relates,1
+657,10084,unicode string normalization is frequent ope,9111,=begin\r\ncurrently strings with the same con,relates,1
+143,11105,why not support like hash literals,16095,common use \r\n``` ruby\r\nclass a\r\n de,relates,1
+9688,3446,=begin\n なかだです。\n \n,17266,m working on bundling typeprof,independent,0
+432,5749,the string class should contain an instance me,12745,simplified and stupid example replace som,relates,1
