@@ -1,0 +1,26 @@
+
+----------------------------------------------------------------------------------------------------
+Arguments :- 
+input : D
+resampling : under_sampling
+classifier : RF
+samplingType : leastConfidence
+testsize : 0.2
+manualAnnotationsCount : 50
+maxIterations : 25
+comments : Typo3-RF_LC-12-12
+
+----------------------------------------------------------------------------------------------------
+Fetching data from the input directory.
+----------------------------------------------------------------------------------------------------
+
+Iteration : 1
+
+Creating Classifier...
+Training Set Size : 398
+Train Set Value Count : 
+1    199
+0    199
+Name: label, dtype: int64
+
+Training Model....

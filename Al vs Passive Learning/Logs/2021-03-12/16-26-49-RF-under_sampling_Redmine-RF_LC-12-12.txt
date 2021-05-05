@@ -1,0 +1,14 @@
+
+----------------------------------------------------------------------------------------------------
+Arguments :- 
+input : ../../ExtractedData/
+resampling : under_sampling
+classifier : RF
+samplingType : leastConfidence
+testsize : 0.2
+manualAnnotationsCount : 12
+maxIterations : 12
+comments : Redmine-RF_LC-12-12
+
+----------------------------------------------------------------------------------------------------
+Fetching data from the input directory.File Not Found! Please provide correct path of the directory containing Training, Test, Validation, ToBeAnnotated and Manually Annotated DataSet.

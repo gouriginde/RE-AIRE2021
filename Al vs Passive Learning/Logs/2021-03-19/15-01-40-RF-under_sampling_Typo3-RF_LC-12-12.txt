@@ -1,0 +1,77 @@
+
+----------------------------------------------------------------------------------------------------
+Arguments :- 
+input : D
+resampling : under_sampling
+classifier : RF
+samplingType : leastConfidence
+testsize : 0.2
+manualAnnotationsCount : 100
+maxIterations : 2
+comments : Typo3-RF_LC-12-12
+
+----------------------------------------------------------------------------------------------------
+Fetching data from the input directory.
+----------------------------------------------------------------------------------------------------
+
+Iteration : 1
+
+Creating Classifier...
+Training Set Size : 398
+Train Set Value Count : 
+1    199
+0    199
+Name: label, dtype: int64
+
+Training Model....
+
+5 fold Cross Validation Score : [0.575      0.6125     0.5375     0.55696203 0.59493671 0.5375
+ 0.5875     0.5375     0.49367089 0.56962025 0.55       0.5375
+ 0.575      0.56962025 0.49367089]
+
+Validating Classifier...
+
+Classification Report On Validation Set: 
+
+              precision    recall  f1-score   support
+
+           0       0.65      0.39      0.49      1131
+           1       0.56      0.80      0.66      1131
+
+    accuracy                           0.59      2262
+   macro avg       0.61      0.59      0.57      2262
+weighted avg       0.61      0.59      0.57      2262
+
+
+Confusion Matrix : 
+[[436 695]
+ [230 901]]
+
+
+Classifier Validation Set Score : 0.5910698496905393
+Training Set Size : 398
+Train Set Value Count : 
+1    199
+0    199
+Name: label, dtype: int64
+
+Training Model....
+
+Classification Report On Validation Set: 
+
+              precision    recall  f1-score   support
+
+           0       0.66      0.37      0.47      1131
+           1       0.56      0.81      0.67      1131
+
+    accuracy                           0.59      2262
+   macro avg       0.61      0.59      0.57      2262
+weighted avg       0.61      0.59      0.57      2262
+
+
+Confusion Matrix : 
+[[414 717]
+ [210 921]]
+
+
+Classifier Validation Set Score for LM: 0.5901856763925729

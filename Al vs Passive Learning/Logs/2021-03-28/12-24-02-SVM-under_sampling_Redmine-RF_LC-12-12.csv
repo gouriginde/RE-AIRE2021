@@ -1,0 +1,13 @@
+
+----------------------------------------------------------------------------------------------------
+Arguments :- 
+input : D
+resampling : under_sampling
+classifier : SVM
+samplingType : leastConfidence
+testsize : 0.2
+manualAnnotationsCount : 100
+maxIterations : 21
+comments : Redmine-RF_LC-12-12
+
+----------------------------------------------------------------------------------------------------

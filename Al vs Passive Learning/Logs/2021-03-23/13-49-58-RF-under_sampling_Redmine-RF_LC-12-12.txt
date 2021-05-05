@@ -1,0 +1,54 @@
+
+----------------------------------------------------------------------------------------------------
+Arguments :- 
+input : D
+resampling : under_sampling
+classifier : RF
+samplingType : leastConfidence
+testsize : 0.2
+manualAnnotationsCount : 100
+maxIterations : 21
+comments : Redmine-RF_LC-12-12
+
+----------------------------------------------------------------------------------------------------
+Fetching data from the input directory.
+----------------------------------------------------------------------------------------------------
+
+Iteration : 1
+
+Creating Classifier...
+Training Set Size : 1038
+Train Set Value Count : 
+2    346
+1    346
+0    346
+Name: label, dtype: int64
+
+Training Model....
+
+5 fold Cross Validation Score : [0.47596154 0.49519231 0.56730769 0.44927536 0.59903382 0.53846154
+ 0.51442308 0.51442308 0.51690821 0.49275362 0.53846154 0.51442308
+ 0.49038462 0.56038647 0.4589372 ]
+
+Validating Classifier...
+
+Classification Report On Validation Set: 
+
+              precision    recall  f1-score   support
+
+           0       0.43      0.53      0.47      1964
+           1       0.53      0.58      0.56      2458
+           2       0.54      0.40      0.46      2458
+
+    accuracy                           0.50      6880
+   macro avg       0.50      0.50      0.50      6880
+weighted avg       0.51      0.50      0.50      6880
+
+
+Confusion Matrix : 
+[[1032  518  414]
+ [ 620 1426  412]
+ [ 750  730  978]]
+
+
+Classifier Validation Set Score : 0.4994186046511628

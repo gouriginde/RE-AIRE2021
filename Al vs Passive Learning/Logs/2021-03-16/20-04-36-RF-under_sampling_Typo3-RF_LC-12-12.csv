@@ -1,0 +1,13 @@
+
+----------------------------------------------------------------------------------------------------
+Arguments :- 
+input : D
+resampling : under_sampling
+classifier : RF
+samplingType : leastConfidence
+testsize : 0.2
+manualAnnotationsCount : 50
+maxIterations : 25
+comments : Typo3-RF_LC-12-12
+
+----------------------------------------------------------------------------------------------------
